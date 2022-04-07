@@ -20,7 +20,6 @@ int main(int argc, char **argv)
 	char tup[MAXTUPLEN];  // buffer for printable tuples
 	int verbose;  // show extra info on query progress
 	char *rname;  // name of table/file
-
 	// process command-line args
 
 	if (argc < 2) fatal(USAGE);
@@ -46,7 +45,7 @@ int main(int argc, char **argv)
 	while ((t = readTuple(r,stdin)) != NULL) {
 		PageID pid;
 		pid = addToRelation(r,t);
-
+        printf("%d\n",pid);
 		tupleString(t,tup); // printable version
 		if (pid == NO_PAGE) {
 			sprintf(err, "Insert of %s failed\n", tup);
