@@ -8,7 +8,7 @@
 
 typedef unsigned int Bits;
 
-int bitIsSet(Bits, int);
+int bitIsSet(Bits, int);                //判断是否为1
 Bits setBit(Bits, int);
 Bits unsetBit(Bits, int);
 Bits getLower(Bits, int);
