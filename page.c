@@ -11,7 +11,7 @@ struct PageRep {
 	Offset free;   // offset within data[] of free space
 	Offset ovflow; // Offset of overflow page (if any)
 	Count ntuples; // #tuples in this page
-	char data[1];  // start of data
+	char data[1];  // start of data         STRING
 };
 
 // A Page is a chunk of memory containing PAGESIZE bytes

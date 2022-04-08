@@ -8,7 +8,7 @@
 
 // check if the bit at position is 1
 
-int bitIsSet(Bits val, int position)
+int bitIsSet(Bits val, int position)        // 判断位置是否 set为1
 {
 	assert(0 <= position && position <= 31);
 	Bits mask = (1 << position);

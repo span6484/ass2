@@ -8,10 +8,10 @@
 
 typedef unsigned int Bits;
 
-int bitIsSet(Bits, int);                //判断是否为1
-Bits setBit(Bits, int);
-Bits unsetBit(Bits, int);
-Bits getLower(Bits, int);
-void bitsString(Bits, char *);
+int bitIsSet(Bits, int);                // 判断位置是否 set为1
+Bits setBit(Bits, int);                 // 设置为1
+Bits unsetBit(Bits, int);               //设置为0
+Bits getLower(Bits, int);               //Bit对应hash， int对应index， 比如 b = 1000011, n = 2. getLower(b,n) = 11
+void bitsString(Bits, char *);          // bit to string
 
 #endif

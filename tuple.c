@@ -75,9 +75,31 @@ Bits tupleHash(Reln r, Tuple t)
 	char **vals = malloc(nvals*sizeof(char *));
 	assert(vals != NULL);
 	tupleVals(t, vals);
-	Bits hash = hash_any((unsigned char *)vals[0],strlen(vals[0]));
+
+
+    //TODO--------
+    Bits h[nvals];              //hash for each attribute
+    Bits hash = 0;
+    int i,a,b;
+    ChVecItem *cv = chvec(r);
+    for (i = 0; i < nvals; i ++) {
+        h[i] = hash_any((unsigned char *)vals[i], strlen(vals[i]));
+    }
+//    //// 根据CV生成hash, loop choice vector的每个位置，
+//    ///         If 判断该属性的这个位置是否被设置为
+//                    ///  HASH对应的设置为1
+    for (i = 0; i < MAXCHVEC; i++) {
+        a = cv[i].att;
+        b = cv[i].bit;
+        if (bitIsSet(h[a],b) == 1) {
+            hash = setBit(hash, i);
+        }
+    }
+    //FINISH-------
+//	hash = hash_any((unsigned char *)vals[0],strlen(vals[0]));
 	bitsString(hash,buf);
-	printf("hash(%s) = %s\n", vals[0], buf);
+//	printf("hash(%s) = %s\n", vals[0], buf);
+	printf("hash(%s) = %s\n", t, buf);
 	return hash;
 }
 

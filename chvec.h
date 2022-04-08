@@ -13,9 +13,9 @@
 
 #define MAXCHVEC 32
 
-typedef struct _ChVecItem { Byte att; Byte bit; } ChVecItem;
+typedef struct _ChVecItem { Byte att; Byte bit; } ChVecItem; // 属性
 
-typedef ChVecItem ChVec[MAXCHVEC];
+typedef ChVecItem ChVec[MAXCHVEC];          //Choice Vector， array
 
 Status parseChVec(Reln r, char *str, ChVec cv);
 void printChVec(ChVec cv);

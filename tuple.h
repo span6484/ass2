@@ -15,10 +15,11 @@ typedef char *Tuple;
 
 int tupLength(Tuple t);
 Tuple readTuple(Reln r, FILE *in);
-Bits tupleHash(Reln r, Tuple t);
-void tupleVals(Tuple t, char **vals);
+Bits tupleHash(Reln r, Tuple t);               //针对tuple做一个hash
+void tupleVals(Tuple t, char **vals);           //tuple转成二进制的数
 void freeVals(char **vals, int nattrs);
-Bool tupleMatch(Reln r, Tuple t1, Tuple t2);
-void tupleString(Tuple t, char *buf);
+Bool tupleMatch(Reln r, Tuple t1, Tuple t2);        //判断两个是否匹配， 一个是tuple， 一个是R 后面的100，？，？ 这个
+void tupleString(Tuple t, char *buf);               // tuple 放入string里
+
 
 #endif
