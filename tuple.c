@@ -91,14 +91,14 @@ Bits tupleHash(Reln r, Tuple t)
     for (i = 0; i < MAXCHVEC; i++) {
         a = cv[i].att;
         b = cv[i].bit;
-        if (bitIsSet(h[a],b) == 1) {
+        if (bitIsSet(h[a],b)) {
             hash = setBit(hash, i);
         }
     }
     //FINISH-------
 //	hash = hash_any((unsigned char *)vals[0],strlen(vals[0]));
 	bitsString(hash,buf);
-//	printf("hash(%s) = %s\n", vals[0], buf);
+//	printf("hash(%s) = %s\n", vals[0], buf);![](../../../../../var/folders/6m/6fs1708s58d9f86d7s_56q3c0000gn/T/TemporaryItems/NSIRD_screencaptureui_DimlCS/Screen Shot 2022-04-08 at 9.54.39 PM.png)
 	printf("hash(%s) = %s\n", t, buf);
 	return hash;
 }

@@ -14,7 +14,7 @@
 
 struct RelnRep {
 	Count  nattrs; // number of attributes
-	Count  depth;  // depth of main data file
+	Count  depth;  // depth of main data file	d， 从后往前
 	Offset sp;     // split pointer
     Count  npages; // number of main data pages
     Count  ntups;  // total number of tuples

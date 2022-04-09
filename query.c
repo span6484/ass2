@@ -19,15 +19,25 @@ struct QueryRep {
 	Offset  curtup;    // offset of current tuple within page           //当前tuple在哪,tuple的位置, 通常为字符串索引位置,EX: 0x0001   , curpage永远不变，是dataPage
 	//TODO
     //添加自己的属性
-    Offset curIndex;
+    Offset curTupleIndex;
     PageID curScanPage;    //当前正在检索哪个位置, 这个是 data page or overflow page
     char* quesryString;   //检索传入的字符串
 };
-
-// take a query string (e.g. "1234,?,abc,?")
+//00 -> a b ,c -> o01->d,e,f            00 是datapage， o01是 overflow page， curpage指向bucket page， 这个固定死了， 可以理解成 array的第一个， curPage指向00， curScanPage指向a,b,c
+//01 -> h, i, g -> o02 -> x, y, z -> o03 -> m,n
+// take a query string (e.g. "1234,?,abc,?")            1234:known  ?:unknown
 // set up a QueryRep object for the scan
 // DATA PAGE -> OVERFLOW PAGE
 //PAGE 上tuple
+
+
+// getlower(known)
+// 0 1 0 0            <- curDataPage
+// 0 1 0 1
+// 1 1 0 0
+// 1 1 0 1
+
+// known <= index <= (known | unknow)
 Query startQuery(Reln r, char *q)
 {
 	Query new = malloc(sizeof(struct QueryRep));
@@ -39,7 +49,17 @@ Query startQuery(Reln r, char *q)
 	// compute PageID of first page
 	//   using known bits and first "unknown" value
 	// set all values in QueryRep object
-	return new;
+    new->rel = r;
+    new->curpage = 0;
+    new->curScanPage = 0;
+    new->quesryString = q;
+    Bits hash = tupleHash(r, q);
+    char buf[MAXBITS+1];
+    bitsString(hash,buf);
+    printf("%s\n",buf);
+    printf("depth %d\n", depth(r));
+    printf("attribute %d\n",nattrs(r));
+    return new;
 }
 
 // get next tuple during a scan
@@ -64,6 +84,16 @@ Tuple getNextTuple(Query q)
 	// if (current page has no matching tuples)
 	//    go to next page (try again)
 	// endif
+
+//    Page page = getPage(dataFile(q->rel), pageID);
+//    Tuple t = pageData(page);
+//    while (t != NULL) {
+//        if (tupleMatch(q->rel, t, q->quesryString)) {
+//            return t;
+//        }
+//        t = t + tupLength(t) + 1;
+//
+//    }
 
 	return NULL;
 }
