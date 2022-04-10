@@ -27,6 +27,9 @@ struct RelnRep {
 
 // create a new relation (three files)
 
+
+void Splitting(Tuple t);
+
 Status newRelation(char *name, Count nattrs, Count npages, Count d, char *cv)
 {
     char fname[MAXFILENAME];
@@ -120,79 +123,115 @@ void closeRelation(Reln r)
 // - the actual insertion page may be either a data page or an overflow page
 // returns NO_PAGE if insert fails completely
 // TODO: include splitting and file expansion
+
+///by myself
+PageID addToRelationPage(Reln r, PageID p, Tuple t) {
+
+
+    Page pg = getPage(r->data,p);       // 第一次从data Page去get
+    // 如果有位置， 就插入
+    if (addToPage(pg,t) == OK) {
+        putPage(r->data,p,pg);
+        return p;
+    }
+    // primary data page full
+    // 获取overflow page
+    if (pageOvflow(pg) == NO_PAGE) {    // 如果没有overflow page， 则添加一个overflowpage
+        // add first overflow page in chain
+        PageID newp = addPage(r->ovflow);
+        pageSetOvflow(pg,newp);         // 原来的dataPage上面添加了一个overflow page
+        putPage(r->data,p,pg);          // 插入到文件里面，
+        Page newpg = getPage(r->ovflow,newp);           // 重新get一下， 拿出来
+        // can't add to a new page; we have a problem
+        if (addToPage(newpg,t) != OK) return NO_PAGE;       // 把tuple再添加进去
+        putPage(r->ovflow,newp,newpg);
+        return p;
+    }
+    else {
+        // 如果有overflow Page
+        // scan overflow chain until we find space
+        // worst case: add new ovflow page at end of chain
+        Page ovpg, prevpg = NULL;
+        PageID ovp, prevp = NO_PAGE;
+        ovp = pageOvflow(pg);
+//        如果page后面有overflow, 则继续往后, 一直到没有overflow
+        while (ovp != NO_PAGE) {
+            ovpg = getPage(r->ovflow, ovp); // 获取page
+            //尝试把tuple添加进page，
+            if (addToPage(ovpg,t) != OK) {          // 如果添加tuple不成功
+                prevp = ovp; prevpg = ovpg;
+                ovp = pageOvflow(ovpg);
+            }
+            else {
+                if (prevpg != NULL) free(prevpg);
+                putPage(r->ovflow,ovp,ovpg);
+                return p;
+            }
+        }
+        // all overflow pages are full; add another to chain
+        // at this point, there *must* be a prevpg
+        assert(prevpg != NULL);
+        // make new ovflow page
+        PageID newp = addPage(r->ovflow);
+        // insert tuple into new page
+        Page newpg = getPage(r->ovflow,newp);
+        if (addToPage(newpg,t) != OK) return NO_PAGE;
+        putPage(r->ovflow,newp,newpg);
+        // link to existing overflow chain
+        pageSetOvflow(prevpg,newp);
+        putPage(r->ovflow,prevp,prevpg);
+        r->ntups++;
+        return p;
+    }
+    return NO_PAGE;
+}
 PageID addToRelation(Reln r, Tuple t)
 {
 	Bits h, p;
 	// char buf[MAXBITS+1];
 	h = tupleHash(r,t);
-	if (r->depth == 0)
-		p = 1;              // p所在的位置， page_id 一开始是1
+	if (r->depth == 0) {
+        p = 1;              // p所在的位置， page_id 一开始是1
+    }
 	else {
 		p = getLower(h, r->depth);
 		if (p < r->sp) p = getLower(h, r->depth+1);
 	}
 	// bitsString(h,buf); printf("hash = %s\n",buf);
 	// bitsString(p,buf); printf("page = %s\n",buf);
-	Page pg = getPage(r->data,p);       // 第一次从data Page去get
-    // 如果有位置， 就插入
-	if (addToPage(pg,t) == OK) {
-		putPage(r->data,p,pg);
-		r->ntups++;
-		return p;
-	}
-	// primary data page full
-    // 获取overflow page
-	if (pageOvflow(pg) == NO_PAGE) {    // 如果没有overflow page， 则添加一个overflowpage
-		// add first overflow page in chain
-		PageID newp = addPage(r->ovflow);
-		pageSetOvflow(pg,newp);         // 原来的dataPage上面添加了一个overflow page
-		putPage(r->data,p,pg);          // 插入到文件里面，
-		Page newpg = getPage(r->ovflow,newp);           // 重新get一下， 拿出来
-		// can't add to a new page; we have a problem
-		if (addToPage(newpg,t) != OK) return NO_PAGE;       // 把tuple再添加进去
-		putPage(r->ovflow,newp,newpg);
-		r->ntups++;
-		return p;
-	}
-	else {
-        // 如果有overflow Page
-		// scan overflow chain until we find space
-		// worst case: add new ovflow page at end of chain
-		Page ovpg, prevpg = NULL;
-		PageID ovp, prevp = NO_PAGE;
-		ovp = pageOvflow(pg);
-//        如果page后面有overflow, 则继续往后, 一直到没有overflow
-		while (ovp != NO_PAGE) {
-			ovpg = getPage(r->ovflow, ovp); // 获取page
-            //尝试把tuple添加进page，
-			if (addToPage(ovpg,t) != OK) {          // 如果添加tuple不成功
-				prevp = ovp; prevpg = ovpg;
-				ovp = pageOvflow(ovpg);
-			}
-			else {
-				if (prevpg != NULL) free(prevpg);
-				putPage(r->ovflow,ovp,ovpg);
-				r->ntups++;
-				return p;
-			}
-		}
-		// all overflow pages are full; add another to chain
-		// at this point, there *must* be a prevpg
-		assert(prevpg != NULL);
-		// make new ovflow page
-		PageID newp = addPage(r->ovflow);
-		// insert tuple into new page
-		Page newpg = getPage(r->ovflow,newp);
-        if (addToPage(newpg,t) != OK) return NO_PAGE;
-        putPage(r->ovflow,newp,newpg);
-		// link to existing overflow chain
-		pageSetOvflow(prevpg,newp);
-		putPage(r->ovflow,prevp,prevpg);
-        r->ntups++;
-		return p;
-	}
-	return NO_PAGE;
+    PageID result = addToRelationPage(r,p,t);
+    //插入成功
+    if (result != NO_PAGE) {
+        r->ntups ++;
+        Count c = 1024/(10* r->nattrs);
+        if(r->ntups % c == 0) {
+            //split algorithm pseudo algorithm
+//            newp = sp + 2^d;
+//            oldp = sp;
+//            for all tuples t in P[oldp] and its overflows {
+//                p = bits(d+1, hahs(t.k));
+//            }
+//            if (p == newp):
+//                add tuple t to bucket[newp]
+//
+//            else:
+//                add tuple to bucket[oldp]
+//            sp++
+//            if (sp == 2^d){
+//                d++;
+//                sp=0;
+//            }
+            Splitting(t);
+        }
+    }
+    return result;
 }
+
+void Splitting(Tuple t) {
+
+}
+
+
 
 // external interfaces for Reln data
 
