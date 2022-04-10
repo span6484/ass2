@@ -7,6 +7,7 @@
 #include "query.h"
 #include "reln.h"
 #include "tuple.h"
+#include "hash.h"
 
 // A suggestion ... you can change however you like
 
@@ -21,6 +22,7 @@ struct QueryRep {
     //添加自己的属性
     Offset curTupleIndex;
     PageID curScanPage;    //当前正在检索哪个位置, 这个是 data page or overflow page
+    Tuple tuple;
     char* quesryString;   //检索传入的字符串
 };
 //00 -> a b ,c -> o01->d,e,f            00 是datapage， o01是 overflow page， curpage指向bucket page， 这个固定死了， 可以理解成 array的第一个， curPage指向00， curScanPage指向a,b,c
@@ -49,16 +51,37 @@ Query startQuery(Reln r, char *q)
 	// compute PageID of first page
 	//   using known bits and first "unknown" value
 	// set all values in QueryRep object
-    new->rel = r;
-    new->curpage = 0;
-    new->curScanPage = 0;
-    new->quesryString = q;
-    Bits hash = tupleHash(r, q);
-    char buf[MAXBITS+1];
+    char buf[MAXBITS+1];// set tuple into array, ignore the , , ex: 123,?,? => ['123','?','?']
+
+    Count nvals = nattrs(r);
+    char **tuple_vals = malloc(nvals*sizeof(char *));
+    Bits h[nvals];              //hash for each attribute
+    Bits hash = 0;
+    assert(tuple_vals != NULL);
+    // set tuple into array, ignore the , , ex: 123,?,? => ['123','?','?']
+    tupleVals(q,tuple_vals);
+    printf("arribute num: %d\n", nattrs(r));
+    int i,a,b;
+    ChVecItem *cv = chvec(r);
+    for (i = 0; i < nvals; i ++) {
+        h[i] = hash_any((unsigned char *)tuple_vals[i], strlen(tuple_vals[i]));
+    }
+    for (i = 0; i < MAXCHVEC; i++) {
+        a = cv[i].att;
+        b = cv[i].bit;
+        printf("%s\n", *(tuple_vals+a));
+        if (bitIsSet(h[a],b) && strcmp("?", *(tuple_vals+a))) {
+            hash = setBit(hash, i);
+        }
+        //TODO UNHASH
+//        else{
+//
+//        }
+    }
+    //FINISH-------
+//	hash = hash_any((unsigned char *)vals[0],strlen(vals[0]));
     bitsString(hash,buf);
-    printf("%s\n",buf);
-    printf("depth %d\n", depth(r));
-    printf("attribute %d\n",nattrs(r));
+    printf("%s\n", buf);
     return new;
 }
 
