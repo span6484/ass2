@@ -224,11 +224,10 @@ PageID addToRelation(Reln r, Tuple t)
 //            }
             Splitting(r);
         }
-
-//        if(r->sp == pow(2,r->depth)) {
-//            r->depth++;
-//            r->sp = 0;
-//        }
+        if(r->sp == pow(2,r->depth)) {
+            r->depth++;
+            r->sp = 0;
+        }
     }
     return result;
 }
@@ -252,7 +251,7 @@ void Splitting(Reln r) {
     PageID newp = addPage(dataFile(r));
 //    PageID new_pageid = addPage(dataFile(r));
     r->npages++;
-    PageID oldp = splitp(r);
+    PageID oldp = r->sp;
     Bits hash_t;
     Bits tmp_pid;
     Tuple cur_t;
@@ -280,7 +279,7 @@ void Splitting(Reln r) {
         }
         data_p += strlen(data_p) + 1;
     }
-
+    r->sp++;
     //overflow
 
 //    Page ovpg = NULL;
