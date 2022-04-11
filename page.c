@@ -59,6 +59,8 @@ Page getPage(FILE *f, PageID pid)
 	int ok = fseek(f, pid*PAGESIZE, SEEK_SET);
 	assert(ok == 0);
 	int n = fread(p, 1, PAGESIZE, f);
+//    printf("n is %d\n",n);
+//    printf("PAGESIZE is %d\n",PAGESIZE);
 	assert(n == PAGESIZE);
 	return p;
 }

@@ -2,6 +2,7 @@
 // part of Multi-attribute Linear-hashed Files
 // Last modified by John Shepherd, July 2019
 
+#include <math.h>
 #include "defs.h"
 #include "reln.h"
 #include "page.h"
@@ -28,7 +29,9 @@ struct RelnRep {
 // create a new relation (three files)
 
 
-void Splitting(Tuple t);
+
+
+void Splitting(Reln r);
 
 Status newRelation(char *name, Count nattrs, Count npages, Count d, char *cv)
 {
@@ -123,7 +126,6 @@ void closeRelation(Reln r)
 // - the actual insertion page may be either a data page or an overflow page
 // returns NO_PAGE if insert fails completely
 // TODO: include splitting and file expansion
-
 ///by myself
 PageID addToRelationPage(Reln r, PageID p, Tuple t) {
 
@@ -197,13 +199,12 @@ PageID addToRelation(Reln r, Tuple t)
 		p = getLower(h, r->depth);
 		if (p < r->sp) p = getLower(h, r->depth+1);
 	}
-	// bitsString(h,buf); printf("hash = %s\n",buf);
-	// bitsString(p,buf); printf("page = %s\n",buf);
+
     PageID result = addToRelationPage(r,p,t);
     //插入成功
     if (result != NO_PAGE) {
         r->ntups ++;
-        Count c = 1024/(10* r->nattrs);
+        Count c = 1024/(10* r->nattrs);         //取mod
         if(r->ntups % c == 0) {
             //split algorithm pseudo algorithm
 //            newp = sp + 2^d;
@@ -221,17 +222,93 @@ PageID addToRelation(Reln r, Tuple t)
 //                d++;
 //                sp=0;
 //            }
-            Splitting(t);
+            Splitting(r);
         }
+
+//        if(r->sp == pow(2,r->depth)) {
+//            r->depth++;
+//            r->sp = 0;
+//        }
     }
     return result;
 }
 
-void Splitting(Tuple t) {
 
+// 000->a,b,c-> d, e, f
+//Page p = getPage(r->data,pid);        // 当前dataPage
+//page blakPage = new Page()
+//如果原来p有overflow page，绑定就可以了
+//PageID oldOverflowPageId = pageOvflow(p)
+//pagesetOvflow(blankPage, ldOverflowPageID);
+//putPage(r->data, p, blankPage)    再写回Pag，在这里就移除了， 给了一个空的blackPage
+// p的数据都在内存的
+//遍历page里面的tuple：t
+//hash_t = hash(t)
+//temp_pid = getlower(hash_t, d)
+//addToRelationPage(r,pid,t)
+//while pageOvflow(p) != NO_PAGE
+//....
+void Splitting(Reln r) {
+    PageID newp = addPage(dataFile(r));
+//    PageID new_pageid = addPage(dataFile(r));
+    r->npages++;
+    PageID oldp = splitp(r);
+    Bits hash_t;
+    Bits tmp_pid;
+    Tuple cur_t;
+    int i;
+    //dataPage
+    Page emptyPage = newPage();
+    Page oldpg = getPage(r->data,oldp);
+    PageID oldOverflowPageId = pageOvflow(oldpg);
+    pageSetOvflow(emptyPage, oldOverflowPageId);
+    putPage(r->data, oldp, emptyPage);
+    char* data_p = pageData(oldpg);  // 获得tuple
+    Count tuple_num = pageNTuples(oldpg);
+//
+//    //遍历tuple
+    for (i = 0; i < tuple_num; i++) {
+        cur_t = data_p;
+        hash_t = tupleHash(r, cur_t);
+        tmp_pid = getLower(hash_t, r->depth+1);
+        if (tmp_pid == newp) {
+        // add to new page
+            addToRelationPage(r, newp, cur_t);
+        } else {
+            // add to sp page
+            addToRelationPage(r, oldp, cur_t);
+        }
+        data_p += strlen(data_p) + 1;
+    }
+
+    //overflow
+
+//    Page ovpg = NULL;
+//    PageID ovp = NO_PAGE;
+//    ovp = pageOvflow(oldpg);
+//    while (ovp != NO_PAGE) {
+//        ovpg = getPage(r->ovflow, ovp); // 获取page
+//        pageSetOvflow(emptyPage, oldOverflowPageId);
+//        putPage(r->data, oldp, emptyPage);
+//        tmp = pageData(oldpg);
+//        Count tuple_num = pageNTuples(oldpg);
+//
+//        for (i = 0; i < tuple_num; i++) {
+//            cur = tmp;
+//            hash_t = tupleHash(r, cur);
+//            tmp_pid = getLower(hash_t, r->depth);
+//            if (tmp_pid == newp) {
+//                // add to new page
+//                addToRelationPage(r, newp, cur);
+//            } else {
+//                // add to sp page
+//                addToRelationPage(r, oldp, cur);
+//            }
+//            tmp += strlen(tmp) + 1;
+//        }
+//        oldpg = ovpg;
+//    }
 }
-
-
 
 // external interfaces for Reln data
 
