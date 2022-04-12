@@ -2,7 +2,6 @@
 // part of Multi-attribute Linear-hashed Files
 // Last modified by John Shepherd, July 2019
 
-#include <math.h>
 #include "defs.h"
 #include "reln.h"
 #include "page.h"
@@ -32,6 +31,8 @@ struct RelnRep {
 
 
 void Splitting(Reln r);
+
+Offset new_pow(int i, Count depth);
 
 Status newRelation(char *name, Count nattrs, Count npages, Count d, char *cv)
 {
@@ -224,12 +225,22 @@ PageID addToRelation(Reln r, Tuple t)
 //            }
             Splitting(r);
         }
-        if(r->sp == pow(2,r->depth)) {
+        if(r->sp == new_pow(2,r->depth)) {
             r->depth++;
             r->sp = 0;
         }
     }
     return result;
+}
+
+Offset new_pow(int i, Count depth) {
+    int j;
+    int val = 1;
+    for(j = 0; j < depth; j++) {
+        val *= 2;
+    }
+
+    return (unsigned int)val;
 }
 
 
@@ -284,28 +295,24 @@ void Splitting(Reln r) {
     while (pageOvflow(prev_page) != NO_PAGE ){
         ovp = pageOvflow(prev_page);
         // if tuple is null
-        if(pageNTuples(prev_page) == -1) {
-            break;
-        }
         Page ovpg = getPage(r->ovflow, ovp); // 获取page
-        Page curpg = pageOvflow(ovpg);
+        PageID curp = pageOvflow(ovpg);
         Page emptyPage = newPage();
-        pageSetOvflow(emptyPage, curpg);
+        pageSetOvflow(emptyPage, curp); // 设置空页的ovflow为curp
         putPage(r->ovflow, ovp, emptyPage);
-//        data_p = pageData(ovpg);  // 获得tuple
-//        Count tuple_num = pageNTuples(ovpg);
-//        putPage(r->ovflow, ovp, emptyPage);
-//        for (i = 0; i < tuple_num; i++) {
-//            cur_t = data_p;
-//            hash_t = tupleHash(r, cur_t);
-//            tmp_pid = getLower(hash_t, r->depth+1);
-//            if (tmp_pid == newp) {
-//                addToRelationPage(r, newp, cur_t); //new page
-//            } else {
-//                addToRelationPage(r, oldp, cur_t);  //old page
-//            }
-//            data_p += strlen(data_p) + 1;
-//        }
+        data_p = pageData(ovpg);  // 获得tuple
+        Count tuple_num = pageNTuples(ovpg);
+        for (i = 0; i < tuple_num; i++) {
+            cur_t = data_p;
+            hash_t = tupleHash(r, cur_t);
+            tmp_pid = getLower(hash_t, r->depth+1);
+            if (tmp_pid == newp) {
+                addToRelationPage(r, newp, cur_t); //new page
+            } else {
+                addToRelationPage(r, oldp, cur_t);  //old page
+            }
+            data_p += strlen(data_p) + 1;
+        }
         prev_page = ovpg;
     }
 
