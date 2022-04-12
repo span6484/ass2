@@ -288,9 +288,8 @@ void Splitting(Reln r) {
             break;
         }
         Page ovpg = getPage(r->ovflow, ovp); // 获取page
-        Page curpg = pageOvflow(ovpg);
         Page emptyPage = newPage();
-        pageSetOvflow(emptyPage, curpg);
+        pageSetOvflow(emptyPage, pageOvflow(ovpg));
         putPage(r->ovflow, ovp, emptyPage);
 //        data_p = pageData(ovpg);  // 获得tuple
 //        Count tuple_num = pageNTuples(ovpg);
