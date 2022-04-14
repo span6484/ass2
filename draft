@@ -1,0 +1,17 @@
+john,male,?
+cv = [(0,0),(1,1),(2,1),(0,2),(1,2),(2,2)]
+hash(john) = 001001
+hash(male) = 101101
+hash(?)
+
+known   = 010001
+unknown = 100100
+
+known 可能性， 根据unknown来进行判断：
+010001          最小的情况       known
+010101
+110001
+110101          最大的情况       known | unknown
+
+known:   01100100
+unknown: 10010010
