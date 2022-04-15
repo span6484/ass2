@@ -246,18 +246,29 @@ Tuple getNextTuple(Query q)
             for(int i = 0; i < curTupleIndex;i++) {     // update the tuple to the current page position
                 t += strlen(t) + 1;
             }
-            printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
+//            printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
             curTupleIndex++;
             q->curTupleIndex = curTupleIndex;
-            return t;
+//            printf("t1: %s\n", t);
+            if (tupleMatch(r,t, q->quesryString)) {
+//                printf("find it !\n");
+//                printf("t1: %s\n", t);
+                return t;
+            }
+//            return t;
         }
-        printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
-        printf("start new page------------\n");
-        q->curTupleIndex = 0;
-        curPageIndex++;
-        q->curPageIndex = curPageIndex;
-        printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
-        goto READPAGE;
+//        printf("t is ------------: %s\n", t);
+        if (curTupleIndex < nTuples) {
+            goto READPAGE;
+        }
+        else {
+//            printf("start new page------------\n");
+            q->curTupleIndex = 0;
+            curPageIndex++;
+            q->curPageIndex = curPageIndex;
+//            printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
+            goto READPAGE;
+        }
     }
     return NULL;
 }
