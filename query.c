@@ -21,6 +21,7 @@ struct QueryRep {
     //TODO
     //添加自己的属性
     Offset curTupleIndex;
+    int curPageIndex;
     PageID curScanPage;    //当前正在检索哪个位置, 这个是 data page or overflow page
     int nstars;
     Bits* knowns;
@@ -123,6 +124,8 @@ Query startQuery(Reln r, char *q)
     new->rel = r;
     new->knowns = knowns;
     new->quesryString = q;
+    new->curTupleIndex = 0;
+    new->curPageIndex = 0;
     return new;
 }
 
@@ -209,32 +212,52 @@ Tuple getNextTuple(Query q)
     Bits known = q->known;
     Bits unknown = q->unknown;
     Reln r = q->rel;
-    Bits key;
-    int nstars = q->nstars;
-    bitsString(known,buf);
+    Bits real_known;
+    PageID pid;
+    int nstars;
+    int curPageIndex;
+    Offset curTupleIndex;
+    Count nTuples;
     assert(q->knowns != NULL);
-//    printf("%s\n", q->quesryString);
-    for (int i = 0; i < pow1(2, nstars); i++) {
-        Bits key;
-        Bits aknown = q->knowns[i];
+    READPAGE:
+    nstars = q->nstars;
+    curPageIndex = q->curPageIndex;
+    curTupleIndex = q->curTupleIndex;
+    if (curPageIndex < pow1(2,nstars)) {
+        real_known = q->knowns[curPageIndex];
+
+        ////deal with the suitable pid
         if (depth(q->rel) == 0) {
-            key = 0;
+            pid = 0;
         } else {
-            key = getLower(aknown, depth(q->rel));
+            pid = getLower(real_known, depth(q->rel));
             //printf("depth is %d\n", depth(q->rel));/**/
 //            printf("split is : %d\n", splitp(q->rel));
-            if (key < splitp(q->rel)) key = getLower(aknown, depth(q->rel)+1);
+            if (pid < splitp(q->rel)) pid = getLower(real_known, depth(q->rel)+1);
 //            printf("key is ");
-            printBits(aknown);
+//            printBits(real_known);
 //            printf("depth is %d\n",depth(q->rel)+1);
         }
-        printf("Searching Page: ");
-//        printBits(key);
-        printf("%d\n", key);
-        Page page = getPage(dataFile(q->rel), key);
-        Tuple t = pageData(page);
-        printf("t: %s\n", t);
+        Page curPage = getPage(dataFile(r), pid);
 
+        nTuples = pageNTuples(curPage);
+        Tuple t = pageData(curPage);
+        if (curTupleIndex < nTuples) {
+            for(int i = 0; i < curTupleIndex;i++) {     // update the tuple to the current page position
+                t += strlen(t) + 1;
+            }
+            printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
+            curTupleIndex++;
+            q->curTupleIndex = curTupleIndex;
+            return t;
+        }
+        printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
+        printf("start new page------------\n");
+        q->curTupleIndex = 0;
+        curPageIndex++;
+        q->curPageIndex = curPageIndex;
+        printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
+        goto READPAGE;
     }
     return NULL;
 }
