@@ -15,3 +15,20 @@ known 可能性， 根据unknown来进行判断：
 
 known:   01100100
 unknown: 10010010
+
+
+#############################
+pid is :    37
+preTupleLen:  688
+curTupleIndex:  35
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2958,train,boss
+#############################
+pid is :    37
+preTupleLen:  689
+curTupleIndex:  36
+total tuple is:  36
+
+1835,knife,fin

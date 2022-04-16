@@ -1,0 +1,6406 @@
+strlen0 is 21
+preTupleLen is 0
+strlen is 21
+#############################
+pid is :    36
+preTupleLen:  22
+curTupleIndex:  0
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1093,database,crystal
+strlen0 is 21
+preTupleLen is 22
+strlen is 17
+#############################
+pid is :    36
+preTupleLen:  40
+curTupleIndex:  1
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1111,garden,space
+strlen0 is 21
+preTupleLen is 40
+strlen is 15
+#############################
+pid is :    36
+preTupleLen:  56
+curTupleIndex:  2
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1205,box,pocket
+strlen0 is 21
+preTupleLen is 56
+strlen is 15
+#############################
+pid is :    36
+preTupleLen:  72
+curTupleIndex:  3
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1226,gloves,man
+strlen0 is 21
+preTupleLen is 72
+strlen is 17
+#############################
+pid is :    36
+preTupleLen:  90
+curTupleIndex:  4
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1281,book,compass
+strlen0 is 21
+preTupleLen is 90
+strlen is 15
+#############################
+pid is :    36
+preTupleLen:  106
+curTupleIndex:  5
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1338,pants,eyes
+strlen0 is 21
+preTupleLen is 106
+strlen is 19
+#############################
+pid is :    36
+preTupleLen:  126
+curTupleIndex:  6
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1351,gemstone,chief
+strlen0 is 21
+preTupleLen is 126
+strlen is 21
+#############################
+pid is :    36
+preTupleLen:  148
+curTupleIndex:  7
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1368,surveyor,crystal
+strlen0 is 21
+preTupleLen is 148
+strlen is 19
+#############################
+pid is :    36
+preTupleLen:  168
+curTupleIndex:  8
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1383,stomach,insect
+strlen0 is 21
+preTupleLen is 168
+strlen is 17
+#############################
+pid is :    36
+preTupleLen:  186
+curTupleIndex:  9
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1663,shop,feather
+strlen0 is 21
+preTupleLen is 186
+strlen is 14
+#############################
+pid is :    36
+preTupleLen:  201
+curTupleIndex:  10
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1669,box,clock
+strlen0 is 21
+preTupleLen is 201
+strlen is 20
+#############################
+pid is :    36
+preTupleLen:  222
+curTupleIndex:  11
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1748,necklace,shower
+strlen0 is 21
+preTupleLen is 222
+strlen is 18
+#############################
+pid is :    36
+preTupleLen:  241
+curTupleIndex:  12
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1803,torpedo,spoon
+strlen0 is 21
+preTupleLen is 241
+strlen is 23
+#############################
+pid is :    36
+preTupleLen:  265
+curTupleIndex:  13
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1883,paintbrush,airport
+strlen0 is 21
+preTupleLen is 265
+strlen is 24
+#############################
+pid is :    36
+preTupleLen:  290
+curTupleIndex:  14
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1905,telescope,aeroplane
+strlen0 is 21
+preTupleLen is 290
+strlen is 20
+#############################
+pid is :    36
+preTupleLen:  311
+curTupleIndex:  15
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+1907,garden,umbrella
+strlen0 is 21
+preTupleLen is 311
+strlen is 20
+#############################
+pid is :    36
+preTupleLen:  332
+curTupleIndex:  16
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2001,stomach,vulture
+strlen0 is 21
+preTupleLen is 332
+strlen is 20
+#############################
+pid is :    36
+preTupleLen:  353
+curTupleIndex:  17
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2020,liquid,airforce
+strlen0 is 21
+preTupleLen is 353
+strlen is 13
+#############################
+pid is :    36
+preTupleLen:  367
+curTupleIndex:  18
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2031,bowl,mum
+strlen0 is 21
+preTupleLen is 367
+strlen is 15
+#############################
+pid is :    36
+preTupleLen:  383
+curTupleIndex:  19
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2062,garden,hot
+strlen0 is 21
+preTupleLen is 383
+strlen is 20
+#############################
+pid is :    36
+preTupleLen:  404
+curTupleIndex:  20
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2275,paintbrush,swim
+strlen0 is 21
+preTupleLen is 404
+strlen is 21
+#############################
+pid is :    36
+preTupleLen:  426
+curTupleIndex:  21
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2277,gemstone,balloon
+strlen0 is 21
+preTupleLen is 426
+strlen is 22
+#############################
+pid is :    36
+preTupleLen:  449
+curTupleIndex:  22
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2283,chess-board,spoon
+strlen0 is 21
+preTupleLen is 449
+strlen is 19
+#############################
+pid is :    36
+preTupleLen:  469
+curTupleIndex:  23
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2347,library,circus
+strlen0 is 21
+preTupleLen is 469
+strlen is 21
+#############################
+pid is :    36
+preTupleLen:  491
+curTupleIndex:  24
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2438,gloves,horoscope
+strlen0 is 21
+preTupleLen is 491
+strlen is 16
+#############################
+pid is :    36
+preTupleLen:  508
+curTupleIndex:  25
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2482,library,man
+strlen0 is 21
+preTupleLen is 508
+strlen is 19
+#############################
+pid is :    36
+preTupleLen:  528
+curTupleIndex:  26
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2536,apple,triangle
+strlen0 is 21
+preTupleLen is 528
+strlen is 16
+#############################
+pid is :    36
+preTupleLen:  545
+curTupleIndex:  27
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2707,bird,circus
+strlen0 is 21
+preTupleLen is 545
+strlen is 23
+#############################
+pid is :    36
+preTupleLen:  569
+curTupleIndex:  28
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2767,torpedo,hieroglyph
+strlen0 is 21
+preTupleLen is 569
+strlen is 18
+#############################
+pid is :    36
+preTupleLen:  588
+curTupleIndex:  29
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2805,computer,dung
+strlen0 is 21
+preTupleLen is 588
+strlen is 17
+#############################
+pid is :    36
+preTupleLen:  606
+curTupleIndex:  30
+total tuple is:  31
+00000000 00000000 00000000 00100100
+#############################
+2974,liquid,chief
+
+
+start new page------------ 
+strlen0 is 16
+preTupleLen is 0
+strlen is 16
+#############################
+pid is :    37
+preTupleLen:  17
+curTupleIndex:  0
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1013,leg,vampire
+strlen0 is 16
+preTupleLen is 17
+strlen is 20
+#############################
+pid is :    37
+preTupleLen:  38
+curTupleIndex:  1
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1015,television,post
+strlen0 is 16
+preTupleLen is 38
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  57
+curTupleIndex:  2
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1247,robot,crystal
+strlen0 is 16
+preTupleLen is 57
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  76
+curTupleIndex:  3
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1257,stomach,spoon
+strlen0 is 16
+preTupleLen is 76
+strlen is 15
+#############################
+pid is :    37
+preTupleLen:  92
+curTupleIndex:  4
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1382,shop,onion
+strlen0 is 16
+preTupleLen is 92
+strlen is 21
+#############################
+pid is :    37
+preTupleLen:  114
+curTupleIndex:  5
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1437,television,drink
+strlen0 is 16
+preTupleLen is 114
+strlen is 19
+#############################
+pid is :    37
+preTupleLen:  134
+curTupleIndex:  6
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1442,paintbrush,boy
+strlen0 is 16
+preTupleLen is 134
+strlen is 23
+#############################
+pid is :    37
+preTupleLen:  158
+curTupleIndex:  7
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1480,database,horoscope
+strlen0 is 16
+preTupleLen is 158
+strlen is 14
+#############################
+pid is :    37
+preTupleLen:  173
+curTupleIndex:  8
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1505,sun,sword
+strlen0 is 16
+preTupleLen is 173
+strlen is 19
+#############################
+pid is :    37
+preTupleLen:  193
+curTupleIndex:  9
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1578,shoes,triangle
+strlen0 is 16
+preTupleLen is 193
+strlen is 16
+#############################
+pid is :    37
+preTupleLen:  210
+curTupleIndex:  10
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1605,train,plane
+strlen0 is 16
+preTupleLen is 210
+strlen is 14
+#############################
+pid is :    37
+preTupleLen:  225
+curTupleIndex:  11
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1636,apple,hat
+strlen0 is 16
+preTupleLen is 225
+strlen is 15
+#############################
+pid is :    37
+preTupleLen:  241
+curTupleIndex:  12
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1732,shop,spoon
+strlen0 is 16
+preTupleLen is 241
+strlen is 19
+#############################
+pid is :    37
+preTupleLen:  261
+curTupleIndex:  13
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1759,pendulum,sword
+strlen0 is 16
+preTupleLen is 261
+strlen is 17
+#############################
+pid is :    37
+preTupleLen:  279
+curTupleIndex:  14
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1777,library,boss
+strlen0 is 16
+preTupleLen is 279
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  298
+curTupleIndex:  15
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1794,clown,vampire
+strlen0 is 16
+preTupleLen is 298
+strlen is 21
+#############################
+pid is :    37
+preTupleLen:  320
+curTupleIndex:  16
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1846,library,triangle
+strlen0 is 16
+preTupleLen is 320
+strlen is 13
+#############################
+pid is :    37
+preTupleLen:  334
+curTupleIndex:  17
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1914,salt,boy
+strlen0 is 16
+preTupleLen is 334
+strlen is 19
+#############################
+pid is :    37
+preTupleLen:  354
+curTupleIndex:  18
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1970,gemstone,spoon
+strlen0 is 16
+preTupleLen is 354
+strlen is 13
+#############################
+pid is :    37
+preTupleLen:  368
+curTupleIndex:  19
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+1985,army,man
+strlen0 is 16
+preTupleLen is 368
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  387
+curTupleIndex:  20
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2076,elephant,post
+strlen0 is 16
+preTupleLen is 387
+strlen is 13
+#############################
+pid is :    37
+preTupleLen:  401
+curTupleIndex:  21
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2094,book,rib
+strlen0 is 16
+preTupleLen is 401
+strlen is 20
+#############################
+pid is :    37
+preTupleLen:  422
+curTupleIndex:  22
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2101,skeleton,insect
+strlen0 is 16
+preTupleLen is 422
+strlen is 21
+#############################
+pid is :    37
+preTupleLen:  444
+curTupleIndex:  23
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2125,skeleton,crystal
+strlen0 is 16
+preTupleLen is 444
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  463
+curTupleIndex:  24
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2192,toilet,circus
+strlen0 is 16
+preTupleLen is 463
+strlen is 20
+#############################
+pid is :    37
+preTupleLen:  484
+curTupleIndex:  25
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2217,torpedo,compass
+strlen0 is 16
+preTupleLen is 484
+strlen is 17
+#############################
+pid is :    37
+preTupleLen:  502
+curTupleIndex:  26
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2223,toilet,x-ray
+strlen0 is 16
+preTupleLen is 502
+strlen is 18
+#############################
+pid is :    37
+preTupleLen:  521
+curTupleIndex:  27
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2268,gemstone,star
+strlen0 is 16
+preTupleLen is 521
+strlen is 22
+#############################
+pid is :    37
+preTupleLen:  544
+curTupleIndex:  28
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2276,database,mosquito
+strlen0 is 16
+preTupleLen is 544
+strlen is 23
+#############################
+pid is :    37
+preTupleLen:  568
+curTupleIndex:  29
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2409,chess-board,flower
+strlen0 is 16
+preTupleLen is 568
+strlen is 15
+#############################
+pid is :    37
+preTupleLen:  584
+curTupleIndex:  30
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2475,gas,needle
+strlen0 is 16
+preTupleLen is 584
+strlen is 23
+#############################
+pid is :    37
+preTupleLen:  608
+curTupleIndex:  31
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2713,sports-car,crystal
+strlen0 is 16
+preTupleLen is 608
+strlen is 15
+#############################
+pid is :    37
+preTupleLen:  624
+curTupleIndex:  32
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2731,clown,dung
+strlen0 is 16
+preTupleLen is 624
+strlen is 24
+#############################
+pid is :    37
+preTupleLen:  649
+curTupleIndex:  33
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2786,stomach,jet-fighter
+strlen0 is 16
+preTupleLen is 649
+strlen is 22
+#############################
+pid is :    37
+preTupleLen:  672
+curTupleIndex:  34
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2878,train,jet-fighter
+strlen0 is 16
+preTupleLen is 672
+strlen is 15
+#############################
+pid is :    37
+preTupleLen:  688
+curTupleIndex:  35
+total tuple is:  36
+00000000 00000000 00000000 00100101
+#############################
+2958,train,boss
+
+
+start new page------------ 
+strlen0 is 28
+preTupleLen is 0
+strlen is 28
+#############################
+pid is :    38
+preTupleLen:  29
+curTupleIndex:  0
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1000,kaleidoscope,hieroglyph
+strlen0 is 28
+preTupleLen is 29
+strlen is 23
+#############################
+pid is :    38
+preTupleLen:  53
+curTupleIndex:  1
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1087,tunnel,jet-fighter
+strlen0 is 28
+preTupleLen is 53
+strlen is 20
+#############################
+pid is :    38
+preTupleLen:  74
+curTupleIndex:  2
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1118,car-race,needle
+strlen0 is 28
+preTupleLen is 74
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  90
+curTupleIndex:  3
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1121,map,shower
+strlen0 is 28
+preTupleLen is 90
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  108
+curTupleIndex:  4
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1122,fruit,insect
+strlen0 is 28
+preTupleLen is 108
+strlen is 21
+#############################
+pid is :    38
+preTupleLen:  130
+curTupleIndex:  5
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1154,treadmill,pebble
+strlen0 is 28
+preTupleLen is 130
+strlen is 19
+#############################
+pid is :    38
+preTupleLen:  150
+curTupleIndex:  6
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1175,album,triangle
+strlen0 is 28
+preTupleLen is 150
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  169
+curTupleIndex:  7
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1177,guitar,circus
+strlen0 is 28
+preTupleLen is 169
+strlen is 16
+#############################
+pid is :    38
+preTupleLen:  186
+curTupleIndex:  8
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1293,fire,spiral
+strlen0 is 28
+preTupleLen is 186
+strlen is 14
+#############################
+pid is :    38
+preTupleLen:  201
+curTupleIndex:  9
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1308,fire,eyes
+strlen0 is 28
+preTupleLen is 201
+strlen is 16
+#############################
+pid is :    38
+preTupleLen:  218
+curTupleIndex:  10
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1322,finger,swim
+strlen0 is 28
+preTupleLen is 218
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  236
+curTupleIndex:  11
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1359,solid,needle
+strlen0 is 28
+preTupleLen is 236
+strlen is 16
+#############################
+pid is :    38
+preTupleLen:  253
+curTupleIndex:  12
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1394,guitar,boss
+strlen0 is 28
+preTupleLen is 253
+strlen is 23
+#############################
+pid is :    38
+preTupleLen:  277
+curTupleIndex:  13
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1463,videotape,umbrella
+strlen0 is 28
+preTupleLen is 277
+strlen is 21
+#############################
+pid is :    38
+preTupleLen:  299
+curTupleIndex:  14
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1470,thermometer,bomb
+strlen0 is 28
+preTupleLen is 299
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  315
+curTupleIndex:  15
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1649,meat,space
+strlen0 is 28
+preTupleLen is 315
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  334
+curTupleIndex:  16
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1836,meat,umbrella
+strlen0 is 28
+preTupleLen is 334
+strlen is 13
+#############################
+pid is :    38
+preTupleLen:  348
+curTupleIndex:  17
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1849,air,dung
+strlen0 is 28
+preTupleLen is 348
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  366
+curTupleIndex:  18
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1934,rainbow,bomb
+strlen0 is 28
+preTupleLen is 366
+strlen is 20
+#############################
+pid is :    38
+preTupleLen:  387
+curTupleIndex:  19
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1937,car-race,flower
+strlen0 is 28
+preTupleLen is 387
+strlen is 19
+#############################
+pid is :    38
+preTupleLen:  407
+curTupleIndex:  20
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+1990,car-race,onion
+strlen0 is 28
+preTupleLen is 407
+strlen is 16
+#############################
+pid is :    38
+preTupleLen:  424
+curTupleIndex:  21
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2195,child,radar
+strlen0 is 28
+preTupleLen is 424
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  443
+curTupleIndex:  22
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2226,tennis,circus
+strlen0 is 28
+preTupleLen is 443
+strlen is 21
+#############################
+pid is :    38
+preTupleLen:  465
+curTupleIndex:  23
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2242,album,hieroglyph
+strlen0 is 28
+preTupleLen is 465
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  484
+curTupleIndex:  24
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2300,school,carpet
+strlen0 is 28
+preTupleLen is 484
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  500
+curTupleIndex:  25
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2316,ears,chief
+strlen0 is 28
+preTupleLen is 500
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  518
+curTupleIndex:  26
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2449,family,drill
+strlen0 is 28
+preTupleLen is 518
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  536
+curTupleIndex:  27
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2473,fire,crystal
+strlen0 is 28
+preTupleLen is 536
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  552
+curTupleIndex:  28
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2499,fire,clock
+strlen0 is 28
+preTupleLen is 552
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  570
+curTupleIndex:  29
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2527,guitar,plane
+strlen0 is 28
+preTupleLen is 570
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  589
+curTupleIndex:  30
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2543,highway,clock
+strlen0 is 28
+preTupleLen is 589
+strlen is 17
+#############################
+pid is :    38
+preTupleLen:  607
+curTupleIndex:  31
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2572,slave,button
+strlen0 is 28
+preTupleLen is 607
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  623
+curTupleIndex:  32
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2691,snail,post
+strlen0 is 28
+preTupleLen is 623
+strlen is 18
+#############################
+pid is :    38
+preTupleLen:  642
+curTupleIndex:  33
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2870,saddle,spiral
+strlen0 is 28
+preTupleLen is 642
+strlen is 15
+#############################
+pid is :    38
+preTupleLen:  658
+curTupleIndex:  34
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2910,map,circus
+strlen0 is 28
+preTupleLen is 658
+strlen is 14
+#############################
+pid is :    38
+preTupleLen:  673
+curTupleIndex:  35
+total tuple is:  36
+00000000 00000000 00000000 00100110
+#############################
+2968,dog,plane
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1092,meteor,chief
+strlen0 is 17
+preTupleLen is 18
+strlen is 20
+#############################
+pid is :    39
+preTupleLen:  39
+curTupleIndex:  1
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1159,kitchen,vampire
+strlen0 is 17
+preTupleLen is 39
+strlen is 15
+#############################
+pid is :    39
+preTupleLen:  55
+curTupleIndex:  2
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1196,woman,ship
+strlen0 is 17
+preTupleLen is 55
+strlen is 13
+#############################
+pid is :    39
+preTupleLen:  69
+curTupleIndex:  3
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1300,ears,fin
+strlen0 is 17
+preTupleLen is 69
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  89
+curTupleIndex:  4
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1329,tongue,perfume
+strlen0 is 17
+preTupleLen is 89
+strlen is 18
+#############################
+pid is :    39
+preTupleLen:  108
+curTupleIndex:  5
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1500,tapestry,milk
+strlen0 is 17
+preTupleLen is 108
+strlen is 15
+#############################
+pid is :    39
+preTupleLen:  124
+curTupleIndex:  6
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1537,ring,x-ray
+strlen0 is 17
+preTupleLen is 124
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  142
+curTupleIndex:  7
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1668,prison,spoon
+strlen0 is 17
+preTupleLen is 142
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  162
+curTupleIndex:  8
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1689,meteor,crystal
+strlen0 is 17
+preTupleLen is 162
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  180
+curTupleIndex:  9
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1724,money,needle
+strlen0 is 17
+preTupleLen is 180
+strlen is 23
+#############################
+pid is :    39
+preTupleLen:  204
+curTupleIndex:  10
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1752,videotape,airforce
+strlen0 is 17
+preTupleLen is 204
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  224
+curTupleIndex:  11
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+1963,vacuum,airport
+strlen0 is 17
+preTupleLen is 224
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  242
+curTupleIndex:  12
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2135,child,pocket
+strlen0 is 17
+preTupleLen is 242
+strlen is 21
+#############################
+pid is :    39
+preTupleLen:  264
+curTupleIndex:  13
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2215,tongue,aeroplane
+strlen0 is 17
+preTupleLen is 264
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  282
+curTupleIndex:  14
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2255,hammer,radar
+strlen0 is 17
+preTupleLen is 282
+strlen is 22
+#############################
+pid is :    39
+preTupleLen:  305
+curTupleIndex:  15
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2363,sunglasses,button
+strlen0 is 17
+preTupleLen is 305
+strlen is 22
+#############################
+pid is :    39
+preTupleLen:  328
+curTupleIndex:  16
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2506,butterfly,compass
+strlen0 is 17
+preTupleLen is 328
+strlen is 16
+#############################
+pid is :    39
+preTupleLen:  345
+curTupleIndex:  17
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2540,finger,dung
+strlen0 is 17
+preTupleLen is 345
+strlen is 17
+#############################
+pid is :    39
+preTupleLen:  363
+curTupleIndex:  18
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2568,hammer,x-ray
+strlen0 is 17
+preTupleLen is 363
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  383
+curTupleIndex:  19
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2578,meat,horoscope
+strlen0 is 17
+preTupleLen is 383
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  403
+curTupleIndex:  20
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2610,dingbat,circus
+strlen0 is 17
+preTupleLen is 403
+strlen is 19
+#############################
+pid is :    39
+preTupleLen:  423
+curTupleIndex:  21
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2649,banana,vulture
+strlen0 is 17
+preTupleLen is 423
+strlen is 20
+#############################
+pid is :    39
+preTupleLen:  444
+curTupleIndex:  22
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2688,hammer,umbrella
+strlen0 is 17
+preTupleLen is 444
+strlen is 20
+#############################
+pid is :    39
+preTupleLen:  465
+curTupleIndex:  23
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2695,microscope,boss
+strlen0 is 17
+preTupleLen is 465
+strlen is 18
+#############################
+pid is :    39
+preTupleLen:  484
+curTupleIndex:  24
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2738,tunnel,pocket
+strlen0 is 17
+preTupleLen is 484
+strlen is 15
+#############################
+pid is :    39
+preTupleLen:  500
+curTupleIndex:  25
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2776,family,man
+strlen0 is 17
+preTupleLen is 500
+strlen is 16
+#############################
+pid is :    39
+preTupleLen:  517
+curTupleIndex:  26
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2829,bathtub,mum
+strlen0 is 17
+preTupleLen is 517
+strlen is 16
+#############################
+pid is :    39
+preTupleLen:  534
+curTupleIndex:  27
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2889,map,airport
+strlen0 is 17
+preTupleLen is 534
+strlen is 16
+#############################
+pid is :    39
+preTupleLen:  551
+curTupleIndex:  28
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2962,family,milk
+strlen0 is 17
+preTupleLen is 551
+strlen is 16
+#############################
+pid is :    39
+preTupleLen:  568
+curTupleIndex:  29
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2967,woman,adult
+strlen0 is 17
+preTupleLen is 568
+strlen is 22
+#############################
+pid is :    39
+preTupleLen:  591
+curTupleIndex:  30
+total tuple is:  31
+00000000 00000000 00000000 00100111
+#############################
+2983,kaleidoscope,ship
+
+
+start new page------------ 
+strlen0 is 13
+preTupleLen is 0
+strlen is 13
+#############################
+pid is :    44
+preTupleLen:  14
+curTupleIndex:  0
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1037,leg,eyes
+strlen0 is 13
+preTupleLen is 14
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  34
+curTupleIndex:  1
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1120,printer,flower
+strlen0 is 13
+preTupleLen is 34
+strlen is 15
+#############################
+pid is :    44
+preTupleLen:  50
+curTupleIndex:  2
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1273,junk,spoon
+strlen0 is 13
+preTupleLen is 50
+strlen is 18
+#############################
+pid is :    44
+preTupleLen:  69
+curTupleIndex:  3
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1294,garden,circus
+strlen0 is 13
+preTupleLen is 69
+strlen is 18
+#############################
+pid is :    44
+preTupleLen:  88
+curTupleIndex:  4
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1309,pendulum,post
+strlen0 is 13
+preTupleLen is 88
+strlen is 15
+#############################
+pid is :    44
+preTupleLen:  104
+curTupleIndex:  5
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1403,liquid,mum
+strlen0 is 13
+preTupleLen is 104
+strlen is 24
+#############################
+pid is :    44
+preTupleLen:  129
+curTupleIndex:  6
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1422,signature,horoscope
+strlen0 is 13
+preTupleLen is 129
+strlen is 16
+#############################
+pid is :    44
+preTupleLen:  146
+curTupleIndex:  7
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1499,garden,boss
+strlen0 is 13
+preTupleLen is 146
+strlen is 17
+#############################
+pid is :    44
+preTupleLen:  164
+curTupleIndex:  8
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1555,sun,mosquito
+strlen0 is 13
+preTupleLen is 164
+strlen is 18
+#############################
+pid is :    44
+preTupleLen:  183
+curTupleIndex:  9
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1588,window,flower
+strlen0 is 13
+preTupleLen is 183
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  203
+curTupleIndex:  10
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1661,ice-cream,eyes
+strlen0 is 13
+preTupleLen is 203
+strlen is 22
+#############################
+pid is :    44
+preTupleLen:  226
+curTupleIndex:  11
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1719,television,sphere
+strlen0 is 13
+preTupleLen is 226
+strlen is 13
+#############################
+pid is :    44
+preTupleLen:  240
+curTupleIndex:  12
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1785,girl,boy
+strlen0 is 13
+preTupleLen is 240
+strlen is 17
+#############################
+pid is :    44
+preTupleLen:  258
+curTupleIndex:  13
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+1808,web,triangle
+strlen0 is 13
+preTupleLen is 258
+strlen is 22
+#############################
+pid is :    44
+preTupleLen:  281
+curTupleIndex:  14
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2025,television,pebble
+strlen0 is 13
+preTupleLen is 281
+strlen is 13
+#############################
+pid is :    44
+preTupleLen:  295
+curTupleIndex:  15
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2112,leg,swim
+strlen0 is 13
+preTupleLen is 295
+strlen is 17
+#############################
+pid is :    44
+preTupleLen:  313
+curTupleIndex:  16
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2188,gas,triangle
+strlen0 is 13
+preTupleLen is 313
+strlen is 18
+#############################
+pid is :    44
+preTupleLen:  332
+curTupleIndex:  17
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2220,alphabet,milk
+strlen0 is 13
+preTupleLen is 332
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  352
+curTupleIndex:  18
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2280,garden,vulture
+strlen0 is 13
+preTupleLen is 352
+strlen is 21
+#############################
+pid is :    44
+preTupleLen:  374
+curTupleIndex:  19
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2348,library,umbrella
+strlen0 is 13
+preTupleLen is 374
+strlen is 17
+#############################
+pid is :    44
+preTupleLen:  392
+curTupleIndex:  20
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2374,torpedo,swim
+strlen0 is 13
+preTupleLen is 392
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  412
+curTupleIndex:  21
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2464,library,circus
+strlen0 is 13
+preTupleLen is 412
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  432
+curTupleIndex:  22
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2699,printer,circus
+strlen0 is 13
+preTupleLen is 432
+strlen is 20
+#############################
+pid is :    44
+preTupleLen:  453
+curTupleIndex:  23
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2817,stomach,compass
+strlen0 is 13
+preTupleLen is 453
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  473
+curTupleIndex:  24
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2874,gemstone,drill
+strlen0 is 13
+preTupleLen is 473
+strlen is 15
+#############################
+pid is :    44
+preTupleLen:  489
+curTupleIndex:  25
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2876,leg,pocket
+strlen0 is 13
+preTupleLen is 489
+strlen is 14
+#############################
+pid is :    44
+preTupleLen:  504
+curTupleIndex:  26
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2959,army,dung
+strlen0 is 13
+preTupleLen is 504
+strlen is 19
+#############################
+pid is :    44
+preTupleLen:  524
+curTupleIndex:  27
+total tuple is:  28
+00000000 00000000 00000000 00101100
+#############################
+2985,surveyor,space
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    45
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1106,elephant,rib
+strlen0 is 17
+preTupleLen is 18
+strlen is 23
+#############################
+pid is :    45
+preTupleLen:  42
+curTupleIndex:  1
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1134,television,feather
+strlen0 is 17
+preTupleLen is 42
+strlen is 22
+#############################
+pid is :    45
+preTupleLen:  65
+curTupleIndex:  2
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1176,telescope,crystal
+strlen0 is 17
+preTupleLen is 65
+strlen is 21
+#############################
+pid is :    45
+preTupleLen:  87
+curTupleIndex:  3
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1237,alphabet,crystal
+strlen0 is 17
+preTupleLen is 87
+strlen is 15
+#############################
+pid is :    45
+preTupleLen:  103
+curTupleIndex:  4
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1253,web,button
+strlen0 is 17
+preTupleLen is 103
+strlen is 19
+#############################
+pid is :    45
+preTupleLen:  123
+curTupleIndex:  5
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1270,skeleton,drill
+strlen0 is 17
+preTupleLen is 123
+strlen is 12
+#############################
+pid is :    45
+preTupleLen:  136
+curTupleIndex:  6
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+1965,sun,rib
+strlen0 is 17
+preTupleLen is 136
+strlen is 12
+#############################
+pid is :    45
+preTupleLen:  149
+curTupleIndex:  7
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2244,pin,mum
+strlen0 is 17
+preTupleLen is 149
+strlen is 20
+#############################
+pid is :    45
+preTupleLen:  170
+curTupleIndex:  8
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2350,surveyor,pocket
+strlen0 is 17
+preTupleLen is 170
+strlen is 21
+#############################
+pid is :    45
+preTupleLen:  192
+curTupleIndex:  9
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2365,rope,coffee-shop
+strlen0 is 17
+preTupleLen is 192
+strlen is 16
+#############################
+pid is :    45
+preTupleLen:  209
+curTupleIndex:  10
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2381,salt,button
+strlen0 is 17
+preTupleLen is 209
+strlen is 19
+#############################
+pid is :    45
+preTupleLen:  229
+curTupleIndex:  11
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2443,printer,needle
+strlen0 is 17
+preTupleLen is 229
+strlen is 19
+#############################
+pid is :    45
+preTupleLen:  249
+curTupleIndex:  12
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2627,paintbrush,rib
+strlen0 is 17
+preTupleLen is 249
+strlen is 22
+#############################
+pid is :    45
+preTupleLen:  272
+curTupleIndex:  13
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2655,festival,mosquito
+strlen0 is 17
+preTupleLen is 272
+strlen is 16
+#############################
+pid is :    45
+preTupleLen:  289
+curTupleIndex:  14
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2838,oodle,radar
+strlen0 is 17
+preTupleLen is 289
+strlen is 18
+#############################
+pid is :    45
+preTupleLen:  308
+curTupleIndex:  15
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2961,gemstone,post
+strlen0 is 17
+preTupleLen is 308
+strlen is 18
+#############################
+pid is :    45
+preTupleLen:  327
+curTupleIndex:  16
+total tuple is:  17
+00000000 00000000 00000000 00101101
+#############################
+2978,festival,eyes
+
+
+start new page------------ 
+strlen0 is 21
+preTupleLen is 0
+strlen is 21
+#############################
+pid is :    46
+preTupleLen:  22
+curTupleIndex:  0
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1089,kaleidoscope,rib
+strlen0 is 21
+preTupleLen is 22
+strlen is 18
+#############################
+pid is :    46
+preTupleLen:  41
+curTupleIndex:  1
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1105,banana,square
+strlen0 is 21
+preTupleLen is 41
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  58
+curTupleIndex:  2
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1145,tunnel,bomb
+strlen0 is 21
+preTupleLen is 58
+strlen is 13
+#############################
+pid is :    46
+preTupleLen:  72
+curTupleIndex:  3
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1268,zoo,milk
+strlen0 is 21
+preTupleLen is 72
+strlen is 19
+#############################
+pid is :    46
+preTupleLen:  92
+curTupleIndex:  4
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1336,tongue,perfume
+strlen0 is 21
+preTupleLen is 92
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  109
+curTupleIndex:  5
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1462,map,crystal
+strlen0 is 21
+preTupleLen is 109
+strlen is 12
+#############################
+pid is :    46
+preTupleLen:  122
+curTupleIndex:  6
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1474,dog,hat
+strlen0 is 21
+preTupleLen is 122
+strlen is 22
+#############################
+pid is :    46
+preTupleLen:  145
+curTupleIndex:  7
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1575,backpack,airforce
+strlen0 is 21
+preTupleLen is 145
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  162
+curTupleIndex:  8
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1744,money,plane
+strlen0 is 21
+preTupleLen is 162
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  179
+curTupleIndex:  9
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1801,finger,ship
+strlen0 is 21
+preTupleLen is 179
+strlen is 20
+#############################
+pid is :    46
+preTupleLen:  200
+curTupleIndex:  10
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1807,backpack,pocket
+strlen0 is 21
+preTupleLen is 200
+strlen is 20
+#############################
+pid is :    46
+preTupleLen:  221
+curTupleIndex:  11
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1871,passport,shower
+strlen0 is 21
+preTupleLen is 221
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  238
+curTupleIndex:  12
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1923,tunnel,ship
+strlen0 is 21
+preTupleLen is 238
+strlen is 17
+#############################
+pid is :    46
+preTupleLen:  256
+curTupleIndex:  13
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1946,child,shower
+strlen0 is 21
+preTupleLen is 256
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  273
+curTupleIndex:  14
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1951,weapon,ship
+strlen0 is 21
+preTupleLen is 273
+strlen is 12
+#############################
+pid is :    46
+preTupleLen:  286
+curTupleIndex:  15
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1952,bee,win
+strlen0 is 21
+preTupleLen is 286
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  303
+curTupleIndex:  16
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+1995,money,clock
+strlen0 is 21
+preTupleLen is 303
+strlen is 18
+#############################
+pid is :    46
+preTupleLen:  322
+curTupleIndex:  17
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2189,rainbow,spoon
+strlen0 is 21
+preTupleLen is 322
+strlen is 16
+#############################
+pid is :    46
+preTupleLen:  339
+curTupleIndex:  18
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2230,key,compass
+strlen0 is 21
+preTupleLen is 339
+strlen is 14
+#############################
+pid is :    46
+preTupleLen:  354
+curTupleIndex:  19
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2238,bee,drill
+strlen0 is 21
+preTupleLen is 354
+strlen is 15
+#############################
+pid is :    46
+preTupleLen:  370
+curTupleIndex:  20
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2333,finger,rib
+strlen0 is 21
+preTupleLen is 370
+strlen is 25
+#############################
+pid is :    46
+preTupleLen:  396
+curTupleIndex:  21
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2349,sandpaper,floodlight
+strlen0 is 21
+preTupleLen is 396
+strlen is 17
+#############################
+pid is :    46
+preTupleLen:  414
+curTupleIndex:  22
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2355,solid,pocket
+strlen0 is 21
+preTupleLen is 414
+strlen is 15
+#############################
+pid is :    46
+preTupleLen:  430
+curTupleIndex:  23
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2463,zoo,carpet
+strlen0 is 21
+preTupleLen is 430
+strlen is 21
+#############################
+pid is :    46
+preTupleLen:  452
+curTupleIndex:  24
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2519,kaleidoscope,rib
+strlen0 is 21
+preTupleLen is 452
+strlen is 24
+#############################
+pid is :    46
+preTupleLen:  477
+curTupleIndex:  25
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2571,treadmill,horoscope
+strlen0 is 21
+preTupleLen is 477
+strlen is 25
+#############################
+pid is :    46
+preTupleLen:  503
+curTupleIndex:  26
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2944,kaleidoscope,perfume
+strlen0 is 21
+preTupleLen is 503
+strlen is 19
+#############################
+pid is :    46
+preTupleLen:  523
+curTupleIndex:  27
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2951,hammer,airport
+strlen0 is 21
+preTupleLen is 523
+strlen is 17
+#############################
+pid is :    46
+preTupleLen:  541
+curTupleIndex:  28
+total tuple is:  29
+00000000 00000000 00000000 00101110
+#############################
+2966,map,airforce
+
+
+start new page------------ 
+strlen0 is 20
+preTupleLen is 0
+strlen is 20
+#############################
+pid is :    47
+preTupleLen:  21
+curTupleIndex:  0
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1011,sandpaper,sword
+strlen0 is 20
+preTupleLen is 21
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  43
+curTupleIndex:  1
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1074,treadmill,circus
+strlen0 is 20
+preTupleLen is 43
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  65
+curTupleIndex:  2
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1129,sandpaper,pebble
+strlen0 is 20
+preTupleLen is 65
+strlen is 16
+#############################
+pid is :    47
+preTupleLen:  82
+curTupleIndex:  3
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1187,album,drill
+strlen0 is 20
+preTupleLen is 82
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  104
+curTupleIndex:  4
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1345,comet,floodlight
+strlen0 is 20
+preTupleLen is 104
+strlen is 24
+#############################
+pid is :    47
+preTupleLen:  129
+curTupleIndex:  5
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1358,thermometer,feather
+strlen0 is 20
+preTupleLen is 129
+strlen is 17
+#############################
+pid is :    47
+preTupleLen:  147
+curTupleIndex:  6
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1392,hammer,space
+strlen0 is 20
+preTupleLen is 147
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  169
+curTupleIndex:  7
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1681,school,aeroplane
+strlen0 is 20
+preTupleLen is 169
+strlen is 20
+#############################
+pid is :    47
+preTupleLen:  190
+curTupleIndex:  8
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1710,sunglasses,dung
+strlen0 is 20
+preTupleLen is 190
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  212
+curTupleIndex:  9
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1784,sandpaper,shower
+strlen0 is 20
+preTupleLen is 212
+strlen is 16
+#############################
+pid is :    47
+preTupleLen:  229
+curTupleIndex:  10
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1814,weapon,star
+strlen0 is 20
+preTupleLen is 229
+strlen is 15
+#############################
+pid is :    47
+preTupleLen:  245
+curTupleIndex:  11
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1826,map,button
+strlen0 is 20
+preTupleLen is 245
+strlen is 18
+#############################
+pid is :    47
+preTupleLen:  264
+curTupleIndex:  12
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1861,backpack,bomb
+strlen0 is 20
+preTupleLen is 264
+strlen is 20
+#############################
+pid is :    47
+preTupleLen:  285
+curTupleIndex:  13
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+1967,fire,floodlight
+strlen0 is 20
+preTupleLen is 285
+strlen is 23
+#############################
+pid is :    47
+preTupleLen:  309
+curTupleIndex:  14
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2251,chisel,coffee-shop
+strlen0 is 20
+preTupleLen is 309
+strlen is 26
+#############################
+pid is :    47
+preTupleLen:  336
+curTupleIndex:  15
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2266,cappuccino,floodlight
+strlen0 is 20
+preTupleLen is 336
+strlen is 14
+#############################
+pid is :    47
+preTupleLen:  351
+curTupleIndex:  16
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2442,child,mum
+strlen0 is 20
+preTupleLen is 351
+strlen is 20
+#############################
+pid is :    47
+preTupleLen:  372
+curTupleIndex:  17
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2481,butterfly,clock
+strlen0 is 20
+preTupleLen is 372
+strlen is 20
+#############################
+pid is :    47
+preTupleLen:  393
+curTupleIndex:  18
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2491,backpack,spiral
+strlen0 is 20
+preTupleLen is 393
+strlen is 15
+#############################
+pid is :    47
+preTupleLen:  409
+curTupleIndex:  19
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2602,prison,hot
+strlen0 is 20
+preTupleLen is 409
+strlen is 17
+#############################
+pid is :    47
+preTupleLen:  427
+curTupleIndex:  20
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2727,desk,perfume
+strlen0 is 20
+preTupleLen is 427
+strlen is 18
+#############################
+pid is :    47
+preTupleLen:  446
+curTupleIndex:  21
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2754,bathroom,star
+strlen0 is 20
+preTupleLen is 446
+strlen is 22
+#############################
+pid is :    47
+preTupleLen:  469
+curTupleIndex:  22
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2868,bathroom,airforce
+strlen0 is 20
+preTupleLen is 469
+strlen is 21
+#############################
+pid is :    47
+preTupleLen:  491
+curTupleIndex:  23
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2881,double,aeroplane
+strlen0 is 20
+preTupleLen is 491
+strlen is 22
+#############################
+pid is :    47
+preTupleLen:  514
+curTupleIndex:  24
+total tuple is:  25
+00000000 00000000 00000000 00101111
+#############################
+2923,saddle,floodlight
+
+
+start new page------------ 
+strlen0 is 14
+preTupleLen is 0
+strlen is 14
+#############################
+pid is :    52
+preTupleLen:  15
+curTupleIndex:  0
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1068,gasp,dung
+strlen0 is 14
+preTupleLen is 15
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  33
+curTupleIndex:  1
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1131,cycle,sphere
+strlen0 is 14
+preTupleLen is 33
+strlen is 20
+#############################
+pid is :    52
+preTupleLen:  54
+curTupleIndex:  2
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1248,bed,coffee-shop
+strlen0 is 14
+preTupleLen is 54
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  73
+curTupleIndex:  3
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1418,planet,needle
+strlen0 is 14
+preTupleLen is 73
+strlen is 19
+#############################
+pid is :    52
+preTupleLen:  93
+curTupleIndex:  4
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1423,sandwich,spoon
+strlen0 is 14
+preTupleLen is 93
+strlen is 15
+#############################
+pid is :    52
+preTupleLen:  109
+curTupleIndex:  5
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1634,water,boss
+strlen0 is 14
+preTupleLen is 109
+strlen is 16
+#############################
+pid is :    52
+preTupleLen:  126
+curTupleIndex:  6
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1648,circle,ship
+strlen0 is 14
+preTupleLen is 126
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  145
+curTupleIndex:  7
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1703,staircase,fin
+strlen0 is 14
+preTupleLen is 145
+strlen is 15
+#############################
+pid is :    52
+preTupleLen:  161
+curTupleIndex:  8
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1772,baby,clock
+strlen0 is 14
+preTupleLen is 161
+strlen is 13
+#############################
+pid is :    52
+preTupleLen:  175
+curTupleIndex:  9
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1834,set,eyes
+strlen0 is 14
+preTupleLen is 175
+strlen is 15
+#############################
+pid is :    52
+preTupleLen:  191
+curTupleIndex:  10
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1863,horse,boss
+strlen0 is 14
+preTupleLen is 191
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  209
+curTupleIndex:  11
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1899,eraser,x-ray
+strlen0 is 14
+preTupleLen is 209
+strlen is 20
+#############################
+pid is :    52
+preTupleLen:  230
+curTupleIndex:  12
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1915,monster,airport
+strlen0 is 14
+preTupleLen is 230
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  248
+curTupleIndex:  13
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1932,knife,needle
+strlen0 is 14
+preTupleLen is 248
+strlen is 16
+#############################
+pid is :    52
+preTupleLen:  265
+curTupleIndex:  14
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+1933,bed,crystal
+strlen0 is 14
+preTupleLen is 265
+strlen is 15
+#############################
+pid is :    52
+preTupleLen:  281
+curTupleIndex:  15
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2037,circle,hot
+strlen0 is 14
+preTupleLen is 281
+strlen is 26
+#############################
+pid is :    52
+preTupleLen:  308
+curTupleIndex:  16
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2048,milkshake,coffee-shop
+strlen0 is 14
+preTupleLen is 308
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  327
+curTupleIndex:  17
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2064,torch,crystal
+strlen0 is 14
+preTupleLen is 327
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  345
+curTupleIndex:  18
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2102,navy,perfume
+strlen0 is 14
+preTupleLen is 345
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  363
+curTupleIndex:  19
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2104,pith,crystal
+strlen0 is 14
+preTupleLen is 363
+strlen is 15
+#############################
+pid is :    52
+preTupleLen:  379
+curTupleIndex:  20
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2207,set,circus
+strlen0 is 14
+preTupleLen is 379
+strlen is 21
+#############################
+pid is :    52
+preTupleLen:  401
+curTupleIndex:  21
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2257,table,floodlight
+strlen0 is 14
+preTupleLen is 401
+strlen is 20
+#############################
+pid is :    52
+preTupleLen:  422
+curTupleIndex:  22
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2342,satellite,drink
+strlen0 is 14
+preTupleLen is 422
+strlen is 21
+#############################
+pid is :    52
+preTupleLen:  444
+curTupleIndex:  23
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2539,staircase,pebble
+strlen0 is 14
+preTupleLen is 444
+strlen is 20
+#############################
+pid is :    52
+preTupleLen:  465
+curTupleIndex:  24
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2704,chocolates,ship
+strlen0 is 14
+preTupleLen is 465
+strlen is 14
+#############################
+pid is :    52
+preTupleLen:  480
+curTupleIndex:  25
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2744,set,space
+strlen0 is 14
+preTupleLen is 480
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  499
+curTupleIndex:  26
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2758,freeway,radar
+strlen0 is 14
+preTupleLen is 499
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  518
+curTupleIndex:  27
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2764,gasp,umbrella
+strlen0 is 14
+preTupleLen is 518
+strlen is 16
+#############################
+pid is :    52
+preTupleLen:  535
+curTupleIndex:  28
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2769,magnet,star
+strlen0 is 14
+preTupleLen is 535
+strlen is 17
+#############################
+pid is :    52
+preTupleLen:  553
+curTupleIndex:  29
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2832,teeth,circus
+strlen0 is 14
+preTupleLen is 553
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  572
+curTupleIndex:  30
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2855,spice,crystal
+strlen0 is 14
+preTupleLen is 572
+strlen is 18
+#############################
+pid is :    52
+preTupleLen:  591
+curTupleIndex:  31
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2882,diamond,adult
+strlen0 is 14
+preTupleLen is 591
+strlen is 20
+#############################
+pid is :    52
+preTupleLen:  612
+curTupleIndex:  32
+total tuple is:  33
+00000000 00000000 00000000 00110100
+#############################
+2928,potato,umbrella
+
+
+start new page------------ 
+strlen0 is 20
+preTupleLen is 0
+strlen is 20
+#############################
+pid is :    53
+preTupleLen:  21
+curTupleIndex:  0
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1001,navy,hieroglyph
+strlen0 is 20
+preTupleLen is 21
+strlen is 20
+#############################
+pid is :    53
+preTupleLen:  42
+curTupleIndex:  1
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1079,aircraft,flower
+strlen0 is 20
+preTupleLen is 42
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  60
+curTupleIndex:  2
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1319,cat,mosquito
+strlen0 is 20
+preTupleLen is 60
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  78
+curTupleIndex:  3
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1327,zebra,pocket
+strlen0 is 20
+preTupleLen is 78
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  96
+curTupleIndex:  4
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1332,monster,eyes
+strlen0 is 20
+preTupleLen is 96
+strlen is 18
+#############################
+pid is :    53
+preTupleLen:  115
+curTupleIndex:  5
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1334,record,shower
+strlen0 is 20
+preTupleLen is 115
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  131
+curTupleIndex:  6
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1356,rocket,man
+strlen0 is 20
+preTupleLen is 131
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  147
+curTupleIndex:  7
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1453,pith,clock
+strlen0 is 20
+preTupleLen is 147
+strlen is 12
+#############################
+pid is :    53
+preTupleLen:  160
+curTupleIndex:  8
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1483,egg,rib
+strlen0 is 20
+preTupleLen is 160
+strlen is 21
+#############################
+pid is :    53
+preTupleLen:  182
+curTupleIndex:  9
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1517,spectrum,feather
+strlen0 is 20
+preTupleLen is 182
+strlen is 16
+#############################
+pid is :    53
+preTupleLen:  199
+curTupleIndex:  10
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1593,rock,carpet
+strlen0 is 20
+preTupleLen is 199
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  217
+curTupleIndex:  11
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1616,grapes,adult
+strlen0 is 20
+preTupleLen is 217
+strlen is 21
+#############################
+pid is :    53
+preTupleLen:  239
+curTupleIndex:  12
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1682,chair,hieroglyph
+strlen0 is 20
+preTupleLen is 239
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  255
+curTupleIndex:  13
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1766,bed,insect
+strlen0 is 20
+preTupleLen is 255
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  271
+curTupleIndex:  14
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1787,arm,square
+strlen0 is 20
+preTupleLen is 271
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  289
+curTupleIndex:  15
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1804,aircraft,fin
+strlen0 is 20
+preTupleLen is 289
+strlen is 22
+#############################
+pid is :    53
+preTupleLen:  312
+curTupleIndex:  16
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1830,torch,jet-fighter
+strlen0 is 20
+preTupleLen is 312
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  330
+curTupleIndex:  17
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1831,navy,balloon
+strlen0 is 20
+preTupleLen is 330
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  346
+curTupleIndex:  18
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1884,coffee,fin
+strlen0 is 20
+preTupleLen is 346
+strlen is 19
+#############################
+pid is :    53
+preTupleLen:  366
+curTupleIndex:  19
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1908,potato,perfume
+strlen0 is 20
+preTupleLen is 366
+strlen is 19
+#############################
+pid is :    53
+preTupleLen:  386
+curTupleIndex:  20
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1920,eraser,perfume
+strlen0 is 20
+preTupleLen is 386
+strlen is 20
+#############################
+pid is :    53
+preTupleLen:  407
+curTupleIndex:  21
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+1968,spice,horoscope
+strlen0 is 20
+preTupleLen is 407
+strlen is 18
+#############################
+pid is :    53
+preTupleLen:  426
+curTupleIndex:  22
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2017,pepper,spiral
+strlen0 is 20
+preTupleLen is 426
+strlen is 20
+#############################
+pid is :    53
+preTupleLen:  447
+curTupleIndex:  23
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2045,chocolates,eyes
+strlen0 is 20
+preTupleLen is 447
+strlen is 13
+#############################
+pid is :    53
+preTupleLen:  461
+curTupleIndex:  24
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2057,foot,win
+strlen0 is 20
+preTupleLen is 461
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  477
+curTupleIndex:  25
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2095,cat,circus
+strlen0 is 20
+preTupleLen is 477
+strlen is 16
+#############################
+pid is :    53
+preTupleLen:  494
+curTupleIndex:  26
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2213,fan,crystal
+strlen0 is 20
+preTupleLen is 494
+strlen is 20
+#############################
+pid is :    53
+preTupleLen:  515
+curTupleIndex:  27
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2274,leather,airport
+strlen0 is 20
+preTupleLen is 515
+strlen is 15
+#############################
+pid is :    53
+preTupleLen:  531
+curTupleIndex:  28
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2287,rocket,rib
+strlen0 is 20
+preTupleLen is 531
+strlen is 22
+#############################
+pid is :    53
+preTupleLen:  554
+curTupleIndex:  29
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2314,restaurant,shower
+strlen0 is 20
+preTupleLen is 554
+strlen is 14
+#############################
+pid is :    53
+preTupleLen:  569
+curTupleIndex:  30
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2587,foot,ship
+strlen0 is 20
+preTupleLen is 569
+strlen is 21
+#############################
+pid is :    53
+preTupleLen:  591
+curTupleIndex:  31
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2394,room,coffee-shop
+strlen0 is 20
+preTupleLen is 591
+strlen is 18
+#############################
+pid is :    53
+preTupleLen:  610
+curTupleIndex:  32
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2465,fungus,carpet
+strlen0 is 20
+preTupleLen is 610
+strlen is 19
+#############################
+pid is :    53
+preTupleLen:  630
+curTupleIndex:  33
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2620,hose,horoscope
+strlen0 is 20
+preTupleLen is 630
+strlen is 19
+#############################
+pid is :    53
+preTupleLen:  650
+curTupleIndex:  34
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2811,mist,aeroplane
+strlen0 is 20
+preTupleLen is 650
+strlen is 17
+#############################
+pid is :    53
+preTupleLen:  668
+curTupleIndex:  35
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2924,maze,vampire
+strlen0 is 20
+preTupleLen is 668
+strlen is 18
+#############################
+pid is :    53
+preTupleLen:  687
+curTupleIndex:  36
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2937,rocket,spiral
+strlen0 is 20
+preTupleLen is 687
+strlen is 22
+#############################
+pid is :    53
+preTupleLen:  710
+curTupleIndex:  37
+total tuple is:  38
+00000000 00000000 00000000 00110101
+#############################
+2939,wheelchair,needle
+
+
+start new page------------ 
+strlen0 is 18
+preTupleLen is 0
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  19
+curTupleIndex:  0
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1020,circus,flower
+strlen0 is 18
+preTupleLen is 19
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  36
+curTupleIndex:  1
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1058,spiral,ship
+strlen0 is 18
+preTupleLen is 36
+strlen is 17
+#############################
+pid is :    54
+preTupleLen:  54
+curTupleIndex:  2
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1084,boss,airport
+strlen0 is 18
+preTupleLen is 54
+strlen is 24
+#############################
+pid is :    54
+preTupleLen:  79
+curTupleIndex:  3
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1101,mosquito,floodlight
+strlen0 is 18
+preTupleLen is 79
+strlen is 21
+#############################
+pid is :    54
+preTupleLen:  101
+curTupleIndex:  4
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1110,radar,floodlight
+strlen0 is 18
+preTupleLen is 101
+strlen is 15
+#############################
+pid is :    54
+preTupleLen:  117
+curTupleIndex:  5
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1130,hot,circus
+strlen0 is 18
+preTupleLen is 117
+strlen is 15
+#############################
+pid is :    54
+preTupleLen:  133
+curTupleIndex:  6
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1220,spiral,man
+strlen0 is 18
+preTupleLen is 133
+strlen is 20
+#############################
+pid is :    54
+preTupleLen:  154
+curTupleIndex:  7
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1227,vampire,balloon
+strlen0 is 18
+preTupleLen is 154
+strlen is 19
+#############################
+pid is :    54
+preTupleLen:  174
+curTupleIndex:  8
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1251,insect,airport
+strlen0 is 18
+preTupleLen is 174
+strlen is 19
+#############################
+pid is :    54
+preTupleLen:  194
+curTupleIndex:  9
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1292,circus,perfume
+strlen0 is 18
+preTupleLen is 194
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  211
+curTupleIndex:  10
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1436,circus,post
+strlen0 is 18
+preTupleLen is 211
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  230
+curTupleIndex:  11
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1552,pocket,button
+strlen0 is 18
+preTupleLen is 230
+strlen is 17
+#############################
+pid is :    54
+preTupleLen:  248
+curTupleIndex:  12
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1645,circus,spoon
+strlen0 is 18
+preTupleLen is 248
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  265
+curTupleIndex:  13
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1740,onion,clock
+strlen0 is 18
+preTupleLen is 265
+strlen is 14
+#############################
+pid is :    54
+preTupleLen:  280
+curTupleIndex:  14
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+1832,sword,rib
+strlen0 is 18
+preTupleLen is 280
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  297
+curTupleIndex:  15
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2065,fin,feather
+strlen0 is 18
+preTupleLen is 297
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  314
+curTupleIndex:  16
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2080,chief,spoon
+strlen0 is 18
+preTupleLen is 314
+strlen is 15
+#############################
+pid is :    54
+preTupleLen:  330
+curTupleIndex:  17
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2096,hat,spiral
+strlen0 is 18
+preTupleLen is 330
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  349
+curTupleIndex:  18
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2103,dung,umbrella
+strlen0 is 18
+preTupleLen is 349
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  368
+curTupleIndex:  19
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2122,crystal,drink
+strlen0 is 18
+preTupleLen is 368
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  387
+curTupleIndex:  20
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2225,spiral,spiral
+strlen0 is 18
+preTupleLen is 387
+strlen is 14
+#############################
+pid is :    54
+preTupleLen:  402
+curTupleIndex:  21
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2228,space,hat
+strlen0 is 18
+preTupleLen is 402
+strlen is 16
+#############################
+pid is :    54
+preTupleLen:  419
+curTupleIndex:  22
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2286,onion,drink
+strlen0 is 18
+preTupleLen is 419
+strlen is 12
+#############################
+pid is :    54
+preTupleLen:  432
+curTupleIndex:  23
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2379,win,win
+strlen0 is 18
+preTupleLen is 432
+strlen is 14
+#############################
+pid is :    54
+preTupleLen:  447
+curTupleIndex:  24
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2403,dung,bomb
+strlen0 is 18
+preTupleLen is 447
+strlen is 15
+#############################
+pid is :    54
+preTupleLen:  463
+curTupleIndex:  25
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2631,hat,insect
+strlen0 is 18
+preTupleLen is 463
+strlen is 17
+#############################
+pid is :    54
+preTupleLen:  481
+curTupleIndex:  26
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2662,circus,adult
+strlen0 is 18
+preTupleLen is 481
+strlen is 18
+#############################
+pid is :    54
+preTupleLen:  500
+curTupleIndex:  27
+total tuple is:  28
+00000000 00000000 00000000 00110110
+#############################
+2845,shower,button
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    55
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1103,x-ray,square
+strlen0 is 17
+preTupleLen is 18
+strlen is 18
+#############################
+pid is :    55
+preTupleLen:  37
+curTupleIndex:  1
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1290,crystal,onion
+strlen0 is 17
+preTupleLen is 37
+strlen is 17
+#############################
+pid is :    55
+preTupleLen:  55
+curTupleIndex:  2
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1449,airport,ship
+strlen0 is 17
+preTupleLen is 55
+strlen is 18
+#############################
+pid is :    55
+preTupleLen:  74
+curTupleIndex:  3
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1597,boy,horoscope
+strlen0 is 17
+preTupleLen is 74
+strlen is 16
+#############################
+pid is :    55
+preTupleLen:  91
+curTupleIndex:  4
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1677,star,circus
+strlen0 is 17
+preTupleLen is 91
+strlen is 14
+#############################
+pid is :    55
+preTupleLen:  106
+curTupleIndex:  5
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1692,post,bomb
+strlen0 is 17
+preTupleLen is 106
+strlen is 16
+#############################
+pid is :    55
+preTupleLen:  123
+curTupleIndex:  6
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1827,button,boss
+strlen0 is 17
+preTupleLen is 123
+strlen is 22
+#############################
+pid is :    55
+preTupleLen:  146
+curTupleIndex:  7
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1870,hieroglyph,carpet
+strlen0 is 17
+preTupleLen is 146
+strlen is 18
+#############################
+pid is :    55
+preTupleLen:  165
+curTupleIndex:  8
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1917,onion,balloon
+strlen0 is 17
+preTupleLen is 165
+strlen is 20
+#############################
+pid is :    55
+preTupleLen:  186
+curTupleIndex:  9
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+1956,airforce,button
+strlen0 is 17
+preTupleLen is 186
+strlen is 20
+#############################
+pid is :    55
+preTupleLen:  207
+curTupleIndex:  10
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2014,drill,horoscope
+strlen0 is 17
+preTupleLen is 207
+strlen is 21
+#############################
+pid is :    55
+preTupleLen:  229
+curTupleIndex:  11
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2161,perfume,airforce
+strlen0 is 17
+preTupleLen is 229
+strlen is 16
+#############################
+pid is :    55
+preTupleLen:  246
+curTupleIndex:  12
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2406,sword,spoon
+strlen0 is 17
+preTupleLen is 246
+strlen is 14
+#############################
+pid is :    55
+preTupleLen:  261
+curTupleIndex:  13
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2476,adult,hat
+strlen0 is 17
+preTupleLen is 261
+strlen is 14
+#############################
+pid is :    55
+preTupleLen:  276
+curTupleIndex:  14
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2484,man,x-ray
+strlen0 is 17
+preTupleLen is 276
+strlen is 22
+#############################
+pid is :    55
+preTupleLen:  299
+curTupleIndex:  15
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2557,triangle,triangle
+strlen0 is 17
+preTupleLen is 299
+strlen is 19
+#############################
+pid is :    55
+preTupleLen:  319
+curTupleIndex:  16
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2635,swim,horoscope
+strlen0 is 17
+preTupleLen is 319
+strlen is 16
+#############################
+pid is :    55
+preTupleLen:  336
+curTupleIndex:  17
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2685,dung,sphere
+strlen0 is 17
+preTupleLen is 336
+strlen is 20
+#############################
+pid is :    55
+preTupleLen:  357
+curTupleIndex:  18
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2770,boy,jet-fighter
+strlen0 is 17
+preTupleLen is 357
+strlen is 17
+#############################
+pid is :    55
+preTupleLen:  375
+curTupleIndex:  19
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2813,drink,needle
+strlen0 is 17
+preTupleLen is 375
+strlen is 20
+#############################
+pid is :    55
+preTupleLen:  396
+curTupleIndex:  20
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2834,triangle,sphere
+strlen0 is 17
+preTupleLen is 396
+strlen is 19
+#############################
+pid is :    55
+preTupleLen:  416
+curTupleIndex:  21
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2859,feather,spiral
+strlen0 is 17
+preTupleLen is 416
+strlen is 17
+#############################
+pid is :    55
+preTupleLen:  434
+curTupleIndex:  22
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2873,plane,flower
+strlen0 is 17
+preTupleLen is 434
+strlen is 15
+#############################
+pid is :    55
+preTupleLen:  450
+curTupleIndex:  23
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2977,hot,circus
+strlen0 is 17
+preTupleLen is 450
+strlen is 19
+#############################
+pid is :    55
+preTupleLen:  470
+curTupleIndex:  24
+total tuple is:  25
+00000000 00000000 00000000 00110111
+#############################
+2995,perfume,button
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1007,gasp,rainbow
+strlen0 is 17
+preTupleLen is 18
+strlen is 19
+#############################
+pid is :    28
+preTupleLen:  38
+curTupleIndex:  1
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1044,sandwich,comet
+strlen0 is 17
+preTupleLen is 38
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  57
+curTupleIndex:  2
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1097,egg,treadmill
+strlen0 is 17
+preTupleLen is 57
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  76
+curTupleIndex:  3
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1146,planet,family
+strlen0 is 17
+preTupleLen is 76
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  91
+curTupleIndex:  4
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1211,maze,eyes
+strlen0 is 17
+preTupleLen is 91
+strlen is 20
+#############################
+pid is :    28
+preTupleLen:  112
+curTupleIndex:  5
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1224,satellite,slave
+strlen0 is 17
+preTupleLen is 112
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  127
+curTupleIndex:  6
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1285,maze,cave
+strlen0 is 17
+preTupleLen is 127
+strlen is 21
+#############################
+pid is :    28
+preTupleLen:  149
+curTupleIndex:  7
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1296,freeway,backpack
+strlen0 is 17
+preTupleLen is 149
+strlen is 20
+#############################
+pid is :    28
+preTupleLen:  170
+curTupleIndex:  8
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1305,room,microscope
+strlen0 is 17
+preTupleLen is 170
+strlen is 16
+#############################
+pid is :    28
+preTupleLen:  187
+curTupleIndex:  9
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1328,chair,radar
+strlen0 is 17
+preTupleLen is 187
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  203
+curTupleIndex:  10
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1333,ice,meteor
+strlen0 is 17
+preTupleLen is 203
+strlen is 19
+#############################
+pid is :    28
+preTupleLen:  223
+curTupleIndex:  11
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1364,barbecue,money
+strlen0 is 17
+preTupleLen is 223
+strlen is 22
+#############################
+pid is :    28
+preTupleLen:  246
+curTupleIndex:  12
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1367,record,sunglasses
+strlen0 is 17
+preTupleLen is 246
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  265
+curTupleIndex:  13
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1372,chair,feather
+strlen0 is 17
+preTupleLen is 265
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  284
+curTupleIndex:  14
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1446,circle,pebble
+strlen0 is 17
+preTupleLen is 284
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  302
+curTupleIndex:  15
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1479,water,circus
+strlen0 is 17
+preTupleLen is 302
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  320
+curTupleIndex:  16
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1490,dress,chisel
+strlen0 is 17
+preTupleLen is 320
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  336
+curTupleIndex:  17
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1516,mouth,worm
+strlen0 is 17
+preTupleLen is 336
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  354
+curTupleIndex:  18
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1518,water,pocket
+strlen0 is 17
+preTupleLen is 354
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  372
+curTupleIndex:  19
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1570,record,snail
+strlen0 is 17
+preTupleLen is 372
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  388
+curTupleIndex:  20
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1589,foot,sword
+strlen0 is 17
+preTupleLen is 388
+strlen is 13
+#############################
+pid is :    28
+preTupleLen:  402
+curTupleIndex:  21
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1674,foot,hot
+strlen0 is 17
+preTupleLen is 402
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  417
+curTupleIndex:  22
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1713,room,swim
+strlen0 is 17
+preTupleLen is 417
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  436
+curTupleIndex:  23
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1716,horse,dingbat
+strlen0 is 17
+preTupleLen is 436
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  451
+curTupleIndex:  24
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1737,water,boy
+strlen0 is 17
+preTupleLen is 451
+strlen is 21
+#############################
+pid is :    28
+preTupleLen:  473
+curTupleIndex:  25
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1779,pepper,videotape
+strlen0 is 17
+preTupleLen is 473
+strlen is 16
+#############################
+pid is :    28
+preTupleLen:  490
+curTupleIndex:  26
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1799,bank,pocket
+strlen0 is 17
+preTupleLen is 490
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  505
+curTupleIndex:  27
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1835,knife,fin
+strlen0 is 17
+preTupleLen is 505
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  523
+curTupleIndex:  28
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1851,eraser,slave
+strlen0 is 17
+preTupleLen is 523
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  539
+curTupleIndex:  29
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1874,earth,meat
+strlen0 is 17
+preTupleLen is 539
+strlen is 24
+#############################
+pid is :    28
+preTupleLen:  564
+curTupleIndex:  30
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1890,milkshake,videotape
+strlen0 is 17
+preTupleLen is 564
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  582
+curTupleIndex:  31
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1921,magnet,woman
+strlen0 is 17
+preTupleLen is 582
+strlen is 16
+#############################
+pid is :    28
+preTupleLen:  599
+curTupleIndex:  32
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1947,potato,bomb
+strlen0 is 17
+preTupleLen is 599
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  614
+curTupleIndex:  33
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+1973,pith,ship
+strlen0 is 17
+preTupleLen is 614
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  632
+curTupleIndex:  34
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2005,pillow,plane
+strlen0 is 17
+preTupleLen is 632
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  647
+curTupleIndex:  35
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2030,earth,air
+strlen0 is 17
+preTupleLen is 647
+strlen is 20
+#############################
+pid is :    28
+preTupleLen:  668
+curTupleIndex:  36
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2039,staircase,plane
+strlen0 is 17
+preTupleLen is 668
+strlen is 16
+#############################
+pid is :    28
+preTupleLen:  685
+curTupleIndex:  37
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2092,fork,tongue
+strlen0 is 17
+preTupleLen is 685
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  703
+curTupleIndex:  38
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2132,spice,carpet
+strlen0 is 17
+preTupleLen is 703
+strlen is 20
+#############################
+pid is :    28
+preTupleLen:  724
+curTupleIndex:  39
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2183,game,floodlight
+strlen0 is 17
+preTupleLen is 724
+strlen is 21
+#############################
+pid is :    28
+preTupleLen:  746
+curTupleIndex:  40
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2202,satellite,double
+strlen0 is 17
+preTupleLen is 746
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  762
+curTupleIndex:  41
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2236,baby,drink
+strlen0 is 17
+preTupleLen is 762
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  778
+curTupleIndex:  42
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2305,pillow,man
+strlen0 is 17
+preTupleLen is 778
+strlen is 23
+#############################
+pid is :    28
+preTupleLen:  802
+curTupleIndex:  43
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2330,eraser,thermometer
+strlen0 is 17
+preTupleLen is 802
+strlen is 13
+#############################
+pid is :    28
+preTupleLen:  816
+curTupleIndex:  44
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2412,cat,swim
+strlen0 is 17
+preTupleLen is 816
+strlen is 13
+#############################
+pid is :    28
+preTupleLen:  830
+curTupleIndex:  45
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2436,rock,rib
+strlen0 is 17
+preTupleLen is 830
+strlen is 14
+#############################
+pid is :    28
+preTupleLen:  845
+curTupleIndex:  46
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2453,maze,milk
+strlen0 is 17
+preTupleLen is 845
+strlen is 22
+#############################
+pid is :    28
+preTupleLen:  868
+curTupleIndex:  47
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2502,restaurant,circus
+strlen0 is 17
+preTupleLen is 868
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  884
+curTupleIndex:  48
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2522,room,album
+strlen0 is 17
+preTupleLen is 884
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  900
+curTupleIndex:  49
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2544,set,meteor
+strlen0 is 17
+preTupleLen is 900
+strlen is 18
+#############################
+pid is :    28
+preTupleLen:  919
+curTupleIndex:  50
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2560,record,carpet
+strlen0 is 17
+preTupleLen is 919
+strlen is 15
+#############################
+pid is :    28
+preTupleLen:  935
+curTupleIndex:  51
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2563,mist,child
+strlen0 is 17
+preTupleLen is 935
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  953
+curTupleIndex:  52
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2593,cycle,button
+strlen0 is 17
+preTupleLen is 953
+strlen is 12
+#############################
+pid is :    28
+preTupleLen:  966
+curTupleIndex:  53
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2601,set,map
+strlen0 is 17
+preTupleLen is 966
+strlen is 17
+#############################
+pid is :    28
+preTupleLen:  984
+curTupleIndex:  54
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2665,bank,balloon
+strlen0 is 17
+preTupleLen is 984
+strlen is 19
+#############################
+pid is :    28
+preTupleLen:  1004
+curTupleIndex:  55
+total tuple is:  56
+00000000 00000000 00000000 00011100
+#############################
+2682,carrot,vulture
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    29
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1055,pillow,child
+strlen0 is 17
+preTupleLen is 18
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  34
+curTupleIndex:  1
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1091,rock,x-ray
+strlen0 is 17
+preTupleLen is 34
+strlen is 19
+#############################
+pid is :    29
+preTupleLen:  54
+curTupleIndex:  2
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1160,rifle,mosquito
+strlen0 is 17
+preTupleLen is 54
+strlen is 19
+#############################
+pid is :    29
+preTupleLen:  74
+curTupleIndex:  3
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1178,table,backpack
+strlen0 is 17
+preTupleLen is 74
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  93
+curTupleIndex:  4
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1198,earth,highway
+strlen0 is 17
+preTupleLen is 93
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  107
+curTupleIndex:  5
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1216,bed,worm
+strlen0 is 17
+preTupleLen is 107
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  121
+curTupleIndex:  6
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1384,room,hat
+strlen0 is 17
+preTupleLen is 121
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  136
+curTupleIndex:  7
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1406,cat,comet
+strlen0 is 17
+preTupleLen is 136
+strlen is 19
+#############################
+pid is :    29
+preTupleLen:  156
+curTupleIndex:  8
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1411,baby,aeroplane
+strlen0 is 17
+preTupleLen is 156
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  171
+curTupleIndex:  9
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1475,rock,boss
+strlen0 is 17
+preTupleLen is 171
+strlen is 16
+#############################
+pid is :    29
+preTupleLen:  188
+curTupleIndex:  10
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1492,diamond,man
+strlen0 is 17
+preTupleLen is 188
+strlen is 17
+#############################
+pid is :    29
+preTupleLen:  206
+curTupleIndex:  11
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1533,bed,backpack
+strlen0 is 17
+preTupleLen is 206
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  225
+curTupleIndex:  12
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1547,monster,fruit
+strlen0 is 17
+preTupleLen is 225
+strlen is 17
+#############################
+pid is :    29
+preTupleLen:  243
+curTupleIndex:  13
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1585,rifle,carpet
+strlen0 is 17
+preTupleLen is 243
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  258
+curTupleIndex:  14
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1598,set,plane
+strlen0 is 17
+preTupleLen is 258
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  274
+curTupleIndex:  15
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1614,baby,solid
+strlen0 is 17
+preTupleLen is 274
+strlen is 20
+#############################
+pid is :    29
+preTupleLen:  295
+curTupleIndex:  16
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1621,parachute,money
+strlen0 is 17
+preTupleLen is 295
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  311
+curTupleIndex:  17
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1651,fork,clock
+strlen0 is 17
+preTupleLen is 311
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  325
+curTupleIndex:  18
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1657,cat,worm
+strlen0 is 17
+preTupleLen is 325
+strlen is 25
+#############################
+pid is :    29
+preTupleLen:  351
+curTupleIndex:  19
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1672,wheelchair,horoscope
+strlen0 is 17
+preTupleLen is 351
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  365
+curTupleIndex:  20
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1736,ice,boss
+strlen0 is 17
+preTupleLen is 365
+strlen is 19
+#############################
+pid is :    29
+preTupleLen:  385
+curTupleIndex:  21
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1751,chair,tapestry
+strlen0 is 17
+preTupleLen is 385
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  404
+curTupleIndex:  22
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1761,grapes,circus
+strlen0 is 17
+preTupleLen is 404
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  423
+curTupleIndex:  23
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1762,drum,mosquito
+strlen0 is 17
+preTupleLen is 423
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  438
+curTupleIndex:  24
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+1783,horse,hat
+strlen0 is 17
+preTupleLen is 438
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  452
+curTupleIndex:  25
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2007,room,boy
+strlen0 is 17
+preTupleLen is 452
+strlen is 16
+#############################
+pid is :    29
+preTupleLen:  469
+curTupleIndex:  26
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2085,monster,dog
+strlen0 is 17
+preTupleLen is 469
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  483
+curTupleIndex:  27
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2108,game,rib
+strlen0 is 17
+preTupleLen is 483
+strlen is 23
+#############################
+pid is :    29
+preTupleLen:  507
+curTupleIndex:  28
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2187,aircraft,videotape
+strlen0 is 17
+preTupleLen is 507
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  523
+curTupleIndex:  29
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2205,record,rib
+strlen0 is 17
+preTupleLen is 523
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  537
+curTupleIndex:  30
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2227,arm,meat
+strlen0 is 17
+preTupleLen is 537
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  553
+curTupleIndex:  31
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2235,zebra,cave
+strlen0 is 17
+preTupleLen is 553
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  572
+curTupleIndex:  32
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2237,mist,airforce
+strlen0 is 17
+preTupleLen is 572
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  591
+curTupleIndex:  33
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2252,yellow,finger
+strlen0 is 17
+preTupleLen is 591
+strlen is 16
+#############################
+pid is :    29
+preTupleLen:  608
+curTupleIndex:  34
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2269,pyramid,map
+strlen0 is 17
+preTupleLen is 608
+strlen is 23
+#############################
+pid is :    29
+preTupleLen:  632
+curTupleIndex:  35
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2353,barbecue,videotape
+strlen0 is 17
+preTupleLen is 632
+strlen is 16
+#############################
+pid is :    29
+preTupleLen:  649
+curTupleIndex:  36
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2397,bridge,meat
+strlen0 is 17
+preTupleLen is 649
+strlen is 17
+#############################
+pid is :    29
+preTupleLen:  667
+curTupleIndex:  37
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2398,zebra,vacuum
+strlen0 is 17
+preTupleLen is 667
+strlen is 13
+#############################
+pid is :    29
+preTupleLen:  681
+curTupleIndex:  38
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2422,car,meat
+strlen0 is 17
+preTupleLen is 681
+strlen is 19
+#############################
+pid is :    29
+preTupleLen:  701
+curTupleIndex:  39
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2492,earth,triangle
+strlen0 is 17
+preTupleLen is 701
+strlen is 26
+#############################
+pid is :    29
+preTupleLen:  728
+curTupleIndex:  40
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2512,wheelchair,floodlight
+strlen0 is 17
+preTupleLen is 728
+strlen is 20
+#############################
+pid is :    29
+preTupleLen:  749
+curTupleIndex:  41
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2553,satellite,onion
+strlen0 is 17
+preTupleLen is 749
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  768
+curTupleIndex:  42
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2574,table,balloon
+strlen0 is 17
+preTupleLen is 768
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  784
+curTupleIndex:  43
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2621,water,cave
+strlen0 is 17
+preTupleLen is 784
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  803
+curTupleIndex:  44
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2647,rocket,shower
+strlen0 is 17
+preTupleLen is 803
+strlen is 23
+#############################
+pid is :    29
+preTupleLen:  827
+curTupleIndex:  45
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2648,freeway,floodlight
+strlen0 is 17
+preTupleLen is 827
+strlen is 21
+#############################
+pid is :    29
+preTupleLen:  849
+curTupleIndex:  46
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2692,satellite,chisel
+strlen0 is 17
+preTupleLen is 849
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  865
+curTupleIndex:  47
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2710,baby,adult
+strlen0 is 17
+preTupleLen is 865
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  884
+curTupleIndex:  48
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2748,pillow,button
+strlen0 is 17
+preTupleLen is 884
+strlen is 22
+#############################
+pid is :    29
+preTupleLen:  907
+curTupleIndex:  49
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2751,chocolates,needle
+strlen0 is 17
+preTupleLen is 907
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  922
+curTupleIndex:  50
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2756,car,child
+strlen0 is 17
+preTupleLen is 922
+strlen is 18
+#############################
+pid is :    29
+preTupleLen:  941
+curTupleIndex:  51
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2760,baby,bathroom
+strlen0 is 17
+preTupleLen is 941
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  957
+curTupleIndex:  52
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2797,rifle,dung
+strlen0 is 17
+preTupleLen is 957
+strlen is 17
+#############################
+pid is :    29
+preTupleLen:  975
+curTupleIndex:  53
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2798,monster,desk
+strlen0 is 17
+preTupleLen is 975
+strlen is 14
+#############################
+pid is :    29
+preTupleLen:  990
+curTupleIndex:  54
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2812,set,drill
+strlen0 is 17
+preTupleLen is 990
+strlen is 15
+#############################
+pid is :    29
+preTupleLen:  1006
+curTupleIndex:  55
+total tuple is:  56
+00000000 00000000 00000000 00011101
+#############################
+2820,mist,spoon
+
+
+start new page------------ 
+strlen0 is 21
+preTupleLen is 0
+strlen is 21
+#############################
+pid is :    30
+preTupleLen:  22
+curTupleIndex:  0
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1003,drill,sunglasses
+strlen0 is 21
+preTupleLen is 22
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  39
+curTupleIndex:  1
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1022,perfume,air
+strlen0 is 21
+preTupleLen is 39
+strlen is 18
+#############################
+pid is :    30
+preTupleLen:  58
+curTupleIndex:  2
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1027,sword,highway
+strlen0 is 21
+preTupleLen is 58
+strlen is 18
+#############################
+pid is :    30
+preTupleLen:  77
+curTupleIndex:  3
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1076,insect,saddle
+strlen0 is 21
+preTupleLen is 77
+strlen is 24
+#############################
+pid is :    30
+preTupleLen:  102
+curTupleIndex:  4
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1138,aeroplane,treadmill
+strlen0 is 21
+preTupleLen is 102
+strlen is 28
+#############################
+pid is :    30
+preTupleLen:  131
+curTupleIndex:  5
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1141,jet-fighter,thermometer
+strlen0 is 21
+preTupleLen is 131
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  149
+curTupleIndex:  6
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1277,adult,school
+strlen0 is 21
+preTupleLen is 149
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  169
+curTupleIndex:  7
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1312,triangle,woman
+strlen0 is 21
+preTupleLen is 169
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  189
+curTupleIndex:  8
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1409,drink,mosquito
+strlen0 is 21
+preTupleLen is 189
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  206
+curTupleIndex:  9
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1424,milk,meteor
+strlen0 is 21
+preTupleLen is 206
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  222
+curTupleIndex:  10
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1427,drink,bomb
+strlen0 is 21
+preTupleLen is 222
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  238
+curTupleIndex:  11
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1439,plane,boss
+strlen0 is 21
+preTupleLen is 238
+strlen is 20
+#############################
+pid is :    30
+preTupleLen:  259
+curTupleIndex:  12
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1487,drink,aeroplane
+strlen0 is 21
+preTupleLen is 259
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  277
+curTupleIndex:  13
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1501,vampire,eyes
+strlen0 is 21
+preTupleLen is 277
+strlen is 12
+#############################
+pid is :    30
+preTupleLen:  290
+curTupleIndex:  14
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1512,hot,bee
+strlen0 is 21
+preTupleLen is 290
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  307
+curTupleIndex:  15
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1559,chief,slave
+strlen0 is 21
+preTupleLen is 307
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  327
+curTupleIndex:  16
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1561,insect,vulture
+strlen0 is 21
+preTupleLen is 327
+strlen is 18
+#############################
+pid is :    30
+preTupleLen:  346
+curTupleIndex:  17
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1695,triangle,cave
+strlen0 is 21
+preTupleLen is 346
+strlen is 27
+#############################
+pid is :    30
+preTupleLen:  374
+curTupleIndex:  18
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1743,jet-fighter,floodlight
+strlen0 is 21
+preTupleLen is 374
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  390
+curTupleIndex:  19
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1769,circus,dog
+strlen0 is 21
+preTupleLen is 390
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  408
+curTupleIndex:  20
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1791,boy,umbrella
+strlen0 is 21
+preTupleLen is 408
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  425
+curTupleIndex:  21
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1800,win,vampire
+strlen0 is 21
+preTupleLen is 425
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  443
+curTupleIndex:  22
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1821,pocket,snail
+strlen0 is 21
+preTupleLen is 443
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  463
+curTupleIndex:  23
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1891,dung,sandpaper
+strlen0 is 21
+preTupleLen is 463
+strlen is 18
+#############################
+pid is :    30
+preTupleLen:  482
+curTupleIndex:  24
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1902,vulture,drink
+strlen0 is 21
+preTupleLen is 482
+strlen is 13
+#############################
+pid is :    30
+preTupleLen:  496
+curTupleIndex:  25
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1949,boy,desk
+strlen0 is 21
+preTupleLen is 496
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  514
+curTupleIndex:  26
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1959,bomb,compass
+strlen0 is 21
+preTupleLen is 514
+strlen is 13
+#############################
+pid is :    30
+preTupleLen:  528
+curTupleIndex:  27
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+1993,bomb,hat
+strlen0 is 21
+preTupleLen is 528
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  545
+curTupleIndex:  28
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2022,vampire,mum
+strlen0 is 21
+preTupleLen is 545
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  562
+curTupleIndex:  29
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2029,spoon,drink
+strlen0 is 21
+preTupleLen is 562
+strlen is 20
+#############################
+pid is :    30
+preTupleLen:  583
+curTupleIndex:  30
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2074,pebble,passport
+strlen0 is 21
+preTupleLen is 583
+strlen is 12
+#############################
+pid is :    30
+preTupleLen:  596
+curTupleIndex:  31
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2144,fin,air
+strlen0 is 21
+preTupleLen is 596
+strlen is 20
+#############################
+pid is :    30
+preTupleLen:  617
+curTupleIndex:  32
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2152,floodlight,fire
+strlen0 is 21
+preTupleLen is 617
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  633
+curTupleIndex:  33
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2160,clock,ears
+strlen0 is 21
+preTupleLen is 633
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  649
+curTupleIndex:  34
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2173,win,banana
+strlen0 is 21
+preTupleLen is 649
+strlen is 18
+#############################
+pid is :    30
+preTupleLen:  668
+curTupleIndex:  35
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2231,spiral,needle
+strlen0 is 21
+preTupleLen is 668
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  685
+curTupleIndex:  36
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2248,man,kitchen
+strlen0 is 21
+preTupleLen is 685
+strlen is 14
+#############################
+pid is :    30
+preTupleLen:  700
+curTupleIndex:  37
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2249,chief,bee
+strlen0 is 21
+preTupleLen is 700
+strlen is 14
+#############################
+pid is :    30
+preTupleLen:  715
+curTupleIndex:  38
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2284,star,star
+strlen0 is 21
+preTupleLen is 715
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  732
+curTupleIndex:  39
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2292,pocket,star
+strlen0 is 21
+preTupleLen is 732
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  749
+curTupleIndex:  40
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2299,post,hammer
+strlen0 is 21
+preTupleLen is 749
+strlen is 21
+#############################
+pid is :    30
+preTupleLen:  771
+curTupleIndex:  41
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2311,airforce,vampire
+strlen0 is 21
+preTupleLen is 771
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  791
+curTupleIndex:  42
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2327,airforce,radar
+strlen0 is 21
+preTupleLen is 791
+strlen is 15
+#############################
+pid is :    30
+preTupleLen:  807
+curTupleIndex:  43
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2328,hot,tunnel
+strlen0 is 21
+preTupleLen is 807
+strlen is 20
+#############################
+pid is :    30
+preTupleLen:  828
+curTupleIndex:  44
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2391,vulture,bathtub
+strlen0 is 21
+preTupleLen is 828
+strlen is 19
+#############################
+pid is :    30
+preTupleLen:  848
+curTupleIndex:  45
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2402,triangle,chief
+strlen0 is 21
+preTupleLen is 848
+strlen is 17
+#############################
+pid is :    30
+preTupleLen:  866
+curTupleIndex:  46
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2433,perfume,fire
+strlen0 is 21
+preTupleLen is 866
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  883
+curTupleIndex:  47
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2444,circus,desk
+strlen0 is 21
+preTupleLen is 883
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  900
+curTupleIndex:  48
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2541,boy,compass
+strlen0 is 21
+preTupleLen is 900
+strlen is 22
+#############################
+pid is :    30
+preTupleLen:  923
+curTupleIndex:  49
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2567,coffee-shop,space
+strlen0 is 21
+preTupleLen is 923
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  940
+curTupleIndex:  50
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2604,sword,adult
+strlen0 is 21
+preTupleLen is 940
+strlen is 16
+#############################
+pid is :    30
+preTupleLen:  957
+curTupleIndex:  51
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2669,boss,double
+strlen0 is 21
+preTupleLen is 957
+strlen is 14
+#############################
+pid is :    30
+preTupleLen:  972
+curTupleIndex:  52
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2700,swim,eyes
+strlen0 is 21
+preTupleLen is 972
+strlen is 22
+#############################
+pid is :    30
+preTupleLen:  995
+curTupleIndex:  53
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2718,radar,thermometer
+strlen0 is 21
+preTupleLen is 995
+strlen is 14
+#############################
+pid is :    30
+preTupleLen:  1010
+curTupleIndex:  54
+total tuple is:  55
+00000000 00000000 00000000 00011110
+#############################
+2888,post,cave
+
+
+start new page------------ 
+strlen0 is 17
+preTupleLen is 0
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  18
+curTupleIndex:  0
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1014,sword,carpet
+strlen0 is 17
+preTupleLen is 18
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  35
+curTupleIndex:  1
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1030,vampire,hot
+strlen0 is 17
+preTupleLen is 35
+strlen is 21
+#############################
+pid is :    31
+preTupleLen:  57
+curTupleIndex:  2
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1031,fin,kaleidoscope
+strlen0 is 17
+preTupleLen is 57
+strlen is 21
+#############################
+pid is :    31
+preTupleLen:  79
+curTupleIndex:  3
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1052,square,treadmill
+strlen0 is 17
+preTupleLen is 79
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  98
+curTupleIndex:  4
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1085,perfume,album
+strlen0 is 17
+preTupleLen is 98
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  117
+curTupleIndex:  5
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1090,spiral,needle
+strlen0 is 17
+preTupleLen is 117
+strlen is 15
+#############################
+pid is :    31
+preTupleLen:  133
+curTupleIndex:  6
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1152,man,bottle
+strlen0 is 17
+preTupleLen is 133
+strlen is 15
+#############################
+pid is :    31
+preTupleLen:  149
+curTupleIndex:  7
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1183,carpet,hat
+strlen0 is 17
+preTupleLen is 149
+strlen is 20
+#############################
+pid is :    31
+preTupleLen:  170
+curTupleIndex:  8
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1209,floodlight,worm
+strlen0 is 17
+preTupleLen is 170
+strlen is 25
+#############################
+pid is :    31
+preTupleLen:  196
+curTupleIndex:  9
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1235,perfume,compact-disc
+strlen0 is 17
+preTupleLen is 196
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  213
+curTupleIndex:  10
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1239,carpet,cave
+strlen0 is 17
+preTupleLen is 213
+strlen is 14
+#############################
+pid is :    31
+preTupleLen:  228
+curTupleIndex:  11
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1255,sword,key
+strlen0 is 17
+preTupleLen is 228
+strlen is 19
+#############################
+pid is :    31
+preTupleLen:  248
+curTupleIndex:  12
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1261,umbrella,album
+strlen0 is 17
+preTupleLen is 248
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  267
+curTupleIndex:  13
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1279,pebble,banana
+strlen0 is 17
+preTupleLen is 267
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  286
+curTupleIndex:  14
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1289,win,sandpaper
+strlen0 is 17
+preTupleLen is 286
+strlen is 23
+#############################
+pid is :    31
+preTupleLen:  310
+curTupleIndex:  15
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1306,feather,typewriter
+strlen0 is 17
+preTupleLen is 310
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  328
+curTupleIndex:  16
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1349,vulture,worm
+strlen0 is 17
+preTupleLen is 328
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  346
+curTupleIndex:  17
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1388,button,solid
+strlen0 is 17
+preTupleLen is 346
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  363
+curTupleIndex:  18
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1402,button,boss
+strlen0 is 17
+preTupleLen is 363
+strlen is 22
+#############################
+pid is :    31
+preTupleLen:  386
+curTupleIndex:  19
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1430,circus,floodlight
+strlen0 is 17
+preTupleLen is 386
+strlen is 23
+#############################
+pid is :    31
+preTupleLen:  410
+curTupleIndex:  20
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1434,jet-fighter,insect
+strlen0 is 17
+preTupleLen is 410
+strlen is 25
+#############################
+pid is :    31
+preTupleLen:  436
+curTupleIndex:  21
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1448,coffee-shop,passport
+strlen0 is 17
+preTupleLen is 436
+strlen is 13
+#############################
+pid is :    31
+preTupleLen:  450
+curTupleIndex:  22
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1496,post,zoo
+strlen0 is 17
+preTupleLen is 450
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  468
+curTupleIndex:  23
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1503,chief,needle
+strlen0 is 17
+preTupleLen is 468
+strlen is 13
+#############################
+pid is :    31
+preTupleLen:  482
+curTupleIndex:  24
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1556,rib,cave
+strlen0 is 17
+preTupleLen is 482
+strlen is 19
+#############################
+pid is :    31
+preTupleLen:  502
+curTupleIndex:  25
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1602,umbrella,money
+strlen0 is 17
+preTupleLen is 502
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  519
+curTupleIndex:  26
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1643,spoon,woman
+strlen0 is 17
+preTupleLen is 519
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  536
+curTupleIndex:  27
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1670,spoon,clock
+strlen0 is 17
+preTupleLen is 536
+strlen is 19
+#############################
+pid is :    31
+preTupleLen:  556
+curTupleIndex:  28
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1753,pocket,balloon
+strlen0 is 17
+preTupleLen is 556
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  575
+curTupleIndex:  29
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1786,needle,finger
+strlen0 is 17
+preTupleLen is 575
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  592
+curTupleIndex:  30
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1812,adult,sword
+strlen0 is 17
+preTupleLen is 592
+strlen is 21
+#############################
+pid is :    31
+preTupleLen:  614
+curTupleIndex:  31
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1818,boss,coffee-shop
+strlen0 is 17
+preTupleLen is 614
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  632
+curTupleIndex:  32
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1819,vulture,star
+strlen0 is 17
+preTupleLen is 632
+strlen is 14
+#############################
+pid is :    31
+preTupleLen:  647
+curTupleIndex:  33
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1981,hat,clock
+strlen0 is 17
+preTupleLen is 647
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  666
+curTupleIndex:  34
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1996,umbrella,post
+strlen0 is 17
+preTupleLen is 666
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  685
+curTupleIndex:  35
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+1997,star,tapestry
+strlen0 is 17
+preTupleLen is 685
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  703
+curTupleIndex:  36
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2013,spoon,tennis
+strlen0 is 17
+preTupleLen is 703
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  721
+curTupleIndex:  37
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2049,spiral,radar
+strlen0 is 17
+preTupleLen is 721
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  738
+curTupleIndex:  38
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2098,pocket,ship
+strlen0 is 17
+preTupleLen is 738
+strlen is 15
+#############################
+pid is :    31
+preTupleLen:  754
+curTupleIndex:  39
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2134,pocket,zoo
+strlen0 is 17
+preTupleLen is 754
+strlen is 20
+#############################
+pid is :    31
+preTupleLen:  775
+curTupleIndex:  40
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2145,swim,microscope
+strlen0 is 17
+preTupleLen is 775
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  793
+curTupleIndex:  41
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2208,spoon,prison
+strlen0 is 17
+preTupleLen is 793
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  812
+curTupleIndex:  42
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2221,fin,butterfly
+strlen0 is 17
+preTupleLen is 812
+strlen is 20
+#############################
+pid is :    31
+preTupleLen:  833
+curTupleIndex:  43
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2247,umbrella,tennis
+strlen0 is 17
+preTupleLen is 833
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  850
+curTupleIndex:  44
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2270,balloon,win
+strlen0 is 17
+preTupleLen is 850
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  869
+curTupleIndex:  45
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2335,circus,shower
+strlen0 is 17
+preTupleLen is 869
+strlen is 14
+#############################
+pid is :    31
+preTupleLen:  884
+curTupleIndex:  46
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2370,hat,clock
+strlen0 is 17
+preTupleLen is 884
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  902
+curTupleIndex:  47
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2389,milk,feather
+strlen0 is 17
+preTupleLen is 902
+strlen is 14
+#############################
+pid is :    31
+preTupleLen:  917
+curTupleIndex:  48
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2418,chief,hat
+strlen0 is 17
+preTupleLen is 917
+strlen is 16
+#############################
+pid is :    31
+preTupleLen:  934
+curTupleIndex:  49
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2439,milk,insect
+strlen0 is 17
+preTupleLen is 934
+strlen is 17
+#############################
+pid is :    31
+preTupleLen:  952
+curTupleIndex:  50
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2460,plane,banana
+strlen0 is 17
+preTupleLen is 952
+strlen is 15
+#############################
+pid is :    31
+preTupleLen:  968
+curTupleIndex:  51
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2466,win,hammer
+strlen0 is 17
+preTupleLen is 968
+strlen is 18
+#############################
+pid is :    31
+preTupleLen:  987
+curTupleIndex:  52
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2495,chief,highway
+strlen0 is 17
+preTupleLen is 987
+strlen is 22
+#############################
+pid is :    31
+preTupleLen:  1010
+curTupleIndex:  53
+total tuple is:  54
+00000000 00000000 00000000 00011111
+#############################
+2518,floodlight,finger
+
+
+start new page------------ 

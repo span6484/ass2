@@ -24,6 +24,7 @@ struct QueryRep {
     int curPageIndex;
     PageID curScanPage;    //当前正在检索哪个位置, 这个是 data page or overflow page
     int nstars;
+    int preTupleLen;
     Bits* knowns;
     char* quesryString;
 };
@@ -97,12 +98,12 @@ Query startQuery(Reln r, char *q)
     assert(knowns != NULL);
     Bits known_lower = getLower(known, depth(r));
     Bits unknown_lower = getLower(unknown, depth(r));
-    printf("known_lower:    ");
-    printBits(known_lower);
-    printf("%d\n", known_lower);
-    printf("unknown_lower:    ");
-    printBits(unknown_lower);
-    printf("%d\n", unknown_lower);
+//    printf("known_lower:    ");
+//    printBits(known_lower);
+//    printf("%d\n", known_lower);
+//    printf("unknown_lower:    ");
+//    printBits(unknown_lower);
+//    printf("%d\n", unknown_lower);
     knowns = recursion(known_lower,unknown_lower, 32, knowns);
 
     //get out all possibles for knowns
@@ -208,14 +209,14 @@ Tuple getNextTuple(Query q)
 //
 //    }
 
-    char buf[MAXBITS+1];
-    Bits known = q->known;
-    Bits unknown = q->unknown;
+//    char buf[MAXBITS+1];
+//    Bits known = q->known;
+//    Bits unknown = q->unknown;
     Reln r = q->rel;
     Bits real_known;
     PageID pid;
     int nstars;
-    int curPageIndex;
+    int curPageIndex;           // knowns index knowns[curPageIndex] = knowns[0]
     Offset curTupleIndex;
     Count nTuples;
     assert(q->knowns != NULL);
@@ -239,32 +240,59 @@ Tuple getNextTuple(Query q)
 //            printf("depth is %d\n",depth(q->rel)+1);
         }
         Page curPage = getPage(dataFile(r), pid);
-
         nTuples = pageNTuples(curPage);
-        Tuple t = pageData(curPage);
-        if (curTupleIndex < nTuples) {
-            for(int i = 0; i < curTupleIndex;i++) {     // update the tuple to the current page position
-                t += strlen(t) + 1;
-            }
+        if (q->curTupleIndex < nTuples) {
+            printf("strlen0 is %lu\n", strlen(pageData(curPage)));
+            printf("preTupleLen is %d\n", q->preTupleLen);
+            Tuple t = pageData(curPage) + q->preTupleLen;
+
+            printf("strlen is %lu\n", strlen(t));
+            q->preTupleLen = strlen(t) + q->preTupleLen + 1;
+
+            printf("#############################\n"
+                   "pid is :    %u\n"
+                   "preTupleLen:  %d\n"
+                   "curTupleIndex:  %d\n"
+                   "total tuple is:  %d\n", pid,  q->preTupleLen,curTupleIndex, nTuples);
+            printBits(pid);
+            printf("#############################\n");
+            if (curTupleIndex < nTuples) {
+//        if (t != NULL) {
+//            for(int i = 0; i < curTupleIndex;i++) {     // update the tuple to the current page position
+//                t += strlen(t) + 1;
+//            }
 //            printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
-            curTupleIndex++;
-            q->curTupleIndex = curTupleIndex;
+                curTupleIndex++;
+                q->curTupleIndex = curTupleIndex;
 //            printf("t1: %s\n", t);
-            if (tupleMatch(r,t, q->quesryString)) {
-//                printf("find it !\n");
-//                printf("t1: %s\n", t);
+//            if (tupleMatch(r,t, q->quesryString)) {
+////                printf("find it !\n");
+////                printf("t1: %s\n", t);
+//                return t;
+//            }
+
                 return t;
             }
-//            return t;
+            if (curTupleIndex < nTuples) {
+                goto READPAGE;
+            }
+            else {
+                q->preTupleLen = 0;
+                q->curTupleIndex = 0;
+                curPageIndex++;
+                printf("\n\nstart new page------------  \n");
+                q->curPageIndex = curPageIndex;
+//            printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
+                goto READPAGE;
+            }
         }
 //        printf("t is ------------: %s\n", t);
-        if (curTupleIndex < nTuples) {
-            goto READPAGE;
-        }
+
         else {
-//            printf("start new page------------\n");
+            q->preTupleLen = 0;
             q->curTupleIndex = 0;
             curPageIndex++;
+            printf("\n\nstart new page------------ \n");
             q->curPageIndex = curPageIndex;
 //            printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
             goto READPAGE;

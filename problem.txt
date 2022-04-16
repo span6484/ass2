@@ -1,0 +1,3 @@
+1505,sun,sword
+1759,pendulum,sword
+1011,sandpaper,sword
