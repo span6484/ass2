@@ -8,6 +8,13 @@ curTupleIndex:  0
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1093,database,crystal
 strlen0 is 21
 preTupleLen is 22
@@ -19,6 +26,13 @@ curTupleIndex:  1
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1111,garden,space
 strlen0 is 21
 preTupleLen is 40
@@ -30,6 +44,13 @@ curTupleIndex:  2
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1205,box,pocket
 strlen0 is 21
 preTupleLen is 56
@@ -41,6 +62,13 @@ curTupleIndex:  3
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1226,gloves,man
 strlen0 is 21
 preTupleLen is 72
@@ -52,6 +80,13 @@ curTupleIndex:  4
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1281,book,compass
 strlen0 is 21
 preTupleLen is 90
@@ -63,6 +98,13 @@ curTupleIndex:  5
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1338,pants,eyes
 strlen0 is 21
 preTupleLen is 106
@@ -74,6 +116,13 @@ curTupleIndex:  6
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1351,gemstone,chief
 strlen0 is 21
 preTupleLen is 126
@@ -85,6 +134,13 @@ curTupleIndex:  7
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1368,surveyor,crystal
 strlen0 is 21
 preTupleLen is 148
@@ -96,6 +152,13 @@ curTupleIndex:  8
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1383,stomach,insect
 strlen0 is 21
 preTupleLen is 168
@@ -107,6 +170,13 @@ curTupleIndex:  9
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1663,shop,feather
 strlen0 is 21
 preTupleLen is 186
@@ -118,6 +188,13 @@ curTupleIndex:  10
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1669,box,clock
 strlen0 is 21
 preTupleLen is 201
@@ -129,6 +206,13 @@ curTupleIndex:  11
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1748,necklace,shower
 strlen0 is 21
 preTupleLen is 222
@@ -140,6 +224,13 @@ curTupleIndex:  12
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1803,torpedo,spoon
 strlen0 is 21
 preTupleLen is 241
@@ -151,6 +242,13 @@ curTupleIndex:  13
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1883,paintbrush,airport
 strlen0 is 21
 preTupleLen is 265
@@ -162,6 +260,13 @@ curTupleIndex:  14
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1905,telescope,aeroplane
 strlen0 is 21
 preTupleLen is 290
@@ -173,6 +278,13 @@ curTupleIndex:  15
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1907,garden,umbrella
 strlen0 is 21
 preTupleLen is 311
@@ -184,6 +296,13 @@ curTupleIndex:  16
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2001,stomach,vulture
 strlen0 is 21
 preTupleLen is 332
@@ -195,6 +314,13 @@ curTupleIndex:  17
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2020,liquid,airforce
 strlen0 is 21
 preTupleLen is 353
@@ -206,6 +332,13 @@ curTupleIndex:  18
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2031,bowl,mum
 strlen0 is 21
 preTupleLen is 367
@@ -217,6 +350,13 @@ curTupleIndex:  19
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2062,garden,hot
 strlen0 is 21
 preTupleLen is 383
@@ -228,6 +368,13 @@ curTupleIndex:  20
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2275,paintbrush,swim
 strlen0 is 21
 preTupleLen is 404
@@ -239,6 +386,13 @@ curTupleIndex:  21
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2277,gemstone,balloon
 strlen0 is 21
 preTupleLen is 426
@@ -250,6 +404,13 @@ curTupleIndex:  22
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2283,chess-board,spoon
 strlen0 is 21
 preTupleLen is 449
@@ -261,6 +422,13 @@ curTupleIndex:  23
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2347,library,circus
 strlen0 is 21
 preTupleLen is 469
@@ -272,6 +440,13 @@ curTupleIndex:  24
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2438,gloves,horoscope
 strlen0 is 21
 preTupleLen is 491
@@ -283,6 +458,13 @@ curTupleIndex:  25
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2482,library,man
 strlen0 is 21
 preTupleLen is 508
@@ -294,6 +476,13 @@ curTupleIndex:  26
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2536,apple,triangle
 strlen0 is 21
 preTupleLen is 528
@@ -305,6 +494,13 @@ curTupleIndex:  27
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2707,bird,circus
 strlen0 is 21
 preTupleLen is 545
@@ -316,6 +512,13 @@ curTupleIndex:  28
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2767,torpedo,hieroglyph
 strlen0 is 21
 preTupleLen is 569
@@ -327,6 +530,13 @@ curTupleIndex:  29
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2805,computer,dung
 strlen0 is 21
 preTupleLen is 588
@@ -338,6 +548,13 @@ curTupleIndex:  30
 total tuple is:  31
 00000000 00000000 00000000 00100100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2974,liquid,chief
 
 
@@ -352,6 +569,13 @@ curTupleIndex:  0
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1013,leg,vampire
 strlen0 is 16
 preTupleLen is 17
@@ -363,6 +587,13 @@ curTupleIndex:  1
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1015,television,post
 strlen0 is 16
 preTupleLen is 38
@@ -374,6 +605,13 @@ curTupleIndex:  2
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1247,robot,crystal
 strlen0 is 16
 preTupleLen is 57
@@ -385,6 +623,13 @@ curTupleIndex:  3
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1257,stomach,spoon
 strlen0 is 16
 preTupleLen is 76
@@ -396,6 +641,13 @@ curTupleIndex:  4
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1382,shop,onion
 strlen0 is 16
 preTupleLen is 92
@@ -407,6 +659,13 @@ curTupleIndex:  5
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1437,television,drink
 strlen0 is 16
 preTupleLen is 114
@@ -418,6 +677,13 @@ curTupleIndex:  6
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1442,paintbrush,boy
 strlen0 is 16
 preTupleLen is 134
@@ -429,6 +695,13 @@ curTupleIndex:  7
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1480,database,horoscope
 strlen0 is 16
 preTupleLen is 158
@@ -440,6 +713,13 @@ curTupleIndex:  8
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1505,sun,sword
 strlen0 is 16
 preTupleLen is 173
@@ -451,6 +731,13 @@ curTupleIndex:  9
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1578,shoes,triangle
 strlen0 is 16
 preTupleLen is 193
@@ -462,6 +749,13 @@ curTupleIndex:  10
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1605,train,plane
 strlen0 is 16
 preTupleLen is 210
@@ -473,6 +767,13 @@ curTupleIndex:  11
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1636,apple,hat
 strlen0 is 16
 preTupleLen is 225
@@ -484,6 +785,13 @@ curTupleIndex:  12
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1732,shop,spoon
 strlen0 is 16
 preTupleLen is 241
@@ -495,6 +803,13 @@ curTupleIndex:  13
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1759,pendulum,sword
 strlen0 is 16
 preTupleLen is 261
@@ -506,6 +821,13 @@ curTupleIndex:  14
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1777,library,boss
 strlen0 is 16
 preTupleLen is 279
@@ -517,6 +839,13 @@ curTupleIndex:  15
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1794,clown,vampire
 strlen0 is 16
 preTupleLen is 298
@@ -528,6 +857,13 @@ curTupleIndex:  16
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1846,library,triangle
 strlen0 is 16
 preTupleLen is 320
@@ -539,6 +875,13 @@ curTupleIndex:  17
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1914,salt,boy
 strlen0 is 16
 preTupleLen is 334
@@ -550,6 +893,13 @@ curTupleIndex:  18
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1970,gemstone,spoon
 strlen0 is 16
 preTupleLen is 354
@@ -561,6 +911,13 @@ curTupleIndex:  19
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1985,army,man
 strlen0 is 16
 preTupleLen is 368
@@ -572,6 +929,13 @@ curTupleIndex:  20
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2076,elephant,post
 strlen0 is 16
 preTupleLen is 387
@@ -583,6 +947,13 @@ curTupleIndex:  21
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2094,book,rib
 strlen0 is 16
 preTupleLen is 401
@@ -594,6 +965,13 @@ curTupleIndex:  22
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2101,skeleton,insect
 strlen0 is 16
 preTupleLen is 422
@@ -605,6 +983,13 @@ curTupleIndex:  23
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2125,skeleton,crystal
 strlen0 is 16
 preTupleLen is 444
@@ -616,6 +1001,13 @@ curTupleIndex:  24
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2192,toilet,circus
 strlen0 is 16
 preTupleLen is 463
@@ -627,6 +1019,13 @@ curTupleIndex:  25
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2217,torpedo,compass
 strlen0 is 16
 preTupleLen is 484
@@ -638,6 +1037,13 @@ curTupleIndex:  26
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2223,toilet,x-ray
 strlen0 is 16
 preTupleLen is 502
@@ -649,6 +1055,13 @@ curTupleIndex:  27
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2268,gemstone,star
 strlen0 is 16
 preTupleLen is 521
@@ -660,6 +1073,13 @@ curTupleIndex:  28
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2276,database,mosquito
 strlen0 is 16
 preTupleLen is 544
@@ -671,6 +1091,13 @@ curTupleIndex:  29
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2409,chess-board,flower
 strlen0 is 16
 preTupleLen is 568
@@ -682,6 +1109,13 @@ curTupleIndex:  30
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2475,gas,needle
 strlen0 is 16
 preTupleLen is 584
@@ -693,6 +1127,13 @@ curTupleIndex:  31
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2713,sports-car,crystal
 strlen0 is 16
 preTupleLen is 608
@@ -704,6 +1145,13 @@ curTupleIndex:  32
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2731,clown,dung
 strlen0 is 16
 preTupleLen is 624
@@ -715,6 +1163,13 @@ curTupleIndex:  33
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2786,stomach,jet-fighter
 strlen0 is 16
 preTupleLen is 649
@@ -726,6 +1181,13 @@ curTupleIndex:  34
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2878,train,jet-fighter
 strlen0 is 16
 preTupleLen is 672
@@ -737,6 +1199,13 @@ curTupleIndex:  35
 total tuple is:  36
 00000000 00000000 00000000 00100101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2958,train,boss
 
 
@@ -751,6 +1220,13 @@ curTupleIndex:  0
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1000,kaleidoscope,hieroglyph
 strlen0 is 28
 preTupleLen is 29
@@ -762,6 +1238,13 @@ curTupleIndex:  1
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1087,tunnel,jet-fighter
 strlen0 is 28
 preTupleLen is 53
@@ -773,6 +1256,13 @@ curTupleIndex:  2
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1118,car-race,needle
 strlen0 is 28
 preTupleLen is 74
@@ -784,6 +1274,13 @@ curTupleIndex:  3
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1121,map,shower
 strlen0 is 28
 preTupleLen is 90
@@ -795,6 +1292,13 @@ curTupleIndex:  4
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1122,fruit,insect
 strlen0 is 28
 preTupleLen is 108
@@ -806,6 +1310,13 @@ curTupleIndex:  5
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1154,treadmill,pebble
 strlen0 is 28
 preTupleLen is 130
@@ -817,6 +1328,13 @@ curTupleIndex:  6
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1175,album,triangle
 strlen0 is 28
 preTupleLen is 150
@@ -828,6 +1346,13 @@ curTupleIndex:  7
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1177,guitar,circus
 strlen0 is 28
 preTupleLen is 169
@@ -839,6 +1364,13 @@ curTupleIndex:  8
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1293,fire,spiral
 strlen0 is 28
 preTupleLen is 186
@@ -850,6 +1382,13 @@ curTupleIndex:  9
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1308,fire,eyes
 strlen0 is 28
 preTupleLen is 201
@@ -861,6 +1400,13 @@ curTupleIndex:  10
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1322,finger,swim
 strlen0 is 28
 preTupleLen is 218
@@ -872,6 +1418,13 @@ curTupleIndex:  11
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1359,solid,needle
 strlen0 is 28
 preTupleLen is 236
@@ -883,6 +1436,13 @@ curTupleIndex:  12
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1394,guitar,boss
 strlen0 is 28
 preTupleLen is 253
@@ -894,6 +1454,13 @@ curTupleIndex:  13
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1463,videotape,umbrella
 strlen0 is 28
 preTupleLen is 277
@@ -905,6 +1472,13 @@ curTupleIndex:  14
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1470,thermometer,bomb
 strlen0 is 28
 preTupleLen is 299
@@ -916,6 +1490,13 @@ curTupleIndex:  15
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1649,meat,space
 strlen0 is 28
 preTupleLen is 315
@@ -927,6 +1508,13 @@ curTupleIndex:  16
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1836,meat,umbrella
 strlen0 is 28
 preTupleLen is 334
@@ -938,6 +1526,13 @@ curTupleIndex:  17
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1849,air,dung
 strlen0 is 28
 preTupleLen is 348
@@ -949,6 +1544,13 @@ curTupleIndex:  18
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1934,rainbow,bomb
 strlen0 is 28
 preTupleLen is 366
@@ -960,6 +1562,13 @@ curTupleIndex:  19
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1937,car-race,flower
 strlen0 is 28
 preTupleLen is 387
@@ -971,6 +1580,13 @@ curTupleIndex:  20
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1990,car-race,onion
 strlen0 is 28
 preTupleLen is 407
@@ -982,6 +1598,13 @@ curTupleIndex:  21
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2195,child,radar
 strlen0 is 28
 preTupleLen is 424
@@ -993,6 +1616,13 @@ curTupleIndex:  22
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2226,tennis,circus
 strlen0 is 28
 preTupleLen is 443
@@ -1004,6 +1634,13 @@ curTupleIndex:  23
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2242,album,hieroglyph
 strlen0 is 28
 preTupleLen is 465
@@ -1015,6 +1652,13 @@ curTupleIndex:  24
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2300,school,carpet
 strlen0 is 28
 preTupleLen is 484
@@ -1026,6 +1670,13 @@ curTupleIndex:  25
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2316,ears,chief
 strlen0 is 28
 preTupleLen is 500
@@ -1037,6 +1688,13 @@ curTupleIndex:  26
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2449,family,drill
 strlen0 is 28
 preTupleLen is 518
@@ -1048,6 +1706,13 @@ curTupleIndex:  27
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2473,fire,crystal
 strlen0 is 28
 preTupleLen is 536
@@ -1059,6 +1724,13 @@ curTupleIndex:  28
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2499,fire,clock
 strlen0 is 28
 preTupleLen is 552
@@ -1070,6 +1742,13 @@ curTupleIndex:  29
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2527,guitar,plane
 strlen0 is 28
 preTupleLen is 570
@@ -1081,6 +1760,13 @@ curTupleIndex:  30
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2543,highway,clock
 strlen0 is 28
 preTupleLen is 589
@@ -1092,6 +1778,13 @@ curTupleIndex:  31
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2572,slave,button
 strlen0 is 28
 preTupleLen is 607
@@ -1103,6 +1796,13 @@ curTupleIndex:  32
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2691,snail,post
 strlen0 is 28
 preTupleLen is 623
@@ -1114,6 +1814,13 @@ curTupleIndex:  33
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2870,saddle,spiral
 strlen0 is 28
 preTupleLen is 642
@@ -1125,6 +1832,13 @@ curTupleIndex:  34
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2910,map,circus
 strlen0 is 28
 preTupleLen is 658
@@ -1136,6 +1850,13 @@ curTupleIndex:  35
 total tuple is:  36
 00000000 00000000 00000000 00100110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2968,dog,plane
 
 
@@ -1150,6 +1871,13 @@ curTupleIndex:  0
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1092,meteor,chief
 strlen0 is 17
 preTupleLen is 18
@@ -1161,6 +1889,13 @@ curTupleIndex:  1
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1159,kitchen,vampire
 strlen0 is 17
 preTupleLen is 39
@@ -1172,6 +1907,13 @@ curTupleIndex:  2
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1196,woman,ship
 strlen0 is 17
 preTupleLen is 55
@@ -1183,6 +1925,13 @@ curTupleIndex:  3
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1300,ears,fin
 strlen0 is 17
 preTupleLen is 69
@@ -1194,6 +1943,13 @@ curTupleIndex:  4
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1329,tongue,perfume
 strlen0 is 17
 preTupleLen is 89
@@ -1205,6 +1961,13 @@ curTupleIndex:  5
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1500,tapestry,milk
 strlen0 is 17
 preTupleLen is 108
@@ -1216,6 +1979,13 @@ curTupleIndex:  6
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1537,ring,x-ray
 strlen0 is 17
 preTupleLen is 124
@@ -1227,6 +1997,13 @@ curTupleIndex:  7
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1668,prison,spoon
 strlen0 is 17
 preTupleLen is 142
@@ -1238,6 +2015,13 @@ curTupleIndex:  8
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1689,meteor,crystal
 strlen0 is 17
 preTupleLen is 162
@@ -1249,6 +2033,13 @@ curTupleIndex:  9
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1724,money,needle
 strlen0 is 17
 preTupleLen is 180
@@ -1260,6 +2051,13 @@ curTupleIndex:  10
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1752,videotape,airforce
 strlen0 is 17
 preTupleLen is 204
@@ -1271,6 +2069,13 @@ curTupleIndex:  11
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1963,vacuum,airport
 strlen0 is 17
 preTupleLen is 224
@@ -1282,6 +2087,13 @@ curTupleIndex:  12
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2135,child,pocket
 strlen0 is 17
 preTupleLen is 242
@@ -1293,6 +2105,13 @@ curTupleIndex:  13
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2215,tongue,aeroplane
 strlen0 is 17
 preTupleLen is 264
@@ -1304,6 +2123,13 @@ curTupleIndex:  14
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2255,hammer,radar
 strlen0 is 17
 preTupleLen is 282
@@ -1315,6 +2141,13 @@ curTupleIndex:  15
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2363,sunglasses,button
 strlen0 is 17
 preTupleLen is 305
@@ -1326,6 +2159,13 @@ curTupleIndex:  16
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2506,butterfly,compass
 strlen0 is 17
 preTupleLen is 328
@@ -1337,6 +2177,13 @@ curTupleIndex:  17
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2540,finger,dung
 strlen0 is 17
 preTupleLen is 345
@@ -1348,6 +2195,13 @@ curTupleIndex:  18
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2568,hammer,x-ray
 strlen0 is 17
 preTupleLen is 363
@@ -1359,6 +2213,13 @@ curTupleIndex:  19
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2578,meat,horoscope
 strlen0 is 17
 preTupleLen is 383
@@ -1370,6 +2231,13 @@ curTupleIndex:  20
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2610,dingbat,circus
 strlen0 is 17
 preTupleLen is 403
@@ -1381,6 +2249,13 @@ curTupleIndex:  21
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2649,banana,vulture
 strlen0 is 17
 preTupleLen is 423
@@ -1392,6 +2267,13 @@ curTupleIndex:  22
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2688,hammer,umbrella
 strlen0 is 17
 preTupleLen is 444
@@ -1403,6 +2285,13 @@ curTupleIndex:  23
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2695,microscope,boss
 strlen0 is 17
 preTupleLen is 465
@@ -1414,6 +2303,13 @@ curTupleIndex:  24
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2738,tunnel,pocket
 strlen0 is 17
 preTupleLen is 484
@@ -1425,6 +2321,13 @@ curTupleIndex:  25
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2776,family,man
 strlen0 is 17
 preTupleLen is 500
@@ -1436,6 +2339,13 @@ curTupleIndex:  26
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2829,bathtub,mum
 strlen0 is 17
 preTupleLen is 517
@@ -1447,6 +2357,13 @@ curTupleIndex:  27
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2889,map,airport
 strlen0 is 17
 preTupleLen is 534
@@ -1458,6 +2375,13 @@ curTupleIndex:  28
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2962,family,milk
 strlen0 is 17
 preTupleLen is 551
@@ -1469,6 +2393,13 @@ curTupleIndex:  29
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2967,woman,adult
 strlen0 is 17
 preTupleLen is 568
@@ -1480,6 +2411,13 @@ curTupleIndex:  30
 total tuple is:  31
 00000000 00000000 00000000 00100111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2983,kaleidoscope,ship
 
 
@@ -1494,6 +2432,13 @@ curTupleIndex:  0
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1037,leg,eyes
 strlen0 is 13
 preTupleLen is 14
@@ -1505,6 +2450,13 @@ curTupleIndex:  1
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1120,printer,flower
 strlen0 is 13
 preTupleLen is 34
@@ -1516,6 +2468,13 @@ curTupleIndex:  2
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1273,junk,spoon
 strlen0 is 13
 preTupleLen is 50
@@ -1527,6 +2486,13 @@ curTupleIndex:  3
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1294,garden,circus
 strlen0 is 13
 preTupleLen is 69
@@ -1538,6 +2504,13 @@ curTupleIndex:  4
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1309,pendulum,post
 strlen0 is 13
 preTupleLen is 88
@@ -1549,6 +2522,13 @@ curTupleIndex:  5
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1403,liquid,mum
 strlen0 is 13
 preTupleLen is 104
@@ -1560,6 +2540,13 @@ curTupleIndex:  6
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1422,signature,horoscope
 strlen0 is 13
 preTupleLen is 129
@@ -1571,6 +2558,13 @@ curTupleIndex:  7
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1499,garden,boss
 strlen0 is 13
 preTupleLen is 146
@@ -1582,6 +2576,13 @@ curTupleIndex:  8
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1555,sun,mosquito
 strlen0 is 13
 preTupleLen is 164
@@ -1593,6 +2594,13 @@ curTupleIndex:  9
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1588,window,flower
 strlen0 is 13
 preTupleLen is 183
@@ -1604,6 +2612,13 @@ curTupleIndex:  10
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1661,ice-cream,eyes
 strlen0 is 13
 preTupleLen is 203
@@ -1615,6 +2630,13 @@ curTupleIndex:  11
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1719,television,sphere
 strlen0 is 13
 preTupleLen is 226
@@ -1626,6 +2648,13 @@ curTupleIndex:  12
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1785,girl,boy
 strlen0 is 13
 preTupleLen is 240
@@ -1637,6 +2666,13 @@ curTupleIndex:  13
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1808,web,triangle
 strlen0 is 13
 preTupleLen is 258
@@ -1648,6 +2684,13 @@ curTupleIndex:  14
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2025,television,pebble
 strlen0 is 13
 preTupleLen is 281
@@ -1659,6 +2702,13 @@ curTupleIndex:  15
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2112,leg,swim
 strlen0 is 13
 preTupleLen is 295
@@ -1670,6 +2720,13 @@ curTupleIndex:  16
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2188,gas,triangle
 strlen0 is 13
 preTupleLen is 313
@@ -1681,6 +2738,13 @@ curTupleIndex:  17
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2220,alphabet,milk
 strlen0 is 13
 preTupleLen is 332
@@ -1692,6 +2756,13 @@ curTupleIndex:  18
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2280,garden,vulture
 strlen0 is 13
 preTupleLen is 352
@@ -1703,6 +2774,13 @@ curTupleIndex:  19
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2348,library,umbrella
 strlen0 is 13
 preTupleLen is 374
@@ -1714,6 +2792,13 @@ curTupleIndex:  20
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2374,torpedo,swim
 strlen0 is 13
 preTupleLen is 392
@@ -1725,6 +2810,13 @@ curTupleIndex:  21
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2464,library,circus
 strlen0 is 13
 preTupleLen is 412
@@ -1736,6 +2828,13 @@ curTupleIndex:  22
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2699,printer,circus
 strlen0 is 13
 preTupleLen is 432
@@ -1747,6 +2846,13 @@ curTupleIndex:  23
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2817,stomach,compass
 strlen0 is 13
 preTupleLen is 453
@@ -1758,6 +2864,13 @@ curTupleIndex:  24
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2874,gemstone,drill
 strlen0 is 13
 preTupleLen is 473
@@ -1769,6 +2882,13 @@ curTupleIndex:  25
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2876,leg,pocket
 strlen0 is 13
 preTupleLen is 489
@@ -1780,6 +2900,13 @@ curTupleIndex:  26
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2959,army,dung
 strlen0 is 13
 preTupleLen is 504
@@ -1791,6 +2918,13 @@ curTupleIndex:  27
 total tuple is:  28
 00000000 00000000 00000000 00101100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2985,surveyor,space
 
 
@@ -1805,6 +2939,13 @@ curTupleIndex:  0
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1106,elephant,rib
 strlen0 is 17
 preTupleLen is 18
@@ -1816,6 +2957,13 @@ curTupleIndex:  1
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1134,television,feather
 strlen0 is 17
 preTupleLen is 42
@@ -1827,6 +2975,13 @@ curTupleIndex:  2
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1176,telescope,crystal
 strlen0 is 17
 preTupleLen is 65
@@ -1838,6 +2993,13 @@ curTupleIndex:  3
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1237,alphabet,crystal
 strlen0 is 17
 preTupleLen is 87
@@ -1849,6 +3011,13 @@ curTupleIndex:  4
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1253,web,button
 strlen0 is 17
 preTupleLen is 103
@@ -1860,6 +3029,13 @@ curTupleIndex:  5
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1270,skeleton,drill
 strlen0 is 17
 preTupleLen is 123
@@ -1871,6 +3047,13 @@ curTupleIndex:  6
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1965,sun,rib
 strlen0 is 17
 preTupleLen is 136
@@ -1882,6 +3065,13 @@ curTupleIndex:  7
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2244,pin,mum
 strlen0 is 17
 preTupleLen is 149
@@ -1893,6 +3083,13 @@ curTupleIndex:  8
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2350,surveyor,pocket
 strlen0 is 17
 preTupleLen is 170
@@ -1904,6 +3101,13 @@ curTupleIndex:  9
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2365,rope,coffee-shop
 strlen0 is 17
 preTupleLen is 192
@@ -1915,6 +3119,13 @@ curTupleIndex:  10
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2381,salt,button
 strlen0 is 17
 preTupleLen is 209
@@ -1926,6 +3137,13 @@ curTupleIndex:  11
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2443,printer,needle
 strlen0 is 17
 preTupleLen is 229
@@ -1937,6 +3155,13 @@ curTupleIndex:  12
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2627,paintbrush,rib
 strlen0 is 17
 preTupleLen is 249
@@ -1948,6 +3173,13 @@ curTupleIndex:  13
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2655,festival,mosquito
 strlen0 is 17
 preTupleLen is 272
@@ -1959,6 +3191,13 @@ curTupleIndex:  14
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2838,oodle,radar
 strlen0 is 17
 preTupleLen is 289
@@ -1970,6 +3209,13 @@ curTupleIndex:  15
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2961,gemstone,post
 strlen0 is 17
 preTupleLen is 308
@@ -1981,6 +3227,13 @@ curTupleIndex:  16
 total tuple is:  17
 00000000 00000000 00000000 00101101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2978,festival,eyes
 
 
@@ -1995,6 +3248,13 @@ curTupleIndex:  0
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1089,kaleidoscope,rib
 strlen0 is 21
 preTupleLen is 22
@@ -2006,6 +3266,13 @@ curTupleIndex:  1
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1105,banana,square
 strlen0 is 21
 preTupleLen is 41
@@ -2017,6 +3284,13 @@ curTupleIndex:  2
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1145,tunnel,bomb
 strlen0 is 21
 preTupleLen is 58
@@ -2028,6 +3302,13 @@ curTupleIndex:  3
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1268,zoo,milk
 strlen0 is 21
 preTupleLen is 72
@@ -2039,6 +3320,13 @@ curTupleIndex:  4
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1336,tongue,perfume
 strlen0 is 21
 preTupleLen is 92
@@ -2050,6 +3338,13 @@ curTupleIndex:  5
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1462,map,crystal
 strlen0 is 21
 preTupleLen is 109
@@ -2061,6 +3356,13 @@ curTupleIndex:  6
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1474,dog,hat
 strlen0 is 21
 preTupleLen is 122
@@ -2072,6 +3374,13 @@ curTupleIndex:  7
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1575,backpack,airforce
 strlen0 is 21
 preTupleLen is 145
@@ -2083,6 +3392,13 @@ curTupleIndex:  8
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1744,money,plane
 strlen0 is 21
 preTupleLen is 162
@@ -2094,6 +3410,13 @@ curTupleIndex:  9
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1801,finger,ship
 strlen0 is 21
 preTupleLen is 179
@@ -2105,6 +3428,13 @@ curTupleIndex:  10
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1807,backpack,pocket
 strlen0 is 21
 preTupleLen is 200
@@ -2116,6 +3446,13 @@ curTupleIndex:  11
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1871,passport,shower
 strlen0 is 21
 preTupleLen is 221
@@ -2127,6 +3464,13 @@ curTupleIndex:  12
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1923,tunnel,ship
 strlen0 is 21
 preTupleLen is 238
@@ -2138,6 +3482,13 @@ curTupleIndex:  13
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1946,child,shower
 strlen0 is 21
 preTupleLen is 256
@@ -2149,6 +3500,13 @@ curTupleIndex:  14
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1951,weapon,ship
 strlen0 is 21
 preTupleLen is 273
@@ -2160,6 +3518,13 @@ curTupleIndex:  15
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1952,bee,win
 strlen0 is 21
 preTupleLen is 286
@@ -2171,6 +3536,13 @@ curTupleIndex:  16
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1995,money,clock
 strlen0 is 21
 preTupleLen is 303
@@ -2182,6 +3554,13 @@ curTupleIndex:  17
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2189,rainbow,spoon
 strlen0 is 21
 preTupleLen is 322
@@ -2193,6 +3572,13 @@ curTupleIndex:  18
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2230,key,compass
 strlen0 is 21
 preTupleLen is 339
@@ -2204,6 +3590,13 @@ curTupleIndex:  19
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2238,bee,drill
 strlen0 is 21
 preTupleLen is 354
@@ -2215,6 +3608,13 @@ curTupleIndex:  20
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2333,finger,rib
 strlen0 is 21
 preTupleLen is 370
@@ -2226,6 +3626,13 @@ curTupleIndex:  21
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2349,sandpaper,floodlight
 strlen0 is 21
 preTupleLen is 396
@@ -2237,6 +3644,13 @@ curTupleIndex:  22
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2355,solid,pocket
 strlen0 is 21
 preTupleLen is 414
@@ -2248,6 +3662,13 @@ curTupleIndex:  23
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2463,zoo,carpet
 strlen0 is 21
 preTupleLen is 430
@@ -2259,6 +3680,13 @@ curTupleIndex:  24
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2519,kaleidoscope,rib
 strlen0 is 21
 preTupleLen is 452
@@ -2270,6 +3698,13 @@ curTupleIndex:  25
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2571,treadmill,horoscope
 strlen0 is 21
 preTupleLen is 477
@@ -2281,6 +3716,13 @@ curTupleIndex:  26
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2944,kaleidoscope,perfume
 strlen0 is 21
 preTupleLen is 503
@@ -2292,6 +3734,13 @@ curTupleIndex:  27
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2951,hammer,airport
 strlen0 is 21
 preTupleLen is 523
@@ -2303,6 +3752,13 @@ curTupleIndex:  28
 total tuple is:  29
 00000000 00000000 00000000 00101110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2966,map,airforce
 
 
@@ -2317,6 +3773,13 @@ curTupleIndex:  0
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1011,sandpaper,sword
 strlen0 is 20
 preTupleLen is 21
@@ -2328,6 +3791,13 @@ curTupleIndex:  1
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1074,treadmill,circus
 strlen0 is 20
 preTupleLen is 43
@@ -2339,6 +3809,13 @@ curTupleIndex:  2
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1129,sandpaper,pebble
 strlen0 is 20
 preTupleLen is 65
@@ -2350,6 +3827,13 @@ curTupleIndex:  3
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1187,album,drill
 strlen0 is 20
 preTupleLen is 82
@@ -2361,6 +3845,13 @@ curTupleIndex:  4
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1345,comet,floodlight
 strlen0 is 20
 preTupleLen is 104
@@ -2372,6 +3863,13 @@ curTupleIndex:  5
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1358,thermometer,feather
 strlen0 is 20
 preTupleLen is 129
@@ -2383,6 +3881,13 @@ curTupleIndex:  6
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1392,hammer,space
 strlen0 is 20
 preTupleLen is 147
@@ -2394,6 +3899,13 @@ curTupleIndex:  7
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1681,school,aeroplane
 strlen0 is 20
 preTupleLen is 169
@@ -2405,6 +3917,13 @@ curTupleIndex:  8
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1710,sunglasses,dung
 strlen0 is 20
 preTupleLen is 190
@@ -2416,6 +3935,13 @@ curTupleIndex:  9
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1784,sandpaper,shower
 strlen0 is 20
 preTupleLen is 212
@@ -2427,6 +3953,13 @@ curTupleIndex:  10
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1814,weapon,star
 strlen0 is 20
 preTupleLen is 229
@@ -2438,6 +3971,13 @@ curTupleIndex:  11
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1826,map,button
 strlen0 is 20
 preTupleLen is 245
@@ -2449,6 +3989,13 @@ curTupleIndex:  12
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1861,backpack,bomb
 strlen0 is 20
 preTupleLen is 264
@@ -2460,6 +4007,13 @@ curTupleIndex:  13
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1967,fire,floodlight
 strlen0 is 20
 preTupleLen is 285
@@ -2471,6 +4025,13 @@ curTupleIndex:  14
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2251,chisel,coffee-shop
 strlen0 is 20
 preTupleLen is 309
@@ -2482,6 +4043,13 @@ curTupleIndex:  15
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2266,cappuccino,floodlight
 strlen0 is 20
 preTupleLen is 336
@@ -2493,6 +4061,13 @@ curTupleIndex:  16
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2442,child,mum
 strlen0 is 20
 preTupleLen is 351
@@ -2504,6 +4079,13 @@ curTupleIndex:  17
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2481,butterfly,clock
 strlen0 is 20
 preTupleLen is 372
@@ -2515,6 +4097,13 @@ curTupleIndex:  18
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2491,backpack,spiral
 strlen0 is 20
 preTupleLen is 393
@@ -2526,6 +4115,13 @@ curTupleIndex:  19
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2602,prison,hot
 strlen0 is 20
 preTupleLen is 409
@@ -2537,6 +4133,13 @@ curTupleIndex:  20
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2727,desk,perfume
 strlen0 is 20
 preTupleLen is 427
@@ -2548,6 +4151,13 @@ curTupleIndex:  21
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2754,bathroom,star
 strlen0 is 20
 preTupleLen is 446
@@ -2559,6 +4169,13 @@ curTupleIndex:  22
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2868,bathroom,airforce
 strlen0 is 20
 preTupleLen is 469
@@ -2570,6 +4187,13 @@ curTupleIndex:  23
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2881,double,aeroplane
 strlen0 is 20
 preTupleLen is 491
@@ -2581,6 +4205,13 @@ curTupleIndex:  24
 total tuple is:  25
 00000000 00000000 00000000 00101111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2923,saddle,floodlight
 
 
@@ -2595,6 +4226,13 @@ curTupleIndex:  0
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1068,gasp,dung
 strlen0 is 14
 preTupleLen is 15
@@ -2606,6 +4244,13 @@ curTupleIndex:  1
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1131,cycle,sphere
 strlen0 is 14
 preTupleLen is 33
@@ -2617,6 +4262,13 @@ curTupleIndex:  2
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1248,bed,coffee-shop
 strlen0 is 14
 preTupleLen is 54
@@ -2628,6 +4280,13 @@ curTupleIndex:  3
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1418,planet,needle
 strlen0 is 14
 preTupleLen is 73
@@ -2639,6 +4298,13 @@ curTupleIndex:  4
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1423,sandwich,spoon
 strlen0 is 14
 preTupleLen is 93
@@ -2650,6 +4316,13 @@ curTupleIndex:  5
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1634,water,boss
 strlen0 is 14
 preTupleLen is 109
@@ -2661,6 +4334,13 @@ curTupleIndex:  6
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1648,circle,ship
 strlen0 is 14
 preTupleLen is 126
@@ -2672,6 +4352,13 @@ curTupleIndex:  7
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1703,staircase,fin
 strlen0 is 14
 preTupleLen is 145
@@ -2683,6 +4370,13 @@ curTupleIndex:  8
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1772,baby,clock
 strlen0 is 14
 preTupleLen is 161
@@ -2694,6 +4388,13 @@ curTupleIndex:  9
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1834,set,eyes
 strlen0 is 14
 preTupleLen is 175
@@ -2705,6 +4406,13 @@ curTupleIndex:  10
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1863,horse,boss
 strlen0 is 14
 preTupleLen is 191
@@ -2716,6 +4424,13 @@ curTupleIndex:  11
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1899,eraser,x-ray
 strlen0 is 14
 preTupleLen is 209
@@ -2727,6 +4442,13 @@ curTupleIndex:  12
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1915,monster,airport
 strlen0 is 14
 preTupleLen is 230
@@ -2738,6 +4460,13 @@ curTupleIndex:  13
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1932,knife,needle
 strlen0 is 14
 preTupleLen is 248
@@ -2749,6 +4478,13 @@ curTupleIndex:  14
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1933,bed,crystal
 strlen0 is 14
 preTupleLen is 265
@@ -2760,6 +4496,13 @@ curTupleIndex:  15
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2037,circle,hot
 strlen0 is 14
 preTupleLen is 281
@@ -2771,6 +4514,13 @@ curTupleIndex:  16
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2048,milkshake,coffee-shop
 strlen0 is 14
 preTupleLen is 308
@@ -2782,6 +4532,13 @@ curTupleIndex:  17
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2064,torch,crystal
 strlen0 is 14
 preTupleLen is 327
@@ -2793,6 +4550,13 @@ curTupleIndex:  18
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2102,navy,perfume
 strlen0 is 14
 preTupleLen is 345
@@ -2804,6 +4568,13 @@ curTupleIndex:  19
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2104,pith,crystal
 strlen0 is 14
 preTupleLen is 363
@@ -2815,6 +4586,13 @@ curTupleIndex:  20
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2207,set,circus
 strlen0 is 14
 preTupleLen is 379
@@ -2826,6 +4604,13 @@ curTupleIndex:  21
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2257,table,floodlight
 strlen0 is 14
 preTupleLen is 401
@@ -2837,6 +4622,13 @@ curTupleIndex:  22
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2342,satellite,drink
 strlen0 is 14
 preTupleLen is 422
@@ -2848,6 +4640,13 @@ curTupleIndex:  23
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2539,staircase,pebble
 strlen0 is 14
 preTupleLen is 444
@@ -2859,6 +4658,13 @@ curTupleIndex:  24
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2704,chocolates,ship
 strlen0 is 14
 preTupleLen is 465
@@ -2870,6 +4676,13 @@ curTupleIndex:  25
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2744,set,space
 strlen0 is 14
 preTupleLen is 480
@@ -2881,6 +4694,13 @@ curTupleIndex:  26
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2758,freeway,radar
 strlen0 is 14
 preTupleLen is 499
@@ -2892,6 +4712,13 @@ curTupleIndex:  27
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2764,gasp,umbrella
 strlen0 is 14
 preTupleLen is 518
@@ -2903,6 +4730,13 @@ curTupleIndex:  28
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2769,magnet,star
 strlen0 is 14
 preTupleLen is 535
@@ -2914,6 +4748,13 @@ curTupleIndex:  29
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2832,teeth,circus
 strlen0 is 14
 preTupleLen is 553
@@ -2925,6 +4766,13 @@ curTupleIndex:  30
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2855,spice,crystal
 strlen0 is 14
 preTupleLen is 572
@@ -2936,6 +4784,13 @@ curTupleIndex:  31
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2882,diamond,adult
 strlen0 is 14
 preTupleLen is 591
@@ -2947,6 +4802,13 @@ curTupleIndex:  32
 total tuple is:  33
 00000000 00000000 00000000 00110100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2928,potato,umbrella
 
 
@@ -2961,6 +4823,13 @@ curTupleIndex:  0
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1001,navy,hieroglyph
 strlen0 is 20
 preTupleLen is 21
@@ -2972,6 +4841,13 @@ curTupleIndex:  1
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1079,aircraft,flower
 strlen0 is 20
 preTupleLen is 42
@@ -2983,6 +4859,13 @@ curTupleIndex:  2
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1319,cat,mosquito
 strlen0 is 20
 preTupleLen is 60
@@ -2994,6 +4877,13 @@ curTupleIndex:  3
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1327,zebra,pocket
 strlen0 is 20
 preTupleLen is 78
@@ -3005,6 +4895,13 @@ curTupleIndex:  4
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1332,monster,eyes
 strlen0 is 20
 preTupleLen is 96
@@ -3016,6 +4913,13 @@ curTupleIndex:  5
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1334,record,shower
 strlen0 is 20
 preTupleLen is 115
@@ -3027,6 +4931,13 @@ curTupleIndex:  6
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1356,rocket,man
 strlen0 is 20
 preTupleLen is 131
@@ -3038,6 +4949,13 @@ curTupleIndex:  7
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1453,pith,clock
 strlen0 is 20
 preTupleLen is 147
@@ -3049,6 +4967,13 @@ curTupleIndex:  8
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1483,egg,rib
 strlen0 is 20
 preTupleLen is 160
@@ -3060,6 +4985,13 @@ curTupleIndex:  9
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1517,spectrum,feather
 strlen0 is 20
 preTupleLen is 182
@@ -3071,6 +5003,13 @@ curTupleIndex:  10
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1593,rock,carpet
 strlen0 is 20
 preTupleLen is 199
@@ -3082,6 +5021,13 @@ curTupleIndex:  11
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1616,grapes,adult
 strlen0 is 20
 preTupleLen is 217
@@ -3093,6 +5039,13 @@ curTupleIndex:  12
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1682,chair,hieroglyph
 strlen0 is 20
 preTupleLen is 239
@@ -3104,6 +5057,13 @@ curTupleIndex:  13
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1766,bed,insect
 strlen0 is 20
 preTupleLen is 255
@@ -3115,6 +5075,13 @@ curTupleIndex:  14
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1787,arm,square
 strlen0 is 20
 preTupleLen is 271
@@ -3126,6 +5093,13 @@ curTupleIndex:  15
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1804,aircraft,fin
 strlen0 is 20
 preTupleLen is 289
@@ -3137,6 +5111,13 @@ curTupleIndex:  16
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1830,torch,jet-fighter
 strlen0 is 20
 preTupleLen is 312
@@ -3148,6 +5129,13 @@ curTupleIndex:  17
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1831,navy,balloon
 strlen0 is 20
 preTupleLen is 330
@@ -3159,6 +5147,13 @@ curTupleIndex:  18
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1884,coffee,fin
 strlen0 is 20
 preTupleLen is 346
@@ -3170,6 +5165,13 @@ curTupleIndex:  19
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1908,potato,perfume
 strlen0 is 20
 preTupleLen is 366
@@ -3181,6 +5183,13 @@ curTupleIndex:  20
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1920,eraser,perfume
 strlen0 is 20
 preTupleLen is 386
@@ -3192,6 +5201,13 @@ curTupleIndex:  21
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1968,spice,horoscope
 strlen0 is 20
 preTupleLen is 407
@@ -3203,6 +5219,13 @@ curTupleIndex:  22
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2017,pepper,spiral
 strlen0 is 20
 preTupleLen is 426
@@ -3214,6 +5237,13 @@ curTupleIndex:  23
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2045,chocolates,eyes
 strlen0 is 20
 preTupleLen is 447
@@ -3225,6 +5255,13 @@ curTupleIndex:  24
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2057,foot,win
 strlen0 is 20
 preTupleLen is 461
@@ -3236,6 +5273,13 @@ curTupleIndex:  25
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2095,cat,circus
 strlen0 is 20
 preTupleLen is 477
@@ -3247,6 +5291,13 @@ curTupleIndex:  26
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2213,fan,crystal
 strlen0 is 20
 preTupleLen is 494
@@ -3258,6 +5309,13 @@ curTupleIndex:  27
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2274,leather,airport
 strlen0 is 20
 preTupleLen is 515
@@ -3269,6 +5327,13 @@ curTupleIndex:  28
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2287,rocket,rib
 strlen0 is 20
 preTupleLen is 531
@@ -3280,6 +5345,13 @@ curTupleIndex:  29
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2314,restaurant,shower
 strlen0 is 20
 preTupleLen is 554
@@ -3291,6 +5363,13 @@ curTupleIndex:  30
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2587,foot,ship
 strlen0 is 20
 preTupleLen is 569
@@ -3302,6 +5381,13 @@ curTupleIndex:  31
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2394,room,coffee-shop
 strlen0 is 20
 preTupleLen is 591
@@ -3313,6 +5399,13 @@ curTupleIndex:  32
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2465,fungus,carpet
 strlen0 is 20
 preTupleLen is 610
@@ -3324,6 +5417,13 @@ curTupleIndex:  33
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2620,hose,horoscope
 strlen0 is 20
 preTupleLen is 630
@@ -3335,6 +5435,13 @@ curTupleIndex:  34
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2811,mist,aeroplane
 strlen0 is 20
 preTupleLen is 650
@@ -3346,6 +5453,13 @@ curTupleIndex:  35
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2924,maze,vampire
 strlen0 is 20
 preTupleLen is 668
@@ -3357,6 +5471,13 @@ curTupleIndex:  36
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2937,rocket,spiral
 strlen0 is 20
 preTupleLen is 687
@@ -3368,6 +5489,13 @@ curTupleIndex:  37
 total tuple is:  38
 00000000 00000000 00000000 00110101
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2939,wheelchair,needle
 
 
@@ -3382,6 +5510,13 @@ curTupleIndex:  0
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1020,circus,flower
 strlen0 is 18
 preTupleLen is 19
@@ -3393,6 +5528,13 @@ curTupleIndex:  1
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1058,spiral,ship
 strlen0 is 18
 preTupleLen is 36
@@ -3404,6 +5546,13 @@ curTupleIndex:  2
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1084,boss,airport
 strlen0 is 18
 preTupleLen is 54
@@ -3415,6 +5564,13 @@ curTupleIndex:  3
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1101,mosquito,floodlight
 strlen0 is 18
 preTupleLen is 79
@@ -3426,6 +5582,13 @@ curTupleIndex:  4
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1110,radar,floodlight
 strlen0 is 18
 preTupleLen is 101
@@ -3437,6 +5600,13 @@ curTupleIndex:  5
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1130,hot,circus
 strlen0 is 18
 preTupleLen is 117
@@ -3448,6 +5618,13 @@ curTupleIndex:  6
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1220,spiral,man
 strlen0 is 18
 preTupleLen is 133
@@ -3459,6 +5636,13 @@ curTupleIndex:  7
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1227,vampire,balloon
 strlen0 is 18
 preTupleLen is 154
@@ -3470,6 +5654,13 @@ curTupleIndex:  8
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1251,insect,airport
 strlen0 is 18
 preTupleLen is 174
@@ -3481,6 +5672,13 @@ curTupleIndex:  9
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1292,circus,perfume
 strlen0 is 18
 preTupleLen is 194
@@ -3492,6 +5690,13 @@ curTupleIndex:  10
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1436,circus,post
 strlen0 is 18
 preTupleLen is 211
@@ -3503,6 +5708,13 @@ curTupleIndex:  11
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1552,pocket,button
 strlen0 is 18
 preTupleLen is 230
@@ -3514,6 +5726,13 @@ curTupleIndex:  12
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1645,circus,spoon
 strlen0 is 18
 preTupleLen is 248
@@ -3525,6 +5744,13 @@ curTupleIndex:  13
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1740,onion,clock
 strlen0 is 18
 preTupleLen is 265
@@ -3536,6 +5762,13 @@ curTupleIndex:  14
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1832,sword,rib
 strlen0 is 18
 preTupleLen is 280
@@ -3547,6 +5780,13 @@ curTupleIndex:  15
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2065,fin,feather
 strlen0 is 18
 preTupleLen is 297
@@ -3558,6 +5798,13 @@ curTupleIndex:  16
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2080,chief,spoon
 strlen0 is 18
 preTupleLen is 314
@@ -3569,6 +5816,13 @@ curTupleIndex:  17
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2096,hat,spiral
 strlen0 is 18
 preTupleLen is 330
@@ -3580,6 +5834,13 @@ curTupleIndex:  18
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2103,dung,umbrella
 strlen0 is 18
 preTupleLen is 349
@@ -3591,6 +5852,13 @@ curTupleIndex:  19
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2122,crystal,drink
 strlen0 is 18
 preTupleLen is 368
@@ -3602,6 +5870,13 @@ curTupleIndex:  20
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2225,spiral,spiral
 strlen0 is 18
 preTupleLen is 387
@@ -3613,6 +5888,13 @@ curTupleIndex:  21
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2228,space,hat
 strlen0 is 18
 preTupleLen is 402
@@ -3624,6 +5906,13 @@ curTupleIndex:  22
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2286,onion,drink
 strlen0 is 18
 preTupleLen is 419
@@ -3635,6 +5924,13 @@ curTupleIndex:  23
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2379,win,win
 strlen0 is 18
 preTupleLen is 432
@@ -3646,6 +5942,13 @@ curTupleIndex:  24
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2403,dung,bomb
 strlen0 is 18
 preTupleLen is 447
@@ -3657,6 +5960,13 @@ curTupleIndex:  25
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2631,hat,insect
 strlen0 is 18
 preTupleLen is 463
@@ -3668,6 +5978,13 @@ curTupleIndex:  26
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2662,circus,adult
 strlen0 is 18
 preTupleLen is 481
@@ -3679,6 +5996,13 @@ curTupleIndex:  27
 total tuple is:  28
 00000000 00000000 00000000 00110110
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2845,shower,button
 
 
@@ -3693,6 +6017,13 @@ curTupleIndex:  0
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1103,x-ray,square
 strlen0 is 17
 preTupleLen is 18
@@ -3704,6 +6035,13 @@ curTupleIndex:  1
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1290,crystal,onion
 strlen0 is 17
 preTupleLen is 37
@@ -3715,6 +6053,13 @@ curTupleIndex:  2
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1449,airport,ship
 strlen0 is 17
 preTupleLen is 55
@@ -3726,6 +6071,13 @@ curTupleIndex:  3
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1597,boy,horoscope
 strlen0 is 17
 preTupleLen is 74
@@ -3737,6 +6089,13 @@ curTupleIndex:  4
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1677,star,circus
 strlen0 is 17
 preTupleLen is 91
@@ -3748,6 +6107,13 @@ curTupleIndex:  5
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1692,post,bomb
 strlen0 is 17
 preTupleLen is 106
@@ -3759,6 +6125,13 @@ curTupleIndex:  6
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1827,button,boss
 strlen0 is 17
 preTupleLen is 123
@@ -3770,6 +6143,13 @@ curTupleIndex:  7
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1870,hieroglyph,carpet
 strlen0 is 17
 preTupleLen is 146
@@ -3781,6 +6161,13 @@ curTupleIndex:  8
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1917,onion,balloon
 strlen0 is 17
 preTupleLen is 165
@@ -3792,6 +6179,13 @@ curTupleIndex:  9
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1956,airforce,button
 strlen0 is 17
 preTupleLen is 186
@@ -3803,6 +6197,13 @@ curTupleIndex:  10
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2014,drill,horoscope
 strlen0 is 17
 preTupleLen is 207
@@ -3814,6 +6215,13 @@ curTupleIndex:  11
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2161,perfume,airforce
 strlen0 is 17
 preTupleLen is 229
@@ -3825,6 +6233,13 @@ curTupleIndex:  12
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2406,sword,spoon
 strlen0 is 17
 preTupleLen is 246
@@ -3836,6 +6251,13 @@ curTupleIndex:  13
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2476,adult,hat
 strlen0 is 17
 preTupleLen is 261
@@ -3847,6 +6269,13 @@ curTupleIndex:  14
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2484,man,x-ray
 strlen0 is 17
 preTupleLen is 276
@@ -3858,6 +6287,13 @@ curTupleIndex:  15
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2557,triangle,triangle
 strlen0 is 17
 preTupleLen is 299
@@ -3869,6 +6305,13 @@ curTupleIndex:  16
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2635,swim,horoscope
 strlen0 is 17
 preTupleLen is 319
@@ -3880,6 +6323,13 @@ curTupleIndex:  17
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2685,dung,sphere
 strlen0 is 17
 preTupleLen is 336
@@ -3891,6 +6341,13 @@ curTupleIndex:  18
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2770,boy,jet-fighter
 strlen0 is 17
 preTupleLen is 357
@@ -3902,6 +6359,13 @@ curTupleIndex:  19
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2813,drink,needle
 strlen0 is 17
 preTupleLen is 375
@@ -3913,6 +6377,13 @@ curTupleIndex:  20
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2834,triangle,sphere
 strlen0 is 17
 preTupleLen is 396
@@ -3924,6 +6395,13 @@ curTupleIndex:  21
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2859,feather,spiral
 strlen0 is 17
 preTupleLen is 416
@@ -3935,6 +6413,13 @@ curTupleIndex:  22
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2873,plane,flower
 strlen0 is 17
 preTupleLen is 434
@@ -3946,6 +6431,13 @@ curTupleIndex:  23
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2977,hot,circus
 strlen0 is 17
 preTupleLen is 450
@@ -3957,6 +6449,13 @@ curTupleIndex:  24
 total tuple is:  25
 00000000 00000000 00000000 00110111
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 4294967295
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2995,perfume,button
 
 
@@ -3971,6 +6470,13 @@ curTupleIndex:  0
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1007,gasp,rainbow
 strlen0 is 17
 preTupleLen is 18
@@ -3982,6 +6488,13 @@ curTupleIndex:  1
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1044,sandwich,comet
 strlen0 is 17
 preTupleLen is 38
@@ -3993,6 +6506,13 @@ curTupleIndex:  2
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1097,egg,treadmill
 strlen0 is 17
 preTupleLen is 57
@@ -4004,6 +6524,13 @@ curTupleIndex:  3
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1146,planet,family
 strlen0 is 17
 preTupleLen is 76
@@ -4015,6 +6542,13 @@ curTupleIndex:  4
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1211,maze,eyes
 strlen0 is 17
 preTupleLen is 91
@@ -4026,6 +6560,13 @@ curTupleIndex:  5
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1224,satellite,slave
 strlen0 is 17
 preTupleLen is 112
@@ -4037,6 +6578,13 @@ curTupleIndex:  6
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1285,maze,cave
 strlen0 is 17
 preTupleLen is 127
@@ -4048,6 +6596,13 @@ curTupleIndex:  7
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1296,freeway,backpack
 strlen0 is 17
 preTupleLen is 149
@@ -4059,6 +6614,13 @@ curTupleIndex:  8
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1305,room,microscope
 strlen0 is 17
 preTupleLen is 170
@@ -4070,6 +6632,13 @@ curTupleIndex:  9
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1328,chair,radar
 strlen0 is 17
 preTupleLen is 187
@@ -4081,6 +6650,13 @@ curTupleIndex:  10
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1333,ice,meteor
 strlen0 is 17
 preTupleLen is 203
@@ -4092,6 +6668,13 @@ curTupleIndex:  11
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1364,barbecue,money
 strlen0 is 17
 preTupleLen is 223
@@ -4103,6 +6686,13 @@ curTupleIndex:  12
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1367,record,sunglasses
 strlen0 is 17
 preTupleLen is 246
@@ -4114,6 +6704,13 @@ curTupleIndex:  13
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1372,chair,feather
 strlen0 is 17
 preTupleLen is 265
@@ -4125,6 +6722,13 @@ curTupleIndex:  14
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1446,circle,pebble
 strlen0 is 17
 preTupleLen is 284
@@ -4136,6 +6740,13 @@ curTupleIndex:  15
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1479,water,circus
 strlen0 is 17
 preTupleLen is 302
@@ -4147,6 +6758,13 @@ curTupleIndex:  16
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1490,dress,chisel
 strlen0 is 17
 preTupleLen is 320
@@ -4158,6 +6776,13 @@ curTupleIndex:  17
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1516,mouth,worm
 strlen0 is 17
 preTupleLen is 336
@@ -4169,6 +6794,13 @@ curTupleIndex:  18
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1518,water,pocket
 strlen0 is 17
 preTupleLen is 354
@@ -4180,6 +6812,13 @@ curTupleIndex:  19
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1570,record,snail
 strlen0 is 17
 preTupleLen is 372
@@ -4191,6 +6830,13 @@ curTupleIndex:  20
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1589,foot,sword
 strlen0 is 17
 preTupleLen is 388
@@ -4202,6 +6848,13 @@ curTupleIndex:  21
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1674,foot,hot
 strlen0 is 17
 preTupleLen is 402
@@ -4213,6 +6866,13 @@ curTupleIndex:  22
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1713,room,swim
 strlen0 is 17
 preTupleLen is 417
@@ -4224,6 +6884,13 @@ curTupleIndex:  23
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1716,horse,dingbat
 strlen0 is 17
 preTupleLen is 436
@@ -4235,6 +6902,13 @@ curTupleIndex:  24
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1737,water,boy
 strlen0 is 17
 preTupleLen is 451
@@ -4246,6 +6920,13 @@ curTupleIndex:  25
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1779,pepper,videotape
 strlen0 is 17
 preTupleLen is 473
@@ -4257,6 +6938,13 @@ curTupleIndex:  26
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1799,bank,pocket
 strlen0 is 17
 preTupleLen is 490
@@ -4268,6 +6956,13 @@ curTupleIndex:  27
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1835,knife,fin
 strlen0 is 17
 preTupleLen is 505
@@ -4279,6 +6974,13 @@ curTupleIndex:  28
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1851,eraser,slave
 strlen0 is 17
 preTupleLen is 523
@@ -4290,6 +6992,13 @@ curTupleIndex:  29
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1874,earth,meat
 strlen0 is 17
 preTupleLen is 539
@@ -4301,6 +7010,13 @@ curTupleIndex:  30
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1890,milkshake,videotape
 strlen0 is 17
 preTupleLen is 564
@@ -4312,6 +7028,13 @@ curTupleIndex:  31
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1921,magnet,woman
 strlen0 is 17
 preTupleLen is 582
@@ -4323,6 +7046,13 @@ curTupleIndex:  32
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1947,potato,bomb
 strlen0 is 17
 preTupleLen is 599
@@ -4334,6 +7064,13 @@ curTupleIndex:  33
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 1973,pith,ship
 strlen0 is 17
 preTupleLen is 614
@@ -4345,6 +7082,13 @@ curTupleIndex:  34
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2005,pillow,plane
 strlen0 is 17
 preTupleLen is 632
@@ -4356,6 +7100,13 @@ curTupleIndex:  35
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2030,earth,air
 strlen0 is 17
 preTupleLen is 647
@@ -4367,6 +7118,13 @@ curTupleIndex:  36
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2039,staircase,plane
 strlen0 is 17
 preTupleLen is 668
@@ -4378,6 +7136,13 @@ curTupleIndex:  37
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2092,fork,tongue
 strlen0 is 17
 preTupleLen is 685
@@ -4389,6 +7154,13 @@ curTupleIndex:  38
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2132,spice,carpet
 strlen0 is 17
 preTupleLen is 703
@@ -4400,6 +7172,13 @@ curTupleIndex:  39
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2183,game,floodlight
 strlen0 is 17
 preTupleLen is 724
@@ -4411,6 +7190,13 @@ curTupleIndex:  40
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2202,satellite,double
 strlen0 is 17
 preTupleLen is 746
@@ -4422,6 +7208,13 @@ curTupleIndex:  41
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2236,baby,drink
 strlen0 is 17
 preTupleLen is 762
@@ -4433,6 +7226,13 @@ curTupleIndex:  42
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2305,pillow,man
 strlen0 is 17
 preTupleLen is 778
@@ -4444,6 +7244,13 @@ curTupleIndex:  43
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2330,eraser,thermometer
 strlen0 is 17
 preTupleLen is 802
@@ -4455,6 +7262,13 @@ curTupleIndex:  44
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2412,cat,swim
 strlen0 is 17
 preTupleLen is 816
@@ -4466,6 +7280,13 @@ curTupleIndex:  45
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2436,rock,rib
 strlen0 is 17
 preTupleLen is 830
@@ -4477,6 +7298,13 @@ curTupleIndex:  46
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2453,maze,milk
 strlen0 is 17
 preTupleLen is 845
@@ -4488,6 +7316,13 @@ curTupleIndex:  47
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2502,restaurant,circus
 strlen0 is 17
 preTupleLen is 868
@@ -4499,6 +7334,13 @@ curTupleIndex:  48
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2522,room,album
 strlen0 is 17
 preTupleLen is 884
@@ -4510,6 +7352,13 @@ curTupleIndex:  49
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2544,set,meteor
 strlen0 is 17
 preTupleLen is 900
@@ -4521,6 +7370,13 @@ curTupleIndex:  50
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2560,record,carpet
 strlen0 is 17
 preTupleLen is 919
@@ -4532,6 +7388,13 @@ curTupleIndex:  51
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2563,mist,child
 strlen0 is 17
 preTupleLen is 935
@@ -4543,6 +7406,13 @@ curTupleIndex:  52
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2593,cycle,button
 strlen0 is 17
 preTupleLen is 953
@@ -4554,6 +7424,13 @@ curTupleIndex:  53
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2601,set,map
 strlen0 is 17
 preTupleLen is 966
@@ -4565,6 +7442,13 @@ curTupleIndex:  54
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2665,bank,balloon
 strlen0 is 17
 preTupleLen is 984
@@ -4576,6 +7460,13 @@ curTupleIndex:  55
 total tuple is:  56
 00000000 00000000 00000000 00011100
 #############################
+has Overflow
+00000000 00000000 00000000 00001111
+ovp is 15
+ntups: 10
+has Overflow
+ovpd0: 2686,spice,radar
+ovpd1: 2709,earth,circus
 2682,carrot,vulture
 
 
@@ -4590,6 +7481,13 @@ curTupleIndex:  0
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1055,pillow,child
 strlen0 is 17
 preTupleLen is 18
@@ -4601,6 +7499,13 @@ curTupleIndex:  1
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1091,rock,x-ray
 strlen0 is 17
 preTupleLen is 34
@@ -4612,6 +7517,13 @@ curTupleIndex:  2
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1160,rifle,mosquito
 strlen0 is 17
 preTupleLen is 54
@@ -4623,6 +7535,13 @@ curTupleIndex:  3
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1178,table,backpack
 strlen0 is 17
 preTupleLen is 74
@@ -4634,6 +7553,13 @@ curTupleIndex:  4
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1198,earth,highway
 strlen0 is 17
 preTupleLen is 93
@@ -4645,6 +7571,13 @@ curTupleIndex:  5
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1216,bed,worm
 strlen0 is 17
 preTupleLen is 107
@@ -4656,6 +7589,13 @@ curTupleIndex:  6
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1384,room,hat
 strlen0 is 17
 preTupleLen is 121
@@ -4667,6 +7607,13 @@ curTupleIndex:  7
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1406,cat,comet
 strlen0 is 17
 preTupleLen is 136
@@ -4678,6 +7625,13 @@ curTupleIndex:  8
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1411,baby,aeroplane
 strlen0 is 17
 preTupleLen is 156
@@ -4689,6 +7643,13 @@ curTupleIndex:  9
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1475,rock,boss
 strlen0 is 17
 preTupleLen is 171
@@ -4700,6 +7661,13 @@ curTupleIndex:  10
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1492,diamond,man
 strlen0 is 17
 preTupleLen is 188
@@ -4711,6 +7679,13 @@ curTupleIndex:  11
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1533,bed,backpack
 strlen0 is 17
 preTupleLen is 206
@@ -4722,6 +7697,13 @@ curTupleIndex:  12
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1547,monster,fruit
 strlen0 is 17
 preTupleLen is 225
@@ -4733,6 +7715,13 @@ curTupleIndex:  13
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1585,rifle,carpet
 strlen0 is 17
 preTupleLen is 243
@@ -4744,6 +7733,13 @@ curTupleIndex:  14
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1598,set,plane
 strlen0 is 17
 preTupleLen is 258
@@ -4755,6 +7751,13 @@ curTupleIndex:  15
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1614,baby,solid
 strlen0 is 17
 preTupleLen is 274
@@ -4766,6 +7769,13 @@ curTupleIndex:  16
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1621,parachute,money
 strlen0 is 17
 preTupleLen is 295
@@ -4777,6 +7787,13 @@ curTupleIndex:  17
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1651,fork,clock
 strlen0 is 17
 preTupleLen is 311
@@ -4788,6 +7805,13 @@ curTupleIndex:  18
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1657,cat,worm
 strlen0 is 17
 preTupleLen is 325
@@ -4799,6 +7823,13 @@ curTupleIndex:  19
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1672,wheelchair,horoscope
 strlen0 is 17
 preTupleLen is 351
@@ -4810,6 +7841,13 @@ curTupleIndex:  20
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1736,ice,boss
 strlen0 is 17
 preTupleLen is 365
@@ -4821,6 +7859,13 @@ curTupleIndex:  21
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1751,chair,tapestry
 strlen0 is 17
 preTupleLen is 385
@@ -4832,6 +7877,13 @@ curTupleIndex:  22
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1761,grapes,circus
 strlen0 is 17
 preTupleLen is 404
@@ -4843,6 +7895,13 @@ curTupleIndex:  23
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1762,drum,mosquito
 strlen0 is 17
 preTupleLen is 423
@@ -4854,6 +7913,13 @@ curTupleIndex:  24
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1783,horse,hat
 strlen0 is 17
 preTupleLen is 438
@@ -4865,6 +7931,13 @@ curTupleIndex:  25
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2007,room,boy
 strlen0 is 17
 preTupleLen is 452
@@ -4876,6 +7949,13 @@ curTupleIndex:  26
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2085,monster,dog
 strlen0 is 17
 preTupleLen is 469
@@ -4887,6 +7967,13 @@ curTupleIndex:  27
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2108,game,rib
 strlen0 is 17
 preTupleLen is 483
@@ -4898,6 +7985,13 @@ curTupleIndex:  28
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2187,aircraft,videotape
 strlen0 is 17
 preTupleLen is 507
@@ -4909,6 +8003,13 @@ curTupleIndex:  29
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2205,record,rib
 strlen0 is 17
 preTupleLen is 523
@@ -4920,6 +8021,13 @@ curTupleIndex:  30
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2227,arm,meat
 strlen0 is 17
 preTupleLen is 537
@@ -4931,6 +8039,13 @@ curTupleIndex:  31
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2235,zebra,cave
 strlen0 is 17
 preTupleLen is 553
@@ -4942,6 +8057,13 @@ curTupleIndex:  32
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2237,mist,airforce
 strlen0 is 17
 preTupleLen is 572
@@ -4953,6 +8075,13 @@ curTupleIndex:  33
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2252,yellow,finger
 strlen0 is 17
 preTupleLen is 591
@@ -4964,6 +8093,13 @@ curTupleIndex:  34
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2269,pyramid,map
 strlen0 is 17
 preTupleLen is 608
@@ -4975,6 +8111,13 @@ curTupleIndex:  35
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2353,barbecue,videotape
 strlen0 is 17
 preTupleLen is 632
@@ -4986,6 +8129,13 @@ curTupleIndex:  36
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2397,bridge,meat
 strlen0 is 17
 preTupleLen is 649
@@ -4997,6 +8147,13 @@ curTupleIndex:  37
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2398,zebra,vacuum
 strlen0 is 17
 preTupleLen is 667
@@ -5008,6 +8165,13 @@ curTupleIndex:  38
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2422,car,meat
 strlen0 is 17
 preTupleLen is 681
@@ -5019,6 +8183,13 @@ curTupleIndex:  39
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2492,earth,triangle
 strlen0 is 17
 preTupleLen is 701
@@ -5030,6 +8201,13 @@ curTupleIndex:  40
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2512,wheelchair,floodlight
 strlen0 is 17
 preTupleLen is 728
@@ -5041,6 +8219,13 @@ curTupleIndex:  41
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2553,satellite,onion
 strlen0 is 17
 preTupleLen is 749
@@ -5052,6 +8237,13 @@ curTupleIndex:  42
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2574,table,balloon
 strlen0 is 17
 preTupleLen is 768
@@ -5063,6 +8255,13 @@ curTupleIndex:  43
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2621,water,cave
 strlen0 is 17
 preTupleLen is 784
@@ -5074,6 +8273,13 @@ curTupleIndex:  44
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2647,rocket,shower
 strlen0 is 17
 preTupleLen is 803
@@ -5085,6 +8291,13 @@ curTupleIndex:  45
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2648,freeway,floodlight
 strlen0 is 17
 preTupleLen is 827
@@ -5096,6 +8309,13 @@ curTupleIndex:  46
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2692,satellite,chisel
 strlen0 is 17
 preTupleLen is 849
@@ -5107,6 +8327,13 @@ curTupleIndex:  47
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2710,baby,adult
 strlen0 is 17
 preTupleLen is 865
@@ -5118,6 +8345,13 @@ curTupleIndex:  48
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2748,pillow,button
 strlen0 is 17
 preTupleLen is 884
@@ -5129,6 +8363,13 @@ curTupleIndex:  49
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2751,chocolates,needle
 strlen0 is 17
 preTupleLen is 907
@@ -5140,6 +8381,13 @@ curTupleIndex:  50
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2756,car,child
 strlen0 is 17
 preTupleLen is 922
@@ -5151,6 +8399,13 @@ curTupleIndex:  51
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2760,baby,bathroom
 strlen0 is 17
 preTupleLen is 941
@@ -5162,6 +8417,13 @@ curTupleIndex:  52
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2797,rifle,dung
 strlen0 is 17
 preTupleLen is 957
@@ -5173,6 +8435,13 @@ curTupleIndex:  53
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2798,monster,desk
 strlen0 is 17
 preTupleLen is 975
@@ -5184,6 +8453,13 @@ curTupleIndex:  54
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2812,set,drill
 strlen0 is 17
 preTupleLen is 990
@@ -5195,6 +8471,13 @@ curTupleIndex:  55
 total tuple is:  56
 00000000 00000000 00000000 00011101
 #############################
+has Overflow
+00000000 00000000 00000000 00000010
+ovp is 18
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2820,mist,spoon
 
 
@@ -5209,6 +8492,13 @@ curTupleIndex:  0
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1003,drill,sunglasses
 strlen0 is 21
 preTupleLen is 22
@@ -5220,6 +8510,13 @@ curTupleIndex:  1
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1022,perfume,air
 strlen0 is 21
 preTupleLen is 39
@@ -5231,6 +8528,13 @@ curTupleIndex:  2
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1027,sword,highway
 strlen0 is 21
 preTupleLen is 58
@@ -5242,6 +8546,13 @@ curTupleIndex:  3
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1076,insect,saddle
 strlen0 is 21
 preTupleLen is 77
@@ -5253,6 +8564,13 @@ curTupleIndex:  4
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1138,aeroplane,treadmill
 strlen0 is 21
 preTupleLen is 102
@@ -5264,6 +8582,13 @@ curTupleIndex:  5
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1141,jet-fighter,thermometer
 strlen0 is 21
 preTupleLen is 131
@@ -5275,6 +8600,13 @@ curTupleIndex:  6
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1277,adult,school
 strlen0 is 21
 preTupleLen is 149
@@ -5286,6 +8618,13 @@ curTupleIndex:  7
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1312,triangle,woman
 strlen0 is 21
 preTupleLen is 169
@@ -5297,6 +8636,13 @@ curTupleIndex:  8
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1409,drink,mosquito
 strlen0 is 21
 preTupleLen is 189
@@ -5308,6 +8654,13 @@ curTupleIndex:  9
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1424,milk,meteor
 strlen0 is 21
 preTupleLen is 206
@@ -5319,6 +8672,13 @@ curTupleIndex:  10
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1427,drink,bomb
 strlen0 is 21
 preTupleLen is 222
@@ -5330,6 +8690,13 @@ curTupleIndex:  11
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1439,plane,boss
 strlen0 is 21
 preTupleLen is 238
@@ -5341,6 +8708,13 @@ curTupleIndex:  12
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1487,drink,aeroplane
 strlen0 is 21
 preTupleLen is 259
@@ -5352,6 +8726,13 @@ curTupleIndex:  13
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1501,vampire,eyes
 strlen0 is 21
 preTupleLen is 277
@@ -5363,6 +8744,13 @@ curTupleIndex:  14
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1512,hot,bee
 strlen0 is 21
 preTupleLen is 290
@@ -5374,6 +8762,13 @@ curTupleIndex:  15
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1559,chief,slave
 strlen0 is 21
 preTupleLen is 307
@@ -5385,6 +8780,13 @@ curTupleIndex:  16
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1561,insect,vulture
 strlen0 is 21
 preTupleLen is 327
@@ -5396,6 +8798,13 @@ curTupleIndex:  17
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1695,triangle,cave
 strlen0 is 21
 preTupleLen is 346
@@ -5407,6 +8816,13 @@ curTupleIndex:  18
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1743,jet-fighter,floodlight
 strlen0 is 21
 preTupleLen is 374
@@ -5418,6 +8834,13 @@ curTupleIndex:  19
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1769,circus,dog
 strlen0 is 21
 preTupleLen is 390
@@ -5429,6 +8852,13 @@ curTupleIndex:  20
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1791,boy,umbrella
 strlen0 is 21
 preTupleLen is 408
@@ -5440,6 +8870,13 @@ curTupleIndex:  21
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1800,win,vampire
 strlen0 is 21
 preTupleLen is 425
@@ -5451,6 +8888,13 @@ curTupleIndex:  22
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1821,pocket,snail
 strlen0 is 21
 preTupleLen is 443
@@ -5462,6 +8906,13 @@ curTupleIndex:  23
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1891,dung,sandpaper
 strlen0 is 21
 preTupleLen is 463
@@ -5473,6 +8924,13 @@ curTupleIndex:  24
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1902,vulture,drink
 strlen0 is 21
 preTupleLen is 482
@@ -5484,6 +8942,13 @@ curTupleIndex:  25
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1949,boy,desk
 strlen0 is 21
 preTupleLen is 496
@@ -5495,6 +8960,13 @@ curTupleIndex:  26
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1959,bomb,compass
 strlen0 is 21
 preTupleLen is 514
@@ -5506,6 +8978,13 @@ curTupleIndex:  27
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 1993,bomb,hat
 strlen0 is 21
 preTupleLen is 528
@@ -5517,6 +8996,13 @@ curTupleIndex:  28
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2022,vampire,mum
 strlen0 is 21
 preTupleLen is 545
@@ -5528,6 +9014,13 @@ curTupleIndex:  29
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2029,spoon,drink
 strlen0 is 21
 preTupleLen is 562
@@ -5539,6 +9032,13 @@ curTupleIndex:  30
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2074,pebble,passport
 strlen0 is 21
 preTupleLen is 583
@@ -5550,6 +9050,13 @@ curTupleIndex:  31
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2144,fin,air
 strlen0 is 21
 preTupleLen is 596
@@ -5561,6 +9068,13 @@ curTupleIndex:  32
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2152,floodlight,fire
 strlen0 is 21
 preTupleLen is 617
@@ -5572,6 +9086,13 @@ curTupleIndex:  33
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2160,clock,ears
 strlen0 is 21
 preTupleLen is 633
@@ -5583,6 +9104,13 @@ curTupleIndex:  34
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2173,win,banana
 strlen0 is 21
 preTupleLen is 649
@@ -5594,6 +9122,13 @@ curTupleIndex:  35
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2231,spiral,needle
 strlen0 is 21
 preTupleLen is 668
@@ -5605,6 +9140,13 @@ curTupleIndex:  36
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2248,man,kitchen
 strlen0 is 21
 preTupleLen is 685
@@ -5616,6 +9158,13 @@ curTupleIndex:  37
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2249,chief,bee
 strlen0 is 21
 preTupleLen is 700
@@ -5627,6 +9176,13 @@ curTupleIndex:  38
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2284,star,star
 strlen0 is 21
 preTupleLen is 715
@@ -5638,6 +9194,13 @@ curTupleIndex:  39
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2292,pocket,star
 strlen0 is 21
 preTupleLen is 732
@@ -5649,6 +9212,13 @@ curTupleIndex:  40
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2299,post,hammer
 strlen0 is 21
 preTupleLen is 749
@@ -5660,6 +9230,13 @@ curTupleIndex:  41
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2311,airforce,vampire
 strlen0 is 21
 preTupleLen is 771
@@ -5671,6 +9248,13 @@ curTupleIndex:  42
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2327,airforce,radar
 strlen0 is 21
 preTupleLen is 791
@@ -5682,6 +9266,13 @@ curTupleIndex:  43
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2328,hot,tunnel
 strlen0 is 21
 preTupleLen is 807
@@ -5693,6 +9284,13 @@ curTupleIndex:  44
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2391,vulture,bathtub
 strlen0 is 21
 preTupleLen is 828
@@ -5704,6 +9302,13 @@ curTupleIndex:  45
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2402,triangle,chief
 strlen0 is 21
 preTupleLen is 848
@@ -5715,6 +9320,13 @@ curTupleIndex:  46
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2433,perfume,fire
 strlen0 is 21
 preTupleLen is 866
@@ -5726,6 +9338,13 @@ curTupleIndex:  47
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2444,circus,desk
 strlen0 is 21
 preTupleLen is 883
@@ -5737,6 +9356,13 @@ curTupleIndex:  48
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2541,boy,compass
 strlen0 is 21
 preTupleLen is 900
@@ -5748,6 +9374,13 @@ curTupleIndex:  49
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2567,coffee-shop,space
 strlen0 is 21
 preTupleLen is 923
@@ -5759,6 +9392,13 @@ curTupleIndex:  50
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2604,sword,adult
 strlen0 is 21
 preTupleLen is 940
@@ -5770,6 +9410,13 @@ curTupleIndex:  51
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2669,boss,double
 strlen0 is 21
 preTupleLen is 957
@@ -5781,6 +9428,13 @@ curTupleIndex:  52
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2700,swim,eyes
 strlen0 is 21
 preTupleLen is 972
@@ -5792,6 +9446,13 @@ curTupleIndex:  53
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2718,radar,thermometer
 strlen0 is 21
 preTupleLen is 995
@@ -5803,6 +9464,13 @@ curTupleIndex:  54
 total tuple is:  55
 00000000 00000000 00000000 00011110
 #############################
+has Overflow
+00000000 00000000 00000000 00000001
+ovp is 17
+ntups: 0
+has Overflow
+ovpd0: 
+ovpd1: 
 2888,post,cave
 
 
@@ -5817,6 +9485,13 @@ curTupleIndex:  0
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1014,sword,carpet
 strlen0 is 17
 preTupleLen is 18
@@ -5828,6 +9503,13 @@ curTupleIndex:  1
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1030,vampire,hot
 strlen0 is 17
 preTupleLen is 35
@@ -5839,6 +9521,13 @@ curTupleIndex:  2
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1031,fin,kaleidoscope
 strlen0 is 17
 preTupleLen is 57
@@ -5850,6 +9539,13 @@ curTupleIndex:  3
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1052,square,treadmill
 strlen0 is 17
 preTupleLen is 79
@@ -5861,6 +9557,13 @@ curTupleIndex:  4
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1085,perfume,album
 strlen0 is 17
 preTupleLen is 98
@@ -5872,6 +9575,13 @@ curTupleIndex:  5
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1090,spiral,needle
 strlen0 is 17
 preTupleLen is 117
@@ -5883,6 +9593,13 @@ curTupleIndex:  6
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1152,man,bottle
 strlen0 is 17
 preTupleLen is 133
@@ -5894,6 +9611,13 @@ curTupleIndex:  7
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1183,carpet,hat
 strlen0 is 17
 preTupleLen is 149
@@ -5905,6 +9629,13 @@ curTupleIndex:  8
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1209,floodlight,worm
 strlen0 is 17
 preTupleLen is 170
@@ -5916,6 +9647,13 @@ curTupleIndex:  9
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1235,perfume,compact-disc
 strlen0 is 17
 preTupleLen is 196
@@ -5927,6 +9665,13 @@ curTupleIndex:  10
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1239,carpet,cave
 strlen0 is 17
 preTupleLen is 213
@@ -5938,6 +9683,13 @@ curTupleIndex:  11
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1255,sword,key
 strlen0 is 17
 preTupleLen is 228
@@ -5949,6 +9701,13 @@ curTupleIndex:  12
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1261,umbrella,album
 strlen0 is 17
 preTupleLen is 248
@@ -5960,6 +9719,13 @@ curTupleIndex:  13
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1279,pebble,banana
 strlen0 is 17
 preTupleLen is 267
@@ -5971,6 +9737,13 @@ curTupleIndex:  14
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1289,win,sandpaper
 strlen0 is 17
 preTupleLen is 286
@@ -5982,6 +9755,13 @@ curTupleIndex:  15
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1306,feather,typewriter
 strlen0 is 17
 preTupleLen is 310
@@ -5993,6 +9773,13 @@ curTupleIndex:  16
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1349,vulture,worm
 strlen0 is 17
 preTupleLen is 328
@@ -6004,6 +9791,13 @@ curTupleIndex:  17
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1388,button,solid
 strlen0 is 17
 preTupleLen is 346
@@ -6015,6 +9809,13 @@ curTupleIndex:  18
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1402,button,boss
 strlen0 is 17
 preTupleLen is 363
@@ -6026,6 +9827,13 @@ curTupleIndex:  19
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1430,circus,floodlight
 strlen0 is 17
 preTupleLen is 386
@@ -6037,6 +9845,13 @@ curTupleIndex:  20
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1434,jet-fighter,insect
 strlen0 is 17
 preTupleLen is 410
@@ -6048,6 +9863,13 @@ curTupleIndex:  21
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1448,coffee-shop,passport
 strlen0 is 17
 preTupleLen is 436
@@ -6059,6 +9881,13 @@ curTupleIndex:  22
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1496,post,zoo
 strlen0 is 17
 preTupleLen is 450
@@ -6070,6 +9899,13 @@ curTupleIndex:  23
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1503,chief,needle
 strlen0 is 17
 preTupleLen is 468
@@ -6081,6 +9917,13 @@ curTupleIndex:  24
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1556,rib,cave
 strlen0 is 17
 preTupleLen is 482
@@ -6092,6 +9935,13 @@ curTupleIndex:  25
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1602,umbrella,money
 strlen0 is 17
 preTupleLen is 502
@@ -6103,6 +9953,13 @@ curTupleIndex:  26
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1643,spoon,woman
 strlen0 is 17
 preTupleLen is 519
@@ -6114,6 +9971,13 @@ curTupleIndex:  27
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1670,spoon,clock
 strlen0 is 17
 preTupleLen is 536
@@ -6125,6 +9989,13 @@ curTupleIndex:  28
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1753,pocket,balloon
 strlen0 is 17
 preTupleLen is 556
@@ -6136,6 +10007,13 @@ curTupleIndex:  29
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1786,needle,finger
 strlen0 is 17
 preTupleLen is 575
@@ -6147,6 +10025,13 @@ curTupleIndex:  30
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1812,adult,sword
 strlen0 is 17
 preTupleLen is 592
@@ -6158,6 +10043,13 @@ curTupleIndex:  31
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1818,boss,coffee-shop
 strlen0 is 17
 preTupleLen is 614
@@ -6169,6 +10061,13 @@ curTupleIndex:  32
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1819,vulture,star
 strlen0 is 17
 preTupleLen is 632
@@ -6180,6 +10079,13 @@ curTupleIndex:  33
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1981,hat,clock
 strlen0 is 17
 preTupleLen is 647
@@ -6191,6 +10097,13 @@ curTupleIndex:  34
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1996,umbrella,post
 strlen0 is 17
 preTupleLen is 666
@@ -6202,6 +10115,13 @@ curTupleIndex:  35
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 1997,star,tapestry
 strlen0 is 17
 preTupleLen is 685
@@ -6213,6 +10133,13 @@ curTupleIndex:  36
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2013,spoon,tennis
 strlen0 is 17
 preTupleLen is 703
@@ -6224,6 +10151,13 @@ curTupleIndex:  37
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2049,spiral,radar
 strlen0 is 17
 preTupleLen is 721
@@ -6235,6 +10169,13 @@ curTupleIndex:  38
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2098,pocket,ship
 strlen0 is 17
 preTupleLen is 738
@@ -6246,6 +10187,13 @@ curTupleIndex:  39
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2134,pocket,zoo
 strlen0 is 17
 preTupleLen is 754
@@ -6257,6 +10205,13 @@ curTupleIndex:  40
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2145,swim,microscope
 strlen0 is 17
 preTupleLen is 775
@@ -6268,6 +10223,13 @@ curTupleIndex:  41
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2208,spoon,prison
 strlen0 is 17
 preTupleLen is 793
@@ -6279,6 +10241,13 @@ curTupleIndex:  42
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2221,fin,butterfly
 strlen0 is 17
 preTupleLen is 812
@@ -6290,6 +10259,13 @@ curTupleIndex:  43
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2247,umbrella,tennis
 strlen0 is 17
 preTupleLen is 833
@@ -6301,6 +10277,13 @@ curTupleIndex:  44
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2270,balloon,win
 strlen0 is 17
 preTupleLen is 850
@@ -6312,6 +10295,13 @@ curTupleIndex:  45
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2335,circus,shower
 strlen0 is 17
 preTupleLen is 869
@@ -6323,6 +10313,13 @@ curTupleIndex:  46
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2370,hat,clock
 strlen0 is 17
 preTupleLen is 884
@@ -6334,6 +10331,13 @@ curTupleIndex:  47
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2389,milk,feather
 strlen0 is 17
 preTupleLen is 902
@@ -6345,6 +10349,13 @@ curTupleIndex:  48
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2418,chief,hat
 strlen0 is 17
 preTupleLen is 917
@@ -6356,6 +10367,13 @@ curTupleIndex:  49
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2439,milk,insect
 strlen0 is 17
 preTupleLen is 934
@@ -6367,6 +10385,13 @@ curTupleIndex:  50
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2460,plane,banana
 strlen0 is 17
 preTupleLen is 952
@@ -6378,6 +10403,13 @@ curTupleIndex:  51
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2466,win,hammer
 strlen0 is 17
 preTupleLen is 968
@@ -6389,6 +10421,13 @@ curTupleIndex:  52
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2495,chief,highway
 strlen0 is 17
 preTupleLen is 987
@@ -6400,6 +10439,13 @@ curTupleIndex:  53
 total tuple is:  54
 00000000 00000000 00000000 00011111
 #############################
+has Overflow
+00000000 00000000 00000000 00001101
+ovp is 13
+ntups: 22
+has Overflow
+ovpd0: 2548,ship,saddle
+ovpd1: 2554,jet-fighter,highway
 2518,floodlight,finger
 
 
