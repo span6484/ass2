@@ -60,3 +60,32 @@ find out overflow
                 printf("ovpd0: %s\n", ovpd);
                 printf("ovpd1: %s\n", ovpd+ strlen(ovpd)+1);
             }
+
+
+
+
+            #############################
+            2718,radar,thermometer
+            q->curpage: 30
+            curUP: 995
+            00000000 00000000 00000000 00011110
+            strlen0 is 21
+            #############################
+            pid is :    17
+            curTupleIndex:  -1
+            total tuple is:  55
+            #############################
+            2888,post,cave
+            q->curpage: 17
+            Page 17 has overflow
+            curUP: 0
+            00000000 00000000 00000000 00010001
+            strlen0 is 16
+            #############################
+            pid is :    17
+            curTupleIndex:  0
+            total tuple is:  10
+            #############################
+            2739,adult,sword
+
+    2718,radar,thermometer
