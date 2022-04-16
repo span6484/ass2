@@ -263,10 +263,7 @@ Tuple getNextTuple(Query q)
             nTuples = pageNTuples(curPage);
             q->curpage_p = curPage;
         }
-        if(pageOvflow(q->curpage_p) == NO_PAGE) {
-            //printf("no ove\n");
-        }
-
+        Tuple t = pageData(q->curpage_p) + q->preTupleLen;
 ////        printf("#########special####################\n"
 //               "is Ov：  %d\n"
 //               "pid is :    %u\n"
@@ -274,36 +271,15 @@ Tuple getNextTuple(Query q)
 //               "curTupleIndex:  %d\n"
 //               "total tuple is:  %d\n", q->is_ovflow,pid,  q->preTupleLen,curTupleIndex, nTuples);
         //printf("total tuple is:  %d\n",nTuples);
+        if (tupleMatch(r,t, q->quesryString)) {
+            return t;
+        }
         if (q->curTupleIndex < nTuples) {
-            //printf("strlen0 is %lu\n", strlen(pageData(q->curpage_p)));
-            //printf("preTupleLen is %d\n", q->preTupleLen);
-            Tuple t = pageData(q->curpage_p) + q->preTupleLen;
-
-            //printf("strlen is %lu\n", strlen(t));
+            printf("%d\n", q->curTupleIndex);
             q->preTupleLen = strlen(t) + q->preTupleLen + 1;
-
-            //printf("#############################\n"
-//                   "pid is :    %u\n"
-//                   "preTupleLen:  %d\n"
-//                   "curTupleIndex:  %d\n"
-//                   "total tuple is:  %d\n", pid,  q->preTupleLen,curTupleIndex, nTuples);
-            printBits(pid);
             if (curTupleIndex < nTuples) {
-//        if (t != NULL) {
-//            for(int i = 0; i < curTupleIndex;i++) {     // update the tuple to the current page position
-//                t += strlen(t) + 1;
-//            }
-////            printf("curTupleIndex：%d total is： %d \n", q->curTupleIndex, nTuples);
                 curTupleIndex++;
                 q->curTupleIndex = curTupleIndex;
-////            printf("t1: %s\n", t);
-//            if (tupleMatch(r,t, q->quesryString)) {
-//////                printf("find it !\n");
-//////                printf("t1: %s\n", t);
-//                return t;
-//            }
-
-                return t;
             }
             else if (pageOvflow(q->curpage_p) != NO_PAGE) {
                 //printf("has Overflow1\n");/**/
@@ -382,6 +358,8 @@ Tuple getNextTuple(Query q)
             goto READPAGE;
         }
     }
+    printf("curPageIndex: %d\n", curPageIndex);
+    printf("%d\n",pow1(2,nstars));
     return NULL;
 }
 
