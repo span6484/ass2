@@ -1,6 +1,4 @@
 1505,sun,sword
 1759,pendulum,sword
-1812,adult,sword
 1011,sandpaper,sword
-1812,adult,sword
 1812,adult,sword

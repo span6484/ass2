@@ -271,11 +271,11 @@ Tuple getNextTuple(Query q)
 //               "curTupleIndex:  %d\n"
 //               "total tuple is:  %d\n", q->is_ovflow,pid,  q->preTupleLen,curTupleIndex, nTuples);
         //printf("total tuple is:  %d\n",nTuples);
-        if (tupleMatch(r,t, q->quesryString)) {
-            return t;
-        }
+//        if (tupleMatch(r,t, q->quesryString)) {
+//            return t;
+//        }
         if (q->curTupleIndex < nTuples) {
-            printf("%d\n", q->curTupleIndex);
+//            printf("%d\n", q->curTupleIndex);
             q->preTupleLen = strlen(t) + q->preTupleLen + 1;
             if (curTupleIndex < nTuples) {
                 curTupleIndex++;
@@ -286,8 +286,8 @@ Tuple getNextTuple(Query q)
                 q->is_ovflow = 1;
                 q->curScanPage = pageOvflow(q->curpage_p);
                 //printf("ovf page id: \n");
-                printBits(q->curScanPage);
-                printBits(pageOvflow(getPage(ovflowFile(r),pageOvflow(q->curpage_p))));
+//                printBits(q->curScanPage);
+//                printBits(pageOvflow(getPage(ovflowFile(r),pageOvflow(q->curpage_p))));
                 q->curTupleIndex = 0;
                 q->preTupleLen = 0;
 //            Page ovpg = getPage(ovflowFile(r), pid1);
@@ -327,7 +327,7 @@ Tuple getNextTuple(Query q)
             //printf("ovf:    %u\n", q->curScanPage);
 //            q->curScanPage = pageOvflow(q->curpage_p);
             //printf("ovf page id: \n");
-            printBits(q->curScanPage);
+//            printBits(q->curScanPage);/**/
 //            printBits(pageOvflow(getPage(ovflowFile(r),pageOvflow(q->curpage_p))));
             q->curTupleIndex = 0;
             q->preTupleLen = 0;
@@ -357,9 +357,15 @@ Tuple getNextTuple(Query q)
 ////            printf("curPageIndex: %d     ---- %d\n",q->curPageIndex);
             goto READPAGE;
         }
+        if(tupleMatch(r,t,q->quesryString)) {
+            return t;
+        }
+        else {
+            goto READPAGE;
+        }
     }
-    printf("curPageIndex: %d\n", curPageIndex);
-    printf("%d\n",pow1(2,nstars));
+//    printf("curPageIndex: %d\n", curPageIndex);
+//    printf("%d\n",pow1(2,nstars));
     return NULL;
 }
 
