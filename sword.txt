@@ -1,4 +1,8209 @@
+known: 00000000 10000010 01001001 00100100
+depth 5
+wocao0 4294967295
+wocao3 4294967295
+Real hash is 00000000 10000010 01001001 00100100
+wocao 36
+wocao2 4294967295
+#############################
+pid is :    36
+curTupleIndex:  0
+total tuple is:  31
+#############################
+wocao4 36
+1093,database,crystal
+wocao0 36
+test1 36
+test2 36
+curUP: 22
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  1
+total tuple is:  31
+#############################
+wocao4 36
+1111,garden,space
+wocao0 36
+test1 36
+test2 36
+curUP: 40
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  2
+total tuple is:  31
+#############################
+wocao4 36
+1205,box,pocket
+wocao0 36
+test1 36
+test2 36
+curUP: 56
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  3
+total tuple is:  31
+#############################
+wocao4 36
+1226,gloves,man
+wocao0 36
+test1 36
+test2 36
+curUP: 72
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  4
+total tuple is:  31
+#############################
+wocao4 36
+1281,book,compass
+wocao0 36
+test1 36
+test2 36
+curUP: 90
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  5
+total tuple is:  31
+#############################
+wocao4 36
+1338,pants,eyes
+wocao0 36
+test1 36
+test2 36
+curUP: 106
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  6
+total tuple is:  31
+#############################
+wocao4 36
+1351,gemstone,chief
+wocao0 36
+test1 36
+test2 36
+curUP: 126
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  7
+total tuple is:  31
+#############################
+wocao4 36
+1368,surveyor,crystal
+wocao0 36
+test1 36
+test2 36
+curUP: 148
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  8
+total tuple is:  31
+#############################
+wocao4 36
+1383,stomach,insect
+wocao0 36
+test1 36
+test2 36
+curUP: 168
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  9
+total tuple is:  31
+#############################
+wocao4 36
+1663,shop,feather
+wocao0 36
+test1 36
+test2 36
+curUP: 186
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  10
+total tuple is:  31
+#############################
+wocao4 36
+1669,box,clock
+wocao0 36
+test1 36
+test2 36
+curUP: 201
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  11
+total tuple is:  31
+#############################
+wocao4 36
+1748,necklace,shower
+wocao0 36
+test1 36
+test2 36
+curUP: 222
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  12
+total tuple is:  31
+#############################
+wocao4 36
+1803,torpedo,spoon
+wocao0 36
+test1 36
+test2 36
+curUP: 241
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  13
+total tuple is:  31
+#############################
+wocao4 36
+1883,paintbrush,airport
+wocao0 36
+test1 36
+test2 36
+curUP: 265
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  14
+total tuple is:  31
+#############################
+wocao4 36
+1905,telescope,aeroplane
+wocao0 36
+test1 36
+test2 36
+curUP: 290
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  15
+total tuple is:  31
+#############################
+wocao4 36
+1907,garden,umbrella
+wocao0 36
+test1 36
+test2 36
+curUP: 311
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  16
+total tuple is:  31
+#############################
+wocao4 36
+2001,stomach,vulture
+wocao0 36
+test1 36
+test2 36
+curUP: 332
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  17
+total tuple is:  31
+#############################
+wocao4 36
+2020,liquid,airforce
+wocao0 36
+test1 36
+test2 36
+curUP: 353
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  18
+total tuple is:  31
+#############################
+wocao4 36
+2031,bowl,mum
+wocao0 36
+test1 36
+test2 36
+curUP: 367
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  19
+total tuple is:  31
+#############################
+wocao4 36
+2062,garden,hot
+wocao0 36
+test1 36
+test2 36
+curUP: 383
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  20
+total tuple is:  31
+#############################
+wocao4 36
+2275,paintbrush,swim
+wocao0 36
+test1 36
+test2 36
+curUP: 404
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  21
+total tuple is:  31
+#############################
+wocao4 36
+2277,gemstone,balloon
+wocao0 36
+test1 36
+test2 36
+curUP: 426
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  22
+total tuple is:  31
+#############################
+wocao4 36
+2283,chess-board,spoon
+wocao0 36
+test1 36
+test2 36
+curUP: 449
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  23
+total tuple is:  31
+#############################
+wocao4 36
+2347,library,circus
+wocao0 36
+test1 36
+test2 36
+curUP: 469
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  24
+total tuple is:  31
+#############################
+wocao4 36
+2438,gloves,horoscope
+wocao0 36
+test1 36
+test2 36
+curUP: 491
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  25
+total tuple is:  31
+#############################
+wocao4 36
+2482,library,man
+wocao0 36
+test1 36
+test2 36
+curUP: 508
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  26
+total tuple is:  31
+#############################
+wocao4 36
+2536,apple,triangle
+wocao0 36
+test1 36
+test2 36
+curUP: 528
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  27
+total tuple is:  31
+#############################
+wocao4 36
+2707,bird,circus
+wocao0 36
+test1 36
+test2 36
+curUP: 545
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  28
+total tuple is:  31
+#############################
+wocao4 36
+2767,torpedo,hieroglyph
+wocao0 36
+test1 36
+test2 36
+curUP: 569
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  29
+total tuple is:  31
+#############################
+wocao4 36
+2805,computer,dung
+wocao0 36
+test1 36
+test2 36
+curUP: 588
+00000000 00000000 00000000 00100100
+strlen0 is 21
+#############################
+pid is :    36
+curTupleIndex:  -1
+total tuple is:  31
+#############################
+wocao4 36
+2974,liquid,chief
+wocao0 36
+wocao3 36
+Real hash is 00000000 10000010 01001001 00100101
+wocao 37
+wocao2 36
+#############################
+pid is :    37
+curTupleIndex:  0
+total tuple is:  36
+#############################
+wocao4 37
+1013,leg,vampire
+wocao0 37
+test1 37
+test2 37
+curUP: 17
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  1
+total tuple is:  36
+#############################
+wocao4 37
+1015,television,post
+wocao0 37
+test1 37
+test2 37
+curUP: 38
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  2
+total tuple is:  36
+#############################
+wocao4 37
+1247,robot,crystal
+wocao0 37
+test1 37
+test2 37
+curUP: 57
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  3
+total tuple is:  36
+#############################
+wocao4 37
+1257,stomach,spoon
+wocao0 37
+test1 37
+test2 37
+curUP: 76
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  4
+total tuple is:  36
+#############################
+wocao4 37
+1382,shop,onion
+wocao0 37
+test1 37
+test2 37
+curUP: 92
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  5
+total tuple is:  36
+#############################
+wocao4 37
+1437,television,drink
+wocao0 37
+test1 37
+test2 37
+curUP: 114
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  6
+total tuple is:  36
+#############################
+wocao4 37
+1442,paintbrush,boy
+wocao0 37
+test1 37
+test2 37
+curUP: 134
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  7
+total tuple is:  36
+#############################
+wocao4 37
+1480,database,horoscope
+wocao0 37
+test1 37
+test2 37
+curUP: 158
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  8
+total tuple is:  36
+#############################
+wocao4 37
 1505,sun,sword
+1505,sun,sword
+wocao0 37
+test1 37
+test2 37
+curUP: 173
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  9
+total tuple is:  36
+#############################
+wocao4 37
+1578,shoes,triangle
+wocao0 37
+test1 37
+test2 37
+curUP: 193
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  10
+total tuple is:  36
+#############################
+wocao4 37
+1605,train,plane
+wocao0 37
+test1 37
+test2 37
+curUP: 210
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  11
+total tuple is:  36
+#############################
+wocao4 37
+1636,apple,hat
+wocao0 37
+test1 37
+test2 37
+curUP: 225
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  12
+total tuple is:  36
+#############################
+wocao4 37
+1732,shop,spoon
+wocao0 37
+test1 37
+test2 37
+curUP: 241
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  13
+total tuple is:  36
+#############################
+wocao4 37
 1759,pendulum,sword
+1759,pendulum,sword
+wocao0 37
+test1 37
+test2 37
+curUP: 261
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  14
+total tuple is:  36
+#############################
+wocao4 37
+1777,library,boss
+wocao0 37
+test1 37
+test2 37
+curUP: 279
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  15
+total tuple is:  36
+#############################
+wocao4 37
+1794,clown,vampire
+wocao0 37
+test1 37
+test2 37
+curUP: 298
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  16
+total tuple is:  36
+#############################
+wocao4 37
+1846,library,triangle
+wocao0 37
+test1 37
+test2 37
+curUP: 320
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  17
+total tuple is:  36
+#############################
+wocao4 37
+1914,salt,boy
+wocao0 37
+test1 37
+test2 37
+curUP: 334
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  18
+total tuple is:  36
+#############################
+wocao4 37
+1970,gemstone,spoon
+wocao0 37
+test1 37
+test2 37
+curUP: 354
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  19
+total tuple is:  36
+#############################
+wocao4 37
+1985,army,man
+wocao0 37
+test1 37
+test2 37
+curUP: 368
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  20
+total tuple is:  36
+#############################
+wocao4 37
+2076,elephant,post
+wocao0 37
+test1 37
+test2 37
+curUP: 387
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  21
+total tuple is:  36
+#############################
+wocao4 37
+2094,book,rib
+wocao0 37
+test1 37
+test2 37
+curUP: 401
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  22
+total tuple is:  36
+#############################
+wocao4 37
+2101,skeleton,insect
+wocao0 37
+test1 37
+test2 37
+curUP: 422
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  23
+total tuple is:  36
+#############################
+wocao4 37
+2125,skeleton,crystal
+wocao0 37
+test1 37
+test2 37
+curUP: 444
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  24
+total tuple is:  36
+#############################
+wocao4 37
+2192,toilet,circus
+wocao0 37
+test1 37
+test2 37
+curUP: 463
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  25
+total tuple is:  36
+#############################
+wocao4 37
+2217,torpedo,compass
+wocao0 37
+test1 37
+test2 37
+curUP: 484
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  26
+total tuple is:  36
+#############################
+wocao4 37
+2223,toilet,x-ray
+wocao0 37
+test1 37
+test2 37
+curUP: 502
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  27
+total tuple is:  36
+#############################
+wocao4 37
+2268,gemstone,star
+wocao0 37
+test1 37
+test2 37
+curUP: 521
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  28
+total tuple is:  36
+#############################
+wocao4 37
+2276,database,mosquito
+wocao0 37
+test1 37
+test2 37
+curUP: 544
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  29
+total tuple is:  36
+#############################
+wocao4 37
+2409,chess-board,flower
+wocao0 37
+test1 37
+test2 37
+curUP: 568
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  30
+total tuple is:  36
+#############################
+wocao4 37
+2475,gas,needle
+wocao0 37
+test1 37
+test2 37
+curUP: 584
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  31
+total tuple is:  36
+#############################
+wocao4 37
+2713,sports-car,crystal
+wocao0 37
+test1 37
+test2 37
+curUP: 608
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  32
+total tuple is:  36
+#############################
+wocao4 37
+2731,clown,dung
+wocao0 37
+test1 37
+test2 37
+curUP: 624
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  33
+total tuple is:  36
+#############################
+wocao4 37
+2786,stomach,jet-fighter
+wocao0 37
+test1 37
+test2 37
+curUP: 649
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  34
+total tuple is:  36
+#############################
+wocao4 37
+2878,train,jet-fighter
+wocao0 37
+test1 37
+test2 37
+curUP: 672
+00000000 00000000 00000000 00100101
+strlen0 is 16
+#############################
+pid is :    37
+curTupleIndex:  -1
+total tuple is:  36
+#############################
+wocao4 37
+2958,train,boss
+wocao0 37
+wocao3 37
+Real hash is 00000000 10000010 01001001 00100110
+wocao 38
+wocao2 37
+#############################
+pid is :    38
+curTupleIndex:  0
+total tuple is:  36
+#############################
+wocao4 38
+1000,kaleidoscope,hieroglyph
+wocao0 38
+test1 38
+test2 38
+curUP: 29
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  1
+total tuple is:  36
+#############################
+wocao4 38
+1087,tunnel,jet-fighter
+wocao0 38
+test1 38
+test2 38
+curUP: 53
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  2
+total tuple is:  36
+#############################
+wocao4 38
+1118,car-race,needle
+wocao0 38
+test1 38
+test2 38
+curUP: 74
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  3
+total tuple is:  36
+#############################
+wocao4 38
+1121,map,shower
+wocao0 38
+test1 38
+test2 38
+curUP: 90
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  4
+total tuple is:  36
+#############################
+wocao4 38
+1122,fruit,insect
+wocao0 38
+test1 38
+test2 38
+curUP: 108
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  5
+total tuple is:  36
+#############################
+wocao4 38
+1154,treadmill,pebble
+wocao0 38
+test1 38
+test2 38
+curUP: 130
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  6
+total tuple is:  36
+#############################
+wocao4 38
+1175,album,triangle
+wocao0 38
+test1 38
+test2 38
+curUP: 150
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  7
+total tuple is:  36
+#############################
+wocao4 38
+1177,guitar,circus
+wocao0 38
+test1 38
+test2 38
+curUP: 169
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  8
+total tuple is:  36
+#############################
+wocao4 38
+1293,fire,spiral
+wocao0 38
+test1 38
+test2 38
+curUP: 186
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  9
+total tuple is:  36
+#############################
+wocao4 38
+1308,fire,eyes
+wocao0 38
+test1 38
+test2 38
+curUP: 201
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  10
+total tuple is:  36
+#############################
+wocao4 38
+1322,finger,swim
+wocao0 38
+test1 38
+test2 38
+curUP: 218
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  11
+total tuple is:  36
+#############################
+wocao4 38
+1359,solid,needle
+wocao0 38
+test1 38
+test2 38
+curUP: 236
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  12
+total tuple is:  36
+#############################
+wocao4 38
+1394,guitar,boss
+wocao0 38
+test1 38
+test2 38
+curUP: 253
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  13
+total tuple is:  36
+#############################
+wocao4 38
+1463,videotape,umbrella
+wocao0 38
+test1 38
+test2 38
+curUP: 277
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  14
+total tuple is:  36
+#############################
+wocao4 38
+1470,thermometer,bomb
+wocao0 38
+test1 38
+test2 38
+curUP: 299
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  15
+total tuple is:  36
+#############################
+wocao4 38
+1649,meat,space
+wocao0 38
+test1 38
+test2 38
+curUP: 315
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  16
+total tuple is:  36
+#############################
+wocao4 38
+1836,meat,umbrella
+wocao0 38
+test1 38
+test2 38
+curUP: 334
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  17
+total tuple is:  36
+#############################
+wocao4 38
+1849,air,dung
+wocao0 38
+test1 38
+test2 38
+curUP: 348
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  18
+total tuple is:  36
+#############################
+wocao4 38
+1934,rainbow,bomb
+wocao0 38
+test1 38
+test2 38
+curUP: 366
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  19
+total tuple is:  36
+#############################
+wocao4 38
+1937,car-race,flower
+wocao0 38
+test1 38
+test2 38
+curUP: 387
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  20
+total tuple is:  36
+#############################
+wocao4 38
+1990,car-race,onion
+wocao0 38
+test1 38
+test2 38
+curUP: 407
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  21
+total tuple is:  36
+#############################
+wocao4 38
+2195,child,radar
+wocao0 38
+test1 38
+test2 38
+curUP: 424
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  22
+total tuple is:  36
+#############################
+wocao4 38
+2226,tennis,circus
+wocao0 38
+test1 38
+test2 38
+curUP: 443
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  23
+total tuple is:  36
+#############################
+wocao4 38
+2242,album,hieroglyph
+wocao0 38
+test1 38
+test2 38
+curUP: 465
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  24
+total tuple is:  36
+#############################
+wocao4 38
+2300,school,carpet
+wocao0 38
+test1 38
+test2 38
+curUP: 484
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  25
+total tuple is:  36
+#############################
+wocao4 38
+2316,ears,chief
+wocao0 38
+test1 38
+test2 38
+curUP: 500
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  26
+total tuple is:  36
+#############################
+wocao4 38
+2449,family,drill
+wocao0 38
+test1 38
+test2 38
+curUP: 518
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  27
+total tuple is:  36
+#############################
+wocao4 38
+2473,fire,crystal
+wocao0 38
+test1 38
+test2 38
+curUP: 536
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  28
+total tuple is:  36
+#############################
+wocao4 38
+2499,fire,clock
+wocao0 38
+test1 38
+test2 38
+curUP: 552
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  29
+total tuple is:  36
+#############################
+wocao4 38
+2527,guitar,plane
+wocao0 38
+test1 38
+test2 38
+curUP: 570
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  30
+total tuple is:  36
+#############################
+wocao4 38
+2543,highway,clock
+wocao0 38
+test1 38
+test2 38
+curUP: 589
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  31
+total tuple is:  36
+#############################
+wocao4 38
+2572,slave,button
+wocao0 38
+test1 38
+test2 38
+curUP: 607
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  32
+total tuple is:  36
+#############################
+wocao4 38
+2691,snail,post
+wocao0 38
+test1 38
+test2 38
+curUP: 623
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  33
+total tuple is:  36
+#############################
+wocao4 38
+2870,saddle,spiral
+wocao0 38
+test1 38
+test2 38
+curUP: 642
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  34
+total tuple is:  36
+#############################
+wocao4 38
+2910,map,circus
+wocao0 38
+test1 38
+test2 38
+curUP: 658
+00000000 00000000 00000000 00100110
+strlen0 is 28
+#############################
+pid is :    38
+curTupleIndex:  -1
+total tuple is:  36
+#############################
+wocao4 38
+2968,dog,plane
+wocao0 38
+wocao3 38
+Real hash is 00000000 10000010 01001001 00100111
+wocao 39
+wocao2 38
+#############################
+pid is :    39
+curTupleIndex:  0
+total tuple is:  31
+#############################
+wocao4 39
+1092,meteor,chief
+wocao0 39
+test1 39
+test2 39
+curUP: 18
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  1
+total tuple is:  31
+#############################
+wocao4 39
+1159,kitchen,vampire
+wocao0 39
+test1 39
+test2 39
+curUP: 39
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  2
+total tuple is:  31
+#############################
+wocao4 39
+1196,woman,ship
+wocao0 39
+test1 39
+test2 39
+curUP: 55
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  3
+total tuple is:  31
+#############################
+wocao4 39
+1300,ears,fin
+wocao0 39
+test1 39
+test2 39
+curUP: 69
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  4
+total tuple is:  31
+#############################
+wocao4 39
+1329,tongue,perfume
+wocao0 39
+test1 39
+test2 39
+curUP: 89
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  5
+total tuple is:  31
+#############################
+wocao4 39
+1500,tapestry,milk
+wocao0 39
+test1 39
+test2 39
+curUP: 108
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  6
+total tuple is:  31
+#############################
+wocao4 39
+1537,ring,x-ray
+wocao0 39
+test1 39
+test2 39
+curUP: 124
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  7
+total tuple is:  31
+#############################
+wocao4 39
+1668,prison,spoon
+wocao0 39
+test1 39
+test2 39
+curUP: 142
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  8
+total tuple is:  31
+#############################
+wocao4 39
+1689,meteor,crystal
+wocao0 39
+test1 39
+test2 39
+curUP: 162
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  9
+total tuple is:  31
+#############################
+wocao4 39
+1724,money,needle
+wocao0 39
+test1 39
+test2 39
+curUP: 180
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  10
+total tuple is:  31
+#############################
+wocao4 39
+1752,videotape,airforce
+wocao0 39
+test1 39
+test2 39
+curUP: 204
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  11
+total tuple is:  31
+#############################
+wocao4 39
+1963,vacuum,airport
+wocao0 39
+test1 39
+test2 39
+curUP: 224
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  12
+total tuple is:  31
+#############################
+wocao4 39
+2135,child,pocket
+wocao0 39
+test1 39
+test2 39
+curUP: 242
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  13
+total tuple is:  31
+#############################
+wocao4 39
+2215,tongue,aeroplane
+wocao0 39
+test1 39
+test2 39
+curUP: 264
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  14
+total tuple is:  31
+#############################
+wocao4 39
+2255,hammer,radar
+wocao0 39
+test1 39
+test2 39
+curUP: 282
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  15
+total tuple is:  31
+#############################
+wocao4 39
+2363,sunglasses,button
+wocao0 39
+test1 39
+test2 39
+curUP: 305
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  16
+total tuple is:  31
+#############################
+wocao4 39
+2506,butterfly,compass
+wocao0 39
+test1 39
+test2 39
+curUP: 328
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  17
+total tuple is:  31
+#############################
+wocao4 39
+2540,finger,dung
+wocao0 39
+test1 39
+test2 39
+curUP: 345
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  18
+total tuple is:  31
+#############################
+wocao4 39
+2568,hammer,x-ray
+wocao0 39
+test1 39
+test2 39
+curUP: 363
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  19
+total tuple is:  31
+#############################
+wocao4 39
+2578,meat,horoscope
+wocao0 39
+test1 39
+test2 39
+curUP: 383
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  20
+total tuple is:  31
+#############################
+wocao4 39
+2610,dingbat,circus
+wocao0 39
+test1 39
+test2 39
+curUP: 403
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  21
+total tuple is:  31
+#############################
+wocao4 39
+2649,banana,vulture
+wocao0 39
+test1 39
+test2 39
+curUP: 423
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  22
+total tuple is:  31
+#############################
+wocao4 39
+2688,hammer,umbrella
+wocao0 39
+test1 39
+test2 39
+curUP: 444
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  23
+total tuple is:  31
+#############################
+wocao4 39
+2695,microscope,boss
+wocao0 39
+test1 39
+test2 39
+curUP: 465
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  24
+total tuple is:  31
+#############################
+wocao4 39
+2738,tunnel,pocket
+wocao0 39
+test1 39
+test2 39
+curUP: 484
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  25
+total tuple is:  31
+#############################
+wocao4 39
+2776,family,man
+wocao0 39
+test1 39
+test2 39
+curUP: 500
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  26
+total tuple is:  31
+#############################
+wocao4 39
+2829,bathtub,mum
+wocao0 39
+test1 39
+test2 39
+curUP: 517
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  27
+total tuple is:  31
+#############################
+wocao4 39
+2889,map,airport
+wocao0 39
+test1 39
+test2 39
+curUP: 534
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  28
+total tuple is:  31
+#############################
+wocao4 39
+2962,family,milk
+wocao0 39
+test1 39
+test2 39
+curUP: 551
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  29
+total tuple is:  31
+#############################
+wocao4 39
+2967,woman,adult
+wocao0 39
+test1 39
+test2 39
+curUP: 568
+00000000 00000000 00000000 00100111
+strlen0 is 17
+#############################
+pid is :    39
+curTupleIndex:  -1
+total tuple is:  31
+#############################
+wocao4 39
+2983,kaleidoscope,ship
+wocao0 39
+wocao3 39
+Real hash is 00000000 10000010 01001001 00101100
+wocao 44
+wocao2 39
+#############################
+pid is :    44
+curTupleIndex:  0
+total tuple is:  28
+#############################
+wocao4 44
+1037,leg,eyes
+wocao0 44
+test1 44
+test2 44
+curUP: 14
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  1
+total tuple is:  28
+#############################
+wocao4 44
+1120,printer,flower
+wocao0 44
+test1 44
+test2 44
+curUP: 34
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  2
+total tuple is:  28
+#############################
+wocao4 44
+1273,junk,spoon
+wocao0 44
+test1 44
+test2 44
+curUP: 50
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  3
+total tuple is:  28
+#############################
+wocao4 44
+1294,garden,circus
+wocao0 44
+test1 44
+test2 44
+curUP: 69
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  4
+total tuple is:  28
+#############################
+wocao4 44
+1309,pendulum,post
+wocao0 44
+test1 44
+test2 44
+curUP: 88
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  5
+total tuple is:  28
+#############################
+wocao4 44
+1403,liquid,mum
+wocao0 44
+test1 44
+test2 44
+curUP: 104
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  6
+total tuple is:  28
+#############################
+wocao4 44
+1422,signature,horoscope
+wocao0 44
+test1 44
+test2 44
+curUP: 129
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  7
+total tuple is:  28
+#############################
+wocao4 44
+1499,garden,boss
+wocao0 44
+test1 44
+test2 44
+curUP: 146
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  8
+total tuple is:  28
+#############################
+wocao4 44
+1555,sun,mosquito
+wocao0 44
+test1 44
+test2 44
+curUP: 164
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  9
+total tuple is:  28
+#############################
+wocao4 44
+1588,window,flower
+wocao0 44
+test1 44
+test2 44
+curUP: 183
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  10
+total tuple is:  28
+#############################
+wocao4 44
+1661,ice-cream,eyes
+wocao0 44
+test1 44
+test2 44
+curUP: 203
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  11
+total tuple is:  28
+#############################
+wocao4 44
+1719,television,sphere
+wocao0 44
+test1 44
+test2 44
+curUP: 226
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  12
+total tuple is:  28
+#############################
+wocao4 44
+1785,girl,boy
+wocao0 44
+test1 44
+test2 44
+curUP: 240
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  13
+total tuple is:  28
+#############################
+wocao4 44
+1808,web,triangle
+wocao0 44
+test1 44
+test2 44
+curUP: 258
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  14
+total tuple is:  28
+#############################
+wocao4 44
+2025,television,pebble
+wocao0 44
+test1 44
+test2 44
+curUP: 281
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  15
+total tuple is:  28
+#############################
+wocao4 44
+2112,leg,swim
+wocao0 44
+test1 44
+test2 44
+curUP: 295
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  16
+total tuple is:  28
+#############################
+wocao4 44
+2188,gas,triangle
+wocao0 44
+test1 44
+test2 44
+curUP: 313
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  17
+total tuple is:  28
+#############################
+wocao4 44
+2220,alphabet,milk
+wocao0 44
+test1 44
+test2 44
+curUP: 332
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  18
+total tuple is:  28
+#############################
+wocao4 44
+2280,garden,vulture
+wocao0 44
+test1 44
+test2 44
+curUP: 352
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  19
+total tuple is:  28
+#############################
+wocao4 44
+2348,library,umbrella
+wocao0 44
+test1 44
+test2 44
+curUP: 374
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  20
+total tuple is:  28
+#############################
+wocao4 44
+2374,torpedo,swim
+wocao0 44
+test1 44
+test2 44
+curUP: 392
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  21
+total tuple is:  28
+#############################
+wocao4 44
+2464,library,circus
+wocao0 44
+test1 44
+test2 44
+curUP: 412
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  22
+total tuple is:  28
+#############################
+wocao4 44
+2699,printer,circus
+wocao0 44
+test1 44
+test2 44
+curUP: 432
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  23
+total tuple is:  28
+#############################
+wocao4 44
+2817,stomach,compass
+wocao0 44
+test1 44
+test2 44
+curUP: 453
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  24
+total tuple is:  28
+#############################
+wocao4 44
+2874,gemstone,drill
+wocao0 44
+test1 44
+test2 44
+curUP: 473
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  25
+total tuple is:  28
+#############################
+wocao4 44
+2876,leg,pocket
+wocao0 44
+test1 44
+test2 44
+curUP: 489
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  26
+total tuple is:  28
+#############################
+wocao4 44
+2959,army,dung
+wocao0 44
+test1 44
+test2 44
+curUP: 504
+00000000 00000000 00000000 00101100
+strlen0 is 13
+#############################
+pid is :    44
+curTupleIndex:  -1
+total tuple is:  28
+#############################
+wocao4 44
+2985,surveyor,space
+wocao0 44
+wocao3 44
+Real hash is 00000000 10000010 01001001 00101101
+wocao 45
+wocao2 44
+#############################
+pid is :    45
+curTupleIndex:  0
+total tuple is:  17
+#############################
+wocao4 45
+1106,elephant,rib
+wocao0 45
+test1 45
+test2 45
+curUP: 18
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  1
+total tuple is:  17
+#############################
+wocao4 45
+1134,television,feather
+wocao0 45
+test1 45
+test2 45
+curUP: 42
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  2
+total tuple is:  17
+#############################
+wocao4 45
+1176,telescope,crystal
+wocao0 45
+test1 45
+test2 45
+curUP: 65
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  3
+total tuple is:  17
+#############################
+wocao4 45
+1237,alphabet,crystal
+wocao0 45
+test1 45
+test2 45
+curUP: 87
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  4
+total tuple is:  17
+#############################
+wocao4 45
+1253,web,button
+wocao0 45
+test1 45
+test2 45
+curUP: 103
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  5
+total tuple is:  17
+#############################
+wocao4 45
+1270,skeleton,drill
+wocao0 45
+test1 45
+test2 45
+curUP: 123
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  6
+total tuple is:  17
+#############################
+wocao4 45
+1965,sun,rib
+wocao0 45
+test1 45
+test2 45
+curUP: 136
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  7
+total tuple is:  17
+#############################
+wocao4 45
+2244,pin,mum
+wocao0 45
+test1 45
+test2 45
+curUP: 149
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  8
+total tuple is:  17
+#############################
+wocao4 45
+2350,surveyor,pocket
+wocao0 45
+test1 45
+test2 45
+curUP: 170
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  9
+total tuple is:  17
+#############################
+wocao4 45
+2365,rope,coffee-shop
+wocao0 45
+test1 45
+test2 45
+curUP: 192
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  10
+total tuple is:  17
+#############################
+wocao4 45
+2381,salt,button
+wocao0 45
+test1 45
+test2 45
+curUP: 209
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  11
+total tuple is:  17
+#############################
+wocao4 45
+2443,printer,needle
+wocao0 45
+test1 45
+test2 45
+curUP: 229
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  12
+total tuple is:  17
+#############################
+wocao4 45
+2627,paintbrush,rib
+wocao0 45
+test1 45
+test2 45
+curUP: 249
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  13
+total tuple is:  17
+#############################
+wocao4 45
+2655,festival,mosquito
+wocao0 45
+test1 45
+test2 45
+curUP: 272
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  14
+total tuple is:  17
+#############################
+wocao4 45
+2838,oodle,radar
+wocao0 45
+test1 45
+test2 45
+curUP: 289
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  15
+total tuple is:  17
+#############################
+wocao4 45
+2961,gemstone,post
+wocao0 45
+test1 45
+test2 45
+curUP: 308
+00000000 00000000 00000000 00101101
+strlen0 is 17
+#############################
+pid is :    45
+curTupleIndex:  -1
+total tuple is:  17
+#############################
+wocao4 45
+2978,festival,eyes
+wocao0 45
+wocao3 45
+Real hash is 00000000 10000010 01001001 00101110
+wocao 46
+wocao2 45
+#############################
+pid is :    46
+curTupleIndex:  0
+total tuple is:  29
+#############################
+wocao4 46
+1089,kaleidoscope,rib
+wocao0 46
+test1 46
+test2 46
+curUP: 22
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  1
+total tuple is:  29
+#############################
+wocao4 46
+1105,banana,square
+wocao0 46
+test1 46
+test2 46
+curUP: 41
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  2
+total tuple is:  29
+#############################
+wocao4 46
+1145,tunnel,bomb
+wocao0 46
+test1 46
+test2 46
+curUP: 58
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  3
+total tuple is:  29
+#############################
+wocao4 46
+1268,zoo,milk
+wocao0 46
+test1 46
+test2 46
+curUP: 72
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  4
+total tuple is:  29
+#############################
+wocao4 46
+1336,tongue,perfume
+wocao0 46
+test1 46
+test2 46
+curUP: 92
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  5
+total tuple is:  29
+#############################
+wocao4 46
+1462,map,crystal
+wocao0 46
+test1 46
+test2 46
+curUP: 109
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  6
+total tuple is:  29
+#############################
+wocao4 46
+1474,dog,hat
+wocao0 46
+test1 46
+test2 46
+curUP: 122
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  7
+total tuple is:  29
+#############################
+wocao4 46
+1575,backpack,airforce
+wocao0 46
+test1 46
+test2 46
+curUP: 145
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  8
+total tuple is:  29
+#############################
+wocao4 46
+1744,money,plane
+wocao0 46
+test1 46
+test2 46
+curUP: 162
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  9
+total tuple is:  29
+#############################
+wocao4 46
+1801,finger,ship
+wocao0 46
+test1 46
+test2 46
+curUP: 179
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  10
+total tuple is:  29
+#############################
+wocao4 46
+1807,backpack,pocket
+wocao0 46
+test1 46
+test2 46
+curUP: 200
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  11
+total tuple is:  29
+#############################
+wocao4 46
+1871,passport,shower
+wocao0 46
+test1 46
+test2 46
+curUP: 221
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  12
+total tuple is:  29
+#############################
+wocao4 46
+1923,tunnel,ship
+wocao0 46
+test1 46
+test2 46
+curUP: 238
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  13
+total tuple is:  29
+#############################
+wocao4 46
+1946,child,shower
+wocao0 46
+test1 46
+test2 46
+curUP: 256
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  14
+total tuple is:  29
+#############################
+wocao4 46
+1951,weapon,ship
+wocao0 46
+test1 46
+test2 46
+curUP: 273
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  15
+total tuple is:  29
+#############################
+wocao4 46
+1952,bee,win
+wocao0 46
+test1 46
+test2 46
+curUP: 286
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  16
+total tuple is:  29
+#############################
+wocao4 46
+1995,money,clock
+wocao0 46
+test1 46
+test2 46
+curUP: 303
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  17
+total tuple is:  29
+#############################
+wocao4 46
+2189,rainbow,spoon
+wocao0 46
+test1 46
+test2 46
+curUP: 322
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  18
+total tuple is:  29
+#############################
+wocao4 46
+2230,key,compass
+wocao0 46
+test1 46
+test2 46
+curUP: 339
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  19
+total tuple is:  29
+#############################
+wocao4 46
+2238,bee,drill
+wocao0 46
+test1 46
+test2 46
+curUP: 354
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  20
+total tuple is:  29
+#############################
+wocao4 46
+2333,finger,rib
+wocao0 46
+test1 46
+test2 46
+curUP: 370
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  21
+total tuple is:  29
+#############################
+wocao4 46
+2349,sandpaper,floodlight
+wocao0 46
+test1 46
+test2 46
+curUP: 396
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  22
+total tuple is:  29
+#############################
+wocao4 46
+2355,solid,pocket
+wocao0 46
+test1 46
+test2 46
+curUP: 414
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  23
+total tuple is:  29
+#############################
+wocao4 46
+2463,zoo,carpet
+wocao0 46
+test1 46
+test2 46
+curUP: 430
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  24
+total tuple is:  29
+#############################
+wocao4 46
+2519,kaleidoscope,rib
+wocao0 46
+test1 46
+test2 46
+curUP: 452
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  25
+total tuple is:  29
+#############################
+wocao4 46
+2571,treadmill,horoscope
+wocao0 46
+test1 46
+test2 46
+curUP: 477
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  26
+total tuple is:  29
+#############################
+wocao4 46
+2944,kaleidoscope,perfume
+wocao0 46
+test1 46
+test2 46
+curUP: 503
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  27
+total tuple is:  29
+#############################
+wocao4 46
+2951,hammer,airport
+wocao0 46
+test1 46
+test2 46
+curUP: 523
+00000000 00000000 00000000 00101110
+strlen0 is 21
+#############################
+pid is :    46
+curTupleIndex:  -1
+total tuple is:  29
+#############################
+wocao4 46
+2966,map,airforce
+wocao0 46
+wocao3 46
+Real hash is 00000000 10000010 01001001 00101111
+wocao 47
+wocao2 46
+#############################
+pid is :    47
+curTupleIndex:  0
+total tuple is:  25
+#############################
+wocao4 47
 1011,sandpaper,sword
+1011,sandpaper,sword
+wocao0 47
+test1 47
+test2 47
+curUP: 21
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  1
+total tuple is:  25
+#############################
+wocao4 47
+1074,treadmill,circus
+wocao0 47
+test1 47
+test2 47
+curUP: 43
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  2
+total tuple is:  25
+#############################
+wocao4 47
+1129,sandpaper,pebble
+wocao0 47
+test1 47
+test2 47
+curUP: 65
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  3
+total tuple is:  25
+#############################
+wocao4 47
+1187,album,drill
+wocao0 47
+test1 47
+test2 47
+curUP: 82
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  4
+total tuple is:  25
+#############################
+wocao4 47
+1345,comet,floodlight
+wocao0 47
+test1 47
+test2 47
+curUP: 104
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  5
+total tuple is:  25
+#############################
+wocao4 47
+1358,thermometer,feather
+wocao0 47
+test1 47
+test2 47
+curUP: 129
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  6
+total tuple is:  25
+#############################
+wocao4 47
+1392,hammer,space
+wocao0 47
+test1 47
+test2 47
+curUP: 147
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  7
+total tuple is:  25
+#############################
+wocao4 47
+1681,school,aeroplane
+wocao0 47
+test1 47
+test2 47
+curUP: 169
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  8
+total tuple is:  25
+#############################
+wocao4 47
+1710,sunglasses,dung
+wocao0 47
+test1 47
+test2 47
+curUP: 190
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  9
+total tuple is:  25
+#############################
+wocao4 47
+1784,sandpaper,shower
+wocao0 47
+test1 47
+test2 47
+curUP: 212
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  10
+total tuple is:  25
+#############################
+wocao4 47
+1814,weapon,star
+wocao0 47
+test1 47
+test2 47
+curUP: 229
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  11
+total tuple is:  25
+#############################
+wocao4 47
+1826,map,button
+wocao0 47
+test1 47
+test2 47
+curUP: 245
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  12
+total tuple is:  25
+#############################
+wocao4 47
+1861,backpack,bomb
+wocao0 47
+test1 47
+test2 47
+curUP: 264
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  13
+total tuple is:  25
+#############################
+wocao4 47
+1967,fire,floodlight
+wocao0 47
+test1 47
+test2 47
+curUP: 285
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  14
+total tuple is:  25
+#############################
+wocao4 47
+2251,chisel,coffee-shop
+wocao0 47
+test1 47
+test2 47
+curUP: 309
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  15
+total tuple is:  25
+#############################
+wocao4 47
+2266,cappuccino,floodlight
+wocao0 47
+test1 47
+test2 47
+curUP: 336
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  16
+total tuple is:  25
+#############################
+wocao4 47
+2442,child,mum
+wocao0 47
+test1 47
+test2 47
+curUP: 351
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  17
+total tuple is:  25
+#############################
+wocao4 47
+2481,butterfly,clock
+wocao0 47
+test1 47
+test2 47
+curUP: 372
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  18
+total tuple is:  25
+#############################
+wocao4 47
+2491,backpack,spiral
+wocao0 47
+test1 47
+test2 47
+curUP: 393
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  19
+total tuple is:  25
+#############################
+wocao4 47
+2602,prison,hot
+wocao0 47
+test1 47
+test2 47
+curUP: 409
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  20
+total tuple is:  25
+#############################
+wocao4 47
+2727,desk,perfume
+wocao0 47
+test1 47
+test2 47
+curUP: 427
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  21
+total tuple is:  25
+#############################
+wocao4 47
+2754,bathroom,star
+wocao0 47
+test1 47
+test2 47
+curUP: 446
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  22
+total tuple is:  25
+#############################
+wocao4 47
+2868,bathroom,airforce
+wocao0 47
+test1 47
+test2 47
+curUP: 469
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  23
+total tuple is:  25
+#############################
+wocao4 47
+2881,double,aeroplane
+wocao0 47
+test1 47
+test2 47
+curUP: 491
+00000000 00000000 00000000 00101111
+strlen0 is 20
+#############################
+pid is :    47
+curTupleIndex:  -1
+total tuple is:  25
+#############################
+wocao4 47
+2923,saddle,floodlight
+wocao0 47
+wocao3 47
+Real hash is 00000000 10000010 01001001 00110100
+wocao 52
+wocao2 47
+#############################
+pid is :    52
+curTupleIndex:  0
+total tuple is:  33
+#############################
+wocao4 52
+1068,gasp,dung
+wocao0 52
+test1 52
+test2 52
+curUP: 15
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  1
+total tuple is:  33
+#############################
+wocao4 52
+1131,cycle,sphere
+wocao0 52
+test1 52
+test2 52
+curUP: 33
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  2
+total tuple is:  33
+#############################
+wocao4 52
+1248,bed,coffee-shop
+wocao0 52
+test1 52
+test2 52
+curUP: 54
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  3
+total tuple is:  33
+#############################
+wocao4 52
+1418,planet,needle
+wocao0 52
+test1 52
+test2 52
+curUP: 73
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  4
+total tuple is:  33
+#############################
+wocao4 52
+1423,sandwich,spoon
+wocao0 52
+test1 52
+test2 52
+curUP: 93
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  5
+total tuple is:  33
+#############################
+wocao4 52
+1634,water,boss
+wocao0 52
+test1 52
+test2 52
+curUP: 109
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  6
+total tuple is:  33
+#############################
+wocao4 52
+1648,circle,ship
+wocao0 52
+test1 52
+test2 52
+curUP: 126
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  7
+total tuple is:  33
+#############################
+wocao4 52
+1703,staircase,fin
+wocao0 52
+test1 52
+test2 52
+curUP: 145
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  8
+total tuple is:  33
+#############################
+wocao4 52
+1772,baby,clock
+wocao0 52
+test1 52
+test2 52
+curUP: 161
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  9
+total tuple is:  33
+#############################
+wocao4 52
+1834,set,eyes
+wocao0 52
+test1 52
+test2 52
+curUP: 175
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  10
+total tuple is:  33
+#############################
+wocao4 52
+1863,horse,boss
+wocao0 52
+test1 52
+test2 52
+curUP: 191
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  11
+total tuple is:  33
+#############################
+wocao4 52
+1899,eraser,x-ray
+wocao0 52
+test1 52
+test2 52
+curUP: 209
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  12
+total tuple is:  33
+#############################
+wocao4 52
+1915,monster,airport
+wocao0 52
+test1 52
+test2 52
+curUP: 230
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  13
+total tuple is:  33
+#############################
+wocao4 52
+1932,knife,needle
+wocao0 52
+test1 52
+test2 52
+curUP: 248
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  14
+total tuple is:  33
+#############################
+wocao4 52
+1933,bed,crystal
+wocao0 52
+test1 52
+test2 52
+curUP: 265
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  15
+total tuple is:  33
+#############################
+wocao4 52
+2037,circle,hot
+wocao0 52
+test1 52
+test2 52
+curUP: 281
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  16
+total tuple is:  33
+#############################
+wocao4 52
+2048,milkshake,coffee-shop
+wocao0 52
+test1 52
+test2 52
+curUP: 308
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  17
+total tuple is:  33
+#############################
+wocao4 52
+2064,torch,crystal
+wocao0 52
+test1 52
+test2 52
+curUP: 327
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  18
+total tuple is:  33
+#############################
+wocao4 52
+2102,navy,perfume
+wocao0 52
+test1 52
+test2 52
+curUP: 345
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  19
+total tuple is:  33
+#############################
+wocao4 52
+2104,pith,crystal
+wocao0 52
+test1 52
+test2 52
+curUP: 363
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  20
+total tuple is:  33
+#############################
+wocao4 52
+2207,set,circus
+wocao0 52
+test1 52
+test2 52
+curUP: 379
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  21
+total tuple is:  33
+#############################
+wocao4 52
+2257,table,floodlight
+wocao0 52
+test1 52
+test2 52
+curUP: 401
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  22
+total tuple is:  33
+#############################
+wocao4 52
+2342,satellite,drink
+wocao0 52
+test1 52
+test2 52
+curUP: 422
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  23
+total tuple is:  33
+#############################
+wocao4 52
+2539,staircase,pebble
+wocao0 52
+test1 52
+test2 52
+curUP: 444
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  24
+total tuple is:  33
+#############################
+wocao4 52
+2704,chocolates,ship
+wocao0 52
+test1 52
+test2 52
+curUP: 465
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  25
+total tuple is:  33
+#############################
+wocao4 52
+2744,set,space
+wocao0 52
+test1 52
+test2 52
+curUP: 480
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  26
+total tuple is:  33
+#############################
+wocao4 52
+2758,freeway,radar
+wocao0 52
+test1 52
+test2 52
+curUP: 499
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  27
+total tuple is:  33
+#############################
+wocao4 52
+2764,gasp,umbrella
+wocao0 52
+test1 52
+test2 52
+curUP: 518
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  28
+total tuple is:  33
+#############################
+wocao4 52
+2769,magnet,star
+wocao0 52
+test1 52
+test2 52
+curUP: 535
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  29
+total tuple is:  33
+#############################
+wocao4 52
+2832,teeth,circus
+wocao0 52
+test1 52
+test2 52
+curUP: 553
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  30
+total tuple is:  33
+#############################
+wocao4 52
+2855,spice,crystal
+wocao0 52
+test1 52
+test2 52
+curUP: 572
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  31
+total tuple is:  33
+#############################
+wocao4 52
+2882,diamond,adult
+wocao0 52
+test1 52
+test2 52
+curUP: 591
+00000000 00000000 00000000 00110100
+strlen0 is 14
+#############################
+pid is :    52
+curTupleIndex:  -1
+total tuple is:  33
+#############################
+wocao4 52
+2928,potato,umbrella
+wocao0 52
+wocao3 52
+Real hash is 00000000 10000010 01001001 00110101
+wocao 53
+wocao2 52
+#############################
+pid is :    53
+curTupleIndex:  0
+total tuple is:  38
+#############################
+wocao4 53
+1001,navy,hieroglyph
+wocao0 53
+test1 53
+test2 53
+curUP: 21
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  1
+total tuple is:  38
+#############################
+wocao4 53
+1079,aircraft,flower
+wocao0 53
+test1 53
+test2 53
+curUP: 42
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  2
+total tuple is:  38
+#############################
+wocao4 53
+1319,cat,mosquito
+wocao0 53
+test1 53
+test2 53
+curUP: 60
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  3
+total tuple is:  38
+#############################
+wocao4 53
+1327,zebra,pocket
+wocao0 53
+test1 53
+test2 53
+curUP: 78
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  4
+total tuple is:  38
+#############################
+wocao4 53
+1332,monster,eyes
+wocao0 53
+test1 53
+test2 53
+curUP: 96
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  5
+total tuple is:  38
+#############################
+wocao4 53
+1334,record,shower
+wocao0 53
+test1 53
+test2 53
+curUP: 115
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  6
+total tuple is:  38
+#############################
+wocao4 53
+1356,rocket,man
+wocao0 53
+test1 53
+test2 53
+curUP: 131
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  7
+total tuple is:  38
+#############################
+wocao4 53
+1453,pith,clock
+wocao0 53
+test1 53
+test2 53
+curUP: 147
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  8
+total tuple is:  38
+#############################
+wocao4 53
+1483,egg,rib
+wocao0 53
+test1 53
+test2 53
+curUP: 160
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  9
+total tuple is:  38
+#############################
+wocao4 53
+1517,spectrum,feather
+wocao0 53
+test1 53
+test2 53
+curUP: 182
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  10
+total tuple is:  38
+#############################
+wocao4 53
+1593,rock,carpet
+wocao0 53
+test1 53
+test2 53
+curUP: 199
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  11
+total tuple is:  38
+#############################
+wocao4 53
+1616,grapes,adult
+wocao0 53
+test1 53
+test2 53
+curUP: 217
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  12
+total tuple is:  38
+#############################
+wocao4 53
+1682,chair,hieroglyph
+wocao0 53
+test1 53
+test2 53
+curUP: 239
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  13
+total tuple is:  38
+#############################
+wocao4 53
+1766,bed,insect
+wocao0 53
+test1 53
+test2 53
+curUP: 255
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  14
+total tuple is:  38
+#############################
+wocao4 53
+1787,arm,square
+wocao0 53
+test1 53
+test2 53
+curUP: 271
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  15
+total tuple is:  38
+#############################
+wocao4 53
+1804,aircraft,fin
+wocao0 53
+test1 53
+test2 53
+curUP: 289
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  16
+total tuple is:  38
+#############################
+wocao4 53
+1830,torch,jet-fighter
+wocao0 53
+test1 53
+test2 53
+curUP: 312
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  17
+total tuple is:  38
+#############################
+wocao4 53
+1831,navy,balloon
+wocao0 53
+test1 53
+test2 53
+curUP: 330
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  18
+total tuple is:  38
+#############################
+wocao4 53
+1884,coffee,fin
+wocao0 53
+test1 53
+test2 53
+curUP: 346
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  19
+total tuple is:  38
+#############################
+wocao4 53
+1908,potato,perfume
+wocao0 53
+test1 53
+test2 53
+curUP: 366
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  20
+total tuple is:  38
+#############################
+wocao4 53
+1920,eraser,perfume
+wocao0 53
+test1 53
+test2 53
+curUP: 386
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  21
+total tuple is:  38
+#############################
+wocao4 53
+1968,spice,horoscope
+wocao0 53
+test1 53
+test2 53
+curUP: 407
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  22
+total tuple is:  38
+#############################
+wocao4 53
+2017,pepper,spiral
+wocao0 53
+test1 53
+test2 53
+curUP: 426
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  23
+total tuple is:  38
+#############################
+wocao4 53
+2045,chocolates,eyes
+wocao0 53
+test1 53
+test2 53
+curUP: 447
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  24
+total tuple is:  38
+#############################
+wocao4 53
+2057,foot,win
+wocao0 53
+test1 53
+test2 53
+curUP: 461
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  25
+total tuple is:  38
+#############################
+wocao4 53
+2095,cat,circus
+wocao0 53
+test1 53
+test2 53
+curUP: 477
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  26
+total tuple is:  38
+#############################
+wocao4 53
+2213,fan,crystal
+wocao0 53
+test1 53
+test2 53
+curUP: 494
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  27
+total tuple is:  38
+#############################
+wocao4 53
+2274,leather,airport
+wocao0 53
+test1 53
+test2 53
+curUP: 515
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  28
+total tuple is:  38
+#############################
+wocao4 53
+2287,rocket,rib
+wocao0 53
+test1 53
+test2 53
+curUP: 531
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  29
+total tuple is:  38
+#############################
+wocao4 53
+2314,restaurant,shower
+wocao0 53
+test1 53
+test2 53
+curUP: 554
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  30
+total tuple is:  38
+#############################
+wocao4 53
+2587,foot,ship
+wocao0 53
+test1 53
+test2 53
+curUP: 569
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  31
+total tuple is:  38
+#############################
+wocao4 53
+2394,room,coffee-shop
+wocao0 53
+test1 53
+test2 53
+curUP: 591
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  32
+total tuple is:  38
+#############################
+wocao4 53
+2465,fungus,carpet
+wocao0 53
+test1 53
+test2 53
+curUP: 610
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  33
+total tuple is:  38
+#############################
+wocao4 53
+2620,hose,horoscope
+wocao0 53
+test1 53
+test2 53
+curUP: 630
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  34
+total tuple is:  38
+#############################
+wocao4 53
+2811,mist,aeroplane
+wocao0 53
+test1 53
+test2 53
+curUP: 650
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  35
+total tuple is:  38
+#############################
+wocao4 53
+2924,maze,vampire
+wocao0 53
+test1 53
+test2 53
+curUP: 668
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  36
+total tuple is:  38
+#############################
+wocao4 53
+2937,rocket,spiral
+wocao0 53
+test1 53
+test2 53
+curUP: 687
+00000000 00000000 00000000 00110101
+strlen0 is 20
+#############################
+pid is :    53
+curTupleIndex:  -1
+total tuple is:  38
+#############################
+wocao4 53
+2939,wheelchair,needle
+wocao0 53
+wocao3 53
+Real hash is 00000000 10000010 01001001 00110110
+wocao 54
+wocao2 53
+#############################
+pid is :    54
+curTupleIndex:  0
+total tuple is:  28
+#############################
+wocao4 54
+1020,circus,flower
+wocao0 54
+test1 54
+test2 54
+curUP: 19
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  1
+total tuple is:  28
+#############################
+wocao4 54
+1058,spiral,ship
+wocao0 54
+test1 54
+test2 54
+curUP: 36
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  2
+total tuple is:  28
+#############################
+wocao4 54
+1084,boss,airport
+wocao0 54
+test1 54
+test2 54
+curUP: 54
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  3
+total tuple is:  28
+#############################
+wocao4 54
+1101,mosquito,floodlight
+wocao0 54
+test1 54
+test2 54
+curUP: 79
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  4
+total tuple is:  28
+#############################
+wocao4 54
+1110,radar,floodlight
+wocao0 54
+test1 54
+test2 54
+curUP: 101
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  5
+total tuple is:  28
+#############################
+wocao4 54
+1130,hot,circus
+wocao0 54
+test1 54
+test2 54
+curUP: 117
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  6
+total tuple is:  28
+#############################
+wocao4 54
+1220,spiral,man
+wocao0 54
+test1 54
+test2 54
+curUP: 133
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  7
+total tuple is:  28
+#############################
+wocao4 54
+1227,vampire,balloon
+wocao0 54
+test1 54
+test2 54
+curUP: 154
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  8
+total tuple is:  28
+#############################
+wocao4 54
+1251,insect,airport
+wocao0 54
+test1 54
+test2 54
+curUP: 174
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  9
+total tuple is:  28
+#############################
+wocao4 54
+1292,circus,perfume
+wocao0 54
+test1 54
+test2 54
+curUP: 194
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  10
+total tuple is:  28
+#############################
+wocao4 54
+1436,circus,post
+wocao0 54
+test1 54
+test2 54
+curUP: 211
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  11
+total tuple is:  28
+#############################
+wocao4 54
+1552,pocket,button
+wocao0 54
+test1 54
+test2 54
+curUP: 230
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  12
+total tuple is:  28
+#############################
+wocao4 54
+1645,circus,spoon
+wocao0 54
+test1 54
+test2 54
+curUP: 248
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  13
+total tuple is:  28
+#############################
+wocao4 54
+1740,onion,clock
+wocao0 54
+test1 54
+test2 54
+curUP: 265
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  14
+total tuple is:  28
+#############################
+wocao4 54
+1832,sword,rib
+wocao0 54
+test1 54
+test2 54
+curUP: 280
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  15
+total tuple is:  28
+#############################
+wocao4 54
+2065,fin,feather
+wocao0 54
+test1 54
+test2 54
+curUP: 297
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  16
+total tuple is:  28
+#############################
+wocao4 54
+2080,chief,spoon
+wocao0 54
+test1 54
+test2 54
+curUP: 314
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  17
+total tuple is:  28
+#############################
+wocao4 54
+2096,hat,spiral
+wocao0 54
+test1 54
+test2 54
+curUP: 330
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  18
+total tuple is:  28
+#############################
+wocao4 54
+2103,dung,umbrella
+wocao0 54
+test1 54
+test2 54
+curUP: 349
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  19
+total tuple is:  28
+#############################
+wocao4 54
+2122,crystal,drink
+wocao0 54
+test1 54
+test2 54
+curUP: 368
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  20
+total tuple is:  28
+#############################
+wocao4 54
+2225,spiral,spiral
+wocao0 54
+test1 54
+test2 54
+curUP: 387
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  21
+total tuple is:  28
+#############################
+wocao4 54
+2228,space,hat
+wocao0 54
+test1 54
+test2 54
+curUP: 402
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  22
+total tuple is:  28
+#############################
+wocao4 54
+2286,onion,drink
+wocao0 54
+test1 54
+test2 54
+curUP: 419
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  23
+total tuple is:  28
+#############################
+wocao4 54
+2379,win,win
+wocao0 54
+test1 54
+test2 54
+curUP: 432
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  24
+total tuple is:  28
+#############################
+wocao4 54
+2403,dung,bomb
+wocao0 54
+test1 54
+test2 54
+curUP: 447
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  25
+total tuple is:  28
+#############################
+wocao4 54
+2631,hat,insect
+wocao0 54
+test1 54
+test2 54
+curUP: 463
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  26
+total tuple is:  28
+#############################
+wocao4 54
+2662,circus,adult
+wocao0 54
+test1 54
+test2 54
+curUP: 481
+00000000 00000000 00000000 00110110
+strlen0 is 18
+#############################
+pid is :    54
+curTupleIndex:  -1
+total tuple is:  28
+#############################
+wocao4 54
+2845,shower,button
+wocao0 54
+wocao3 54
+Real hash is 00000000 10000010 01001001 00110111
+wocao 55
+wocao2 54
+#############################
+pid is :    55
+curTupleIndex:  0
+total tuple is:  25
+#############################
+wocao4 55
+1103,x-ray,square
+wocao0 55
+test1 55
+test2 55
+curUP: 18
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  1
+total tuple is:  25
+#############################
+wocao4 55
+1290,crystal,onion
+wocao0 55
+test1 55
+test2 55
+curUP: 37
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  2
+total tuple is:  25
+#############################
+wocao4 55
+1449,airport,ship
+wocao0 55
+test1 55
+test2 55
+curUP: 55
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  3
+total tuple is:  25
+#############################
+wocao4 55
+1597,boy,horoscope
+wocao0 55
+test1 55
+test2 55
+curUP: 74
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  4
+total tuple is:  25
+#############################
+wocao4 55
+1677,star,circus
+wocao0 55
+test1 55
+test2 55
+curUP: 91
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  5
+total tuple is:  25
+#############################
+wocao4 55
+1692,post,bomb
+wocao0 55
+test1 55
+test2 55
+curUP: 106
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  6
+total tuple is:  25
+#############################
+wocao4 55
+1827,button,boss
+wocao0 55
+test1 55
+test2 55
+curUP: 123
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  7
+total tuple is:  25
+#############################
+wocao4 55
+1870,hieroglyph,carpet
+wocao0 55
+test1 55
+test2 55
+curUP: 146
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  8
+total tuple is:  25
+#############################
+wocao4 55
+1917,onion,balloon
+wocao0 55
+test1 55
+test2 55
+curUP: 165
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  9
+total tuple is:  25
+#############################
+wocao4 55
+1956,airforce,button
+wocao0 55
+test1 55
+test2 55
+curUP: 186
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  10
+total tuple is:  25
+#############################
+wocao4 55
+2014,drill,horoscope
+wocao0 55
+test1 55
+test2 55
+curUP: 207
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  11
+total tuple is:  25
+#############################
+wocao4 55
+2161,perfume,airforce
+wocao0 55
+test1 55
+test2 55
+curUP: 229
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  12
+total tuple is:  25
+#############################
+wocao4 55
+2406,sword,spoon
+wocao0 55
+test1 55
+test2 55
+curUP: 246
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  13
+total tuple is:  25
+#############################
+wocao4 55
+2476,adult,hat
+wocao0 55
+test1 55
+test2 55
+curUP: 261
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  14
+total tuple is:  25
+#############################
+wocao4 55
+2484,man,x-ray
+wocao0 55
+test1 55
+test2 55
+curUP: 276
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  15
+total tuple is:  25
+#############################
+wocao4 55
+2557,triangle,triangle
+wocao0 55
+test1 55
+test2 55
+curUP: 299
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  16
+total tuple is:  25
+#############################
+wocao4 55
+2635,swim,horoscope
+wocao0 55
+test1 55
+test2 55
+curUP: 319
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  17
+total tuple is:  25
+#############################
+wocao4 55
+2685,dung,sphere
+wocao0 55
+test1 55
+test2 55
+curUP: 336
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  18
+total tuple is:  25
+#############################
+wocao4 55
+2770,boy,jet-fighter
+wocao0 55
+test1 55
+test2 55
+curUP: 357
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  19
+total tuple is:  25
+#############################
+wocao4 55
+2813,drink,needle
+wocao0 55
+test1 55
+test2 55
+curUP: 375
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  20
+total tuple is:  25
+#############################
+wocao4 55
+2834,triangle,sphere
+wocao0 55
+test1 55
+test2 55
+curUP: 396
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  21
+total tuple is:  25
+#############################
+wocao4 55
+2859,feather,spiral
+wocao0 55
+test1 55
+test2 55
+curUP: 416
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  22
+total tuple is:  25
+#############################
+wocao4 55
+2873,plane,flower
+wocao0 55
+test1 55
+test2 55
+curUP: 434
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  23
+total tuple is:  25
+#############################
+wocao4 55
+2977,hot,circus
+wocao0 55
+test1 55
+test2 55
+curUP: 450
+00000000 00000000 00000000 00110111
+strlen0 is 17
+#############################
+pid is :    55
+curTupleIndex:  -1
+total tuple is:  25
+#############################
+wocao4 55
+2995,perfume,button
+wocao0 55
+wocao3 55
+Real hash is 00000000 10000010 01001001 00111100
+wocao 28
+wocao2 55
+#############################
+pid is :    28
+curTupleIndex:  0
+total tuple is:  56
+#############################
+wocao4 28
+1007,gasp,rainbow
+wocao0 28
+test1 28
+test2 28
+curUP: 18
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  1
+total tuple is:  56
+#############################
+wocao4 28
+1044,sandwich,comet
+wocao0 28
+test1 28
+test2 28
+curUP: 38
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  2
+total tuple is:  56
+#############################
+wocao4 28
+1097,egg,treadmill
+wocao0 28
+test1 28
+test2 28
+curUP: 57
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  3
+total tuple is:  56
+#############################
+wocao4 28
+1146,planet,family
+wocao0 28
+test1 28
+test2 28
+curUP: 76
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  4
+total tuple is:  56
+#############################
+wocao4 28
+1211,maze,eyes
+wocao0 28
+test1 28
+test2 28
+curUP: 91
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  5
+total tuple is:  56
+#############################
+wocao4 28
+1224,satellite,slave
+wocao0 28
+test1 28
+test2 28
+curUP: 112
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  6
+total tuple is:  56
+#############################
+wocao4 28
+1285,maze,cave
+wocao0 28
+test1 28
+test2 28
+curUP: 127
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  7
+total tuple is:  56
+#############################
+wocao4 28
+1296,freeway,backpack
+wocao0 28
+test1 28
+test2 28
+curUP: 149
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  8
+total tuple is:  56
+#############################
+wocao4 28
+1305,room,microscope
+wocao0 28
+test1 28
+test2 28
+curUP: 170
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  9
+total tuple is:  56
+#############################
+wocao4 28
+1328,chair,radar
+wocao0 28
+test1 28
+test2 28
+curUP: 187
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  10
+total tuple is:  56
+#############################
+wocao4 28
+1333,ice,meteor
+wocao0 28
+test1 28
+test2 28
+curUP: 203
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  11
+total tuple is:  56
+#############################
+wocao4 28
+1364,barbecue,money
+wocao0 28
+test1 28
+test2 28
+curUP: 223
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  12
+total tuple is:  56
+#############################
+wocao4 28
+1367,record,sunglasses
+wocao0 28
+test1 28
+test2 28
+curUP: 246
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  13
+total tuple is:  56
+#############################
+wocao4 28
+1372,chair,feather
+wocao0 28
+test1 28
+test2 28
+curUP: 265
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  14
+total tuple is:  56
+#############################
+wocao4 28
+1446,circle,pebble
+wocao0 28
+test1 28
+test2 28
+curUP: 284
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  15
+total tuple is:  56
+#############################
+wocao4 28
+1479,water,circus
+wocao0 28
+test1 28
+test2 28
+curUP: 302
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  16
+total tuple is:  56
+#############################
+wocao4 28
+1490,dress,chisel
+wocao0 28
+test1 28
+test2 28
+curUP: 320
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  17
+total tuple is:  56
+#############################
+wocao4 28
+1516,mouth,worm
+wocao0 28
+test1 28
+test2 28
+curUP: 336
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  18
+total tuple is:  56
+#############################
+wocao4 28
+1518,water,pocket
+wocao0 28
+test1 28
+test2 28
+curUP: 354
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  19
+total tuple is:  56
+#############################
+wocao4 28
+1570,record,snail
+wocao0 28
+test1 28
+test2 28
+curUP: 372
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  20
+total tuple is:  56
+#############################
+wocao4 28
+1589,foot,sword
+1589,foot,sword
+wocao0 28
+test1 28
+test2 28
+curUP: 388
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  21
+total tuple is:  56
+#############################
+wocao4 28
+1674,foot,hot
+wocao0 28
+test1 28
+test2 28
+curUP: 402
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  22
+total tuple is:  56
+#############################
+wocao4 28
+1713,room,swim
+wocao0 28
+test1 28
+test2 28
+curUP: 417
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  23
+total tuple is:  56
+#############################
+wocao4 28
+1716,horse,dingbat
+wocao0 28
+test1 28
+test2 28
+curUP: 436
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  24
+total tuple is:  56
+#############################
+wocao4 28
+1737,water,boy
+wocao0 28
+test1 28
+test2 28
+curUP: 451
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  25
+total tuple is:  56
+#############################
+wocao4 28
+1779,pepper,videotape
+wocao0 28
+test1 28
+test2 28
+curUP: 473
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  26
+total tuple is:  56
+#############################
+wocao4 28
+1799,bank,pocket
+wocao0 28
+test1 28
+test2 28
+curUP: 490
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  27
+total tuple is:  56
+#############################
+wocao4 28
+1835,knife,fin
+wocao0 28
+test1 28
+test2 28
+curUP: 505
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  28
+total tuple is:  56
+#############################
+wocao4 28
+1851,eraser,slave
+wocao0 28
+test1 28
+test2 28
+curUP: 523
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  29
+total tuple is:  56
+#############################
+wocao4 28
+1874,earth,meat
+wocao0 28
+test1 28
+test2 28
+curUP: 539
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  30
+total tuple is:  56
+#############################
+wocao4 28
+1890,milkshake,videotape
+wocao0 28
+test1 28
+test2 28
+curUP: 564
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  31
+total tuple is:  56
+#############################
+wocao4 28
+1921,magnet,woman
+wocao0 28
+test1 28
+test2 28
+curUP: 582
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  32
+total tuple is:  56
+#############################
+wocao4 28
+1947,potato,bomb
+wocao0 28
+test1 28
+test2 28
+curUP: 599
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  33
+total tuple is:  56
+#############################
+wocao4 28
+1973,pith,ship
+wocao0 28
+test1 28
+test2 28
+curUP: 614
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  34
+total tuple is:  56
+#############################
+wocao4 28
+2005,pillow,plane
+wocao0 28
+test1 28
+test2 28
+curUP: 632
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  35
+total tuple is:  56
+#############################
+wocao4 28
+2030,earth,air
+wocao0 28
+test1 28
+test2 28
+curUP: 647
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  36
+total tuple is:  56
+#############################
+wocao4 28
+2039,staircase,plane
+wocao0 28
+test1 28
+test2 28
+curUP: 668
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  37
+total tuple is:  56
+#############################
+wocao4 28
+2092,fork,tongue
+wocao0 28
+test1 28
+test2 28
+curUP: 685
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  38
+total tuple is:  56
+#############################
+wocao4 28
+2132,spice,carpet
+wocao0 28
+test1 28
+test2 28
+curUP: 703
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  39
+total tuple is:  56
+#############################
+wocao4 28
+2183,game,floodlight
+wocao0 28
+test1 28
+test2 28
+curUP: 724
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  40
+total tuple is:  56
+#############################
+wocao4 28
+2202,satellite,double
+wocao0 28
+test1 28
+test2 28
+curUP: 746
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  41
+total tuple is:  56
+#############################
+wocao4 28
+2236,baby,drink
+wocao0 28
+test1 28
+test2 28
+curUP: 762
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  42
+total tuple is:  56
+#############################
+wocao4 28
+2305,pillow,man
+wocao0 28
+test1 28
+test2 28
+curUP: 778
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  43
+total tuple is:  56
+#############################
+wocao4 28
+2330,eraser,thermometer
+wocao0 28
+test1 28
+test2 28
+curUP: 802
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  44
+total tuple is:  56
+#############################
+wocao4 28
+2412,cat,swim
+wocao0 28
+test1 28
+test2 28
+curUP: 816
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  45
+total tuple is:  56
+#############################
+wocao4 28
+2436,rock,rib
+wocao0 28
+test1 28
+test2 28
+curUP: 830
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  46
+total tuple is:  56
+#############################
+wocao4 28
+2453,maze,milk
+wocao0 28
+test1 28
+test2 28
+curUP: 845
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  47
+total tuple is:  56
+#############################
+wocao4 28
+2502,restaurant,circus
+wocao0 28
+test1 28
+test2 28
+curUP: 868
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  48
+total tuple is:  56
+#############################
+wocao4 28
+2522,room,album
+wocao0 28
+test1 28
+test2 28
+curUP: 884
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  49
+total tuple is:  56
+#############################
+wocao4 28
+2544,set,meteor
+wocao0 28
+test1 28
+test2 28
+curUP: 900
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  50
+total tuple is:  56
+#############################
+wocao4 28
+2560,record,carpet
+wocao0 28
+test1 28
+test2 28
+curUP: 919
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  51
+total tuple is:  56
+#############################
+wocao4 28
+2563,mist,child
+wocao0 28
+test1 28
+test2 28
+curUP: 935
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  52
+total tuple is:  56
+#############################
+wocao4 28
+2593,cycle,button
+wocao0 28
+test1 28
+test2 28
+curUP: 953
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  53
+total tuple is:  56
+#############################
+wocao4 28
+2601,set,map
+wocao0 28
+test1 28
+test2 28
+curUP: 966
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    28
+curTupleIndex:  54
+total tuple is:  56
+#############################
+wocao4 28
+2665,bank,balloon
+wocao0 28
+test1 28
+test2 28
+curUP: 984
+00000000 00000000 00000000 00011100
+strlen0 is 17
+#############################
+pid is :    15
+curTupleIndex:  -1
+total tuple is:  56
+#############################
+wocao4 15
+2682,carrot,vulture
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 0
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  0
+total tuple is:  10
+#############################
+wocao4 15
+2686,spice,radar
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 17
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  1
+total tuple is:  10
+#############################
+wocao4 15
+2709,earth,circus
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 35
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  2
+total tuple is:  10
+#############################
+wocao4 15
+2712,tiger,crystal
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 54
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  3
+total tuple is:  10
+#############################
+wocao4 15
+2716,cat,cappuccino
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 74
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  4
+total tuple is:  10
+#############################
+wocao4 15
+2752,electricity,meteor
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 98
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  5
+total tuple is:  10
+#############################
+wocao4 15
+2800,eraser,man
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 114
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  6
+total tuple is:  10
+#############################
+wocao4 15
+2822,dress,umbrella
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 134
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  7
+total tuple is:  10
+#############################
+wocao4 15
+2902,chair,star
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 150
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  8
+total tuple is:  10
+#############################
+wocao4 15
+2946,tiger,album
+wocao0 15
+test1 15
+Page 15 has overflow
+test2 15
+curUP: 167
+00000000 00000000 00000000 00001111
+strlen0 is 16
+#############################
+pid is :    15
+curTupleIndex:  -1
+total tuple is:  10
+#############################
+wocao4 15
+2965,pillow,circus
+wocao0 15
+wocao3 15
+Real hash is 00000000 10000010 01001001 00111101
+wocao 29
+wocao2 15
+#############################
+pid is :    29
+curTupleIndex:  0
+total tuple is:  56
+#############################
+wocao4 29
+1055,pillow,child
+wocao0 29
+test1 29
+test2 29
+curUP: 18
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  1
+total tuple is:  56
+#############################
+wocao4 29
+1091,rock,x-ray
+wocao0 29
+test1 29
+test2 29
+curUP: 34
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  2
+total tuple is:  56
+#############################
+wocao4 29
+1160,rifle,mosquito
+wocao0 29
+test1 29
+test2 29
+curUP: 54
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  3
+total tuple is:  56
+#############################
+wocao4 29
+1178,table,backpack
+wocao0 29
+test1 29
+test2 29
+curUP: 74
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  4
+total tuple is:  56
+#############################
+wocao4 29
+1198,earth,highway
+wocao0 29
+test1 29
+test2 29
+curUP: 93
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  5
+total tuple is:  56
+#############################
+wocao4 29
+1216,bed,worm
+wocao0 29
+test1 29
+test2 29
+curUP: 107
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  6
+total tuple is:  56
+#############################
+wocao4 29
+1384,room,hat
+wocao0 29
+test1 29
+test2 29
+curUP: 121
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  7
+total tuple is:  56
+#############################
+wocao4 29
+1406,cat,comet
+wocao0 29
+test1 29
+test2 29
+curUP: 136
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  8
+total tuple is:  56
+#############################
+wocao4 29
+1411,baby,aeroplane
+wocao0 29
+test1 29
+test2 29
+curUP: 156
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  9
+total tuple is:  56
+#############################
+wocao4 29
+1475,rock,boss
+wocao0 29
+test1 29
+test2 29
+curUP: 171
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  10
+total tuple is:  56
+#############################
+wocao4 29
+1492,diamond,man
+wocao0 29
+test1 29
+test2 29
+curUP: 188
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  11
+total tuple is:  56
+#############################
+wocao4 29
+1533,bed,backpack
+wocao0 29
+test1 29
+test2 29
+curUP: 206
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  12
+total tuple is:  56
+#############################
+wocao4 29
+1547,monster,fruit
+wocao0 29
+test1 29
+test2 29
+curUP: 225
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  13
+total tuple is:  56
+#############################
+wocao4 29
+1585,rifle,carpet
+wocao0 29
+test1 29
+test2 29
+curUP: 243
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  14
+total tuple is:  56
+#############################
+wocao4 29
+1598,set,plane
+wocao0 29
+test1 29
+test2 29
+curUP: 258
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  15
+total tuple is:  56
+#############################
+wocao4 29
+1614,baby,solid
+wocao0 29
+test1 29
+test2 29
+curUP: 274
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  16
+total tuple is:  56
+#############################
+wocao4 29
+1621,parachute,money
+wocao0 29
+test1 29
+test2 29
+curUP: 295
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  17
+total tuple is:  56
+#############################
+wocao4 29
+1651,fork,clock
+wocao0 29
+test1 29
+test2 29
+curUP: 311
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  18
+total tuple is:  56
+#############################
+wocao4 29
+1657,cat,worm
+wocao0 29
+test1 29
+test2 29
+curUP: 325
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  19
+total tuple is:  56
+#############################
+wocao4 29
+1672,wheelchair,horoscope
+wocao0 29
+test1 29
+test2 29
+curUP: 351
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  20
+total tuple is:  56
+#############################
+wocao4 29
+1736,ice,boss
+wocao0 29
+test1 29
+test2 29
+curUP: 365
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  21
+total tuple is:  56
+#############################
+wocao4 29
+1751,chair,tapestry
+wocao0 29
+test1 29
+test2 29
+curUP: 385
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  22
+total tuple is:  56
+#############################
+wocao4 29
+1761,grapes,circus
+wocao0 29
+test1 29
+test2 29
+curUP: 404
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  23
+total tuple is:  56
+#############################
+wocao4 29
+1762,drum,mosquito
+wocao0 29
+test1 29
+test2 29
+curUP: 423
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  24
+total tuple is:  56
+#############################
+wocao4 29
+1783,horse,hat
+wocao0 29
+test1 29
+test2 29
+curUP: 438
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  25
+total tuple is:  56
+#############################
+wocao4 29
+2007,room,boy
+wocao0 29
+test1 29
+test2 29
+curUP: 452
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  26
+total tuple is:  56
+#############################
+wocao4 29
+2085,monster,dog
+wocao0 29
+test1 29
+test2 29
+curUP: 469
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  27
+total tuple is:  56
+#############################
+wocao4 29
+2108,game,rib
+wocao0 29
+test1 29
+test2 29
+curUP: 483
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  28
+total tuple is:  56
+#############################
+wocao4 29
+2187,aircraft,videotape
+wocao0 29
+test1 29
+test2 29
+curUP: 507
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  29
+total tuple is:  56
+#############################
+wocao4 29
+2205,record,rib
+wocao0 29
+test1 29
+test2 29
+curUP: 523
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  30
+total tuple is:  56
+#############################
+wocao4 29
+2227,arm,meat
+wocao0 29
+test1 29
+test2 29
+curUP: 537
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  31
+total tuple is:  56
+#############################
+wocao4 29
+2235,zebra,cave
+wocao0 29
+test1 29
+test2 29
+curUP: 553
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  32
+total tuple is:  56
+#############################
+wocao4 29
+2237,mist,airforce
+wocao0 29
+test1 29
+test2 29
+curUP: 572
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  33
+total tuple is:  56
+#############################
+wocao4 29
+2252,yellow,finger
+wocao0 29
+test1 29
+test2 29
+curUP: 591
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  34
+total tuple is:  56
+#############################
+wocao4 29
+2269,pyramid,map
+wocao0 29
+test1 29
+test2 29
+curUP: 608
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  35
+total tuple is:  56
+#############################
+wocao4 29
+2353,barbecue,videotape
+wocao0 29
+test1 29
+test2 29
+curUP: 632
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  36
+total tuple is:  56
+#############################
+wocao4 29
+2397,bridge,meat
+wocao0 29
+test1 29
+test2 29
+curUP: 649
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  37
+total tuple is:  56
+#############################
+wocao4 29
+2398,zebra,vacuum
+wocao0 29
+test1 29
+test2 29
+curUP: 667
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  38
+total tuple is:  56
+#############################
+wocao4 29
+2422,car,meat
+wocao0 29
+test1 29
+test2 29
+curUP: 681
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  39
+total tuple is:  56
+#############################
+wocao4 29
+2492,earth,triangle
+wocao0 29
+test1 29
+test2 29
+curUP: 701
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  40
+total tuple is:  56
+#############################
+wocao4 29
+2512,wheelchair,floodlight
+wocao0 29
+test1 29
+test2 29
+curUP: 728
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  41
+total tuple is:  56
+#############################
+wocao4 29
+2553,satellite,onion
+wocao0 29
+test1 29
+test2 29
+curUP: 749
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  42
+total tuple is:  56
+#############################
+wocao4 29
+2574,table,balloon
+wocao0 29
+test1 29
+test2 29
+curUP: 768
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  43
+total tuple is:  56
+#############################
+wocao4 29
+2621,water,cave
+wocao0 29
+test1 29
+test2 29
+curUP: 784
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  44
+total tuple is:  56
+#############################
+wocao4 29
+2647,rocket,shower
+wocao0 29
+test1 29
+test2 29
+curUP: 803
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  45
+total tuple is:  56
+#############################
+wocao4 29
+2648,freeway,floodlight
+wocao0 29
+test1 29
+test2 29
+curUP: 827
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  46
+total tuple is:  56
+#############################
+wocao4 29
+2692,satellite,chisel
+wocao0 29
+test1 29
+test2 29
+curUP: 849
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  47
+total tuple is:  56
+#############################
+wocao4 29
+2710,baby,adult
+wocao0 29
+test1 29
+test2 29
+curUP: 865
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  48
+total tuple is:  56
+#############################
+wocao4 29
+2748,pillow,button
+wocao0 29
+test1 29
+test2 29
+curUP: 884
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  49
+total tuple is:  56
+#############################
+wocao4 29
+2751,chocolates,needle
+wocao0 29
+test1 29
+test2 29
+curUP: 907
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  50
+total tuple is:  56
+#############################
+wocao4 29
+2756,car,child
+wocao0 29
+test1 29
+test2 29
+curUP: 922
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  51
+total tuple is:  56
+#############################
+wocao4 29
+2760,baby,bathroom
+wocao0 29
+test1 29
+test2 29
+curUP: 941
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  52
+total tuple is:  56
+#############################
+wocao4 29
+2797,rifle,dung
+wocao0 29
+test1 29
+test2 29
+curUP: 957
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  53
+total tuple is:  56
+#############################
+wocao4 29
+2798,monster,desk
+wocao0 29
+test1 29
+test2 29
+curUP: 975
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    29
+curTupleIndex:  54
+total tuple is:  56
+#############################
+wocao4 29
+2812,set,drill
+wocao0 29
+test1 29
+test2 29
+curUP: 990
+00000000 00000000 00000000 00011101
+strlen0 is 17
+#############################
+pid is :    18
+curTupleIndex:  -1
+total tuple is:  56
+#############################
+wocao4 18
+2820,mist,spoon
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 0
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  0
+total tuple is:  8
+#############################
+wocao4 18
+2846,tiger,rainbow
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 19
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  1
+total tuple is:  8
+#############################
+wocao4 18
+2856,spice,prison
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 37
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  2
+total tuple is:  8
+#############################
+wocao4 18
+2863,leather,key
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 54
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  3
+total tuple is:  8
+#############################
+wocao4 18
+2866,game,banana
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 71
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  4
+total tuple is:  8
+#############################
+wocao4 18
+2894,carrot,aeroplane
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 93
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  5
+total tuple is:  8
+#############################
+wocao4 18
+2930,fork,chisel
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 110
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  6
+total tuple is:  8
+#############################
+wocao4 18
+2969,rock,spotlight
+wocao0 18
+test1 18
+Page 18 has overflow
+test2 18
+curUP: 130
+00000000 00000000 00000000 00010010
+strlen0 is 18
+#############################
+pid is :    18
+curTupleIndex:  -1
+total tuple is:  8
+#############################
+wocao4 18
+2988,rock,kitchen
+wocao0 18
+wocao3 18
+Real hash is 00000000 10000010 01001001 00111110
+wocao 30
+wocao2 18
+#############################
+pid is :    30
+curTupleIndex:  0
+total tuple is:  55
+#############################
+wocao4 30
+1003,drill,sunglasses
+wocao0 30
+test1 30
+test2 30
+curUP: 22
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  1
+total tuple is:  55
+#############################
+wocao4 30
+1022,perfume,air
+wocao0 30
+test1 30
+test2 30
+curUP: 39
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  2
+total tuple is:  55
+#############################
+wocao4 30
+1027,sword,highway
+wocao0 30
+test1 30
+test2 30
+curUP: 58
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  3
+total tuple is:  55
+#############################
+wocao4 30
+1076,insect,saddle
+wocao0 30
+test1 30
+test2 30
+curUP: 77
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  4
+total tuple is:  55
+#############################
+wocao4 30
+1138,aeroplane,treadmill
+wocao0 30
+test1 30
+test2 30
+curUP: 102
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  5
+total tuple is:  55
+#############################
+wocao4 30
+1141,jet-fighter,thermometer
+wocao0 30
+test1 30
+test2 30
+curUP: 131
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  6
+total tuple is:  55
+#############################
+wocao4 30
+1277,adult,school
+wocao0 30
+test1 30
+test2 30
+curUP: 149
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  7
+total tuple is:  55
+#############################
+wocao4 30
+1312,triangle,woman
+wocao0 30
+test1 30
+test2 30
+curUP: 169
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  8
+total tuple is:  55
+#############################
+wocao4 30
+1409,drink,mosquito
+wocao0 30
+test1 30
+test2 30
+curUP: 189
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  9
+total tuple is:  55
+#############################
+wocao4 30
+1424,milk,meteor
+wocao0 30
+test1 30
+test2 30
+curUP: 206
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  10
+total tuple is:  55
+#############################
+wocao4 30
+1427,drink,bomb
+wocao0 30
+test1 30
+test2 30
+curUP: 222
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  11
+total tuple is:  55
+#############################
+wocao4 30
+1439,plane,boss
+wocao0 30
+test1 30
+test2 30
+curUP: 238
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  12
+total tuple is:  55
+#############################
+wocao4 30
+1487,drink,aeroplane
+wocao0 30
+test1 30
+test2 30
+curUP: 259
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  13
+total tuple is:  55
+#############################
+wocao4 30
+1501,vampire,eyes
+wocao0 30
+test1 30
+test2 30
+curUP: 277
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  14
+total tuple is:  55
+#############################
+wocao4 30
+1512,hot,bee
+wocao0 30
+test1 30
+test2 30
+curUP: 290
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  15
+total tuple is:  55
+#############################
+wocao4 30
+1559,chief,slave
+wocao0 30
+test1 30
+test2 30
+curUP: 307
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  16
+total tuple is:  55
+#############################
+wocao4 30
+1561,insect,vulture
+wocao0 30
+test1 30
+test2 30
+curUP: 327
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  17
+total tuple is:  55
+#############################
+wocao4 30
+1695,triangle,cave
+wocao0 30
+test1 30
+test2 30
+curUP: 346
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  18
+total tuple is:  55
+#############################
+wocao4 30
+1743,jet-fighter,floodlight
+wocao0 30
+test1 30
+test2 30
+curUP: 374
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  19
+total tuple is:  55
+#############################
+wocao4 30
+1769,circus,dog
+wocao0 30
+test1 30
+test2 30
+curUP: 390
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  20
+total tuple is:  55
+#############################
+wocao4 30
+1791,boy,umbrella
+wocao0 30
+test1 30
+test2 30
+curUP: 408
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  21
+total tuple is:  55
+#############################
+wocao4 30
+1800,win,vampire
+wocao0 30
+test1 30
+test2 30
+curUP: 425
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  22
+total tuple is:  55
+#############################
+wocao4 30
+1821,pocket,snail
+wocao0 30
+test1 30
+test2 30
+curUP: 443
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  23
+total tuple is:  55
+#############################
+wocao4 30
+1891,dung,sandpaper
+wocao0 30
+test1 30
+test2 30
+curUP: 463
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  24
+total tuple is:  55
+#############################
+wocao4 30
+1902,vulture,drink
+wocao0 30
+test1 30
+test2 30
+curUP: 482
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  25
+total tuple is:  55
+#############################
+wocao4 30
+1949,boy,desk
+wocao0 30
+test1 30
+test2 30
+curUP: 496
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  26
+total tuple is:  55
+#############################
+wocao4 30
+1959,bomb,compass
+wocao0 30
+test1 30
+test2 30
+curUP: 514
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  27
+total tuple is:  55
+#############################
+wocao4 30
+1993,bomb,hat
+wocao0 30
+test1 30
+test2 30
+curUP: 528
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  28
+total tuple is:  55
+#############################
+wocao4 30
+2022,vampire,mum
+wocao0 30
+test1 30
+test2 30
+curUP: 545
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  29
+total tuple is:  55
+#############################
+wocao4 30
+2029,spoon,drink
+wocao0 30
+test1 30
+test2 30
+curUP: 562
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  30
+total tuple is:  55
+#############################
+wocao4 30
+2074,pebble,passport
+wocao0 30
+test1 30
+test2 30
+curUP: 583
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  31
+total tuple is:  55
+#############################
+wocao4 30
+2144,fin,air
+wocao0 30
+test1 30
+test2 30
+curUP: 596
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  32
+total tuple is:  55
+#############################
+wocao4 30
+2152,floodlight,fire
+wocao0 30
+test1 30
+test2 30
+curUP: 617
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  33
+total tuple is:  55
+#############################
+wocao4 30
+2160,clock,ears
+wocao0 30
+test1 30
+test2 30
+curUP: 633
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  34
+total tuple is:  55
+#############################
+wocao4 30
+2173,win,banana
+wocao0 30
+test1 30
+test2 30
+curUP: 649
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  35
+total tuple is:  55
+#############################
+wocao4 30
+2231,spiral,needle
+wocao0 30
+test1 30
+test2 30
+curUP: 668
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  36
+total tuple is:  55
+#############################
+wocao4 30
+2248,man,kitchen
+wocao0 30
+test1 30
+test2 30
+curUP: 685
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  37
+total tuple is:  55
+#############################
+wocao4 30
+2249,chief,bee
+wocao0 30
+test1 30
+test2 30
+curUP: 700
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  38
+total tuple is:  55
+#############################
+wocao4 30
+2284,star,star
+wocao0 30
+test1 30
+test2 30
+curUP: 715
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  39
+total tuple is:  55
+#############################
+wocao4 30
+2292,pocket,star
+wocao0 30
+test1 30
+test2 30
+curUP: 732
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  40
+total tuple is:  55
+#############################
+wocao4 30
+2299,post,hammer
+wocao0 30
+test1 30
+test2 30
+curUP: 749
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  41
+total tuple is:  55
+#############################
+wocao4 30
+2311,airforce,vampire
+wocao0 30
+test1 30
+test2 30
+curUP: 771
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  42
+total tuple is:  55
+#############################
+wocao4 30
+2327,airforce,radar
+wocao0 30
+test1 30
+test2 30
+curUP: 791
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  43
+total tuple is:  55
+#############################
+wocao4 30
+2328,hot,tunnel
+wocao0 30
+test1 30
+test2 30
+curUP: 807
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  44
+total tuple is:  55
+#############################
+wocao4 30
+2391,vulture,bathtub
+wocao0 30
+test1 30
+test2 30
+curUP: 828
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  45
+total tuple is:  55
+#############################
+wocao4 30
+2402,triangle,chief
+wocao0 30
+test1 30
+test2 30
+curUP: 848
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  46
+total tuple is:  55
+#############################
+wocao4 30
+2433,perfume,fire
+wocao0 30
+test1 30
+test2 30
+curUP: 866
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  47
+total tuple is:  55
+#############################
+wocao4 30
+2444,circus,desk
+wocao0 30
+test1 30
+test2 30
+curUP: 883
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  48
+total tuple is:  55
+#############################
+wocao4 30
+2541,boy,compass
+wocao0 30
+test1 30
+test2 30
+curUP: 900
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  49
+total tuple is:  55
+#############################
+wocao4 30
+2567,coffee-shop,space
+wocao0 30
+test1 30
+test2 30
+curUP: 923
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  50
+total tuple is:  55
+#############################
+wocao4 30
+2604,sword,adult
+wocao0 30
+test1 30
+test2 30
+curUP: 940
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  51
+total tuple is:  55
+#############################
+wocao4 30
+2669,boss,double
+wocao0 30
+test1 30
+test2 30
+curUP: 957
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  52
+total tuple is:  55
+#############################
+wocao4 30
+2700,swim,eyes
+wocao0 30
+test1 30
+test2 30
+curUP: 972
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    30
+curTupleIndex:  53
+total tuple is:  55
+#############################
+wocao4 30
+2718,radar,thermometer
+wocao0 30
+test1 30
+test2 30
+curUP: 995
+00000000 00000000 00000000 00011110
+strlen0 is 21
+#############################
+pid is :    17
+curTupleIndex:  -1
+total tuple is:  55
+#############################
+wocao4 17
+2888,post,cave
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 0
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  0
+total tuple is:  10
+#############################
+wocao4 17
+2739,adult,sword
+2739,adult,sword
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 17
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  1
+total tuple is:  10
+#############################
+wocao4 17
+2763,pocket,balloon
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 37
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  2
+total tuple is:  10
+#############################
+wocao4 17
+2791,x-ray,tennis
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 55
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  3
+total tuple is:  10
+#############################
+wocao4 17
+2794,shower,bottle
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 74
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  4
+total tuple is:  10
+#############################
+wocao4 17
+2807,feather,hot
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 91
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  5
+total tuple is:  10
+#############################
+wocao4 17
+2821,needle,needle
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 110
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  6
+total tuple is:  10
+#############################
+wocao4 17
+2871,clock,pocket
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 128
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  7
+total tuple is:  10
+#############################
+wocao4 17
+2952,dung,spoon
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 144
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  8
+total tuple is:  10
+#############################
+wocao4 17
+2964,coffee-shop,carpet
+wocao0 17
+test1 17
+Page 17 has overflow
+test2 17
+curUP: 168
+00000000 00000000 00000000 00010001
+strlen0 is 16
+#############################
+pid is :    17
+curTupleIndex:  -1
+total tuple is:  10
+#############################
+wocao4 17
+2970,sphere,typewriter
+wocao0 17
+wocao3 17
+Real hash is 00000000 10000010 01001001 00111111
+wocao 31
+wocao2 17
+#############################
+pid is :    31
+curTupleIndex:  0
+total tuple is:  54
+#############################
+wocao4 31
+1014,sword,carpet
+wocao0 31
+test1 31
+test2 31
+curUP: 18
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  1
+total tuple is:  54
+#############################
+wocao4 31
+1030,vampire,hot
+wocao0 31
+test1 31
+test2 31
+curUP: 35
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  2
+total tuple is:  54
+#############################
+wocao4 31
+1031,fin,kaleidoscope
+wocao0 31
+test1 31
+test2 31
+curUP: 57
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  3
+total tuple is:  54
+#############################
+wocao4 31
+1052,square,treadmill
+wocao0 31
+test1 31
+test2 31
+curUP: 79
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  4
+total tuple is:  54
+#############################
+wocao4 31
+1085,perfume,album
+wocao0 31
+test1 31
+test2 31
+curUP: 98
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  5
+total tuple is:  54
+#############################
+wocao4 31
+1090,spiral,needle
+wocao0 31
+test1 31
+test2 31
+curUP: 117
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  6
+total tuple is:  54
+#############################
+wocao4 31
+1152,man,bottle
+wocao0 31
+test1 31
+test2 31
+curUP: 133
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  7
+total tuple is:  54
+#############################
+wocao4 31
+1183,carpet,hat
+wocao0 31
+test1 31
+test2 31
+curUP: 149
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  8
+total tuple is:  54
+#############################
+wocao4 31
+1209,floodlight,worm
+wocao0 31
+test1 31
+test2 31
+curUP: 170
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  9
+total tuple is:  54
+#############################
+wocao4 31
+1235,perfume,compact-disc
+wocao0 31
+test1 31
+test2 31
+curUP: 196
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  10
+total tuple is:  54
+#############################
+wocao4 31
+1239,carpet,cave
+wocao0 31
+test1 31
+test2 31
+curUP: 213
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  11
+total tuple is:  54
+#############################
+wocao4 31
+1255,sword,key
+wocao0 31
+test1 31
+test2 31
+curUP: 228
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  12
+total tuple is:  54
+#############################
+wocao4 31
+1261,umbrella,album
+wocao0 31
+test1 31
+test2 31
+curUP: 248
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  13
+total tuple is:  54
+#############################
+wocao4 31
+1279,pebble,banana
+wocao0 31
+test1 31
+test2 31
+curUP: 267
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  14
+total tuple is:  54
+#############################
+wocao4 31
+1289,win,sandpaper
+wocao0 31
+test1 31
+test2 31
+curUP: 286
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  15
+total tuple is:  54
+#############################
+wocao4 31
+1306,feather,typewriter
+wocao0 31
+test1 31
+test2 31
+curUP: 310
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  16
+total tuple is:  54
+#############################
+wocao4 31
+1349,vulture,worm
+wocao0 31
+test1 31
+test2 31
+curUP: 328
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  17
+total tuple is:  54
+#############################
+wocao4 31
+1388,button,solid
+wocao0 31
+test1 31
+test2 31
+curUP: 346
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  18
+total tuple is:  54
+#############################
+wocao4 31
+1402,button,boss
+wocao0 31
+test1 31
+test2 31
+curUP: 363
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  19
+total tuple is:  54
+#############################
+wocao4 31
+1430,circus,floodlight
+wocao0 31
+test1 31
+test2 31
+curUP: 386
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  20
+total tuple is:  54
+#############################
+wocao4 31
+1434,jet-fighter,insect
+wocao0 31
+test1 31
+test2 31
+curUP: 410
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  21
+total tuple is:  54
+#############################
+wocao4 31
+1448,coffee-shop,passport
+wocao0 31
+test1 31
+test2 31
+curUP: 436
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  22
+total tuple is:  54
+#############################
+wocao4 31
+1496,post,zoo
+wocao0 31
+test1 31
+test2 31
+curUP: 450
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  23
+total tuple is:  54
+#############################
+wocao4 31
+1503,chief,needle
+wocao0 31
+test1 31
+test2 31
+curUP: 468
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  24
+total tuple is:  54
+#############################
+wocao4 31
+1556,rib,cave
+wocao0 31
+test1 31
+test2 31
+curUP: 482
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  25
+total tuple is:  54
+#############################
+wocao4 31
+1602,umbrella,money
+wocao0 31
+test1 31
+test2 31
+curUP: 502
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  26
+total tuple is:  54
+#############################
+wocao4 31
+1643,spoon,woman
+wocao0 31
+test1 31
+test2 31
+curUP: 519
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  27
+total tuple is:  54
+#############################
+wocao4 31
+1670,spoon,clock
+wocao0 31
+test1 31
+test2 31
+curUP: 536
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  28
+total tuple is:  54
+#############################
+wocao4 31
+1753,pocket,balloon
+wocao0 31
+test1 31
+test2 31
+curUP: 556
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  29
+total tuple is:  54
+#############################
+wocao4 31
+1786,needle,finger
+wocao0 31
+test1 31
+test2 31
+curUP: 575
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  30
+total tuple is:  54
+#############################
+wocao4 31
 1812,adult,sword
+1812,adult,sword
+wocao0 31
+test1 31
+test2 31
+curUP: 592
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  31
+total tuple is:  54
+#############################
+wocao4 31
+1818,boss,coffee-shop
+wocao0 31
+test1 31
+test2 31
+curUP: 614
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  32
+total tuple is:  54
+#############################
+wocao4 31
+1819,vulture,star
+wocao0 31
+test1 31
+test2 31
+curUP: 632
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  33
+total tuple is:  54
+#############################
+wocao4 31
+1981,hat,clock
+wocao0 31
+test1 31
+test2 31
+curUP: 647
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  34
+total tuple is:  54
+#############################
+wocao4 31
+1996,umbrella,post
+wocao0 31
+test1 31
+test2 31
+curUP: 666
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  35
+total tuple is:  54
+#############################
+wocao4 31
+1997,star,tapestry
+wocao0 31
+test1 31
+test2 31
+curUP: 685
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  36
+total tuple is:  54
+#############################
+wocao4 31
+2013,spoon,tennis
+wocao0 31
+test1 31
+test2 31
+curUP: 703
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  37
+total tuple is:  54
+#############################
+wocao4 31
+2049,spiral,radar
+wocao0 31
+test1 31
+test2 31
+curUP: 721
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  38
+total tuple is:  54
+#############################
+wocao4 31
+2098,pocket,ship
+wocao0 31
+test1 31
+test2 31
+curUP: 738
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  39
+total tuple is:  54
+#############################
+wocao4 31
+2134,pocket,zoo
+wocao0 31
+test1 31
+test2 31
+curUP: 754
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  40
+total tuple is:  54
+#############################
+wocao4 31
+2145,swim,microscope
+wocao0 31
+test1 31
+test2 31
+curUP: 775
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  41
+total tuple is:  54
+#############################
+wocao4 31
+2208,spoon,prison
+wocao0 31
+test1 31
+test2 31
+curUP: 793
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  42
+total tuple is:  54
+#############################
+wocao4 31
+2221,fin,butterfly
+wocao0 31
+test1 31
+test2 31
+curUP: 812
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  43
+total tuple is:  54
+#############################
+wocao4 31
+2247,umbrella,tennis
+wocao0 31
+test1 31
+test2 31
+curUP: 833
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  44
+total tuple is:  54
+#############################
+wocao4 31
+2270,balloon,win
+wocao0 31
+test1 31
+test2 31
+curUP: 850
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  45
+total tuple is:  54
+#############################
+wocao4 31
+2335,circus,shower
+wocao0 31
+test1 31
+test2 31
+curUP: 869
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  46
+total tuple is:  54
+#############################
+wocao4 31
+2370,hat,clock
+wocao0 31
+test1 31
+test2 31
+curUP: 884
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  47
+total tuple is:  54
+#############################
+wocao4 31
+2389,milk,feather
+wocao0 31
+test1 31
+test2 31
+curUP: 902
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  48
+total tuple is:  54
+#############################
+wocao4 31
+2418,chief,hat
+wocao0 31
+test1 31
+test2 31
+curUP: 917
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  49
+total tuple is:  54
+#############################
+wocao4 31
+2439,milk,insect
+wocao0 31
+test1 31
+test2 31
+curUP: 934
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  50
+total tuple is:  54
+#############################
+wocao4 31
+2460,plane,banana
+wocao0 31
+test1 31
+test2 31
+curUP: 952
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  51
+total tuple is:  54
+#############################
+wocao4 31
+2466,win,hammer
+wocao0 31
+test1 31
+test2 31
+curUP: 968
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    31
+curTupleIndex:  52
+total tuple is:  54
+#############################
+wocao4 31
+2495,chief,highway
+wocao0 31
+test1 31
+test2 31
+curUP: 987
+00000000 00000000 00000000 00011111
+strlen0 is 17
+#############################
+pid is :    13
+curTupleIndex:  -1
+total tuple is:  54
+#############################
+wocao4 13
+2518,floodlight,finger
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 0
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  0
+total tuple is:  22
+#############################
+wocao4 13
+2548,ship,saddle
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 17
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  1
+total tuple is:  22
+#############################
+wocao4 13
+2554,jet-fighter,highway
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 42
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  2
+total tuple is:  22
+#############################
+wocao4 13
+2558,floodlight,sunglasses
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 69
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  3
+total tuple is:  22
+#############################
+wocao4 13
+2570,jet-fighter,dingbat
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 94
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  4
+total tuple is:  22
+#############################
+wocao4 13
+2584,circus,umbrella
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 115
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  5
+total tuple is:  22
+#############################
+wocao4 13
+2586,onion,key
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 130
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  6
+total tuple is:  22
+#############################
+wocao4 13
+2607,pocket,perfume
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 150
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  7
+total tuple is:  22
+#############################
+wocao4 13
+2614,vulture,typewriter
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 174
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  8
+total tuple is:  22
+#############################
+wocao4 13
+2632,perfume,family
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 194
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  9
+total tuple is:  22
+#############################
+wocao4 13
+2656,dung,feather
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 212
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  10
+total tuple is:  22
+#############################
+wocao4 13
+2684,jet-fighter,typewriter
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 240
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  11
+total tuple is:  22
+#############################
+wocao4 13
+2715,man,pocket
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 256
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  12
+total tuple is:  22
+#############################
+wocao4 13
+2732,airforce,compact-disc
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 283
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  13
+total tuple is:  22
+#############################
+wocao4 13
+2762,pebble,hammer
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 302
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  14
+total tuple is:  22
+#############################
+wocao4 13
+2785,plane,onion
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 319
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  15
+total tuple is:  22
+#############################
+wocao4 13
+2887,man,perfume
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 336
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  16
+total tuple is:  22
+#############################
+wocao4 13
+2890,spiral,balloon
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 356
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  17
+total tuple is:  22
+#############################
+wocao4 13
+2893,floodlight,bottle
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 379
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  18
+total tuple is:  22
+#############################
+wocao4 13
+2903,circus,horoscope
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 401
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  19
+total tuple is:  22
+#############################
+wocao4 13
+2912,star,rib
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 415
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  20
+total tuple is:  22
+#############################
+wocao4 13
+2915,boy,sunglasses
+wocao0 13
+test1 13
+Page 13 has overflow
+test2 13
+curUP: 435
+00000000 00000000 00000000 00001101
+strlen0 is 16
+#############################
+pid is :    13
+curTupleIndex:  -1
+total tuple is:  22
+#############################
+wocao4 13
+2943,umbrella,bathroom
+wocao0 13
+wocao4 13
+(null)

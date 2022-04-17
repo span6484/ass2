@@ -1,3 +1,9 @@
+./create R 3 2 "0,0:1,0:2,0:0,1:1,1:2,1"
+./insert R < data1.txt
+ zip ass2 Makefile *.c *.h
+scp -r /Users/jollinggie/Desktop/Stephen/test417.zip z5378096@cse.unsw.edu.au:/import/glass/4/z5378096
+ssh z5378096@cse.unsw.edu.au
+
 john,male,?
 cv = [(0,0),(1,1),(2,1),(0,2),(1,2),(2,2)]
 hash(john) = 001001
@@ -89,3 +95,5 @@ find out overflow
             2739,adult,sword
 
     2718,radar,thermometer
+
+    t is 2983,kaleidoscope,ship     pageId:39   tuple index: 30

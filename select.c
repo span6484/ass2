@@ -46,8 +46,8 @@ int main(int argc, char **argv)
 		sprintf(err, "Can't open relation: %s",rname);
 		fatal(err);
 	}
-	if ((q = startQuery(r, qstr)) == NULL) {	
-		sprintf(err, "Invalid query: %s",qstr);
+    if ((q = startQuery(r, qstr)) == NULL) {
+        sprintf(err, "Invalid query: %s",qstr);
 		fatal(err);
 	}
 
