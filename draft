@@ -2,9 +2,10 @@
 
 ./insert R < data1.txt
  zip ass2 Makefile *.c *.h
-scp -r /Users/jollinggie/Desktop/Stephen/test119.zip z5378096@cse.unsw.edu.au:/import/glass/4/z5378096
+scp -r /Users/jollinggie/Desktop/Stephen/test223.zip z5378096@cse.unsw.edu.au:/import/glass/4/z5378096
 ssh z5378096@cse.unsw.edu.au
-
+z5378096@cse.unsw.edu.au:/import/glass/4/z5378096/test223/ass2
+/Users/jollinggie/CLionProjects/COMP9315/ASSIGNMENT
 john,male,?
 cv = [(0,0),(1,1),(2,1),(0,2),(1,2),(2,2)]
 hash(john) = 001001
