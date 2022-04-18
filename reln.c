@@ -194,7 +194,7 @@ PageID addToRelation(Reln r, Tuple t)
 	// char buf[MAXBITS+1];
 	h = tupleHash(r,t);
 	if (r->depth == 0) {
-        p = 1;              // p所在的位置， page_id 一开始是1
+        p = 0;              // p所在的位置， page_id 一开始是1
     }
 	else {
 		p = getLower(h, r->depth);

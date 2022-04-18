@@ -149,3 +149,12 @@ find out overflow
     00000000 10000010 00000111 11111011
     00000000 10000010 01001001 00101111
     10101010 01111110 10000000 01110000
+
+
+
+    2 problem:
+
+    1. recursion only 13 and first 2 乱码
+    2。 after
+    2939,wheelchair,needle      pid:    53    tupleIndex:   38
+    diff

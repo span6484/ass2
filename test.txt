@@ -1,0 +1,1850 @@
+vmãuv{ëonKòeg}òsmoî
+vmãuv{ëonKòecursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+recursion
+start 3start 4head0
+head1
+head if
+if 0
+1093,database,crystal      pid:    36    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1111,garden,space      pid:    36    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1205,box,pocket      pid:    36    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1226,gloves,man      pid:    36    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1281,book,compass      pid:    36    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1338,pants,eyes      pid:    36    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1351,gemstone,chief      pid:    36    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1368,surveyor,crystal      pid:    36    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1383,stomach,insect      pid:    36    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1663,shop,feather      pid:    36    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1669,box,clock      pid:    36    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1748,necklace,shower      pid:    36    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1803,torpedo,spoon      pid:    36    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1883,paintbrush,airport      pid:    36    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+1905,telescope,aeroplane      pid:    36    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+1907,garden,umbrella      pid:    36    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+2001,stomach,vulture      pid:    36    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+2020,liquid,airforce      pid:    36    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+2031,bowl,mum      pid:    36    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+2062,garden,hot      pid:    36    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+2275,paintbrush,swim      pid:    36    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2277,gemstone,balloon      pid:    36    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2283,chess-board,spoon      pid:    36    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2347,library,circus      pid:    36    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2438,gloves,horoscope      pid:    36    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2482,library,man      pid:    36    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2536,apple,triangle      pid:    36    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2707,bird,circus      pid:    36    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2767,torpedo,hieroglyph      pid:    36    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+if 0
+2805,computer,dung      pid:    36    tupleIndex:   29
+if 1
+return t
+head0
+head1
+head if
+if 0
+2974,liquid,chief      pid:    36    tupleIndex:   30
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1013,leg,vampire      pid:    37    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1015,television,post      pid:    37    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1247,robot,crystal      pid:    37    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1257,stomach,spoon      pid:    37    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1382,shop,onion      pid:    37    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1437,television,drink      pid:    37    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1442,paintbrush,boy      pid:    37    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1480,database,horoscope      pid:    37    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1505,sun,sword      pid:    37    tupleIndex:   8
+if 1
+return t
+1505,sun,sword
+head0
+head1
+head if
+if 0
+1578,shoes,triangle      pid:    37    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1605,train,plane      pid:    37    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1636,apple,hat      pid:    37    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1732,shop,spoon      pid:    37    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1759,pendulum,sword      pid:    37    tupleIndex:   13
+if 1
+return t
+1759,pendulum,sword
+head0
+head1
+head if
+if 0
+1777,library,boss      pid:    37    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+1794,clown,vampire      pid:    37    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+1846,library,triangle      pid:    37    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+1914,salt,boy      pid:    37    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+1970,gemstone,spoon      pid:    37    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+1985,army,man      pid:    37    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+2076,elephant,post      pid:    37    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2094,book,rib      pid:    37    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2101,skeleton,insect      pid:    37    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2125,skeleton,crystal      pid:    37    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2192,toilet,circus      pid:    37    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2217,torpedo,compass      pid:    37    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2223,toilet,x-ray      pid:    37    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2268,gemstone,star      pid:    37    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2276,database,mosquito      pid:    37    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+if 0
+2409,chess-board,flower      pid:    37    tupleIndex:   29
+if 1
+return t
+head0
+head1
+head if
+if 0
+2475,gas,needle      pid:    37    tupleIndex:   30
+if 1
+return t
+head0
+head1
+head if
+if 0
+2713,sports-car,crystal      pid:    37    tupleIndex:   31
+if 1
+return t
+head0
+head1
+head if
+if 0
+2731,clown,dung      pid:    37    tupleIndex:   32
+if 1
+return t
+head0
+head1
+head if
+if 0
+2786,stomach,jet-fighter      pid:    37    tupleIndex:   33
+if 1
+return t
+head0
+head1
+head if
+if 0
+2878,train,jet-fighter      pid:    37    tupleIndex:   34
+if 1
+return t
+head0
+head1
+head if
+if 0
+2958,train,boss      pid:    37    tupleIndex:   35
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1000,kaleidoscope,hieroglyph      pid:    38    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1087,tunnel,jet-fighter      pid:    38    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1118,car-race,needle      pid:    38    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1121,map,shower      pid:    38    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1122,fruit,insect      pid:    38    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1154,treadmill,pebble      pid:    38    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1175,album,triangle      pid:    38    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1177,guitar,circus      pid:    38    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1293,fire,spiral      pid:    38    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1308,fire,eyes      pid:    38    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1322,finger,swim      pid:    38    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1359,solid,needle      pid:    38    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1394,guitar,boss      pid:    38    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1463,videotape,umbrella      pid:    38    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+1470,thermometer,bomb      pid:    38    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+1649,meat,space      pid:    38    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+1836,meat,umbrella      pid:    38    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+1849,air,dung      pid:    38    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+1934,rainbow,bomb      pid:    38    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+1937,car-race,flower      pid:    38    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+1990,car-race,onion      pid:    38    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2195,child,radar      pid:    38    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2226,tennis,circus      pid:    38    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2242,album,hieroglyph      pid:    38    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2300,school,carpet      pid:    38    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2316,ears,chief      pid:    38    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2449,family,drill      pid:    38    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2473,fire,crystal      pid:    38    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2499,fire,clock      pid:    38    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+if 0
+2527,guitar,plane      pid:    38    tupleIndex:   29
+if 1
+return t
+head0
+head1
+head if
+if 0
+2543,highway,clock      pid:    38    tupleIndex:   30
+if 1
+return t
+head0
+head1
+head if
+if 0
+2572,slave,button      pid:    38    tupleIndex:   31
+if 1
+return t
+head0
+head1
+head if
+if 0
+2691,snail,post      pid:    38    tupleIndex:   32
+if 1
+return t
+head0
+head1
+head if
+if 0
+2870,saddle,spiral      pid:    38    tupleIndex:   33
+if 1
+return t
+head0
+head1
+head if
+if 0
+2910,map,circus      pid:    38    tupleIndex:   34
+if 1
+return t
+head0
+head1
+head if
+if 0
+2968,dog,plane      pid:    38    tupleIndex:   35
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1092,meteor,chief      pid:    39    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1159,kitchen,vampire      pid:    39    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1196,woman,ship      pid:    39    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1300,ears,fin      pid:    39    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1329,tongue,perfume      pid:    39    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1500,tapestry,milk      pid:    39    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1537,ring,x-ray      pid:    39    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1668,prison,spoon      pid:    39    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1689,meteor,crystal      pid:    39    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1724,money,needle      pid:    39    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1752,videotape,airforce      pid:    39    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1963,vacuum,airport      pid:    39    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+2135,child,pocket      pid:    39    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+2215,tongue,aeroplane      pid:    39    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+2255,hammer,radar      pid:    39    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+2363,sunglasses,button      pid:    39    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+2506,butterfly,compass      pid:    39    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+2540,finger,dung      pid:    39    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+2568,hammer,x-ray      pid:    39    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+2578,meat,horoscope      pid:    39    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+2610,dingbat,circus      pid:    39    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2649,banana,vulture      pid:    39    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2688,hammer,umbrella      pid:    39    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2695,microscope,boss      pid:    39    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2738,tunnel,pocket      pid:    39    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2776,family,man      pid:    39    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2829,bathtub,mum      pid:    39    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2889,map,airport      pid:    39    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2962,family,milk      pid:    39    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+if 0
+2967,woman,adult      pid:    39    tupleIndex:   29
+if 1
+return t
+head0
+head1
+head if
+if 0
+2983,kaleidoscope,ship      pid:    39    tupleIndex:   30
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1037,leg,eyes      pid:    44    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1120,printer,flower      pid:    44    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1273,junk,spoon      pid:    44    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1294,garden,circus      pid:    44    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1309,pendulum,post      pid:    44    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1403,liquid,mum      pid:    44    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1422,signature,horoscope      pid:    44    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1499,garden,boss      pid:    44    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1555,sun,mosquito      pid:    44    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1588,window,flower      pid:    44    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1661,ice-cream,eyes      pid:    44    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1719,television,sphere      pid:    44    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1785,girl,boy      pid:    44    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1808,web,triangle      pid:    44    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+2025,television,pebble      pid:    44    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+2112,leg,swim      pid:    44    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+2188,gas,triangle      pid:    44    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+2220,alphabet,milk      pid:    44    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+2280,garden,vulture      pid:    44    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+2348,library,umbrella      pid:    44    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+2374,torpedo,swim      pid:    44    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2464,library,circus      pid:    44    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2699,printer,circus      pid:    44    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2817,stomach,compass      pid:    44    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2874,gemstone,drill      pid:    44    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2876,leg,pocket      pid:    44    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2959,army,dung      pid:    44    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2985,surveyor,space      pid:    44    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1106,elephant,rib      pid:    45    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1134,television,feather      pid:    45    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1176,telescope,crystal      pid:    45    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1237,alphabet,crystal      pid:    45    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1253,web,button      pid:    45    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1270,skeleton,drill      pid:    45    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1965,sun,rib      pid:    45    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+2244,pin,mum      pid:    45    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+2350,surveyor,pocket      pid:    45    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+2365,rope,coffee-shop      pid:    45    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+2381,salt,button      pid:    45    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+2443,printer,needle      pid:    45    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+2627,paintbrush,rib      pid:    45    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+2655,festival,mosquito      pid:    45    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+2838,oodle,radar      pid:    45    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+2961,gemstone,post      pid:    45    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+2978,festival,eyes      pid:    45    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1001,navy,hieroglyph      pid:    53    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1079,aircraft,flower      pid:    53    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1319,cat,mosquito      pid:    53    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1327,zebra,pocket      pid:    53    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1332,monster,eyes      pid:    53    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1334,record,shower      pid:    53    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1356,rocket,man      pid:    53    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1453,pith,clock      pid:    53    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1483,egg,rib      pid:    53    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1517,spectrum,feather      pid:    53    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1593,rock,carpet      pid:    53    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1616,grapes,adult      pid:    53    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1682,chair,hieroglyph      pid:    53    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1766,bed,insect      pid:    53    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+1787,arm,square      pid:    53    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+1804,aircraft,fin      pid:    53    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+1830,torch,jet-fighter      pid:    53    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+1831,navy,balloon      pid:    53    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+1884,coffee,fin      pid:    53    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+1908,potato,perfume      pid:    53    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+1920,eraser,perfume      pid:    53    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+1968,spice,horoscope      pid:    53    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2017,pepper,spiral      pid:    53    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2045,chocolates,eyes      pid:    53    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2057,foot,win      pid:    53    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2095,cat,circus      pid:    53    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2213,fan,crystal      pid:    53    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2274,leather,airport      pid:    53    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2287,rocket,rib      pid:    53    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+if 0
+2314,restaurant,shower      pid:    53    tupleIndex:   29
+if 1
+return t
+head0
+head1
+head if
+if 0
+2587,foot,ship      pid:    53    tupleIndex:   30
+if 1
+return t
+head0
+head1
+head if
+if 0
+2394,room,coffee-shop      pid:    53    tupleIndex:   31
+if 1
+return t
+head0
+head1
+head if
+if 0
+2465,fungus,carpet      pid:    53    tupleIndex:   32
+if 1
+return t
+head0
+head1
+head if
+if 0
+2620,hose,horoscope      pid:    53    tupleIndex:   33
+if 1
+return t
+head0
+head1
+head if
+if 0
+2811,mist,aeroplane      pid:    53    tupleIndex:   34
+if 1
+return t
+head0
+head1
+head if
+if 0
+2924,maze,vampire      pid:    53    tupleIndex:   35
+if 1
+return t
+head0
+head1
+head if
+if 0
+2937,rocket,spiral      pid:    53    tupleIndex:   36
+if 1
+return t
+head0
+head1
+head if
+if 0
+2939,wheelchair,needle      pid:    53    tupleIndex:   37
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1089,kaleidoscope,rib      pid:    46    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1105,banana,square      pid:    46    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1145,tunnel,bomb      pid:    46    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1268,zoo,milk      pid:    46    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1336,tongue,perfume      pid:    46    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1462,map,crystal      pid:    46    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1474,dog,hat      pid:    46    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1575,backpack,airforce      pid:    46    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1744,money,plane      pid:    46    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1801,finger,ship      pid:    46    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1807,backpack,pocket      pid:    46    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1871,passport,shower      pid:    46    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1923,tunnel,ship      pid:    46    tupleIndex:   12
+if 1
+return t
+head0
+head1
+head if
+if 0
+1946,child,shower      pid:    46    tupleIndex:   13
+if 1
+return t
+head0
+head1
+head if
+if 0
+1951,weapon,ship      pid:    46    tupleIndex:   14
+if 1
+return t
+head0
+head1
+head if
+if 0
+1952,bee,win      pid:    46    tupleIndex:   15
+if 1
+return t
+head0
+head1
+head if
+if 0
+1995,money,clock      pid:    46    tupleIndex:   16
+if 1
+return t
+head0
+head1
+head if
+if 0
+2189,rainbow,spoon      pid:    46    tupleIndex:   17
+if 1
+return t
+head0
+head1
+head if
+if 0
+2230,key,compass      pid:    46    tupleIndex:   18
+if 1
+return t
+head0
+head1
+head if
+if 0
+2238,bee,drill      pid:    46    tupleIndex:   19
+if 1
+return t
+head0
+head1
+head if
+if 0
+2333,finger,rib      pid:    46    tupleIndex:   20
+if 1
+return t
+head0
+head1
+head if
+if 0
+2349,sandpaper,floodlight      pid:    46    tupleIndex:   21
+if 1
+return t
+head0
+head1
+head if
+if 0
+2355,solid,pocket      pid:    46    tupleIndex:   22
+if 1
+return t
+head0
+head1
+head if
+if 0
+2463,zoo,carpet      pid:    46    tupleIndex:   23
+if 1
+return t
+head0
+head1
+head if
+if 0
+2519,kaleidoscope,rib      pid:    46    tupleIndex:   24
+if 1
+return t
+head0
+head1
+head if
+if 0
+2571,treadmill,horoscope      pid:    46    tupleIndex:   25
+if 1
+return t
+head0
+head1
+head if
+if 0
+2944,kaleidoscope,perfume      pid:    46    tupleIndex:   26
+if 1
+return t
+head0
+head1
+head if
+if 0
+2951,hammer,airport      pid:    46    tupleIndex:   27
+if 1
+return t
+head0
+head1
+head if
+if 0
+2966,map,airforce      pid:    46    tupleIndex:   28
+if 1
+return t
+head0
+head1
+head if
+else2
+head1
+head if
+if 0
+1037,leg,eyes      pid:    44    tupleIndex:   0
+if 1
+return t
+head0
+head1
+head if
+if 0
+1120,printer,flower      pid:    44    tupleIndex:   1
+if 1
+return t
+head0
+head1
+head if
+if 0
+1273,junk,spoon      pid:    44    tupleIndex:   2
+if 1
+return t
+head0
+head1
+head if
+if 0
+1294,garden,circus      pid:    44    tupleIndex:   3
+if 1
+return t
+head0
+head1
+head if
+if 0
+1309,pendulum,post      pid:    44    tupleIndex:   4
+if 1
+return t
+head0
+head1
+head if
+if 0
+1403,liquid,mum      pid:    44    tupleIndex:   5
+if 1
+return t
+head0
+head1
+head if
+if 0
+1422,signature,horoscope      pid:    44    tupleIndex:   6
+if 1
+return t
+head0
+head1
+head if
+if 0
+1499,garden,boss      pid:    44    tupleIndex:   7
+if 1
+return t
+head0
+head1
+head if
+if 0
+1555,sun,mosquito      pid:    44    tupleIndex:   8
+if 1
+return t
+head0
+head1
+head if
+if 0
+1588,window,flower      pid:    44    tupleIndex:   9
+if 1
+return t
+head0
+head1
+head if
+if 0
+1661,ice-cream,eyes      pid:    44    tupleIndex:   10
+if 1
+return t
+head0
+head1
+head if
+if 0
+1719,television,sphere      pid:    44    tupleIndex:   11
+if 1
+return t
+head0
+head1
+head if
+if 0
+1785,girl,boy      pid:    44    tupleIndex:  

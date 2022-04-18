@@ -98,18 +98,20 @@ Query startQuery(Reln r, char *q)
         }
     }
 //    //printf("unknow:\n");
-//    printBits(unknown);
+//    //printBits(unknown);
     //printf("depth:%d\n", depth(r));
     int nstars = countBits(getLower(unknown, depth(r)+1));
-    Bits* knowns = malloc(sizeof(Bits) * nvals + 1);
+    Bits* knowns = malloc(sizeof(Bits) * pow1(2,nvals+1));
     assert(knowns != NULL);
     Bits known_lower = getLower(known, depth(r)+1);
     Bits unknown_lower = getLower(unknown, depth(r)+1);
+//    printf("%d\n",known);
 //////    //printf("known_lower:    ");
-//    printBits(known_lower);
+
+//    //printBits(known);
 //////    //printf("%d\n", known_lower);
 //////    //printf("unknown_lower:    ");
-//    printBits(unknown_lower);
+//    //printBits(unknown_lower);
 //////    //printf("%d\n", unknown_lower);
     knowns = recursion(known_lower,unknown_lower, 32, knowns);
 
@@ -117,7 +119,7 @@ Query startQuery(Reln r, char *q)
     //printf("knowns:\n");
     for (int i = 0; i < pow1(2, nstars); i++) {
         knowns[i] = knowns[i] | known;
-        printBits(knowns[i]);
+        //printBits(knowns[i]);
     }
     //FINISH-------
 //    bitsString(known,buf);
@@ -234,24 +236,24 @@ Tuple getEachTuple(Query q)
     Tuple t = NULL;
 
     //printf("knowns:\n");
-    for (int i = 0; i < pow1(2, nstars); i++) {
-        printBits(q->knowns[i]);
-    }
+//    for (int i = 0; i < pow1(2, nstars); i++) {
+//        //printBits(q->knowns[i]);
+//    }
 
     //printf("real known0_0\n");
-    printBits(q->knowns[curPageIndex]);
+//    //printBits(q->knowns[curPageIndex]);
     if (curPageIndex < pow1(2,nstars)) {
         real_known = q->knowns[curPageIndex];
         //printf("real known0:     \n");
-        printBits(real_known);
+        //printBits(real_known);
         //printf("curpage Index0 is: %d\n",curPageIndex);
         // overflowpid
         if (q->is_ovflow == 1) {
             pid = q->curScanPage;
             //printf("pid0_1:    ");
-            printBits(pid);
+            //printBits(pid);
             //printf("test0_1     ");
-            printBits(q->knowns[4]);
+            //printBits(q->knowns[4]);
         }
             // normal pid
         else {
@@ -259,19 +261,19 @@ Tuple getEachTuple(Query q)
                 pid = 0;
             } else {
                 //printf("real known0_2:     \n");
-                printBits(real_known);
+                //printBits(real_known);
                 //printf("depth0_2:     %d\n", depth(q->rel));
                 pid = getLower(real_known, depth(q->rel));
                 //printf("pid0_2:    ");
-                printBits(pid);
+                //printBits(pid);
                 //printf("test0_2     ");
-                printBits(q->knowns[4]);
+                //printBits(q->knowns[4]);
                 if (pid < splitp(q->rel)) pid = getLower(real_known, depth(q->rel) + 1);
                 //printf("pid0_3:    ");
-                printBits(pid);
+                //printBits(pid);
 
                 //printf("test0_3     ");
-                printBits(q->knowns[4]);
+                //printBits(q->knowns[4]);
             }
             q->curpage = pid;
             q->curScanPage = pid;
@@ -287,7 +289,7 @@ Tuple getEachTuple(Query q)
             q->curpage_p = curPage;
         }
         //printf("pid0:    ");
-        printBits(pid);
+        //printBits(pid);
         //printf("curpage Index0 is: ");
         //printf("%d\n", q->curPageIndex);
         if (q->curTupleIndex < nTuples) {
@@ -334,7 +336,7 @@ Tuple getEachTuple(Query q)
             q->curTupleIndex = 0;
             curPageIndex++;
             //printf("pid2:    ");
-            printBits(pid);
+            //printBits(pid);
             //printf("curpage Index2 is: %d\n",curPageIndex);
 
             q->curPageIndex = curPageIndex;
@@ -343,7 +345,7 @@ Tuple getEachTuple(Query q)
         }
 
         //printf("test3     ");
-        printBits(q->knowns[4]);
+        //printBits(q->knowns[4]);
         //printf("return t\n");
         return t;
     }
@@ -353,23 +355,23 @@ Tuple getNextTuple(Query q)
 {
     Tuple t = getEachTuple(q);
     //printf("test4     ");
-    printBits(q->knowns[4]);
+    //printBits(q->knowns[4]);
     while (t != NULL) {
         //printf("test5     ");
-        printBits(q->knowns[4]);
+        //printBits(q->knowns[4]);
         if (tupleMatch_new(q->rel, t, q->quesryString)) {
             //printf("test5_1     ");
-            printBits(q->knowns[4]);
+            //printBits(q->knowns[4]);
 //            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
             return t;
         }
         else{
             //printf("test5_2     ");
-            printBits(q->knowns[4]);
+            //printBits(q->knowns[4]);
 //            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
         }
         //printf("test6     ");
-        printBits(q->knowns[4]);
+        //printBits(q->knowns[4]);
         t = getEachTuple(q);
 //        //printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
 //        t = getEachTuple(q);
@@ -397,7 +399,7 @@ Bool tupleMatch_new(Reln r, Tuple t1, Tuple t2) {
 
 //Tuple getNextTuple(Query q) {
 //    for (int i = 0; i < pow1(2, q->nstars);i++) {
-//        printBits(q->knowns[i]);
+//        //printBits(q->knowns[i]);
 //    }
 //    //printf("%d\n", q->nstars);
 //    return NULL;
@@ -410,7 +412,7 @@ Bool tupleMatch_new(Reln r, Tuple t1, Tuple t2) {
 void printBits(Bits val) {
     char buf[100];
     bitsString(val, buf);
-    //printf("%s\n", buf);
+    printf("%s\n", buf);
 }
 
 int pow1(int i, Count depth) {
