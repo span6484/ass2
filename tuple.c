@@ -120,6 +120,7 @@ Bool tupleMatch(Reln r, Tuple t1, Tuple t2)
 		if (strcmp(v1[i],v2[i]) == 0) continue;
 		match = FALSE;
 	}
+    printf("match:  %d\n", match);
 	freeVals(v1,na); freeVals(v2,na);
 	return match;
 }

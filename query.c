@@ -52,6 +52,8 @@ Bits *recursion(Bits known, Bits unknown, int cur, Bits *knowns);
 
 void printBits(Bits val);
 
+Bool tupleMatch_new(Reln r, Tuple t1, Tuple t2);
+
 // known <= index <= (known | unknow)
 Query startQuery(Reln r, char *q)
 {
@@ -248,6 +250,8 @@ Tuple getEachTuple(Query q)
             pid = q->curScanPage;
             printf("pid0_1:    ");
             printBits(pid);
+            printf("test0_1     ");
+            printBits(q->knowns[4]);
         }
             // normal pid
         else {
@@ -260,9 +264,14 @@ Tuple getEachTuple(Query q)
                 pid = getLower(real_known, depth(q->rel));
                 printf("pid0_2:    ");
                 printBits(pid);
+                printf("test0_2     ");
+                printBits(q->knowns[4]);
                 if (pid < splitp(q->rel)) pid = getLower(real_known, depth(q->rel) + 1);
                 printf("pid0_3:    ");
                 printBits(pid);
+
+                printf("test0_3     ");
+                printBits(q->knowns[4]);
             }
             q->curpage = pid;
             q->curScanPage = pid;
@@ -332,7 +341,10 @@ Tuple getEachTuple(Query q)
             printf("------------------\n\n");
             goto READPAGE;
         }
-        printf("return t");
+
+        printf("test3     ");
+        printBits(q->knowns[4]);
+        printf("return t\n");
         return t;
     }
     return NULL;
@@ -340,19 +352,44 @@ Tuple getEachTuple(Query q)
 Tuple getNextTuple(Query q)
 {
     Tuple t = getEachTuple(q);
+    printf("test4     ");
+    printBits(q->knowns[4]);
     while (t != NULL) {
-//        if (tupleMatch(q->rel, t, q->quesryString)) {
-//            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
-//        }
-//        else{
-//            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
-//        }
-//        t = getEachTuple(q);
-        printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
+        printf("test5     ");
+        printBits(q->knowns[4]);
+        if (tupleMatch_new(q->rel, t, q->quesryString)) {
+            printf("test5_1     ");
+            printBits(q->knowns[4]);
+            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
+        }
+        else{
+            printf("test5_2     ");
+            printBits(q->knowns[4]);
+            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
+        }
+        printf("test6     ");
+        printBits(q->knowns[4]);
         t = getEachTuple(q);
+//        printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
+//        t = getEachTuple(q);
     }
     printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
     return NULL;
+}
+
+Bool tupleMatch_new(Reln r, Tuple t1, Tuple t2) {
+    Count na = nattrs(r);
+    Bool match = TRUE;
+    int i;
+    for (i = 0; i < na; i++) {
+        // assumes no real attribute values start with '?'
+        if (t1[i] == '?' || t2[i] == '?') continue;
+        if (t1[i] == t2[i]) continue;
+        match = FALSE;
+    }
+    printf("match:  %d\n", match);
+    printf("count is %d\n", na);
+    return match;
 }
 
 //Tuple getNextTuple(Query q) {
