@@ -98,3 +98,22 @@ find out overflow
     2718,radar,thermometer
 
     t is 2983,kaleidoscope,ship     pageId:39   tuple index: 30
+
+
+
+    -------------------------
+    correct:
+    2962,family,milk      pid:    39    tupleIndex:   29
+    2967,woman,adult      pid:    39    tupleIndex:   30
+    2983,kaleidoscope,ship      pid:    39    tupleIndex:   31
+    1037,leg,eyes      pid:    44    tupleIndex:   1
+    1120,printer,flower      pid:    44    tupleIndex:   2
+    1273,junk,spoon      pid:    44    tupleIndex:   3
+
+    wrong
+    2962,family,milk      pid:    39    tupleIndex:   29
+    2967,woman,adult      pid:    39    tupleIndex:   30
+    2983,kaleidoscope,ship      pid:    39    tupleIndex:   31
+    1040,bridge,ice-cream      pid:    16    tupleIndex:   1
+    1051,car,bowl      pid:    16    tupleIndex:   2
+    1075,egg,surveyor      pid:    16    tupleIndex:   3
