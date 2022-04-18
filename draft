@@ -1,7 +1,8 @@
 ./create R 3 2 "0,0:1,0:2,0:0,1:1,1:2,1"
+
 ./insert R < data1.txt
  zip ass2 Makefile *.c *.h
-scp -r /Users/jollinggie/Desktop/Stephen/test417.zip z5378096@cse.unsw.edu.au:/import/glass/4/z5378096
+scp -r /Users/jollinggie/Desktop/Stephen/test119.zip z5378096@cse.unsw.edu.au:/import/glass/4/z5378096
 ssh z5378096@cse.unsw.edu.au
 
 john,male,?
