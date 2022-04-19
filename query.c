@@ -28,7 +28,7 @@ struct QueryRep {
     Bits* knowns;
     char* quesryString;
     Page curpage_p;
-    int visited;
+    int visited_pid[][1024];
 };
 //00 -> a b ,c -> o01->d,e,f            00 是datapage， o01是 overflow page， curpage指向bucket page， 这个固定死了， 可以理解成 array的第一个， curPage指向00， curScanPage指向a,b,c
 //01 -> h, i, g -> o02 -> x, y, z -> o03 -> m,n
@@ -122,6 +122,7 @@ Query startQuery(Reln r, char *q)
         //printBits(knowns[i]);
     }
     //FINISH-------
+
 //    bitsString(known,buf);
 //////    ////printf("known: %s\n", buf);
 //    bitsString(unknown,buf);
@@ -140,7 +141,6 @@ Query startQuery(Reln r, char *q)
     new->quesryString = q;
     new->curTupleIndex = 0;
     new->curPageIndex = 0;
-    new->visited = 0;
 //    for (int f = 0; f < nvals; f++) {
 //        free(tuple_vals[f]);
 //    }
@@ -234,15 +234,16 @@ Tuple getEachTuple(Query q)
     curTupleIndex = q->curTupleIndex;
     Page curPage;
     Tuple t = NULL;
-
     //printf("knowns:\n");
 //    for (int i = 0; i < pow1(2, nstars); i++) {
 //        //printBits(q->knowns[i]);
 //    }
 
     //printf("real known0_0\n");
-//    //printBits(q->knowns[curPageIndex]);
+//    printf("%d\n",q->visited_pid[curPageIndex][0]);
+
     if (curPageIndex < pow1(2,nstars)) {
+
         real_known = q->knowns[curPageIndex];
         //printf("real known0:     \n");
         //printBits(real_known);
@@ -298,6 +299,7 @@ Tuple getEachTuple(Query q)
             if (curTupleIndex < nTuples) {
                 curTupleIndex++;
                 q->curTupleIndex = curTupleIndex;
+//                q->curScanPage = pid;
             }
             else if (pageOvflow(q->curpage_p) != NO_PAGE) {
                 q->is_ovflow = 1;
@@ -328,6 +330,8 @@ Tuple getEachTuple(Query q)
             goto READPAGE;
         }
         else {
+//            printf("create new Page,  curPage: %d,  curPageIndex: %d\n",q->curScanPage, q->curPageIndex);
+//            printf("curScanPage:    %d\n",q->curScanPage);
 //            //printf("here3---create new Page\n");
             ////printf("%s\n", t);
             //printf("else2\n");
@@ -359,17 +363,14 @@ Tuple getNextTuple(Query q)
     while (t != NULL) {
         //printf("test5     ");
         //printBits(q->knowns[4]);
-        if (tupleMatch_new(q->rel, t, q->quesryString)) {
+        if (tupleMatch_new(q->rel, t, q->quesryString) && q->visited_pid[q->curPageIndex][q->curTupleIndex] == 0) {
+            q->visited_pid[q->curPageIndex][q->curTupleIndex] = 1;
+//            printf("here  pid:    %d    tupleIndex:   %d\n", q->curScanPage, q->curTupleIndex);
             //printf("test5_1     ");
             //printBits(q->knowns[4]);
-//            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
             return t;
         }
-        else{
-            //printf("test5_2     ");
-            //printBits(q->knowns[4]);
-//            printf("%s      pid:    %d    tupleIndex:   %d\n",t, q->curScanPage, q->curTupleIndex);
-        }
+
         //printf("test6     ");
         //printBits(q->knowns[4]);
         t = getEachTuple(q);
