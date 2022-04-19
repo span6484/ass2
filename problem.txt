@@ -1,6 +1,4342 @@
-1505,sun,sword
-1759,pendulum,sword
-1011,sandpaper,sword
+here  pid:    1    tupleIndex:   1
+1012,surveyor,apple
+here  pid:    1    tupleIndex:   2
+1045,surveyor,library
+here  pid:    1    tupleIndex:   3
+1095,sun,pin
+here  pid:    1    tupleIndex:   4
+1100,clown,apple
+here  pid:    1    tupleIndex:   5
+1169,leg,shoes
+here  pid:    1    tupleIndex:   6
+1245,pendulum,elephant
+here  pid:    1    tupleIndex:   7
+1342,gloves,necklace
+here  pid:    1    tupleIndex:   8
+1502,library,gas
+here  pid:    1    tupleIndex:   9
+1550,television,toilet
+here  pid:    1    tupleIndex:   10
+1554,alphabet,gas
+here  pid:    1    tupleIndex:   11
+1662,database,film
+here  pid:    1    tupleIndex:   12
+1675,pants,gloves
+here  pid:    1    tupleIndex:   13
+1750,garden,pants
+here  pid:    1    tupleIndex:   14
+1755,pendulum,shop
+here  pid:    1    tupleIndex:   15
+1810,skeleton,pin
+here  pid:    1    tupleIndex:   16
+1924,shop,robot
+here  pid:    1    tupleIndex:   17
+1977,gas,film
+here  pid:    1    tupleIndex:   18
+2158,clown,army
+here  pid:    1    tupleIndex:   19
+2219,liquid,web
+here  pid:    1    tupleIndex:   20
+2393,printer,festival
+here  pid:    1    tupleIndex:   21
+2423,chess-board,bird
+here  pid:    1    tupleIndex:   22
+2446,garden,alphabet
+here  pid:    1    tupleIndex:   23
+2546,necklace,festival
+here  pid:    1    tupleIndex:   24
+2549,box,train
+here  pid:    1    tupleIndex:   25
+2654,skeleton,skeleton
+here  pid:    1    tupleIndex:   26
+2681,stomach,alphabet
+here  pid:    2    tupleIndex:   1
+1228,bathtub,rope
+here  pid:    2    tupleIndex:   2
+1265,cappuccino,clown
+here  pid:    2    tupleIndex:   3
+1284,snail,paintbrush
+here  pid:    2    tupleIndex:   4
+1324,weapon,cup
+here  pid:    2    tupleIndex:   5
+1408,tapestry,pin
+here  pid:    2    tupleIndex:   6
+1455,backpack,gloves
+here  pid:    2    tupleIndex:   7
+1485,spotlight,salt
+here  pid:    2    tupleIndex:   8
+1526,ears,festival
+here  pid:    2    tupleIndex:   9
+1591,highway,rope
+here  pid:    2    tupleIndex:   10
+1622,rainbow,apple
+here  pid:    2    tupleIndex:   11
+1624,school,shoes
+here  pid:    2    tupleIndex:   12
+1706,typewriter,bird
+here  pid:    2    tupleIndex:   13
+1858,zoo,garden
+here  pid:    2    tupleIndex:   14
+1866,double,liquid
+here  pid:    2    tupleIndex:   15
+1962,passport,leg
+here  pid:    2    tupleIndex:   16
+1978,woman,shoes
+here  pid:    2    tupleIndex:   17
+2153,ring,ice-cream
+here  pid:    2    tupleIndex:   18
+2174,car-race,paintbrush
+here  pid:    2    tupleIndex:   19
+2209,rainbow,yawn
+here  pid:    2    tupleIndex:   20
+2323,finger,train
+here  pid:    2    tupleIndex:   21
+2354,desk,torpedo
+here  pid:    2    tupleIndex:   22
+2368,passport,paintbrush
+here  pid:    2    tupleIndex:   23
+2547,sunglasses,torpedo
+here  pid:    2    tupleIndex:   24
+2566,finger,shop
+here  pid:    2    tupleIndex:   25
+2579,guitar,junk
+here  pid:    2    tupleIndex:   26
+2583,kitchen,alphabet
+here  pid:    2    tupleIndex:   27
+2690,ears,printer
+here  pid:    2    tupleIndex:   28
+2746,ears,alphabet
+here  pid:    2    tupleIndex:   29
+2765,sunglasses,pin
+here  pid:    2    tupleIndex:   30
+2809,tapestry,skeleton
+here  pid:    2    tupleIndex:   31
+2993,kaleidoscope,surveyor
+here  pid:    3    tupleIndex:   1
+1034,kaleidoscope,skeleton
+here  pid:    3    tupleIndex:   2
+1127,sandpaper,gemstone
+here  pid:    3    tupleIndex:   3
+1240,solid,book
+here  pid:    3    tupleIndex:   4
+1269,kaleidoscope,oodle
+here  pid:    3    tupleIndex:   5
+1350,finger,shoes
+here  pid:    3    tupleIndex:   6
+1441,snail,army
+here  pid:    3    tupleIndex:   7
+1476,videotape,rope
+here  pid:    3    tupleIndex:   8
+1520,key,rope
+here  pid:    3    tupleIndex:   9
+1659,cave,bird
+here  pid:    3    tupleIndex:   10
+2467,snail,gloves
+here  pid:    3    tupleIndex:   11
+2507,saddle,gas
+here  pid:    3    tupleIndex:   12
+2729,child,army
+here  pid:    3    tupleIndex:   13
+2796,spotlight,army
+here  pid:    4    tupleIndex:   1
+1008,rope,air
+here  pid:    4    tupleIndex:   2
+1057,liquid,child
+here  pid:    4    tupleIndex:   3
+1135,pants,highway
+here  pid:    4    tupleIndex:   4
+1444,film,car-race
+here  pid:    4    tupleIndex:   5
+1640,church,passport
+here  pid:    4    tupleIndex:   6
+1671,shoes,butterfly
+here  pid:    4    tupleIndex:   7
+1680,window,tongue
+here  pid:    4    tupleIndex:   8
+1811,church,tongue
+here  pid:    4    tupleIndex:   9
+1885,gemstone,hammer
+here  pid:    4    tupleIndex:   10
+1986,apple,comet
+here  pid:    4    tupleIndex:   11
+1991,robot,meat
+here  pid:    4    tupleIndex:   12
+2147,bird,tongue
+here  pid:    4    tupleIndex:   13
+2185,gloves,tongue
+here  pid:    4    tupleIndex:   14
+2246,church,meat
+here  pid:    4    tupleIndex:   15
+2373,database,butterfly
+here  pid:    4    tupleIndex:   16
+2410,pants,kitchen
+here  pid:    4    tupleIndex:   17
+2419,stomach,ring
+here  pid:    4    tupleIndex:   18
+2488,chess-board,ears
+here  pid:    4    tupleIndex:   19
+2577,yawn,tunnel
+here  pid:    4    tupleIndex:   20
+2590,gas,backpack
+here  pid:    4    tupleIndex:   21
+2726,computer,ears
+here  pid:    4    tupleIndex:   22
+2853,web,tunnel
+here  pid:    5    tupleIndex:   1
+1098,shoes,bee
+here  pid:    5    tupleIndex:   2
+1153,robot,meat
+here  pid:    5    tupleIndex:   3
+1184,junk,compact-disc
+here  pid:    5    tupleIndex:   4
+1195,leg,guitar
+here  pid:    5    tupleIndex:   5
+1311,gloves,cappuccino
+here  pid:    5    tupleIndex:   6
+1421,cup,family
+here  pid:    5    tupleIndex:   7
+1447,stomach,zoo
+here  pid:    5    tupleIndex:   8
+1607,bowl,videotape
+here  pid:    5    tupleIndex:   9
+1790,torpedo,spotlight
+here  pid:    5    tupleIndex:   10
+1795,stomach,money
+here  pid:    5    tupleIndex:   11
+1999,gas,banana
+here  pid:    5    tupleIndex:   12
+2004,necklace,highway
+here  pid:    5    tupleIndex:   13
+2159,train,bee
+here  pid:    5    tupleIndex:   14
+2182,garden,ears
+here  pid:    5    tupleIndex:   15
+2218,database,meteor
+here  pid:    5    tupleIndex:   16
+2239,garden,backpack
+here  pid:    5    tupleIndex:   17
+2278,junk,cave
+here  pid:    5    tupleIndex:   18
+2343,festival,school
+here  pid:    5    tupleIndex:   19
+2382,gloves,tunnel
+here  pid:    5    tupleIndex:   20
+2401,necklace,kaleidoscope
+here  pid:    5    tupleIndex:   21
+2416,telescope,passport
+here  pid:    5    tupleIndex:   22
+2455,clown,butterfly
+here  pid:    5    tupleIndex:   23
+2580,box,finger
+here  pid:    5    tupleIndex:   24
+2596,elephant,chisel
+here  pid:    5    tupleIndex:   25
+2599,bowl,money
+here  pid:    5    tupleIndex:   26
+2865,gas,vacuum
+here  pid:    6    tupleIndex:   1
+1069,butterfly,fire
+here  pid:    6    tupleIndex:   2
+1137,kitchen,kaleidoscope
+here  pid:    6    tupleIndex:   3
+1164,family,worm
+here  pid:    6    tupleIndex:   4
+1174,sandpaper,bathroom
+here  pid:    6    tupleIndex:   5
+1182,banana,guitar
+here  pid:    6    tupleIndex:   6
+1340,fire,sandpaper
+here  pid:    6    tupleIndex:   7
+1404,bottle,meat
+here  pid:    6    tupleIndex:   8
+1428,dog,worm
+here  pid:    6    tupleIndex:   9
+1466,woman,vacuum
+here  pid:    6    tupleIndex:   10
+1493,hammer,sunglasses
+here  pid:    6    tupleIndex:   11
+1625,tongue,child
+here  pid:    6    tupleIndex:   12
+1658,tunnel,dingbat
+here  pid:    6    tupleIndex:   13
+1693,double,backpack
+here  pid:    6    tupleIndex:   14
+1805,prison,key
+here  pid:    6    tupleIndex:   15
+1817,bee,banana
+here  pid:    6    tupleIndex:   16
+1844,typewriter,zoo
+here  pid:    6    tupleIndex:   17
+2149,tongue,sunglasses
+here  pid:    6    tupleIndex:   18
+2234,finger,child
+here  pid:    6    tupleIndex:   19
+2302,brain,tapestry
+here  pid:    6    tupleIndex:   20
+2307,vacuum,banana
+here  pid:    6    tupleIndex:   21
+2324,cappuccino,prison
+here  pid:    6    tupleIndex:   22
+2385,spotlight,tennis
+here  pid:    6    tupleIndex:   23
+2625,zoo,fire
+here  pid:    6    tupleIndex:   24
+2629,kaleidoscope,treadmill
+here  pid:    6    tupleIndex:   25
+2771,double,microscope
+here  pid:    6    tupleIndex:   26
+2831,sunglasses,backpack
+here  pid:    6    tupleIndex:   27
+2835,passport,dingbat
+here  pid:    6    tupleIndex:   28
+2860,vacuum,key
+here  pid:    6    tupleIndex:   29
+2877,key,typewriter
+here  pid:    6    tupleIndex:   30
+2879,butterfly,air
+here  pid:    6    tupleIndex:   31
+2905,thermometer,desk
+here  pid:    6    tupleIndex:   32
+2906,money,finger
+here  pid:    6    tupleIndex:   33
+2948,backpack,fruit
+here  pid:    6    tupleIndex:   34
+2949,weapon,tapestry
+here  pid:    7    tupleIndex:   1
+1042,child,compact-disc
+here  pid:    7    tupleIndex:   2
+1062,fire,backpack
+here  pid:    7    tupleIndex:   3
+1179,key,school
+here  pid:    7    tupleIndex:   4
+1212,school,compact-disc
+here  pid:    7    tupleIndex:   5
+1230,typewriter,spotlight
+here  pid:    7    tupleIndex:   6
+1249,cappuccino,fruit
+here  pid:    7    tupleIndex:   7
+1375,kaleidoscope,passport
+here  pid:    7    tupleIndex:   8
+1397,thermometer,microscope
+here  pid:    7    tupleIndex:   9
+1465,car-race,fruit
+here  pid:    7    tupleIndex:   10
+1576,tongue,desk
+here  pid:    7    tupleIndex:   11
+1655,sandpaper,spotlight
+here  pid:    7    tupleIndex:   12
+1809,butterfly,banana
+here  pid:    7    tupleIndex:   13
+1892,banana,videotape
+here  pid:    7    tupleIndex:   14
+1895,tongue,bottle
+here  pid:    7    tupleIndex:   15
+1948,treadmill,solid
+here  pid:    7    tupleIndex:   16
+2016,air,hammer
+here  pid:    7    tupleIndex:   17
+2083,cave,meteor
+here  pid:    7    tupleIndex:   18
+2156,fire,woman
+here  pid:    7    tupleIndex:   19
+2214,passport,double
+here  pid:    7    tupleIndex:   20
+2240,fruit,chisel
+here  pid:    7    tupleIndex:   21
+2271,map,hammer
+here  pid:    7    tupleIndex:   22
+2318,cappuccino,desk
+here  pid:    7    tupleIndex:   23
+2529,thermometer,family
+here  pid:    7    tupleIndex:   24
+2670,zoo,map
+here  pid:    7    tupleIndex:   25
+2723,videotape,backpack
+here  pid:    7    tupleIndex:   26
+2747,school,ears
+here  pid:    7    tupleIndex:   27
+2755,guitar,tunnel
+here  pid:    7    tupleIndex:   28
+2777,tunnel,sandpaper
+here  pid:    7    tupleIndex:   29
+2780,guitar,child
+here  pid:    7    tupleIndex:   30
+2788,bottle,map
+here  pid:    8    tupleIndex:   1
+1077,gloves,robot
+here  pid:    8    tupleIndex:   2
+1083,elephant,girl
+here  pid:    8    tupleIndex:   3
+1112,shoes,apple
+here  pid:    8    tupleIndex:   4
+1128,yawn,bird
+here  pid:    8    tupleIndex:   5
+1151,book,apple
+here  pid:    8    tupleIndex:   6
+1158,girl,bowl
+here  pid:    8    tupleIndex:   7
+1266,rope,shoes
+here  pid:    8    tupleIndex:   8
+1299,necklace,alphabet
+here  pid:    8    tupleIndex:   9
+1302,pants,pin
+here  pid:    8    tupleIndex:   10
+1347,gemstone,festival
+here  pid:    8    tupleIndex:   11
+1352,bowl,toilet
+here  pid:    8    tupleIndex:   12
+1519,window,surveyor
+here  pid:    8    tupleIndex:   13
+1566,gloves,garden
+here  pid:    8    tupleIndex:   14
+1684,leg,sun
+here  pid:    8    tupleIndex:   15
+1767,garden,torpedo
+here  pid:    8    tupleIndex:   16
+1797,stomach,telescope
+here  pid:    8    tupleIndex:   17
+1878,shop,database
+here  pid:    8    tupleIndex:   18
+1880,book,gas
+here  pid:    8    tupleIndex:   19
+1904,train,cup
+here  pid:    8    tupleIndex:   20
+2010,web,gas
+here  pid:    8    tupleIndex:   21
+2070,liquid,elephant
+here  pid:    8    tupleIndex:   22
+2082,army,stomach
+here  pid:    8    tupleIndex:   23
+2157,bird,database
+here  pid:    8    tupleIndex:   24
+2206,girl,television
+here  pid:    8    tupleIndex:   25
+2260,gemstone,computer
+here  pid:    8    tupleIndex:   26
+2272,pin,robot
+here  pid:    8    tupleIndex:   27
+2279,alphabet,skeleton
+here  pid:    8    tupleIndex:   28
+2359,rope,oodle
+here  pid:    8    tupleIndex:   29
+2472,computer,surveyor
+here  pid:    8    tupleIndex:   30
+2573,cup,army
+here  pid:    8    tupleIndex:   31
+2633,clown,book
+here  pid:    8    tupleIndex:   32
+2694,web,oodle
+here  pid:    8    tupleIndex:   33
+2735,television,television
+here  pid:    8    tupleIndex:   34
+2840,gemstone,toilet
+here  pid:    8    tupleIndex:   35
+2849,cup,library
+here  pid:    8    tupleIndex:   36
+2916,toilet,elephant
+here  pid:    8    tupleIndex:   37
+2990,library,library
+here  pid:    8    tupleIndex:   38
+2994,signature,bird
+here  pid:    9    tupleIndex:   1
+1082,festival,toilet
+here  pid:    9    tupleIndex:   2
+1287,pants,rope
+here  pid:    9    tupleIndex:   3
+1288,rope,garden
+here  pid:    9    tupleIndex:   4
+1458,bowl,oodle
+here  pid:    9    tupleIndex:   5
+1472,festival,army
+here  pid:    9    tupleIndex:   6
+1498,train,garden
+here  pid:    9    tupleIndex:   7
+1673,window,cup
+here  pid:    9    tupleIndex:   8
+1697,salt,gas
+here  pid:    9    tupleIndex:   9
+1727,telescope,alphabet
+here  pid:    9    tupleIndex:   10
+2114,shop,cup
+here  pid:    9    tupleIndex:   11
+2129,stomach,pin
+here  pid:    9    tupleIndex:   12
+2154,gas,pants
+here  pid:    9    tupleIndex:   13
+2165,chess-board,sports-car
+here  pid:    9    tupleIndex:   14
+2285,film,paintbrush
+here  pid:    9    tupleIndex:   15
+2301,salt,film
+here  pid:    9    tupleIndex:   16
+2364,bird,stomach
+here  pid:    9    tupleIndex:   17
+2375,pin,festival
+here  pid:    9    tupleIndex:   18
+2483,garden,paintbrush
+here  pid:    9    tupleIndex:   19
+2487,computer,printer
+here  pid:    9    tupleIndex:   20
+2615,gas,garden
+here  pid:    9    tupleIndex:   21
+2891,stomach,window
+here  pid:    9    tupleIndex:   22
+2992,shoes,clown
+here  pid:    10    tupleIndex:   1
+1088,treadmill,skeleton
+here  pid:    10    tupleIndex:   2
+1132,cave,army
+here  pid:    10    tupleIndex:   3
+1203,typewriter,window
+here  pid:    10    tupleIndex:   4
+1238,key,sports-car
+here  pid:    10    tupleIndex:   5
+1373,microscope,telescope
+here  pid:    10    tupleIndex:   6
+1380,saddle,surveyor
+here  pid:    10    tupleIndex:   7
+1450,fire,salt
+here  pid:    10    tupleIndex:   8
+1584,backpack,chess-board
+here  pid:    10    tupleIndex:   9
+1600,dingbat,sun
+here  pid:    10    tupleIndex:   10
+1631,car-race,sun
+here  pid:    10    tupleIndex:   11
+1637,rainbow,printer
+here  pid:    10    tupleIndex:   12
+1722,chisel,leg
+here  pid:    10    tupleIndex:   13
+1815,ring,computer
+here  pid:    10    tupleIndex:   14
+1961,treadmill,signature
+here  pid:    10    tupleIndex:   15
+2142,tennis,salt
+here  pid:    10    tupleIndex:   16
+2178,highway,book
+here  pid:    10    tupleIndex:   17
+2210,zoo,pendulum
+here  pid:    10    tupleIndex:   18
+2303,tapestry,clown
+here  pid:    10    tupleIndex:   19
+2336,butterfly,window
+here  pid:    10    tupleIndex:   20
+2341,compact-disc,database
+here  pid:    10    tupleIndex:   21
+2396,solid,necklace
+here  pid:    10    tupleIndex:   22
+2437,bottle,leg
+here  pid:    10    tupleIndex:   23
+2498,compact-disc,television
+here  pid:    10    tupleIndex:   24
+2533,snail,robot
+here  pid:    10    tupleIndex:   25
+2555,car-race,paintbrush
+here  pid:    10    tupleIndex:   26
+2582,saddle,leg
+here  pid:    10    tupleIndex:   27
+2736,school,gemstone
+here  pid:    10    tupleIndex:   28
+2823,fire,surveyor
+here  pid:    10    tupleIndex:   29
+2904,tongue,printer
+here  pid:    11    tupleIndex:   1
+1036,vacuum,television
+here  pid:    11    tupleIndex:   2
+1218,banana,elephant
+here  pid:    11    tupleIndex:   3
+1222,money,train
+here  pid:    11    tupleIndex:   4
+1459,saddle,ice-cream
+here  pid:    11    tupleIndex:   5
+1484,car-race,army
+here  pid:    11    tupleIndex:   6
+1525,meteor,train
+here  pid:    11    tupleIndex:   7
+1770,bee,shoes
+here  pid:    11    tupleIndex:   8
+1806,money,clown
+here  pid:    11    tupleIndex:   9
+1900,dog,film
+here  pid:    11    tupleIndex:   10
+1998,chisel,box
+here  pid:    11    tupleIndex:   11
+2181,passport,gas
+here  pid:    11    tupleIndex:   12
+2428,money,gemstone
+here  pid:    11    tupleIndex:   13
+2450,guitar,gemstone
+here  pid:    11    tupleIndex:   14
+2565,bathroom,sports-car
+here  pid:    11    tupleIndex:   15
+2611,weapon,stomach
+here  pid:    11    tupleIndex:   16
+2617,ring,army
+here  pid:    11    tupleIndex:   17
+2618,album,train
+here  pid:    11    tupleIndex:   18
+2766,vacuum,oodle
+here  pid:    11    tupleIndex:   19
+2804,videotape,church
+here  pid:    11    tupleIndex:   20
+2921,school,signature
+here  pid:    11    tupleIndex:   21
+2938,vacuum,chess-board
+here  pid:    11    tupleIndex:   22
+2973,dingbat,paintbrush
+here  pid:    12    tupleIndex:   1
+1028,telescope,highway
+here  pid:    12    tupleIndex:   2
+1046,printer,kaleidoscope
+here  pid:    12    tupleIndex:   3
+1047,database,finger
+here  pid:    12    tupleIndex:   4
+1259,liquid,meat
+here  pid:    12    tupleIndex:   5
+1348,web,typewriter
+here  pid:    12    tupleIndex:   6
+1355,box,chisel
+here  pid:    12    tupleIndex:   7
+1361,train,zoo
+here  pid:    12    tupleIndex:   8
+1460,library,banana
+here  pid:    12    tupleIndex:   9
+1601,church,tennis
+here  pid:    12    tupleIndex:   10
+1641,bowl,guitar
+here  pid:    12    tupleIndex:   11
+1711,church,cave
+here  pid:    12    tupleIndex:   12
+1734,telescope,album
+here  pid:    12    tupleIndex:   13
+1841,cup,snail
+here  pid:    12    tupleIndex:   14
+1862,television,school
+here  pid:    12    tupleIndex:   15
+1928,skeleton,zoo
+here  pid:    12    tupleIndex:   16
+1982,paintbrush,worm
+here  pid:    12    tupleIndex:   17
+2038,book,backpack
+here  pid:    12    tupleIndex:   18
+2046,alphabet,school
+here  pid:    12    tupleIndex:   19
+2133,girl,key
+here  pid:    12    tupleIndex:   20
+2338,chess-board,air
+here  pid:    12    tupleIndex:   21
+2357,pendulum,brain
+here  pid:    12    tupleIndex:   22
+2479,liquid,prison
+here  pid:    12    tupleIndex:   23
+2556,rope,bee
+here  pid:    12    tupleIndex:   24
+2592,computer,tapestry
+here  pid:    12    tupleIndex:   25
+2639,bird,tongue
+here  pid:    12    tupleIndex:   26
+2693,leg,backpack
+here  pid:    13    tupleIndex:   1
+1066,torpedo,kaleidoscope
+here  pid:    13    tupleIndex:   2
+1080,box,snail
+here  pid:    13    tupleIndex:   3
+1274,printer,album
+here  pid:    13    tupleIndex:   4
+1346,robot,tapestry
+here  pid:    13    tupleIndex:   5
+1510,bowl,cave
+here  pid:    13    tupleIndex:   6
+1534,web,tennis
+here  pid:    13    tupleIndex:   7
+1541,leg,bathtub
+here  pid:    13    tupleIndex:   8
+1619,oodle,bee
+here  pid:    13    tupleIndex:   9
+1638,apple,sunglasses
+here  pid:    13    tupleIndex:   10
+1664,window,kitchen
+here  pid:    13    tupleIndex:   11
+1707,junk,ears
+here  pid:    13    tupleIndex:   12
+1758,shop,meat
+here  pid:    13    tupleIndex:   13
+1845,paintbrush,woman
+here  pid:    13    tupleIndex:   14
+1853,pin,chisel
+here  pid:    13    tupleIndex:   15
+1881,alphabet,slave
+here  pid:    13    tupleIndex:   16
+1894,apple,album
+here  pid:    13    tupleIndex:   17
+1909,web,backpack
+here  pid:    13    tupleIndex:   18
+1929,robot,chisel
+here  pid:    13    tupleIndex:   19
+1984,bird,weapon
+here  pid:    13    tupleIndex:   20
+2069,gloves,treadmill
+here  pid:    13    tupleIndex:   21
+2111,clown,desk
+here  pid:    13    tupleIndex:   22
+2162,box,desk
+here  pid:    13    tupleIndex:   23
+2197,cup,tunnel
+here  pid:    13    tupleIndex:   24
+2321,junk,sunglasses
+here  pid:    13    tupleIndex:   25
+2459,stomach,worm
+here  pid:    13    tupleIndex:   26
+2486,pants,meat
+here  pid:    13    tupleIndex:   27
+2542,printer,backpack
+here  pid:    13    tupleIndex:   28
+2561,television,bottle
+here  pid:    13    tupleIndex:   29
+2659,festival,rainbow
+here  pid:    13    tupleIndex:   30
+2677,girl,air
+here  pid:    13    tupleIndex:   31
+2851,box,weapon
+here  pid:    13    tupleIndex:   32
+2857,database,treadmill
+here  pid:    13    tupleIndex:   33
+2922,army,snail
+here  pid:    14    tupleIndex:   1
+1025,car-race,bathtub
+here  pid:    14    tupleIndex:   2
+1260,passport,spotlight
+here  pid:    14    tupleIndex:   3
+1323,cave,butterfly
+here  pid:    14    tupleIndex:   4
+1412,meteor,worm
+here  pid:    14    tupleIndex:   5
+1666,zoo,album
+here  pid:    14    tupleIndex:   6
+2035,comet,hammer
+here  pid:    14    tupleIndex:   7
+2067,fire,comet
+here  pid:    14    tupleIndex:   8
+2093,guitar,hammer
+here  pid:    14    tupleIndex:   9
+2485,car-race,finger
+here  pid:    14    tupleIndex:   10
+2505,vacuum,car-race
+here  pid:    14    tupleIndex:   11
+2535,meteor,desk
+here  pid:    14    tupleIndex:   12
+2643,bee,typewriter
+here  pid:    14    tupleIndex:   13
+2698,backpack,microscope
+here  pid:    14    tupleIndex:   14
+2724,album,fruit
+here  pid:    14    tupleIndex:   15
+2753,fruit,highway
+here  pid:    14    tupleIndex:   16
+2782,dog,finger
+here  pid:    15    tupleIndex:   1
+1010,solid,sandpaper
+here  pid:    15    tupleIndex:   2
+1023,meat,album
+here  pid:    15    tupleIndex:   3
+1119,prison,bee
+here  pid:    15    tupleIndex:   4
+1207,car-race,child
+here  pid:    15    tupleIndex:   5
+1429,saddle,school
+here  pid:    15    tupleIndex:   6
+1464,weapon,ring
+here  pid:    15    tupleIndex:   7
+1530,zoo,fruit
+here  pid:    15    tupleIndex:   8
+1606,videotape,money
+here  pid:    15    tupleIndex:   9
+1916,dog,album
+here  pid:    15    tupleIndex:   10
+1989,backpack,bathtub
+here  pid:    15    tupleIndex:   11
+2021,fruit,cave
+here  pid:    15    tupleIndex:   12
+2032,videotape,cappuccino
+here  pid:    15    tupleIndex:   13
+2054,fire,bee
+here  pid:    15    tupleIndex:   14
+2089,dog,tongue
+here  pid:    15    tupleIndex:   15
+2146,zoo,banana
+here  pid:    15    tupleIndex:   16
+2332,zoo,chisel
+here  pid:    15    tupleIndex:   17
+2362,ring,weapon
+here  pid:    15    tupleIndex:   18
+2383,family,woman
+here  pid:    15    tupleIndex:   19
+2429,slave,cappuccino
+here  pid:    15    tupleIndex:   20
+2528,air,saddle
+here  pid:    15    tupleIndex:   21
+2622,hammer,meat
+here  pid:    15    tupleIndex:   22
+2638,typewriter,tapestry
+here  pid:    15    tupleIndex:   23
+2837,finger,sunglasses
+here  pid:    15    tupleIndex:   24
+2850,cappuccino,album
+here  pid:    15    tupleIndex:   25
+2914,dingbat,cappuccino
+here  pid:    15    tupleIndex:   26
+2932,compact-disc,fire
+here  pid:    15    tupleIndex:   27
+2936,saddle,dingbat
+here  pid:    15    tupleIndex:   28
+2960,bathtub,bathtub
+here  pid:    16    tupleIndex:   1
+1040,bridge,ice-cream
+here  pid:    16    tupleIndex:   2
+1051,car,bowl
+here  pid:    16    tupleIndex:   3
+1075,egg,surveyor
+here  pid:    16    tupleIndex:   4
+1108,maze,girl
+here  pid:    16    tupleIndex:   5
+1193,arm,apple
+here  pid:    16    tupleIndex:   6
+1194,baby,toilet
+here  pid:    16    tupleIndex:   7
+1225,chair,shoes
+here  pid:    16    tupleIndex:   8
+1344,eraser,paintbrush
+here  pid:    16    tupleIndex:   9
+1371,bank,necklace
+here  pid:    16    tupleIndex:   10
+1435,baby,festival
+here  pid:    16    tupleIndex:   11
+1539,barbecue,pants
+here  pid:    16    tupleIndex:   12
+1543,arm,yawn
+here  pid:    16    tupleIndex:   13
+1628,gate,toilet
+here  pid:    16    tupleIndex:   14
+1746,game,printer
+here  pid:    16    tupleIndex:   15
+1813,rocket,army
+here  pid:    16    tupleIndex:   16
+1828,fan,signature
+here  pid:    16    tupleIndex:   17
+1938,dress,torpedo
+here  pid:    16    tupleIndex:   18
+2058,bed,apple
+here  pid:    16    tupleIndex:   19
+2107,nail,apple
+here  pid:    16    tupleIndex:   20
+2110,carrot,printer
+here  pid:    16    tupleIndex:   21
+2273,software,pants
+here  pid:    16    tupleIndex:   22
+2334,baby,bowl
+here  pid:    16    tupleIndex:   23
+2432,cycle,web
+here  pid:    16    tupleIndex:   24
+2559,set,pendulum
+here  pid:    16    tupleIndex:   25
+2588,dress,skeleton
+here  pid:    16    tupleIndex:   26
+2661,fan,liquid
+here  pid:    16    tupleIndex:   27
+2678,famine,oodle
+here  pid:    16    tupleIndex:   28
+2696,famine,paintbrush
+here  pid:    16    tupleIndex:   29
+2795,gate,pendulum
+here  pid:    16    tupleIndex:   30
+2825,monster,computer
+here  pid:    16    tupleIndex:   31
+2920,mist,gas
+here  pid:    16    tupleIndex:   32
+2972,grapes,church
+here  pid:    16    tupleIndex:   33
+2980,mist,pendulum
+here  pid:    17    tupleIndex:   1
+1041,coffee,gloves
+here  pid:    17    tupleIndex:   2
+1123,cycle,robot
+here  pid:    17    tupleIndex:   3
+1149,pepper,alphabet
+here  pid:    17    tupleIndex:   4
+1180,baby,sun
+here  pid:    17    tupleIndex:   5
+1243,fork,web
+here  pid:    17    tupleIndex:   6
+1272,pyramid,junk
+here  pid:    17    tupleIndex:   7
+1343,gate,sports-car
+here  pid:    17    tupleIndex:   8
+1420,bed,rope
+here  pid:    17    tupleIndex:   9
+1491,mist,library
+here  pid:    17    tupleIndex:   10
+1627,set,television
+here  pid:    17    tupleIndex:   11
+1691,staircase,salt
+here  pid:    17    tupleIndex:   12
+1698,wheelchair,surveyor
+here  pid:    17    tupleIndex:   13
+1726,spice,pin
+here  pid:    17    tupleIndex:   14
+1857,pillow,alphabet
+here  pid:    17    tupleIndex:   15
+1953,egg,gas
+here  pid:    17    tupleIndex:   16
+1987,maze,computer
+here  pid:    17    tupleIndex:   17
+2050,satellite,elephant
+here  pid:    17    tupleIndex:   18
+2061,leather,cup
+here  pid:    17    tupleIndex:   19
+2224,restaurant,army
+here  pid:    17    tupleIndex:   20
+2254,electricity,gemstone
+here  pid:    17    tupleIndex:   21
+2317,fork,salt
+here  pid:    17    tupleIndex:   22
+2344,eraser,pin
+here  pid:    17    tupleIndex:   23
+2413,explosive,computer
+here  pid:    17    tupleIndex:   24
+2434,dress,signature
+here  pid:    17    tupleIndex:   25
+2550,chair,shoes
+here  pid:    17    tupleIndex:   26
+2581,navy,salt
+here  pid:    17    tupleIndex:   27
+2687,parachute,gemstone
+here  pid:    17    tupleIndex:   28
+2689,wheelchair,library
+here  pid:    17    tupleIndex:   29
+2725,monster,television
+here  pid:    17    tupleIndex:   30
+2781,arm,film
+here  pid:    17    tupleIndex:   31
+2847,aircraft,cup
+here  pid:    17    tupleIndex:   32
+2896,rifle,telescope
+here  pid:    18    tupleIndex:   1
+1065,feather,bird
+here  pid:    18    tupleIndex:   2
+1096,post,liquid
+here  pid:    18    tupleIndex:   3
+1099,sword,bird
+here  pid:    18    tupleIndex:   4
+1171,hot,army
+here  pid:    18    tupleIndex:   5
+1229,sword,stomach
+here  pid:    18    tupleIndex:   6
+1242,ship,alphabet
+here  pid:    18    tupleIndex:   7
+1244,carpet,library
+here  pid:    18    tupleIndex:   8
+1264,jet-fighter,festival
+here  pid:    18    tupleIndex:   9
+1314,pocket,pants
+here  pid:    18    tupleIndex:   10
+1379,circus,pendulum
+here  pid:    18    tupleIndex:   11
+1613,sword,chess-board
+here  pid:    18    tupleIndex:   12
+1686,airport,stomach
+here  pid:    18    tupleIndex:   13
+1867,man,computer
+here  pid:    18    tupleIndex:   14
+1918,vulture,printer
+here  pid:    18    tupleIndex:   15
+2042,airforce,book
+here  pid:    18    tupleIndex:   16
+2060,sphere,leg
+here  pid:    18    tupleIndex:   17
+2164,win,ice-cream
+here  pid:    18    tupleIndex:   18
+2262,mosquito,skeleton
+here  pid:    18    tupleIndex:   19
+2395,flower,bird
+here  pid:    18    tupleIndex:   20
+2417,circus,gemstone
+here  pid:    18    tupleIndex:   21
+2501,umbrella,paintbrush
+here  pid:    18    tupleIndex:   22
+2598,vulture,girl
+here  pid:    18    tupleIndex:   23
+2623,drink,sun
+here  pid:    18    tupleIndex:   24
+2761,airforce,alphabet
+here  pid:    18    tupleIndex:   25
+2942,hat,torpedo
+here  pid:    18    tupleIndex:   26
+2953,man,cup
+here  pid:    18    tupleIndex:   27
+2976,chief,shop
+here  pid:    19    tupleIndex:   1
+1024,airforce,salt
+here  pid:    19    tupleIndex:   2
+1026,hot,pin
+here  pid:    19    tupleIndex:   3
+1204,needle,gas
+here  pid:    19    tupleIndex:   4
+1451,needle,garden
+here  pid:    19    tupleIndex:   5
+1495,jet-fighter,computer
+here  pid:    19    tupleIndex:   6
+1524,drink,army
+here  pid:    19    tupleIndex:   7
+1567,needle,window
+here  pid:    19    tupleIndex:   8
+1720,jet-fighter,printer
+here  pid:    19    tupleIndex:   9
+1728,coffee-shop,girl
+here  pid:    19    tupleIndex:   10
+2006,jet-fighter,church
+here  pid:    19    tupleIndex:   11
+2081,airport,ice-cream
+here  pid:    19    tupleIndex:   12
+2216,star,surveyor
+here  pid:    19    tupleIndex:   13
+2440,drink,junk
+here  pid:    19    tupleIndex:   14
+2551,rib,elephant
+here  pid:    19    tupleIndex:   15
+2641,plane,robot
+here  pid:    19    tupleIndex:   16
+2667,balloon,clown
+here  pid:    19    tupleIndex:   17
+2721,balloon,telescope
+here  pid:    19    tupleIndex:   18
+2757,umbrella,window
+here  pid:    19    tupleIndex:   19
+2789,hieroglyph,elephant
+here  pid:    19    tupleIndex:   20
+2919,post,gas
+here  pid:    19    tupleIndex:   21
+2925,clock,pin
+here  pid:    19    tupleIndex:   22
+2947,shower,junk
+here  pid:    20    tupleIndex:   1
+1035,wheelchair,finger
+here  pid:    20    tupleIndex:   2
+1139,software,dog
+here  pid:    20    tupleIndex:   3
+1156,dress,desk
+here  pid:    20    tupleIndex:   4
+1181,foot,brain
+here  pid:    20    tupleIndex:   5
+1236,gasp,tennis
+here  pid:    20    tupleIndex:   6
+1256,room,typewriter
+here  pid:    20    tupleIndex:   7
+1511,bank,weapon
+here  pid:    20    tupleIndex:   8
+1548,ice,kaleidoscope
+here  pid:    20    tupleIndex:   9
+1604,navy,tunnel
+here  pid:    20    tupleIndex:   10
+1644,spice,compact-disc
+here  pid:    20    tupleIndex:   11
+1714,parachute,treadmill
+here  pid:    20    tupleIndex:   12
+1869,chair,weapon
+here  pid:    20    tupleIndex:   13
+1877,roof,slave
+here  pid:    20    tupleIndex:   14
+1927,carrot,spotlight
+here  pid:    20    tupleIndex:   15
+2012,circle,tunnel
+here  pid:    20    tupleIndex:   16
+2041,foot,kitchen
+here  pid:    20    tupleIndex:   17
+2078,game,treadmill
+here  pid:    20    tupleIndex:   18
+2128,arm,dog
+here  pid:    20    tupleIndex:   19
+2288,fork,chisel
+here  pid:    20    tupleIndex:   20
+2329,drum,tunnel
+here  pid:    20    tupleIndex:   21
+2337,famine,brain
+here  pid:    20    tupleIndex:   22
+2358,ice,sunglasses
+here  pid:    20    tupleIndex:   23
+2408,hose,highway
+here  pid:    20    tupleIndex:   24
+2469,nail,bottle
+here  pid:    20    tupleIndex:   25
+2515,zebra,bee
+here  pid:    20    tupleIndex:   26
+2750,eraser,saddle
+here  pid:    20    tupleIndex:   27
+2816,magnet,snail
+here  pid:    20    tupleIndex:   28
+2819,table,cappuccino
+here  pid:    20    tupleIndex:   29
+2826,tiger,prison
+here  pid:    20    tupleIndex:   30
+2954,diamond,fruit
+here  pid:    20    tupleIndex:   31
+2987,ice,car-race
+here  pid:    21    tupleIndex:   1
+1039,aircraft,rainbow
+here  pid:    21    tupleIndex:   2
+1060,horse,ears
+here  pid:    21    tupleIndex:   3
+1148,nail,typewriter
+here  pid:    21    tupleIndex:   4
+1213,wheelchair,weapon
+here  pid:    21    tupleIndex:   5
+1376,fan,comet
+here  pid:    21    tupleIndex:   6
+1426,spice,slave
+here  pid:    21    tupleIndex:   7
+1590,planet,zoo
+here  pid:    21    tupleIndex:   8
+1618,rocket,vacuum
+here  pid:    21    tupleIndex:   9
+1749,pyramid,car-race
+here  pid:    21    tupleIndex:   10
+1757,magnet,ring
+here  pid:    21    tupleIndex:   11
+1788,record,chisel
+here  pid:    21    tupleIndex:   12
+1859,navy,finger
+here  pid:    21    tupleIndex:   13
+1882,set,woman
+here  pid:    21    tupleIndex:   14
+1889,mist,tongue
+here  pid:    21    tupleIndex:   15
+1919,wheelchair,tunnel
+here  pid:    21    tupleIndex:   16
+1931,pillow,rainbow
+here  pid:    21    tupleIndex:   17
+1983,torch,banana
+here  pid:    21    tupleIndex:   18
+2015,navy,backpack
+here  pid:    21    tupleIndex:   19
+2068,bed,fruit
+here  pid:    21    tupleIndex:   20
+2118,famine,double
+here  pid:    21    tupleIndex:   21
+2124,monster,chisel
+here  pid:    21    tupleIndex:   22
+2168,rock,tongue
+here  pid:    21    tupleIndex:   23
+2233,satellite,ring
+here  pid:    21    tupleIndex:   24
+2351,foot,map
+here  pid:    21    tupleIndex:   25
+2356,pith,thermometer
+here  pid:    21    tupleIndex:   26
+2606,navy,album
+here  pid:    21    tupleIndex:   27
+2616,baby,compact-disc
+here  pid:    21    tupleIndex:   28
+2668,gasp,family
+here  pid:    21    tupleIndex:   29
+2773,leather,car-race
+here  pid:    21    tupleIndex:   30
+2833,mist,snail
+here  pid:    22    tupleIndex:   1
+1166,milk,snail
+here  pid:    22    tupleIndex:   2
+1215,rib,videotape
+here  pid:    22    tupleIndex:   3
+1295,drink,butterfly
+here  pid:    22    tupleIndex:   4
+1321,bomb,sunglasses
+here  pid:    22    tupleIndex:   5
+1410,fin,tapestry
+here  pid:    22    tupleIndex:   6
+1481,circus,meat
+here  pid:    22    tupleIndex:   7
+1515,square,tapestry
+here  pid:    22    tupleIndex:   8
+1536,circus,woman
+here  pid:    22    tupleIndex:   9
+1560,space,kitchen
+here  pid:    22    tupleIndex:   10
+1620,vulture,spotlight
+here  pid:    22    tupleIndex:   11
+1678,onion,banana
+here  pid:    22    tupleIndex:   12
+1717,radar,solid
+here  pid:    22    tupleIndex:   13
+1745,feather,passport
+here  pid:    22    tupleIndex:   14
+1781,milk,videotape
+here  pid:    22    tupleIndex:   15
+1793,boss,hammer
+here  pid:    22    tupleIndex:   16
+1847,sword,solid
+here  pid:    22    tupleIndex:   17
+1873,jet-fighter,typewriter
+here  pid:    22    tupleIndex:   18
+1939,circus,highway
+here  pid:    22    tupleIndex:   19
+1941,drink,typewriter
+here  pid:    22    tupleIndex:   20
+2066,shower,desk
+here  pid:    22    tupleIndex:   21
+2097,carpet,chisel
+here  pid:    22    tupleIndex:   22
+2163,drill,hammer
+here  pid:    22    tupleIndex:   23
+2378,spoon,spotlight
+here  pid:    22    tupleIndex:   24
+2575,umbrella,bee
+here  pid:    22    tupleIndex:   25
+2605,compass,tennis
+here  pid:    22    tupleIndex:   26
+2628,boy,tapestry
+here  pid:    22    tupleIndex:   27
+2646,sword,butterfly
+here  pid:    22    tupleIndex:   28
+2702,star,passport
+here  pid:    22    tupleIndex:   29
+2779,pocket,slave
+here  pid:    22    tupleIndex:   30
+2810,feather,butterfly
+here  pid:    22    tupleIndex:   31
+2945,circus,kaleidoscope
+here  pid:    23    tupleIndex:   1
+1009,crystal,treadmill
+here  pid:    23    tupleIndex:   2
+1070,vampire,solid
+here  pid:    23    tupleIndex:   3
+1072,plane,ears
+here  pid:    23    tupleIndex:   4
+1114,boy,spotlight
+here  pid:    23    tupleIndex:   5
+1136,adult,desk
+here  pid:    23    tupleIndex:   6
+1167,floodlight,school
+here  pid:    23    tupleIndex:   7
+1172,horoscope,slave
+here  pid:    23    tupleIndex:   8
+1199,coffee-shop,bathroom
+here  pid:    23    tupleIndex:   9
+1202,button,snail
+here  pid:    23    tupleIndex:   10
+1252,airport,school
+here  pid:    23    tupleIndex:   11
+1553,circus,desk
+here  pid:    23    tupleIndex:   12
+1564,spiral,weapon
+here  pid:    23    tupleIndex:   13
+1608,radar,sunglasses
+here  pid:    23    tupleIndex:   14
+1629,spiral,chisel
+here  pid:    23    tupleIndex:   15
+1735,airforce,tapestry
+here  pid:    23    tupleIndex:   16
+1816,needle,family
+here  pid:    23    tupleIndex:   17
+1824,drink,guitar
+here  pid:    23    tupleIndex:   18
+1855,feather,car-race
+here  pid:    23    tupleIndex:   19
+1910,x-ray,sandpaper
+here  pid:    23    tupleIndex:   20
+1955,dung,vacuum
+here  pid:    23    tupleIndex:   21
+2075,sword,car-race
+here  pid:    23    tupleIndex:   22
+2087,flower,key
+here  pid:    23    tupleIndex:   23
+2229,drink,child
+here  pid:    23    tupleIndex:   24
+2310,airforce,typewriter
+here  pid:    23    tupleIndex:   25
+2474,carpet,sunglasses
+here  pid:    23    tupleIndex:   26
+2532,spoon,weapon
+here  pid:    23    tupleIndex:   27
+2545,milk,cave
+here  pid:    23    tupleIndex:   28
+2741,spiral,snail
+here  pid:    23    tupleIndex:   29
+2901,vampire,slave
+here  pid:    23    tupleIndex:   30
+2989,win,family
+here  pid:    24    tupleIndex:   1
+1061,fork,television
+here  pid:    24    tupleIndex:   2
+1125,carrot,bowl
+here  pid:    24    tupleIndex:   3
+1263,teeth,clown
+here  pid:    24    tupleIndex:   4
+1301,table,library
+here  pid:    24    tupleIndex:   5
+1360,record,apple
+here  pid:    24    tupleIndex:   6
+1381,table,sports-car
+here  pid:    24    tupleIndex:   7
+1395,spectrum,signature
+here  pid:    24    tupleIndex:   8
+1419,staircase,web
+here  pid:    24    tupleIndex:   9
+1473,barbecue,pin
+here  pid:    24    tupleIndex:   10
+1482,bed,apple
+here  pid:    24    tupleIndex:   11
+1489,explosive,shop
+here  pid:    24    tupleIndex:   12
+1551,fungus,stomach
+here  pid:    24    tupleIndex:   13
+1587,drum,pendulum
+here  pid:    24    tupleIndex:   14
+1685,explosive,film
+here  pid:    24    tupleIndex:   15
+1701,software,church
+here  pid:    24    tupleIndex:   16
+1721,teeth,film
+here  pid:    24    tupleIndex:   17
+1854,foot,liquid
+here  pid:    24    tupleIndex:   18
+2000,tiger,ice-cream
+here  pid:    24    tupleIndex:   19
+2019,hose,toilet
+here  pid:    24    tupleIndex:   20
+2036,game,chess-board
+here  pid:    24    tupleIndex:   21
+2117,potato,paintbrush
+here  pid:    24    tupleIndex:   22
+2120,fan,salt
+here  pid:    24    tupleIndex:   23
+2130,restaurant,box
+here  pid:    24    tupleIndex:   24
+2190,tiger,bowl
+here  pid:    24    tupleIndex:   25
+2366,record,ice-cream
+here  pid:    24    tupleIndex:   26
+2367,fan,sports-car
+here  pid:    24    tupleIndex:   27
+2445,fan,gemstone
+here  pid:    24    tupleIndex:   28
+2657,rifle,elephant
+here  pid:    24    tupleIndex:   29
+2787,pepper,paintbrush
+here  pid:    24    tupleIndex:   30
+2792,aircraft,train
+here  pid:    24    tupleIndex:   31
+2801,cat,apple
+here  pid:    24    tupleIndex:   32
+2875,diamond,apple
+here  pid:    24    tupleIndex:   33
+2931,rock,surveyor
+here  pid:    25    tupleIndex:   1
+1005,yellow,festival
+here  pid:    25    tupleIndex:   2
+1081,table,bird
+here  pid:    25    tupleIndex:   3
+1094,baby,rope
+here  pid:    25    tupleIndex:   4
+1109,room,film
+here  pid:    25    tupleIndex:   5
+1150,satellite,army
+here  pid:    25    tupleIndex:   6
+1163,cat,pendulum
+here  pid:    25    tupleIndex:   7
+1190,pepper,bowl
+here  pid:    25    tupleIndex:   8
+1374,spectrum,junk
+here  pid:    25    tupleIndex:   9
+1387,gate,junk
+here  pid:    25    tupleIndex:   10
+1592,coffee,library
+here  pid:    25    tupleIndex:   11
+1603,potato,girl
+here  pid:    25    tupleIndex:   12
+1609,tiger,pants
+here  pid:    25    tupleIndex:   13
+1705,horse,box
+here  pid:    25    tupleIndex:   14
+1792,gasp,box
+here  pid:    25    tupleIndex:   15
+1843,rifle,sun
+here  pid:    25    tupleIndex:   16
+1940,restaurant,sports-car
+here  pid:    25    tupleIndex:   17
+1944,tiger,library
+here  pid:    25    tupleIndex:   18
+1957,baby,telescope
+here  pid:    25    tupleIndex:   19
+2308,foot,festival
+here  pid:    25    tupleIndex:   20
+2494,teeth,torpedo
+here  pid:    25    tupleIndex:   21
+2597,teeth,pendulum
+here  pid:    25    tupleIndex:   22
+2619,satellite,leg
+here  pid:    25    tupleIndex:   23
+2660,foot,robot
+here  pid:    25    tupleIndex:   24
+2708,eraser,pin
+here  pid:    25    tupleIndex:   25
+2759,earth,cup
+here  pid:    25    tupleIndex:   26
+2784,cycle,elephant
+here  pid:    25    tupleIndex:   27
+2883,earth,pants
+here  pid:    25    tupleIndex:   28
+2982,bed,shoes
+here  pid:    26    tupleIndex:   1
+1086,floodlight,cup
+here  pid:    26    tupleIndex:   2
+1200,chief,library
+here  pid:    26    tupleIndex:   3
+1318,eyes,festival
+here  pid:    26    tupleIndex:   4
+1398,coffee-shop,torpedo
+here  pid:    26    tupleIndex:   5
+1445,drink,ice-cream
+here  pid:    26    tupleIndex:   6
+1508,airport,telescope
+here  pid:    26    tupleIndex:   7
+1568,x-ray,girl
+here  pid:    26    tupleIndex:   8
+1765,drink,book
+here  pid:    26    tupleIndex:   9
+1823,drink,bird
+here  pid:    26    tupleIndex:   10
+1888,plane,computer
+here  pid:    26    tupleIndex:   11
+1922,hot,telescope
+here  pid:    26    tupleIndex:   12
+1966,jet-fighter,train
+here  pid:    26    tupleIndex:   13
+1980,aeroplane,ice-cream
+here  pid:    26    tupleIndex:   14
+2116,eyes,window
+here  pid:    26    tupleIndex:   15
+2171,pocket,gloves
+here  pid:    26    tupleIndex:   16
+2294,airport,torpedo
+here  pid:    26    tupleIndex:   17
+2322,flower,festival
+here  pid:    26    tupleIndex:   18
+2454,airport,junk
+here  pid:    26    tupleIndex:   19
+2493,radar,toilet
+here  pid:    26    tupleIndex:   20
+2520,dung,junk
+here  pid:    26    tupleIndex:   21
+2671,mum,liquid
+here  pid:    26    tupleIndex:   22
+2719,clock,gas
+here  pid:    26    tupleIndex:   23
+2740,boy,shop
+here  pid:    26    tupleIndex:   24
+2799,flower,gas
+here  pid:    26    tupleIndex:   25
+2908,plane,oodle
+here  pid:    26    tupleIndex:   26
+2941,spiral,leg
+here  pid:    27    tupleIndex:   1
+1056,sword,library
+here  pid:    27    tupleIndex:   2
+1059,feather,yawn
+here  pid:    27    tupleIndex:   3
+1124,radar,surveyor
+here  pid:    27    tupleIndex:   4
+1162,sphere,pin
+here  pid:    27    tupleIndex:   5
+1241,clock,rope
+here  pid:    27    tupleIndex:   6
+1531,adult,cup
+here  pid:    27    tupleIndex:   7
+1549,mum,telescope
+here  pid:    27    tupleIndex:   8
+1730,spoon,sun
+here  pid:    27    tupleIndex:   9
+1796,onion,yawn
+here  pid:    27    tupleIndex:   10
+2040,mosquito,computer
+here  pid:    27    tupleIndex:   11
+2072,man,telescope
+here  pid:    27    tupleIndex:   12
+2136,floodlight,clown
+here  pid:    27    tupleIndex:   13
+2245,jet-fighter,computer
+here  pid:    27    tupleIndex:   14
+2264,triangle,book
+here  pid:    27    tupleIndex:   15
+2320,spoon,gas
+here  pid:    27    tupleIndex:   16
+2345,win,toilet
+here  pid:    27    tupleIndex:   17
+2435,circus,festival
+here  pid:    27    tupleIndex:   18
+2456,airforce,ice-cream
+here  pid:    27    tupleIndex:   19
+2650,horoscope,surveyor
+here  pid:    27    tupleIndex:   20
+2676,circus,apple
+here  pid:    27    tupleIndex:   21
+2697,hot,clown
+here  pid:    27    tupleIndex:   22
+2842,floodlight,gas
+here  pid:    27    tupleIndex:   23
+2933,adult,robot
+here  pid:    27    tupleIndex:   24
+2971,spiral,apple
+here  pid:    27    tupleIndex:   25
+2984,flower,liquid
+here  pid:    28    tupleIndex:   1
+1007,gasp,rainbow
+here  pid:    28    tupleIndex:   2
+1044,sandwich,comet
+here  pid:    28    tupleIndex:   3
+1097,egg,treadmill
+here  pid:    28    tupleIndex:   4
+1146,planet,family
+here  pid:    28    tupleIndex:   5
+1211,maze,eyes
+here  pid:    28    tupleIndex:   6
+1224,satellite,slave
+here  pid:    28    tupleIndex:   7
+1285,maze,cave
+here  pid:    28    tupleIndex:   8
+1296,freeway,backpack
+here  pid:    28    tupleIndex:   9
+1305,room,microscope
+here  pid:    28    tupleIndex:   10
+1328,chair,radar
+here  pid:    28    tupleIndex:   11
+1333,ice,meteor
+here  pid:    28    tupleIndex:   12
+1364,barbecue,money
+here  pid:    28    tupleIndex:   13
+1367,record,sunglasses
+here  pid:    28    tupleIndex:   14
+1372,chair,feather
+here  pid:    28    tupleIndex:   15
+1446,circle,pebble
+here  pid:    28    tupleIndex:   16
+1479,water,circus
+here  pid:    28    tupleIndex:   17
+1490,dress,chisel
+here  pid:    28    tupleIndex:   18
+1516,mouth,worm
+here  pid:    28    tupleIndex:   19
+1518,water,pocket
+here  pid:    28    tupleIndex:   20
+1570,record,snail
+here  pid:    28    tupleIndex:   21
 1589,foot,sword
-2739,adult,sword
+here  pid:    28    tupleIndex:   22
+1674,foot,hot
+here  pid:    28    tupleIndex:   23
+1713,room,swim
+here  pid:    28    tupleIndex:   24
+1716,horse,dingbat
+here  pid:    28    tupleIndex:   25
+1737,water,boy
+here  pid:    28    tupleIndex:   26
+1779,pepper,videotape
+here  pid:    28    tupleIndex:   27
+1799,bank,pocket
+here  pid:    28    tupleIndex:   28
+1835,knife,fin
+here  pid:    28    tupleIndex:   29
+1851,eraser,slave
+here  pid:    28    tupleIndex:   30
+1874,earth,meat
+here  pid:    28    tupleIndex:   31
+1890,milkshake,videotape
+here  pid:    28    tupleIndex:   32
+1921,magnet,woman
+here  pid:    28    tupleIndex:   33
+1947,potato,bomb
+here  pid:    28    tupleIndex:   34
+1973,pith,ship
+here  pid:    28    tupleIndex:   35
+2005,pillow,plane
+here  pid:    28    tupleIndex:   36
+2030,earth,air
+here  pid:    28    tupleIndex:   37
+2039,staircase,plane
+here  pid:    28    tupleIndex:   38
+2092,fork,tongue
+here  pid:    28    tupleIndex:   39
+2132,spice,carpet
+here  pid:    28    tupleIndex:   40
+2183,game,floodlight
+here  pid:    28    tupleIndex:   41
+2202,satellite,double
+here  pid:    28    tupleIndex:   42
+2236,baby,drink
+here  pid:    28    tupleIndex:   43
+2305,pillow,man
+here  pid:    28    tupleIndex:   44
+2330,eraser,thermometer
+here  pid:    28    tupleIndex:   45
+2412,cat,swim
+here  pid:    28    tupleIndex:   46
+2436,rock,rib
+here  pid:    28    tupleIndex:   47
+2453,maze,milk
+here  pid:    28    tupleIndex:   48
+2502,restaurant,circus
+here  pid:    28    tupleIndex:   49
+2522,room,album
+here  pid:    28    tupleIndex:   50
+2544,set,meteor
+here  pid:    28    tupleIndex:   51
+2560,record,carpet
+here  pid:    28    tupleIndex:   52
+2563,mist,child
+here  pid:    28    tupleIndex:   53
+2593,cycle,button
+here  pid:    28    tupleIndex:   54
+2601,set,map
+here  pid:    28    tupleIndex:   55
+2665,bank,balloon
+here  pid:    28    tupleIndex:   56
+2682,carrot,vulture
+here  pid:    29    tupleIndex:   1
+1055,pillow,child
+here  pid:    29    tupleIndex:   2
+1091,rock,x-ray
+here  pid:    29    tupleIndex:   3
+1160,rifle,mosquito
+here  pid:    29    tupleIndex:   4
+1178,table,backpack
+here  pid:    29    tupleIndex:   5
+1198,earth,highway
+here  pid:    29    tupleIndex:   6
+1216,bed,worm
+here  pid:    29    tupleIndex:   7
+1384,room,hat
+here  pid:    29    tupleIndex:   8
+1406,cat,comet
+here  pid:    29    tupleIndex:   9
+1411,baby,aeroplane
+here  pid:    29    tupleIndex:   10
+1475,rock,boss
+here  pid:    29    tupleIndex:   11
+1492,diamond,man
+here  pid:    29    tupleIndex:   12
+1533,bed,backpack
+here  pid:    29    tupleIndex:   13
+1547,monster,fruit
+here  pid:    29    tupleIndex:   14
+1585,rifle,carpet
+here  pid:    29    tupleIndex:   15
+1598,set,plane
+here  pid:    29    tupleIndex:   16
+1614,baby,solid
+here  pid:    29    tupleIndex:   17
+1621,parachute,money
+here  pid:    29    tupleIndex:   18
+1651,fork,clock
+here  pid:    29    tupleIndex:   19
+1657,cat,worm
+here  pid:    29    tupleIndex:   20
+1672,wheelchair,horoscope
+here  pid:    29    tupleIndex:   21
+1736,ice,boss
+here  pid:    29    tupleIndex:   22
+1751,chair,tapestry
+here  pid:    29    tupleIndex:   23
+1761,grapes,circus
+here  pid:    29    tupleIndex:   24
+1762,drum,mosquito
+here  pid:    29    tupleIndex:   25
+1783,horse,hat
+here  pid:    29    tupleIndex:   26
+2007,room,boy
+here  pid:    29    tupleIndex:   27
+2085,monster,dog
+here  pid:    29    tupleIndex:   28
+2108,game,rib
+here  pid:    29    tupleIndex:   29
+2187,aircraft,videotape
+here  pid:    29    tupleIndex:   30
+2205,record,rib
+here  pid:    29    tupleIndex:   31
+2227,arm,meat
+here  pid:    29    tupleIndex:   32
+2235,zebra,cave
+here  pid:    29    tupleIndex:   33
+2237,mist,airforce
+here  pid:    29    tupleIndex:   34
+2252,yellow,finger
+here  pid:    29    tupleIndex:   35
+2269,pyramid,map
+here  pid:    29    tupleIndex:   36
+2353,barbecue,videotape
+here  pid:    29    tupleIndex:   37
+2397,bridge,meat
+here  pid:    29    tupleIndex:   38
+2398,zebra,vacuum
+here  pid:    29    tupleIndex:   39
+2422,car,meat
+here  pid:    29    tupleIndex:   40
+2492,earth,triangle
+here  pid:    29    tupleIndex:   41
+2512,wheelchair,floodlight
+here  pid:    29    tupleIndex:   42
+2553,satellite,onion
+here  pid:    29    tupleIndex:   43
+2574,table,balloon
+here  pid:    29    tupleIndex:   44
+2621,water,cave
+here  pid:    29    tupleIndex:   45
+2647,rocket,shower
+here  pid:    29    tupleIndex:   46
+2648,freeway,floodlight
+here  pid:    29    tupleIndex:   47
+2692,satellite,chisel
+here  pid:    29    tupleIndex:   48
+2710,baby,adult
+here  pid:    29    tupleIndex:   49
+2748,pillow,button
+here  pid:    29    tupleIndex:   50
+2751,chocolates,needle
+here  pid:    29    tupleIndex:   51
+2756,car,child
+here  pid:    29    tupleIndex:   52
+2760,baby,bathroom
+here  pid:    29    tupleIndex:   53
+2797,rifle,dung
+here  pid:    29    tupleIndex:   54
+2798,monster,desk
+here  pid:    29    tupleIndex:   55
+2812,set,drill
+here  pid:    29    tupleIndex:   56
+2820,mist,spoon
+here  pid:    30    tupleIndex:   1
+1003,drill,sunglasses
+here  pid:    30    tupleIndex:   2
+1022,perfume,air
+here  pid:    30    tupleIndex:   3
+1027,sword,highway
+here  pid:    30    tupleIndex:   4
+1076,insect,saddle
+here  pid:    30    tupleIndex:   5
+1138,aeroplane,treadmill
+here  pid:    30    tupleIndex:   6
+1141,jet-fighter,thermometer
+here  pid:    30    tupleIndex:   7
+1277,adult,school
+here  pid:    30    tupleIndex:   8
+1312,triangle,woman
+here  pid:    30    tupleIndex:   9
+1409,drink,mosquito
+here  pid:    30    tupleIndex:   10
+1424,milk,meteor
+here  pid:    30    tupleIndex:   11
+1427,drink,bomb
+here  pid:    30    tupleIndex:   12
+1439,plane,boss
+here  pid:    30    tupleIndex:   13
+1487,drink,aeroplane
+here  pid:    30    tupleIndex:   14
+1501,vampire,eyes
+here  pid:    30    tupleIndex:   15
+1512,hot,bee
+here  pid:    30    tupleIndex:   16
+1559,chief,slave
+here  pid:    30    tupleIndex:   17
+1561,insect,vulture
+here  pid:    30    tupleIndex:   18
+1695,triangle,cave
+here  pid:    30    tupleIndex:   19
+1743,jet-fighter,floodlight
+here  pid:    30    tupleIndex:   20
+1769,circus,dog
+here  pid:    30    tupleIndex:   21
+1791,boy,umbrella
+here  pid:    30    tupleIndex:   22
+1800,win,vampire
+here  pid:    30    tupleIndex:   23
+1821,pocket,snail
+here  pid:    30    tupleIndex:   24
+1891,dung,sandpaper
+here  pid:    30    tupleIndex:   25
+1902,vulture,drink
+here  pid:    30    tupleIndex:   26
+1949,boy,desk
+here  pid:    30    tupleIndex:   27
+1959,bomb,compass
+here  pid:    30    tupleIndex:   28
+1993,bomb,hat
+here  pid:    30    tupleIndex:   29
+2022,vampire,mum
+here  pid:    30    tupleIndex:   30
+2029,spoon,drink
+here  pid:    30    tupleIndex:   31
+2074,pebble,passport
+here  pid:    30    tupleIndex:   32
+2144,fin,air
+here  pid:    30    tupleIndex:   33
+2152,floodlight,fire
+here  pid:    30    tupleIndex:   34
+2160,clock,ears
+here  pid:    30    tupleIndex:   35
+2173,win,banana
+here  pid:    30    tupleIndex:   36
+2231,spiral,needle
+here  pid:    30    tupleIndex:   37
+2248,man,kitchen
+here  pid:    30    tupleIndex:   38
+2249,chief,bee
+here  pid:    30    tupleIndex:   39
+2284,star,star
+here  pid:    30    tupleIndex:   40
+2292,pocket,star
+here  pid:    30    tupleIndex:   41
+2299,post,hammer
+here  pid:    30    tupleIndex:   42
+2311,airforce,vampire
+here  pid:    30    tupleIndex:   43
+2327,airforce,radar
+here  pid:    30    tupleIndex:   44
+2328,hot,tunnel
+here  pid:    30    tupleIndex:   45
+2391,vulture,bathtub
+here  pid:    30    tupleIndex:   46
+2402,triangle,chief
+here  pid:    30    tupleIndex:   47
+2433,perfume,fire
+here  pid:    30    tupleIndex:   48
+2444,circus,desk
+here  pid:    30    tupleIndex:   49
+2541,boy,compass
+here  pid:    30    tupleIndex:   50
+2567,coffee-shop,space
+here  pid:    30    tupleIndex:   51
+2604,sword,adult
+here  pid:    30    tupleIndex:   52
+2669,boss,double
+here  pid:    30    tupleIndex:   53
+2700,swim,eyes
+here  pid:    30    tupleIndex:   54
+2718,radar,thermometer
+here  pid:    30    tupleIndex:   55
+2888,post,cave
+here  pid:    31    tupleIndex:   1
+1014,sword,carpet
+here  pid:    31    tupleIndex:   2
+1030,vampire,hot
+here  pid:    31    tupleIndex:   3
+1031,fin,kaleidoscope
+here  pid:    31    tupleIndex:   4
+1052,square,treadmill
+here  pid:    31    tupleIndex:   5
+1085,perfume,album
+here  pid:    31    tupleIndex:   6
+1090,spiral,needle
+here  pid:    31    tupleIndex:   7
+1152,man,bottle
+here  pid:    31    tupleIndex:   8
+1183,carpet,hat
+here  pid:    31    tupleIndex:   9
+1209,floodlight,worm
+here  pid:    31    tupleIndex:   10
+1235,perfume,compact-disc
+here  pid:    31    tupleIndex:   11
+1239,carpet,cave
+here  pid:    31    tupleIndex:   12
+1255,sword,key
+here  pid:    31    tupleIndex:   13
+1261,umbrella,album
+here  pid:    31    tupleIndex:   14
+1279,pebble,banana
+here  pid:    31    tupleIndex:   15
+1289,win,sandpaper
+here  pid:    31    tupleIndex:   16
+1306,feather,typewriter
+here  pid:    31    tupleIndex:   17
+1349,vulture,worm
+here  pid:    31    tupleIndex:   18
+1388,button,solid
+here  pid:    31    tupleIndex:   19
+1402,button,boss
+here  pid:    31    tupleIndex:   20
+1430,circus,floodlight
+here  pid:    31    tupleIndex:   21
+1434,jet-fighter,insect
+here  pid:    31    tupleIndex:   22
+1448,coffee-shop,passport
+here  pid:    31    tupleIndex:   23
+1496,post,zoo
+here  pid:    31    tupleIndex:   24
+1503,chief,needle
+here  pid:    31    tupleIndex:   25
+1556,rib,cave
+here  pid:    31    tupleIndex:   26
+1602,umbrella,money
+here  pid:    31    tupleIndex:   27
+1643,spoon,woman
+here  pid:    31    tupleIndex:   28
+1670,spoon,clock
+here  pid:    31    tupleIndex:   29
+1753,pocket,balloon
+here  pid:    31    tupleIndex:   30
+1786,needle,finger
+here  pid:    31    tupleIndex:   31
 1812,adult,sword
+here  pid:    31    tupleIndex:   32
+1818,boss,coffee-shop
+here  pid:    31    tupleIndex:   33
+1819,vulture,star
+here  pid:    31    tupleIndex:   34
+1981,hat,clock
+here  pid:    31    tupleIndex:   35
+1996,umbrella,post
+here  pid:    31    tupleIndex:   36
+1997,star,tapestry
+here  pid:    31    tupleIndex:   37
+2013,spoon,tennis
+here  pid:    31    tupleIndex:   38
+2049,spiral,radar
+here  pid:    31    tupleIndex:   39
+2098,pocket,ship
+here  pid:    31    tupleIndex:   40
+2134,pocket,zoo
+here  pid:    31    tupleIndex:   41
+2145,swim,microscope
+here  pid:    31    tupleIndex:   42
+2208,spoon,prison
+here  pid:    31    tupleIndex:   43
+2221,fin,butterfly
+here  pid:    31    tupleIndex:   44
+2247,umbrella,tennis
+here  pid:    31    tupleIndex:   45
+2270,balloon,win
+here  pid:    31    tupleIndex:   46
+2335,circus,shower
+here  pid:    31    tupleIndex:   47
+2370,hat,clock
+here  pid:    31    tupleIndex:   48
+2389,milk,feather
+here  pid:    31    tupleIndex:   49
+2418,chief,hat
+here  pid:    31    tupleIndex:   50
+2439,milk,insect
+here  pid:    31    tupleIndex:   51
+2460,plane,banana
+here  pid:    31    tupleIndex:   52
+2466,win,hammer
+here  pid:    31    tupleIndex:   53
+2495,chief,highway
+here  pid:    31    tupleIndex:   54
+2518,floodlight,finger
+here  pid:    32    tupleIndex:   1
+1073,film,fungus
+here  pid:    32    tupleIndex:   2
+1115,necklace,explosive
+here  pid:    32    tupleIndex:   3
+1155,web,spectrum
+here  pid:    32    tupleIndex:   4
+1214,clown,carrot
+here  pid:    32    tupleIndex:   5
+1396,book,leather
+here  pid:    32    tupleIndex:   6
+1563,leg,arm
+here  pid:    32    tupleIndex:   7
+1565,apple,cat
+here  pid:    32    tupleIndex:   8
+1579,computer,rock
+here  pid:    32    tupleIndex:   9
+1610,film,barbecue
+here  pid:    32    tupleIndex:   10
+1647,gas,barbecue
+here  pid:    32    tupleIndex:   11
+1789,pin,magnet
+here  pid:    32    tupleIndex:   12
+1903,alphabet,room
+here  pid:    32    tupleIndex:   13
+1950,junk,barbecue
+here  pid:    32    tupleIndex:   14
+1971,sports-car,sandwich
+here  pid:    32    tupleIndex:   15
+1976,box,explosive
+here  pid:    32    tupleIndex:   16
+2044,necklace,set
+here  pid:    32    tupleIndex:   17
+2126,apple,earth
+here  pid:    32    tupleIndex:   18
+2150,clown,nail
+here  pid:    32    tupleIndex:   19
+2177,pendulum,famine
+here  pid:    32    tupleIndex:   20
+2259,robot,bridge
+here  pid:    32    tupleIndex:   21
+2289,rope,torch
+here  pid:    32    tupleIndex:   22
+2325,liquid,fan
+here  pid:    32    tupleIndex:   23
+2339,train,pyramid
+here  pid:    32    tupleIndex:   24
+2399,apple,zebra
+here  pid:    32    tupleIndex:   25
+2478,salt,maze
+here  pid:    32    tupleIndex:   26
+2508,bowl,fork
+here  pid:    32    tupleIndex:   27
+2511,telescope,carrot
+here  pid:    32    tupleIndex:   28
+2651,television,wheelchair
+here  pid:    32    tupleIndex:   29
+2730,skeleton,knife
+here  pid:    32    tupleIndex:   30
+2734,junk,car
+here  pid:    32    tupleIndex:   31
+2836,bird,pillow
+here  pid:    32    tupleIndex:   32
+2897,window,electricity
+here  pid:    32    tupleIndex:   33
+2955,rope,aircraft
+here  pid:    32    tupleIndex:   34
+2957,army,bank
+here  pid:    32    tupleIndex:   35
+2996,robot,sandwich
+here  pid:    33    tupleIndex:   1
+1113,book,pyramid
+here  pid:    33    tupleIndex:   2
+1140,rope,teeth
+here  pid:    33    tupleIndex:   3
+1262,liquid,fan
+here  pid:    33    tupleIndex:   4
+1416,shop,rock
+here  pid:    33    tupleIndex:   5
+1443,web,coffee
+here  pid:    33    tupleIndex:   6
+1538,elephant,planet
+here  pid:    33    tupleIndex:   7
+1573,salt,software
+here  pid:    33    tupleIndex:   8
+1586,box,staircase
+here  pid:    33    tupleIndex:   9
+1594,database,cat
+here  pid:    33    tupleIndex:   10
+1623,cup,arm
+here  pid:    33    tupleIndex:   11
+1687,gloves,potato
+here  pid:    33    tupleIndex:   12
+1840,garden,aircraft
+here  pid:    33    tupleIndex:   13
+1865,television,pith
+here  pid:    33    tupleIndex:   14
+1898,library,carrot
+here  pid:    33    tupleIndex:   15
+1994,box,carrot
+here  pid:    33    tupleIndex:   16
+2137,girl,ice
+here  pid:    33    tupleIndex:   17
+2141,festival,coffee
+here  pid:    33    tupleIndex:   18
+2184,girl,parachute
+here  pid:    33    tupleIndex:   19
+2201,book,nail
+here  pid:    33    tupleIndex:   20
+2369,signature,nail
+here  pid:    33    tupleIndex:   21
+2377,salt,restaurant
+here  pid:    33    tupleIndex:   22
+2424,yawn,chocolates
+here  pid:    33    tupleIndex:   23
+2452,stomach,gasp
+here  pid:    33    tupleIndex:   24
+2500,window,yellow
+here  pid:    33    tupleIndex:   25
+2510,army,gasp
+here  pid:    33    tupleIndex:   26
+2562,church,freeway
+here  pid:    33    tupleIndex:   27
+2664,skeleton,software
+here  pid:    33    tupleIndex:   28
+2806,liquid,leather
+here  pid:    33    tupleIndex:   29
+2848,paintbrush,car
+here  pid:    33    tupleIndex:   30
+2899,telescope,chair
+here  pid:    33    tupleIndex:   31
+2950,necklace,room
+here  pid:    33    tupleIndex:   32
+2986,gas,freeway
+here  pid:    34    tupleIndex:   1
+1029,highway,barbecue
+here  pid:    34    tupleIndex:   2
+1064,snail,pyramid
+here  pid:    34    tupleIndex:   3
+1116,saddle,yellow
+here  pid:    34    tupleIndex:   4
+1161,tapestry,baby
+here  pid:    34    tupleIndex:   5
+1170,double,cycle
+here  pid:    34    tupleIndex:   6
+1201,cave,car
+here  pid:    34    tupleIndex:   7
+1223,videotape,explosive
+here  pid:    34    tupleIndex:   8
+1246,prison,arm
+here  pid:    34    tupleIndex:   9
+1353,tapestry,table
+here  pid:    34    tupleIndex:   10
+1357,key,drum
+here  pid:    34    tupleIndex:   11
+1366,school,pyramid
+here  pid:    34    tupleIndex:   12
+1391,meat,leather
+here  pid:    34    tupleIndex:   13
+1401,zoo,bed
+here  pid:    34    tupleIndex:   14
+1414,solid,gate
+here  pid:    34    tupleIndex:   15
+1432,rainbow,spectrum
+here  pid:    34    tupleIndex:   16
+1433,chisel,chair
+here  pid:    34    tupleIndex:   17
+1486,comet,bed
+here  pid:    34    tupleIndex:   18
+1529,sandpaper,barbecue
+here  pid:    34    tupleIndex:   19
+1583,saddle,game
+here  pid:    34    tupleIndex:   20
+1742,highway,dress
+here  pid:    34    tupleIndex:   21
+1822,bathtub,cycle
+here  pid:    34    tupleIndex:   22
+1875,worm,grapes
+here  pid:    34    tupleIndex:   23
+1906,album,leather
+here  pid:    34    tupleIndex:   24
+2028,rainbow,hose
+here  pid:    34    tupleIndex:   25
+2086,banana,fungus
+here  pid:    34    tupleIndex:   26
+2143,tapestry,fungus
+here  pid:    34    tupleIndex:   27
+2297,double,grapes
+here  pid:    34    tupleIndex:   28
+2331,kitchen,bed
+here  pid:    34    tupleIndex:   29
+2468,kaleidoscope,spice
+here  pid:    34    tupleIndex:   30
+2470,dog,monster
+here  pid:    34    tupleIndex:   31
+2680,dingbat,barbecue
+here  pid:    34    tupleIndex:   32
+2843,comet,game
+here  pid:    34    tupleIndex:   33
+2852,spotlight,teeth
+here  pid:    34    tupleIndex:   34
+2862,videotape,restaurant
+here  pid:    34    tupleIndex:   35
+2892,spotlight,ice
+here  pid:    34    tupleIndex:   36
+2940,banana,horse
+here  pid:    35    tupleIndex:   1
+1018,woman,eraser
+here  pid:    35    tupleIndex:   2
+1117,family,room
+here  pid:    35    tupleIndex:   3
+1173,guitar,leather
+here  pid:    35    tupleIndex:   4
+1206,thermometer,drum
+here  pid:    35    tupleIndex:   5
+1221,chisel,carrot
+here  pid:    35    tupleIndex:   6
+1250,bottle,barbecue
+here  pid:    35    tupleIndex:   7
+1298,tennis,mist
+here  pid:    35    tupleIndex:   8
+1316,tennis,baby
+here  pid:    35    tupleIndex:   9
+1337,fruit,baby
+here  pid:    35    tupleIndex:   10
+1341,tunnel,diamond
+here  pid:    35    tupleIndex:   11
+1400,ears,rocket
+here  pid:    35    tupleIndex:   12
+1431,school,fork
+here  pid:    35    tupleIndex:   13
+1452,vacuum,chair
+here  pid:    35    tupleIndex:   14
+1469,tennis,horse
+here  pid:    35    tupleIndex:   15
+1478,cave,fan
+here  pid:    35    tupleIndex:   16
+1488,sunglasses,diamond
+here  pid:    35    tupleIndex:   17
+1506,tennis,software
+here  pid:    35    tupleIndex:   18
+1523,bathroom,pepper
+here  pid:    35    tupleIndex:   19
+1632,air,mist
+here  pid:    35    tupleIndex:   20
+1683,map,water
+here  pid:    35    tupleIndex:   21
+1712,ring,wheelchair
+here  pid:    35    tupleIndex:   22
+1733,comet,teeth
+here  pid:    35    tupleIndex:   23
+1738,saddle,freeway
+here  pid:    35    tupleIndex:   24
+1768,guitar,yellow
+here  pid:    35    tupleIndex:   25
+1771,rainbow,monster
+here  pid:    35    tupleIndex:   26
+1876,meteor,pepper
+here  pid:    35    tupleIndex:   27
+1935,chisel,mist
+here  pid:    35    tupleIndex:   28
+1954,rainbow,navy
+here  pid:    35    tupleIndex:   29
+1964,solid,chair
+here  pid:    35    tupleIndex:   30
+2055,desk,fan
+here  pid:    35    tupleIndex:   31
+2056,treadmill,cycle
+here  pid:    35    tupleIndex:   32
+2073,school,tiger
+here  pid:    35    tupleIndex:   33
+2105,woman,fan
+here  pid:    35    tupleIndex:   34
+2139,microscope,freeway
+here  pid:    35    tupleIndex:   35
+2180,cave,game
+here  pid:    35    tupleIndex:   36
+2194,chisel,leather
+here  pid:    35    tupleIndex:   37
+2253,car-race,explosive
+here  pid:    35    tupleIndex:   38
+2371,vacuum,barbecue
+here  pid:    35    tupleIndex:   39
+2380,dog,barbecue
+here  pid:    35    tupleIndex:   40
+2386,worm,water
+here  pid:    35    tupleIndex:   41
+2387,hammer,record
+here  pid:    35    tupleIndex:   42
+2414,highway,fork
+here  pid:    35    tupleIndex:   43
+2489,weapon,explosive
+here  pid:    35    tupleIndex:   44
+2504,microscope,eraser
+here  pid:    35    tupleIndex:   45
+2742,kaleidoscope,chair
+here  pid:    35    tupleIndex:   46
+2808,passport,monster
+here  pid:    35    tupleIndex:   47
+2815,kaleidoscope,electricity
+here  pid:    35    tupleIndex:   48
+2867,ring,roof
+here  pid:    35    tupleIndex:   49
+2913,cave,rock
+here  pid:    35    tupleIndex:   50
+2956,finger,foot
+here  pid:    35    tupleIndex:   51
+2981,album,restaurant
+here  pid:    36    tupleIndex:   1
+1093,database,crystal
+here  pid:    36    tupleIndex:   2
+1111,garden,space
+here  pid:    36    tupleIndex:   3
+1205,box,pocket
+here  pid:    36    tupleIndex:   4
+1226,gloves,man
+here  pid:    36    tupleIndex:   5
+1281,book,compass
+here  pid:    36    tupleIndex:   6
+1338,pants,eyes
+here  pid:    36    tupleIndex:   7
+1351,gemstone,chief
+here  pid:    36    tupleIndex:   8
+1368,surveyor,crystal
+here  pid:    36    tupleIndex:   9
+1383,stomach,insect
+here  pid:    36    tupleIndex:   10
+1663,shop,feather
+here  pid:    36    tupleIndex:   11
+1669,box,clock
+here  pid:    36    tupleIndex:   12
+1748,necklace,shower
+here  pid:    36    tupleIndex:   13
+1803,torpedo,spoon
+here  pid:    36    tupleIndex:   14
+1883,paintbrush,airport
+here  pid:    36    tupleIndex:   15
+1905,telescope,aeroplane
+here  pid:    36    tupleIndex:   16
+1907,garden,umbrella
+here  pid:    36    tupleIndex:   17
+2001,stomach,vulture
+here  pid:    36    tupleIndex:   18
+2020,liquid,airforce
+here  pid:    36    tupleIndex:   19
+2031,bowl,mum
+here  pid:    36    tupleIndex:   20
+2062,garden,hot
+here  pid:    36    tupleIndex:   21
+2275,paintbrush,swim
+here  pid:    36    tupleIndex:   22
+2277,gemstone,balloon
+here  pid:    36    tupleIndex:   23
+2283,chess-board,spoon
+here  pid:    36    tupleIndex:   24
+2347,library,circus
+here  pid:    36    tupleIndex:   25
+2438,gloves,horoscope
+here  pid:    36    tupleIndex:   26
+2482,library,man
+here  pid:    36    tupleIndex:   27
+2536,apple,triangle
+here  pid:    36    tupleIndex:   28
+2707,bird,circus
+here  pid:    36    tupleIndex:   29
+2767,torpedo,hieroglyph
+here  pid:    36    tupleIndex:   30
+2805,computer,dung
+here  pid:    36    tupleIndex:   31
+2974,liquid,chief
+here  pid:    37    tupleIndex:   1
+1013,leg,vampire
+here  pid:    37    tupleIndex:   2
+1015,television,post
+here  pid:    37    tupleIndex:   3
+1247,robot,crystal
+here  pid:    37    tupleIndex:   4
+1257,stomach,spoon
+here  pid:    37    tupleIndex:   5
+1382,shop,onion
+here  pid:    37    tupleIndex:   6
+1437,television,drink
+here  pid:    37    tupleIndex:   7
+1442,paintbrush,boy
+here  pid:    37    tupleIndex:   8
+1480,database,horoscope
+here  pid:    37    tupleIndex:   9
+1505,sun,sword
+here  pid:    37    tupleIndex:   10
+1578,shoes,triangle
+here  pid:    37    tupleIndex:   11
+1605,train,plane
+here  pid:    37    tupleIndex:   12
+1636,apple,hat
+here  pid:    37    tupleIndex:   13
+1732,shop,spoon
+here  pid:    37    tupleIndex:   14
+1759,pendulum,sword
+here  pid:    37    tupleIndex:   15
+1777,library,boss
+here  pid:    37    tupleIndex:   16
+1794,clown,vampire
+here  pid:    37    tupleIndex:   17
+1846,library,triangle
+here  pid:    37    tupleIndex:   18
+1914,salt,boy
+here  pid:    37    tupleIndex:   19
+1970,gemstone,spoon
+here  pid:    37    tupleIndex:   20
+1985,army,man
+here  pid:    37    tupleIndex:   21
+2076,elephant,post
+here  pid:    37    tupleIndex:   22
+2094,book,rib
+here  pid:    37    tupleIndex:   23
+2101,skeleton,insect
+here  pid:    37    tupleIndex:   24
+2125,skeleton,crystal
+here  pid:    37    tupleIndex:   25
+2192,toilet,circus
+here  pid:    37    tupleIndex:   26
+2217,torpedo,compass
+here  pid:    37    tupleIndex:   27
+2223,toilet,x-ray
+here  pid:    37    tupleIndex:   28
+2268,gemstone,star
+here  pid:    37    tupleIndex:   29
+2276,database,mosquito
+here  pid:    37    tupleIndex:   30
+2409,chess-board,flower
+here  pid:    37    tupleIndex:   31
+2475,gas,needle
+here  pid:    37    tupleIndex:   32
+2713,sports-car,crystal
+here  pid:    37    tupleIndex:   33
+2731,clown,dung
+here  pid:    37    tupleIndex:   34
+2786,stomach,jet-fighter
+here  pid:    37    tupleIndex:   35
+2878,train,jet-fighter
+here  pid:    37    tupleIndex:   36
+2958,train,boss
+here  pid:    38    tupleIndex:   1
+1000,kaleidoscope,hieroglyph
+here  pid:    38    tupleIndex:   2
+1087,tunnel,jet-fighter
+here  pid:    38    tupleIndex:   3
+1118,car-race,needle
+here  pid:    38    tupleIndex:   4
+1121,map,shower
+here  pid:    38    tupleIndex:   5
+1122,fruit,insect
+here  pid:    38    tupleIndex:   6
+1154,treadmill,pebble
+here  pid:    38    tupleIndex:   7
+1175,album,triangle
+here  pid:    38    tupleIndex:   8
+1177,guitar,circus
+here  pid:    38    tupleIndex:   9
+1293,fire,spiral
+here  pid:    38    tupleIndex:   10
+1308,fire,eyes
+here  pid:    38    tupleIndex:   11
+1322,finger,swim
+here  pid:    38    tupleIndex:   12
+1359,solid,needle
+here  pid:    38    tupleIndex:   13
+1394,guitar,boss
+here  pid:    38    tupleIndex:   14
+1463,videotape,umbrella
+here  pid:    38    tupleIndex:   15
+1470,thermometer,bomb
+here  pid:    38    tupleIndex:   16
+1649,meat,space
+here  pid:    38    tupleIndex:   17
+1836,meat,umbrella
+here  pid:    38    tupleIndex:   18
+1849,air,dung
+here  pid:    38    tupleIndex:   19
+1934,rainbow,bomb
+here  pid:    38    tupleIndex:   20
+1937,car-race,flower
+here  pid:    38    tupleIndex:   21
+1990,car-race,onion
+here  pid:    38    tupleIndex:   22
+2195,child,radar
+here  pid:    38    tupleIndex:   23
+2226,tennis,circus
+here  pid:    38    tupleIndex:   24
+2242,album,hieroglyph
+here  pid:    38    tupleIndex:   25
+2300,school,carpet
+here  pid:    38    tupleIndex:   26
+2316,ears,chief
+here  pid:    38    tupleIndex:   27
+2449,family,drill
+here  pid:    38    tupleIndex:   28
+2473,fire,crystal
+here  pid:    38    tupleIndex:   29
+2499,fire,clock
+here  pid:    38    tupleIndex:   30
+2527,guitar,plane
+here  pid:    38    tupleIndex:   31
+2543,highway,clock
+here  pid:    38    tupleIndex:   32
+2572,slave,button
+here  pid:    38    tupleIndex:   33
+2691,snail,post
+here  pid:    38    tupleIndex:   34
+2870,saddle,spiral
+here  pid:    38    tupleIndex:   35
+2910,map,circus
+here  pid:    38    tupleIndex:   36
+2968,dog,plane
+here  pid:    39    tupleIndex:   1
+1092,meteor,chief
+here  pid:    39    tupleIndex:   2
+1159,kitchen,vampire
+here  pid:    39    tupleIndex:   3
+1196,woman,ship
+here  pid:    39    tupleIndex:   4
+1300,ears,fin
+here  pid:    39    tupleIndex:   5
+1329,tongue,perfume
+here  pid:    39    tupleIndex:   6
+1500,tapestry,milk
+here  pid:    39    tupleIndex:   7
+1537,ring,x-ray
+here  pid:    39    tupleIndex:   8
+1668,prison,spoon
+here  pid:    39    tupleIndex:   9
+1689,meteor,crystal
+here  pid:    39    tupleIndex:   10
+1724,money,needle
+here  pid:    39    tupleIndex:   11
+1752,videotape,airforce
+here  pid:    39    tupleIndex:   12
+1963,vacuum,airport
+here  pid:    39    tupleIndex:   13
+2135,child,pocket
+here  pid:    39    tupleIndex:   14
+2215,tongue,aeroplane
+here  pid:    39    tupleIndex:   15
+2255,hammer,radar
+here  pid:    39    tupleIndex:   16
+2363,sunglasses,button
+here  pid:    39    tupleIndex:   17
+2506,butterfly,compass
+here  pid:    39    tupleIndex:   18
+2540,finger,dung
+here  pid:    39    tupleIndex:   19
+2568,hammer,x-ray
+here  pid:    39    tupleIndex:   20
+2578,meat,horoscope
+here  pid:    39    tupleIndex:   21
+2610,dingbat,circus
+here  pid:    39    tupleIndex:   22
+2649,banana,vulture
+here  pid:    39    tupleIndex:   23
+2688,hammer,umbrella
+here  pid:    39    tupleIndex:   24
+2695,microscope,boss
+here  pid:    39    tupleIndex:   25
+2738,tunnel,pocket
+here  pid:    39    tupleIndex:   26
+2776,family,man
+here  pid:    39    tupleIndex:   27
+2829,bathtub,mum
+here  pid:    39    tupleIndex:   28
+2889,map,airport
+here  pid:    39    tupleIndex:   29
+2962,family,milk
+here  pid:    39    tupleIndex:   30
+2967,woman,adult
+here  pid:    39    tupleIndex:   31
+2983,kaleidoscope,ship
+here  pid:    40    tupleIndex:   1
+1032,pin,cat
+here  pid:    40    tupleIndex:   2
+1275,gas,rocket
+here  pid:    40    tupleIndex:   3
+1280,oodle,pillow
+here  pid:    40    tupleIndex:   4
+1405,sun,room
+here  pid:    40    tupleIndex:   5
+1417,surveyor,rifle
+here  pid:    40    tupleIndex:   6
+1456,sports-car,maze
+here  pid:    40    tupleIndex:   7
+1569,film,spectrum
+here  pid:    40    tupleIndex:   8
+1612,toilet,bed
+here  pid:    40    tupleIndex:   9
+1660,toilet,parachute
+here  pid:    40    tupleIndex:   10
+1715,telescope,bed
+here  pid:    40    tupleIndex:   11
+1754,sun,car
+here  pid:    40    tupleIndex:   12
+1848,leg,fork
+here  pid:    40    tupleIndex:   13
+2023,bird,parachute
+here  pid:    40    tupleIndex:   14
+2052,apple,potato
+here  pid:    40    tupleIndex:   15
+2084,window,zebra
+here  pid:    40    tupleIndex:   16
+2123,window,software
+here  pid:    40    tupleIndex:   17
+2313,torpedo,torch
+here  pid:    40    tupleIndex:   18
+2315,ice-cream,room
+here  pid:    40    tupleIndex:   19
+2376,oodle,dress
+here  pid:    40    tupleIndex:   20
+2411,clown,car
+here  pid:    40    tupleIndex:   21
+2447,clown,milkshake
+here  pid:    40    tupleIndex:   22
+2564,liquid,knife
+here  pid:    40    tupleIndex:   23
+2701,garden,tiger
+here  pid:    40    tupleIndex:   24
+2743,signature,sandwich
+here  pid:    40    tupleIndex:   25
+2749,shoes,chair
+here  pid:    40    tupleIndex:   26
+2793,robot,bridge
+here  pid:    40    tupleIndex:   27
+2979,leg,nail
+here  pid:    40    tupleIndex:   28
+2999,robot,parachute
+here  pid:    41    tupleIndex:   1
+1016,surveyor,bank
+here  pid:    41    tupleIndex:   2
+1143,shop,sandwich
+here  pid:    41    tupleIndex:   3
+1157,robot,dress
+here  pid:    41    tupleIndex:   4
+1185,telescope,bridge
+here  pid:    41    tupleIndex:   5
+1231,gloves,foot
+here  pid:    41    tupleIndex:   6
+1407,bird,parachute
+here  pid:    41    tupleIndex:   7
+1611,oodle,tiger
+here  pid:    41    tupleIndex:   8
+1615,signature,eraser
+here  pid:    41    tupleIndex:   9
+1630,library,game
+here  pid:    41    tupleIndex:   10
+1756,gloves,room
+here  pid:    41    tupleIndex:   11
+1776,salt,teeth
+here  pid:    41    tupleIndex:   12
+1936,junk,baby
+here  pid:    41    tupleIndex:   13
+1958,salt,gasp
+here  pid:    41    tupleIndex:   14
+1960,toilet,rock
+here  pid:    41    tupleIndex:   15
+2043,festival,arm
+here  pid:    41    tupleIndex:   16
+2091,torpedo,roof
+here  pid:    41    tupleIndex:   17
+2138,clown,staircase
+here  pid:    41    tupleIndex:   18
+2179,ice-cream,dress
+here  pid:    41    tupleIndex:   19
+2203,stomach,fan
+here  pid:    41    tupleIndex:   20
+2390,television,tiger
+here  pid:    41    tupleIndex:   21
+2480,pants,pepper
+here  pid:    41    tupleIndex:   22
+2497,sports-car,rifle
+here  pid:    41    tupleIndex:   23
+2523,shoes,barbecue
+here  pid:    41    tupleIndex:   24
+2672,train,eraser
+here  pid:    41    tupleIndex:   25
+2728,chess-board,gate
+here  pid:    42    tupleIndex:   1
+1048,album,milkshake
+here  pid:    42    tupleIndex:   2
+1234,rainbow,fork
+here  pid:    42    tupleIndex:   3
+1291,prison,bank
+here  pid:    42    tupleIndex:   4
+1303,backpack,teeth
+here  pid:    42    tupleIndex:   5
+1339,highway,room
+here  pid:    42    tupleIndex:   6
+1507,tapestry,fork
+here  pid:    42    tupleIndex:   7
+1535,dingbat,eraser
+here  pid:    42    tupleIndex:   8
+1581,tapestry,baby
+here  pid:    42    tupleIndex:   9
+1642,worm,famine
+here  pid:    42    tupleIndex:   10
+1699,solid,ice
+here  pid:    42    tupleIndex:   11
+1709,dingbat,roof
+here  pid:    42    tupleIndex:   12
+1763,dog,mouth
+here  pid:    42    tupleIndex:   13
+1868,treadmill,teeth
+here  pid:    42    tupleIndex:   14
+1887,bee,car
+here  pid:    42    tupleIndex:   15
+2222,tongue,egg
+here  pid:    42    tupleIndex:   16
+2282,fruit,pillow
+here  pid:    42    tupleIndex:   17
+2319,dog,software
+here  pid:    42    tupleIndex:   18
+2340,slave,staircase
+here  pid:    42    tupleIndex:   19
+2372,zoo,fungus
+here  pid:    42    tupleIndex:   20
+2514,tongue,barbecue
+here  pid:    42    tupleIndex:   21
+2517,zoo,bank
+here  pid:    42    tupleIndex:   22
+2658,car-race,diamond
+here  pid:    42    tupleIndex:   23
+2666,tapestry,rifle
+here  pid:    42    tupleIndex:   24
+2674,prison,circle
+here  pid:    42    tupleIndex:   25
+2720,microscope,rock
+here  pid:    42    tupleIndex:   26
+2824,key,grapes
+here  pid:    42    tupleIndex:   27
+2827,fruit,rock
+here  pid:    42    tupleIndex:   28
+2872,tennis,gasp
+here  pid:    42    tupleIndex:   29
+2927,prison,diamond
+here  pid:    43    tupleIndex:   1
+1017,spotlight,maze
+here  pid:    43    tupleIndex:   2
+1053,thermometer,bridge
+here  pid:    43    tupleIndex:   3
+1078,guitar,set
+here  pid:    43    tupleIndex:   4
+1133,butterfly,rock
+here  pid:    43    tupleIndex:   5
+1191,kaleidoscope,tiger
+here  pid:    43    tupleIndex:   6
+1192,typewriter,hose
+here  pid:    43    tupleIndex:   7
+1210,school,potato
+here  pid:    43    tupleIndex:   8
+1297,woman,tiger
+here  pid:    43    tupleIndex:   9
+1331,bee,set
+here  pid:    43    tupleIndex:   10
+1362,meat,leather
+here  pid:    43    tupleIndex:   11
+1370,cave,famine
+here  pid:    43    tupleIndex:   12
+1546,sunglasses,parachute
+here  pid:    43    tupleIndex:   13
+1626,kaleidoscope,hose
+here  pid:    43    tupleIndex:   14
+1667,meat,egg
+here  pid:    43    tupleIndex:   15
+1802,school,teeth
+here  pid:    43    tupleIndex:   16
+2047,school,leather
+here  pid:    43    tupleIndex:   17
+2148,butterfly,table
+here  pid:    43    tupleIndex:   18
+2167,tunnel,zebra
+here  pid:    43    tupleIndex:   19
+2193,typewriter,rocket
+here  pid:    43    tupleIndex:   20
+2263,child,diamond
+here  pid:    43    tupleIndex:   21
+2304,kaleidoscope,table
+here  pid:    43    tupleIndex:   22
+2309,money,earth
+here  pid:    43    tupleIndex:   23
+2407,family,electricity
+here  pid:    43    tupleIndex:   24
+2448,brain,maze
+here  pid:    43    tupleIndex:   25
+2457,ring,pepper
+here  pid:    43    tupleIndex:   26
+2496,chisel,spectrum
+here  pid:    43    tupleIndex:   27
+2513,meat,pepper
+here  pid:    43    tupleIndex:   28
+2525,album,pyramid
+here  pid:    43    tupleIndex:   29
+2645,chisel,monster
+here  pid:    43    tupleIndex:   30
+2703,brain,game
+here  pid:    43    tupleIndex:   31
+2722,passport,bridge
+here  pid:    43    tupleIndex:   32
+2768,air,pillow
+here  pid:    43    tupleIndex:   33
+2885,prison,cat
+here  pid:    43    tupleIndex:   34
+2898,passport,fungus
+here  pid:    43    tupleIndex:   35
+2926,snail,set
+here  pid:    43    tupleIndex:   36
+2975,backpack,navy
+here  pid:    44    tupleIndex:   1
+1037,leg,eyes
+here  pid:    44    tupleIndex:   2
+1120,printer,flower
+here  pid:    44    tupleIndex:   3
+1273,junk,spoon
+here  pid:    44    tupleIndex:   4
+1294,garden,circus
+here  pid:    44    tupleIndex:   5
+1309,pendulum,post
+here  pid:    44    tupleIndex:   6
+1403,liquid,mum
+here  pid:    44    tupleIndex:   7
+1422,signature,horoscope
+here  pid:    44    tupleIndex:   8
+1499,garden,boss
+here  pid:    44    tupleIndex:   9
+1555,sun,mosquito
+here  pid:    44    tupleIndex:   10
+1588,window,flower
+here  pid:    44    tupleIndex:   11
+1661,ice-cream,eyes
+here  pid:    44    tupleIndex:   12
+1719,television,sphere
+here  pid:    44    tupleIndex:   13
+1785,girl,boy
+here  pid:    44    tupleIndex:   14
+1808,web,triangle
+here  pid:    44    tupleIndex:   15
+2025,television,pebble
+here  pid:    44    tupleIndex:   16
+2112,leg,swim
+here  pid:    44    tupleIndex:   17
+2188,gas,triangle
+here  pid:    44    tupleIndex:   18
+2220,alphabet,milk
+here  pid:    44    tupleIndex:   19
+2280,garden,vulture
+here  pid:    44    tupleIndex:   20
+2348,library,umbrella
+here  pid:    44    tupleIndex:   21
+2374,torpedo,swim
+here  pid:    44    tupleIndex:   22
+2464,library,circus
+here  pid:    44    tupleIndex:   23
+2699,printer,circus
+here  pid:    44    tupleIndex:   24
+2817,stomach,compass
+here  pid:    44    tupleIndex:   25
+2874,gemstone,drill
+here  pid:    44    tupleIndex:   26
+2876,leg,pocket
+here  pid:    44    tupleIndex:   27
+2959,army,dung
+here  pid:    44    tupleIndex:   28
+2985,surveyor,space
+here  pid:    45    tupleIndex:   1
+1106,elephant,rib
+here  pid:    45    tupleIndex:   2
+1134,television,feather
+here  pid:    45    tupleIndex:   3
+1176,telescope,crystal
+here  pid:    45    tupleIndex:   4
+1237,alphabet,crystal
+here  pid:    45    tupleIndex:   5
+1253,web,button
+here  pid:    45    tupleIndex:   6
+1270,skeleton,drill
+here  pid:    45    tupleIndex:   7
+1965,sun,rib
+here  pid:    45    tupleIndex:   8
+2244,pin,mum
+here  pid:    45    tupleIndex:   9
+2350,surveyor,pocket
+here  pid:    45    tupleIndex:   10
+2365,rope,coffee-shop
+here  pid:    45    tupleIndex:   11
+2381,salt,button
+here  pid:    45    tupleIndex:   12
+2443,printer,needle
+here  pid:    45    tupleIndex:   13
+2627,paintbrush,rib
+here  pid:    45    tupleIndex:   14
+2655,festival,mosquito
+here  pid:    45    tupleIndex:   15
+2838,oodle,radar
+here  pid:    45    tupleIndex:   16
+2961,gemstone,post
+here  pid:    45    tupleIndex:   17
+2978,festival,eyes
+here  pid:    46    tupleIndex:   1
+1089,kaleidoscope,rib
+here  pid:    46    tupleIndex:   2
+1105,banana,square
+here  pid:    46    tupleIndex:   3
+1145,tunnel,bomb
+here  pid:    46    tupleIndex:   4
+1268,zoo,milk
+here  pid:    46    tupleIndex:   5
+1336,tongue,perfume
+here  pid:    46    tupleIndex:   6
+1462,map,crystal
+here  pid:    46    tupleIndex:   7
+1474,dog,hat
+here  pid:    46    tupleIndex:   8
+1575,backpack,airforce
+here  pid:    46    tupleIndex:   9
+1744,money,plane
+here  pid:    46    tupleIndex:   10
+1801,finger,ship
+here  pid:    46    tupleIndex:   11
+1807,backpack,pocket
+here  pid:    46    tupleIndex:   12
+1871,passport,shower
+here  pid:    46    tupleIndex:   13
+1923,tunnel,ship
+here  pid:    46    tupleIndex:   14
+1946,child,shower
+here  pid:    46    tupleIndex:   15
+1951,weapon,ship
+here  pid:    46    tupleIndex:   16
+1952,bee,win
+here  pid:    46    tupleIndex:   17
+1995,money,clock
+here  pid:    46    tupleIndex:   18
+2189,rainbow,spoon
+here  pid:    46    tupleIndex:   19
+2230,key,compass
+here  pid:    46    tupleIndex:   20
+2238,bee,drill
+here  pid:    46    tupleIndex:   21
+2333,finger,rib
+here  pid:    46    tupleIndex:   22
+2349,sandpaper,floodlight
+here  pid:    46    tupleIndex:   23
+2355,solid,pocket
+here  pid:    46    tupleIndex:   24
+2463,zoo,carpet
+here  pid:    46    tupleIndex:   25
+2519,kaleidoscope,rib
+here  pid:    46    tupleIndex:   26
+2571,treadmill,horoscope
+here  pid:    46    tupleIndex:   27
+2944,kaleidoscope,perfume
+here  pid:    46    tupleIndex:   28
+2951,hammer,airport
+here  pid:    46    tupleIndex:   29
+2966,map,airforce
+here  pid:    47    tupleIndex:   1
+1011,sandpaper,sword
+here  pid:    47    tupleIndex:   2
+1074,treadmill,circus
+here  pid:    47    tupleIndex:   3
+1129,sandpaper,pebble
+here  pid:    47    tupleIndex:   4
+1187,album,drill
+here  pid:    47    tupleIndex:   5
+1345,comet,floodlight
+here  pid:    47    tupleIndex:   6
+1358,thermometer,feather
+here  pid:    47    tupleIndex:   7
+1392,hammer,space
+here  pid:    47    tupleIndex:   8
+1681,school,aeroplane
+here  pid:    47    tupleIndex:   9
+1710,sunglasses,dung
+here  pid:    47    tupleIndex:   10
+1784,sandpaper,shower
+here  pid:    47    tupleIndex:   11
+1814,weapon,star
+here  pid:    47    tupleIndex:   12
+1826,map,button
+here  pid:    47    tupleIndex:   13
+1861,backpack,bomb
+here  pid:    47    tupleIndex:   14
+1967,fire,floodlight
+here  pid:    47    tupleIndex:   15
+2251,chisel,coffee-shop
+here  pid:    47    tupleIndex:   16
+2266,cappuccino,floodlight
+here  pid:    47    tupleIndex:   17
+2442,child,mum
+here  pid:    47    tupleIndex:   18
+2481,butterfly,clock
+here  pid:    47    tupleIndex:   19
+2491,backpack,spiral
+here  pid:    47    tupleIndex:   20
+2602,prison,hot
+here  pid:    47    tupleIndex:   21
+2727,desk,perfume
+here  pid:    47    tupleIndex:   22
+2754,bathroom,star
+here  pid:    47    tupleIndex:   23
+2868,bathroom,airforce
+here  pid:    47    tupleIndex:   24
+2881,double,aeroplane
+here  pid:    47    tupleIndex:   25
+2923,saddle,floodlight
+here  pid:    48    tupleIndex:   1
+1038,coffee,potato
+here  pid:    48    tupleIndex:   2
+1043,rock,rocket
+here  pid:    48    tupleIndex:   3
+1208,room,grapes
+here  pid:    48    tupleIndex:   4
+1276,eraser,electricity
+here  pid:    48    tupleIndex:   5
+1286,staircase,pillow
+here  pid:    48    tupleIndex:   6
+1310,spice,game
+here  pid:    48    tupleIndex:   7
+1377,coffee,pyramid
+here  pid:    48    tupleIndex:   8
+1386,room,fan
+here  pid:    48    tupleIndex:   9
+1471,famine,circle
+here  pid:    48    tupleIndex:   10
+1497,rocket,diamond
+here  pid:    48    tupleIndex:   11
+1532,maze,eraser
+here  pid:    48    tupleIndex:   12
+1540,rocket,bed
+here  pid:    48    tupleIndex:   13
+1557,tiger,bed
+here  pid:    48    tupleIndex:   14
+1571,mist,monster
+here  pid:    48    tupleIndex:   15
+1580,grapes,spectrum
+here  pid:    48    tupleIndex:   16
+1599,chocolates,maze
+here  pid:    48    tupleIndex:   17
+1654,famine,bed
+here  pid:    48    tupleIndex:   18
+1702,pepper,chair
+here  pid:    48    tupleIndex:   19
+1782,tiger,egg
+here  pid:    48    tupleIndex:   20
+1798,fan,grapes
+here  pid:    48    tupleIndex:   21
+1825,bridge,egg
+here  pid:    48    tupleIndex:   22
+1829,leather,maze
+here  pid:    48    tupleIndex:   23
+1856,planet,wheelchair
+here  pid:    48    tupleIndex:   24
+1943,staircase,eraser
+here  pid:    48    tupleIndex:   25
+1974,rocket,wheelchair
+here  pid:    48    tupleIndex:   26
+1988,milkshake,pith
+here  pid:    48    tupleIndex:   27
+2027,barbecue,rifle
+here  pid:    48    tupleIndex:   28
+2077,pillow,famine
+here  pid:    48    tupleIndex:   29
+2113,cycle,knife
+here  pid:    48    tupleIndex:   30
+2155,bank,ice
+here  pid:    48    tupleIndex:   31
+2172,nail,freeway
+here  pid:    48    tupleIndex:   32
+2198,yellow,torch
+here  pid:    48    tupleIndex:   33
+2306,rifle,table
+here  pid:    48    tupleIndex:   34
+2360,baby,chair
+here  pid:    48    tupleIndex:   35
+2388,foot,baby
+here  pid:    48    tupleIndex:   36
+2392,dress,yellow
+here  pid:    48    tupleIndex:   37
+2405,earth,fungus
+here  pid:    48    tupleIndex:   38
+2477,explosive,fan
+here  pid:    48    tupleIndex:   39
+2524,chair,cycle
+here  pid:    48    tupleIndex:   40
+2531,teeth,game
+here  pid:    48    tupleIndex:   41
+2626,restaurant,mist
+here  pid:    48    tupleIndex:   42
+2630,magnet,diamond
+here  pid:    48    tupleIndex:   43
+2705,spectrum,gasp
+here  pid:    48    tupleIndex:   44
+2745,magnet,maze
+here  pid:    48    tupleIndex:   45
+2803,yellow,earth
+here  pid:    48    tupleIndex:   46
+2841,yellow,knife
+here  pid:    48    tupleIndex:   47
+2854,pyramid,wheelchair
+here  pid:    48    tupleIndex:   48
+2907,rock,software
+here  pid:    48    tupleIndex:   49
+2929,rock,gate
+here  pid:    49    tupleIndex:   1
+1019,planet,planet
+here  pid:    49    tupleIndex:   2
+1021,eraser,baby
+here  pid:    49    tupleIndex:   3
+1165,arm,teeth
+here  pid:    49    tupleIndex:   4
+1219,pillow,dress
+here  pid:    49    tupleIndex:   5
+1365,sandwich,restaurant
+here  pid:    49    tupleIndex:   6
+1454,car,roof
+here  pid:    49    tupleIndex:   7
+1514,sandwich,software
+here  pid:    49    tupleIndex:   8
+1545,eraser,hose
+here  pid:    49    tupleIndex:   9
+1572,aircraft,set
+here  pid:    49    tupleIndex:   10
+1679,water,navy
+here  pid:    49    tupleIndex:   11
+1911,diamond,set
+here  pid:    49    tupleIndex:   12
+1930,famine,foot
+here  pid:    49    tupleIndex:   13
+1975,teeth,earth
+here  pid:    49    tupleIndex:   14
+2018,cat,staircase
+here  pid:    49    tupleIndex:   15
+2059,bed,gasp
+here  pid:    49    tupleIndex:   16
+2151,explosive,pyramid
+here  pid:    49    tupleIndex:   17
+2212,leather,fork
+here  pid:    49    tupleIndex:   18
+2281,rocket,leather
+here  pid:    49    tupleIndex:   19
+2312,pith,pith
+here  pid:    49    tupleIndex:   20
+2326,room,spice
+here  pid:    49    tupleIndex:   21
+2346,barbecue,freeway
+here  pid:    49    tupleIndex:   22
+2361,barbecue,bridge
+here  pid:    49    tupleIndex:   23
+2404,staircase,satellite
+here  pid:    49    tupleIndex:   24
+2415,table,satellite
+here  pid:    49    tupleIndex:   25
+2425,rock,bed
+here  pid:    49    tupleIndex:   26
+2451,satellite,fork
+here  pid:    49    tupleIndex:   27
+2471,parachute,diamond
+here  pid:    49    tupleIndex:   28
+2594,diamond,yellow
+here  pid:    49    tupleIndex:   29
+2595,aircraft,parachute
+here  pid:    49    tupleIndex:   30
+2600,knife,coffee
+here  pid:    49    tupleIndex:   31
+2603,explosive,aircraft
+here  pid:    49    tupleIndex:   32
+2637,carrot,monster
+here  pid:    49    tupleIndex:   33
+2673,spectrum,milkshake
+here  pid:    49    tupleIndex:   34
+2706,potato,water
+here  pid:    49    tupleIndex:   35
+2774,chocolates,satellite
+here  pid:    49    tupleIndex:   36
+2775,pith,restaurant
+here  pid:    49    tupleIndex:   37
+2869,planet,record
+here  pid:    49    tupleIndex:   38
+2895,baby,foot
+here  pid:    49    tupleIndex:   39
+2911,famine,fork
+here  pid:    49    tupleIndex:   40
+2917,potato,monster
+here  pid:    49    tupleIndex:   41
+2934,gate,room
+here  pid:    49    tupleIndex:   42
+2935,famine,yellow
+here  pid:    50    tupleIndex:   1
+1107,hat,chair
+here  pid:    50    tupleIndex:   2
+1326,dung,arm
+here  pid:    50    tupleIndex:   3
+1363,circus,torch
+here  pid:    50    tupleIndex:   4
+1494,horoscope,water
+here  pid:    50    tupleIndex:   5
+1558,drink,rock
+here  pid:    50    tupleIndex:   6
+1574,ship,dress
+here  pid:    50    tupleIndex:   7
+1596,space,circle
+here  pid:    50    tupleIndex:   8
+1696,shower,staircase
+here  pid:    50    tupleIndex:   9
+1704,hot,rock
+here  pid:    50    tupleIndex:   10
+1775,sword,earth
+here  pid:    50    tupleIndex:   11
+1842,pocket,freeway
+here  pid:    50    tupleIndex:   12
+1872,post,earth
+here  pid:    50    tupleIndex:   13
+1886,feather,arm
+here  pid:    50    tupleIndex:   14
+1893,perfume,drum
+here  pid:    50    tupleIndex:   15
+2011,triangle,monster
+here  pid:    50    tupleIndex:   16
+2051,crystal,navy
+here  pid:    50    tupleIndex:   17
+2131,clock,aircraft
+here  pid:    50    tupleIndex:   18
+2166,floodlight,magnet
+here  pid:    50    tupleIndex:   19
+2199,airforce,grapes
+here  pid:    50    tupleIndex:   20
+2298,dung,pepper
+here  pid:    50    tupleIndex:   21
+2384,space,navy
+here  pid:    50    tupleIndex:   22
+2421,dung,hose
+here  pid:    50    tupleIndex:   23
+2431,floodlight,knife
+here  pid:    50    tupleIndex:   24
+2441,pocket,satellite
+here  pid:    50    tupleIndex:   25
+2458,crystal,bed
+here  pid:    50    tupleIndex:   26
+2490,hot,electricity
+here  pid:    50    tupleIndex:   27
+2530,swim,fungus
+here  pid:    50    tupleIndex:   28
+2624,shower,rocket
+here  pid:    50    tupleIndex:   29
+2636,x-ray,ice
+here  pid:    50    tupleIndex:   30
+2640,adult,diamond
+here  pid:    50    tupleIndex:   31
+2652,rib,sandwich
+here  pid:    50    tupleIndex:   32
+2717,aeroplane,record
+here  pid:    50    tupleIndex:   33
+2733,triangle,pith
+here  pid:    50    tupleIndex:   34
+2861,sword,wheelchair
+here  pid:    50    tupleIndex:   35
+2991,triangle,navy
+here  pid:    50    tupleIndex:   36
+2998,boss,carrot
+here  pid:    51    tupleIndex:   1
+1063,drill,sandwich
+here  pid:    51    tupleIndex:   2
+1147,hieroglyph,potato
+here  pid:    51    tupleIndex:   3
+1271,balloon,pillow
+here  pid:    51    tupleIndex:   4
+1582,circus,explosive
+here  pid:    51    tupleIndex:   5
+1633,spoon,baby
+here  pid:    51    tupleIndex:   6
+1690,feather,bed
+here  pid:    51    tupleIndex:   7
+1718,adult,rifle
+here  pid:    51    tupleIndex:   8
+1725,flower,circle
+here  pid:    51    tupleIndex:   9
+1741,rib,yellow
+here  pid:    51    tupleIndex:   10
+1747,vulture,staircase
+here  pid:    51    tupleIndex:   11
+1778,vampire,mouth
+here  pid:    51    tupleIndex:   12
+1838,eyes,circle
+here  pid:    51    tupleIndex:   13
+1839,crystal,barbecue
+here  pid:    51    tupleIndex:   14
+1896,shower,eraser
+here  pid:    51    tupleIndex:   15
+1979,drink,coffee
+here  pid:    51    tupleIndex:   16
+2002,insect,mouth
+here  pid:    51    tupleIndex:   17
+2009,boy,fungus
+here  pid:    51    tupleIndex:   18
+2079,aeroplane,rocket
+here  pid:    51    tupleIndex:   19
+2099,space,leather
+here  pid:    51    tupleIndex:   20
+2100,coffee-shop,parachute
+here  pid:    51    tupleIndex:   21
+2109,boy,water
+here  pid:    51    tupleIndex:   22
+2256,flower,bridge
+here  pid:    51    tupleIndex:   23
+2290,post,bridge
+here  pid:    51    tupleIndex:   24
+2526,bomb,grapes
+here  pid:    51    tupleIndex:   25
+2538,horoscope,dress
+here  pid:    51    tupleIndex:   26
+2634,balloon,roof
+here  pid:    51    tupleIndex:   27
+2644,post,baby
+here  pid:    51    tupleIndex:   28
+2711,x-ray,tiger
+here  pid:    51    tupleIndex:   29
+2778,compass,fork
+here  pid:    51    tupleIndex:   30
+2802,square,bed
+here  pid:    51    tupleIndex:   31
+2818,adult,horse
+here  pid:    51    tupleIndex:   32
+2844,feather,horse
+here  pid:    51    tupleIndex:   33
+2858,umbrella,milkshake
+here  pid:    51    tupleIndex:   34
+2864,pebble,aircraft
+here  pid:    51    tupleIndex:   35
+2909,pocket,knife
+here  pid:    51    tupleIndex:   36
+2918,rib,restaurant
+here  pid:    52    tupleIndex:   1
+1068,gasp,dung
+here  pid:    52    tupleIndex:   2
+1131,cycle,sphere
+here  pid:    52    tupleIndex:   3
+1248,bed,coffee-shop
+here  pid:    52    tupleIndex:   4
+1418,planet,needle
+here  pid:    52    tupleIndex:   5
+1423,sandwich,spoon
+here  pid:    52    tupleIndex:   6
+1634,water,boss
+here  pid:    52    tupleIndex:   7
+1648,circle,ship
+here  pid:    52    tupleIndex:   8
+1703,staircase,fin
+here  pid:    52    tupleIndex:   9
+1772,baby,clock
+here  pid:    52    tupleIndex:   10
+1834,set,eyes
+here  pid:    52    tupleIndex:   11
+1863,horse,boss
+here  pid:    52    tupleIndex:   12
+1899,eraser,x-ray
+here  pid:    52    tupleIndex:   13
+1915,monster,airport
+here  pid:    52    tupleIndex:   14
+1932,knife,needle
+here  pid:    52    tupleIndex:   15
+1933,bed,crystal
+here  pid:    52    tupleIndex:   16
+2037,circle,hot
+here  pid:    52    tupleIndex:   17
+2048,milkshake,coffee-shop
+here  pid:    52    tupleIndex:   18
+2064,torch,crystal
+here  pid:    52    tupleIndex:   19
+2102,navy,perfume
+here  pid:    52    tupleIndex:   20
+2104,pith,crystal
+here  pid:    52    tupleIndex:   21
+2207,set,circus
+here  pid:    52    tupleIndex:   22
+2257,table,floodlight
+here  pid:    52    tupleIndex:   23
+2342,satellite,drink
+here  pid:    52    tupleIndex:   24
+2539,staircase,pebble
+here  pid:    52    tupleIndex:   25
+2704,chocolates,ship
+here  pid:    52    tupleIndex:   26
+2744,set,space
+here  pid:    52    tupleIndex:   27
+2758,freeway,radar
+here  pid:    52    tupleIndex:   28
+2764,gasp,umbrella
+here  pid:    52    tupleIndex:   29
+2769,magnet,star
+here  pid:    52    tupleIndex:   30
+2832,teeth,circus
+here  pid:    52    tupleIndex:   31
+2855,spice,crystal
+here  pid:    52    tupleIndex:   32
+2882,diamond,adult
+here  pid:    52    tupleIndex:   33
+2928,potato,umbrella
+here  pid:    53    tupleIndex:   1
+1001,navy,hieroglyph
+here  pid:    53    tupleIndex:   2
+1079,aircraft,flower
+here  pid:    53    tupleIndex:   3
+1319,cat,mosquito
+here  pid:    53    tupleIndex:   4
+1327,zebra,pocket
+here  pid:    53    tupleIndex:   5
+1332,monster,eyes
+here  pid:    53    tupleIndex:   6
+1334,record,shower
+here  pid:    53    tupleIndex:   7
+1356,rocket,man
+here  pid:    53    tupleIndex:   8
+1453,pith,clock
+here  pid:    53    tupleIndex:   9
+1483,egg,rib
+here  pid:    53    tupleIndex:   10
+1517,spectrum,feather
+here  pid:    53    tupleIndex:   11
+1593,rock,carpet
+here  pid:    53    tupleIndex:   12
+1616,grapes,adult
+here  pid:    53    tupleIndex:   13
+1682,chair,hieroglyph
+here  pid:    53    tupleIndex:   14
+1766,bed,insect
+here  pid:    53    tupleIndex:   15
+1787,arm,square
+here  pid:    53    tupleIndex:   16
+1804,aircraft,fin
+here  pid:    53    tupleIndex:   17
+1830,torch,jet-fighter
+here  pid:    53    tupleIndex:   18
+1831,navy,balloon
+here  pid:    53    tupleIndex:   19
+1884,coffee,fin
+here  pid:    53    tupleIndex:   20
+1908,potato,perfume
+here  pid:    53    tupleIndex:   21
+1920,eraser,perfume
+here  pid:    53    tupleIndex:   22
+1968,spice,horoscope
+here  pid:    53    tupleIndex:   23
+2017,pepper,spiral
+here  pid:    53    tupleIndex:   24
+2045,chocolates,eyes
+here  pid:    53    tupleIndex:   25
+2057,foot,win
+here  pid:    53    tupleIndex:   26
+2095,cat,circus
+here  pid:    53    tupleIndex:   27
+2213,fan,crystal
+here  pid:    53    tupleIndex:   28
+2274,leather,airport
+here  pid:    53    tupleIndex:   29
+2287,rocket,rib
+here  pid:    53    tupleIndex:   30
+2314,restaurant,shower
+here  pid:    53    tupleIndex:   31
+2587,foot,ship
+here  pid:    53    tupleIndex:   32
+2394,room,coffee-shop
+here  pid:    53    tupleIndex:   33
+2465,fungus,carpet
+here  pid:    53    tupleIndex:   34
+2620,hose,horoscope
+here  pid:    53    tupleIndex:   35
+2811,mist,aeroplane
+here  pid:    53    tupleIndex:   36
+2924,maze,vampire
+here  pid:    53    tupleIndex:   37
+2937,rocket,spiral
+here  pid:    53    tupleIndex:   38
+2939,wheelchair,needle
+here  pid:    54    tupleIndex:   1
+1020,circus,flower
+here  pid:    54    tupleIndex:   2
+1058,spiral,ship
+here  pid:    54    tupleIndex:   3
+1084,boss,airport
+here  pid:    54    tupleIndex:   4
+1101,mosquito,floodlight
+here  pid:    54    tupleIndex:   5
+1110,radar,floodlight
+here  pid:    54    tupleIndex:   6
+1130,hot,circus
+here  pid:    54    tupleIndex:   7
+1220,spiral,man
+here  pid:    54    tupleIndex:   8
+1227,vampire,balloon
+here  pid:    54    tupleIndex:   9
+1251,insect,airport
+here  pid:    54    tupleIndex:   10
+1292,circus,perfume
+here  pid:    54    tupleIndex:   11
+1436,circus,post
+here  pid:    54    tupleIndex:   12
+1552,pocket,button
+here  pid:    54    tupleIndex:   13
+1645,circus,spoon
+here  pid:    54    tupleIndex:   14
+1740,onion,clock
+here  pid:    54    tupleIndex:   15
+1832,sword,rib
+here  pid:    54    tupleIndex:   16
+2065,fin,feather
+here  pid:    54    tupleIndex:   17
+2080,chief,spoon
+here  pid:    54    tupleIndex:   18
+2096,hat,spiral
+here  pid:    54    tupleIndex:   19
+2103,dung,umbrella
+here  pid:    54    tupleIndex:   20
+2122,crystal,drink
+here  pid:    54    tupleIndex:   21
+2225,spiral,spiral
+here  pid:    54    tupleIndex:   22
+2228,space,hat
+here  pid:    54    tupleIndex:   23
+2286,onion,drink
+here  pid:    54    tupleIndex:   24
+2379,win,win
+here  pid:    54    tupleIndex:   25
+2403,dung,bomb
+here  pid:    54    tupleIndex:   26
+2631,hat,insect
+here  pid:    54    tupleIndex:   27
+2662,circus,adult
+here  pid:    54    tupleIndex:   28
+2845,shower,button
+here  pid:    55    tupleIndex:   1
+1103,x-ray,square
+here  pid:    55    tupleIndex:   2
+1290,crystal,onion
+here  pid:    55    tupleIndex:   3
+1449,airport,ship
+here  pid:    55    tupleIndex:   4
+1597,boy,horoscope
+here  pid:    55    tupleIndex:   5
+1677,star,circus
+here  pid:    55    tupleIndex:   6
+1692,post,bomb
+here  pid:    55    tupleIndex:   7
+1827,button,boss
+here  pid:    55    tupleIndex:   8
+1870,hieroglyph,carpet
+here  pid:    55    tupleIndex:   9
+1917,onion,balloon
+here  pid:    55    tupleIndex:   10
+1956,airforce,button
+here  pid:    55    tupleIndex:   11
+2014,drill,horoscope
+here  pid:    55    tupleIndex:   12
+2161,perfume,airforce
+here  pid:    55    tupleIndex:   13
+2406,sword,spoon
+here  pid:    55    tupleIndex:   14
+2476,adult,hat
+here  pid:    55    tupleIndex:   15
+2484,man,x-ray
+here  pid:    55    tupleIndex:   16
+2557,triangle,triangle
+here  pid:    55    tupleIndex:   17
+2635,swim,horoscope
+here  pid:    55    tupleIndex:   18
+2685,dung,sphere
+here  pid:    55    tupleIndex:   19
+2770,boy,jet-fighter
+here  pid:    55    tupleIndex:   20
+2813,drink,needle
+here  pid:    55    tupleIndex:   21
+2834,triangle,sphere
+here  pid:    55    tupleIndex:   22
+2859,feather,spiral
+here  pid:    55    tupleIndex:   23
+2873,plane,flower
+here  pid:    55    tupleIndex:   24
+2977,hot,circus
+here  pid:    55    tupleIndex:   25
+2995,perfume,button
+here  pid:    56    tupleIndex:   1
+1033,restaurant,record
+here  pid:    56    tupleIndex:   2
+1067,foot,car
+here  pid:    56    tupleIndex:   3
+1189,cycle,pepper
+here  pid:    56    tupleIndex:   4
+1258,aircraft,magnet
+here  pid:    56    tupleIndex:   5
+1282,sandwich,egg
+here  pid:    56    tupleIndex:   6
+1325,zebra,bridge
+here  pid:    56    tupleIndex:   7
+1335,dress,mouth
+here  pid:    56    tupleIndex:   8
+1369,record,zebra
+here  pid:    56    tupleIndex:   9
+1393,pillow,cycle
+here  pid:    56    tupleIndex:   10
+1468,earth,baby
+here  pid:    56    tupleIndex:   11
+1509,pepper,wheelchair
+here  pid:    56    tupleIndex:   12
+1513,baby,pyramid
+here  pid:    56    tupleIndex:   13
+1522,pyramid,bed
+here  pid:    56    tupleIndex:   14
+1544,cat,mouth
+here  pid:    56    tupleIndex:   15
+1617,pillow,fan
+here  pid:    56    tupleIndex:   16
+1650,fan,horse
+here  pid:    56    tupleIndex:   17
+1653,spectrum,monster
+here  pid:    56    tupleIndex:   18
+1656,pyramid,bridge
+here  pid:    56    tupleIndex:   19
+1708,wheelchair,circle
+here  pid:    56    tupleIndex:   20
+1723,barbecue,egg
+here  pid:    56    tupleIndex:   21
+1780,baby,room
+here  pid:    56    tupleIndex:   22
+1833,restaurant,record
+here  pid:    56    tupleIndex:   23
+1860,set,roof
+here  pid:    56    tupleIndex:   24
+1897,spectrum,rock
+here  pid:    56    tupleIndex:   25
+1901,record,mist
+here  pid:    56    tupleIndex:   26
+1925,mist,famine
+here  pid:    56    tupleIndex:   27
+1945,pyramid,drum
+here  pid:    56    tupleIndex:   28
+1972,gate,potato
+here  pid:    56    tupleIndex:   29
+2026,pith,rocket
+here  pid:    56    tupleIndex:   30
+2034,mouth,satellite
+here  pid:    56    tupleIndex:   31
+2121,hose,diamond
+here  pid:    56    tupleIndex:   32
+2127,fan,milkshake
+here  pid:    56    tupleIndex:   33
+2175,game,circle
+here  pid:    56    tupleIndex:   34
+2200,bed,gate
+here  pid:    56    tupleIndex:   35
+2232,rock,chocolates
+here  pid:    56    tupleIndex:   36
+2243,pepper,famine
+here  pid:    56    tupleIndex:   37
+2267,bed,pith
+here  pid:    56    tupleIndex:   38
+2293,room,earth
+here  pid:    56    tupleIndex:   39
+2296,table,eraser
+here  pid:    56    tupleIndex:   40
+2426,record,spectrum
+here  pid:    56    tupleIndex:   41
+2430,torch,rock
+here  pid:    56    tupleIndex:   42
+2461,milkshake,pyramid
+here  pid:    56    tupleIndex:   43
+2462,foot,chair
+here  pid:    56    tupleIndex:   44
+2516,bed,set
+here  pid:    56    tupleIndex:   45
+2521,bed,famine
+here  pid:    56    tupleIndex:   46
+2552,chair,rocket
+here  pid:    56    tupleIndex:   47
+2591,yellow,magnet
+here  pid:    56    tupleIndex:   48
+2608,sandwich,dress
+here  pid:    56    tupleIndex:   49
+2609,yellow,wheelchair
+here  pid:    56    tupleIndex:   50
+2683,planet,planet
+here  pid:    56    tupleIndex:   51
+2737,parachute,fungus
+here  pid:    56    tupleIndex:   52
+2828,tiger,torch
+here  pid:    56    tupleIndex:   53
+2884,chocolates,baby
+here  pid:    56    tupleIndex:   54
+2886,leather,gate
+here  pid:    56    tupleIndex:   55
+2963,room,gasp
+here  pid:    57    tupleIndex:   1
+1004,bridge,torch
+here  pid:    57    tupleIndex:   2
+1054,rock,cycle
+here  pid:    57    tupleIndex:   3
+1126,parachute,aircraft
+here  pid:    57    tupleIndex:   4
+1144,teeth,explosive
+here  pid:    57    tupleIndex:   5
+1186,milkshake,baby
+here  pid:    57    tupleIndex:   6
+1188,pith,magnet
+here  pid:    57    tupleIndex:   7
+1232,fan,pith
+here  pid:    57    tupleIndex:   8
+1278,bed,yellow
+here  pid:    57    tupleIndex:   9
+1304,fungus,room
+here  pid:    57    tupleIndex:   10
+1317,horse,navy
+here  pid:    57    tupleIndex:   11
+1378,baby,knife
+here  pid:    57    tupleIndex:   12
+1385,navy,freeway
+here  pid:    57    tupleIndex:   13
+1389,hose,fungus
+here  pid:    57    tupleIndex:   14
+1399,torch,milkshake
+here  pid:    57    tupleIndex:   15
+1425,electricity,cat
+here  pid:    57    tupleIndex:   16
+1457,circle,baby
+here  pid:    57    tupleIndex:   17
+1527,barbecue,spectrum
+here  pid:    57    tupleIndex:   18
+1528,coffee,baby
+here  pid:    57    tupleIndex:   19
+1577,fungus,teeth
+here  pid:    57    tupleIndex:   20
+1595,egg,set
+here  pid:    57    tupleIndex:   21
+1665,aircraft,milkshake
+here  pid:    57    tupleIndex:   22
+1694,bank,grapes
+here  pid:    57    tupleIndex:   23
+1700,milkshake,maze
+here  pid:    57    tupleIndex:   24
+1739,earth,gasp
+here  pid:    57    tupleIndex:   25
+1820,planet,rock
+here  pid:    57    tupleIndex:   26
+1837,spectrum,wheelchair
+here  pid:    57    tupleIndex:   27
+1850,water,famine
+here  pid:    57    tupleIndex:   28
+1852,bank,cat
+here  pid:    57    tupleIndex:   29
+1864,grapes,magnet
+here  pid:    57    tupleIndex:   30
+1912,horse,dress
+here  pid:    57    tupleIndex:   31
+1926,magnet,baby
+here  pid:    57    tupleIndex:   32
+1969,magnet,rifle
+here  pid:    57    tupleIndex:   33
+1992,spectrum,circle
+here  pid:    57    tupleIndex:   34
+2003,spice,knife
+here  pid:    57    tupleIndex:   35
+2033,rock,baby
+here  pid:    57    tupleIndex:   36
+2090,pyramid,fan
+here  pid:    57    tupleIndex:   37
+2115,cat,car
+here  pid:    57    tupleIndex:   38
+2176,pyramid,maze
+here  pid:    57    tupleIndex:   39
+2191,hose,baby
+here  pid:    57    tupleIndex:   40
+2196,torch,egg
+here  pid:    57    tupleIndex:   41
+2250,wheelchair,software
+here  pid:    57    tupleIndex:   42
+2400,fan,milkshake
+here  pid:    57    tupleIndex:   43
+2427,drum,barbecue
+here  pid:    57    tupleIndex:   44
+2509,software,fork
+here  pid:    57    tupleIndex:   45
+2537,fan,dress
+here  pid:    57    tupleIndex:   46
+2569,water,sandwich
+here  pid:    57    tupleIndex:   47
+2585,maze,mist
+here  pid:    57    tupleIndex:   48
+2663,game,water
+here  pid:    57    tupleIndex:   49
+2675,room,grapes
+here  pid:    57    tupleIndex:   50
+2679,bridge,fan
+here  pid:    57    tupleIndex:   51
+2783,record,zebra
+here  pid:    57    tupleIndex:   52
+2790,tiger,bed
+here  pid:    57    tupleIndex:   53
+2839,restaurant,restaurant
+here  pid:    57    tupleIndex:   54
+2880,electricity,freeway
+here  pid:    57    tupleIndex:   55
+2900,pyramid,pith
+here  pid:    58    tupleIndex:   1
+1006,chief,carrot
+here  pid:    58    tupleIndex:   2
+1071,hat,arm
+here  pid:    58    tupleIndex:   3
+1142,x-ray,roof
+here  pid:    58    tupleIndex:   4
+1197,button,pepper
+here  pid:    58    tupleIndex:   5
+1233,spiral,leather
+here  pid:    58    tupleIndex:   6
+1283,hot,freeway
+here  pid:    58    tupleIndex:   7
+1330,crystal,earth
+here  pid:    58    tupleIndex:   8
+1354,chief,yellow
+here  pid:    58    tupleIndex:   9
+1390,airport,pyramid
+here  pid:    58    tupleIndex:   10
+1413,airforce,drum
+here  pid:    58    tupleIndex:   11
+1461,win,knife
+here  pid:    58    tupleIndex:   12
+1477,carpet,circle
+here  pid:    58    tupleIndex:   13
+1504,post,hose
+here  pid:    58    tupleIndex:   14
+1521,crystal,satellite
+here  pid:    58    tupleIndex:   15
+1635,mosquito,horse
+here  pid:    58    tupleIndex:   16
+1646,adult,magnet
+here  pid:    58    tupleIndex:   17
+1676,chief,navy
+here  pid:    58    tupleIndex:   18
+1729,spoon,pepper
+here  pid:    58    tupleIndex:   19
+1731,milk,baby
+here  pid:    58    tupleIndex:   20
+1760,hieroglyph,baby
+here  pid:    58    tupleIndex:   21
+1773,triangle,monster
+here  pid:    58    tupleIndex:   22
+1879,mosquito,water
+here  pid:    58    tupleIndex:   23
+1913,insect,table
+here  pid:    58    tupleIndex:   24
+2008,clock,horse
+here  pid:    58    tupleIndex:   25
+2024,hot,navy
+here  pid:    58    tupleIndex:   26
+2071,sword,wheelchair
+here  pid:    58    tupleIndex:   27
+2119,coffee-shop,satellite
+here  pid:    58    tupleIndex:   28
+2140,eyes,chocolates
+here  pid:    58    tupleIndex:   29
+2169,space,baby
+here  pid:    58    tupleIndex:   30
+2170,space,milkshake
+here  pid:    58    tupleIndex:   31
+2204,pebble,circle
+here  pid:    58    tupleIndex:   32
+2258,vampire,water
+here  pid:    58    tupleIndex:   33
+2265,airforce,table
+here  pid:    58    tupleIndex:   34
+2291,shower,earth
+here  pid:    58    tupleIndex:   35
+2352,milk,bed
+here  pid:    58    tupleIndex:   36
+2503,feather,cat
+here  pid:    58    tupleIndex:   37
+2576,square,mist
+here  pid:    58    tupleIndex:   38
+2589,eyes,planet
+here  pid:    58    tupleIndex:   39
+2613,feather,knife
+here  pid:    58    tupleIndex:   40
+2653,radar,leather
+here  pid:    58    tupleIndex:   41
+2997,horoscope,famine
+here  pid:    59    tupleIndex:   1
+1002,floodlight,fork
+here  pid:    59    tupleIndex:   2
+1049,boss,wheelchair
+here  pid:    59    tupleIndex:   3
+1050,radar,cat
+here  pid:    59    tupleIndex:   4
+1217,hot,teeth
+here  pid:    59    tupleIndex:   5
+1267,drink,sandwich
+here  pid:    59    tupleIndex:   6
+1307,crystal,famine
+here  pid:    59    tupleIndex:   7
+1313,crystal,eraser
+here  pid:    59    tupleIndex:   8
+1315,fin,earth
+here  pid:    59    tupleIndex:   9
+1415,adult,set
+here  pid:    59    tupleIndex:   10
+1438,spiral,potato
+here  pid:    59    tupleIndex:   11
+1440,insect,horse
+here  pid:    59    tupleIndex:   12
+1542,needle,bank
+here  pid:    59    tupleIndex:   13
+1562,circus,rocket
+here  pid:    59    tupleIndex:   14
+1652,umbrella,magnet
+here  pid:    59    tupleIndex:   15
+1688,square,maze
+here  pid:    59    tupleIndex:   16
+1764,crystal,game
+here  pid:    59    tupleIndex:   17
+1774,x-ray,hose
+here  pid:    59    tupleIndex:   18
+1942,hot,gasp
+here  pid:    59    tupleIndex:   19
+2053,sword,bank
+here  pid:    59    tupleIndex:   20
+2088,airforce,explosive
+here  pid:    59    tupleIndex:   21
+2106,spiral,milkshake
+here  pid:    59    tupleIndex:   22
+2186,chief,cycle
+here  pid:    59    tupleIndex:   23
+2211,hat,zebra
+here  pid:    59    tupleIndex:   24
+2241,x-ray,baby
+here  pid:    59    tupleIndex:   25
+2420,rib,roof
+here  pid:    59    tupleIndex:   26
+2534,horoscope,cycle
+here  pid:    59    tupleIndex:   27
+2612,circus,tiger
+here  pid:    59    tupleIndex:   28
+2772,pocket,diamond
+here  pid:    59    tupleIndex:   29
+2814,fin,baby
+here  pid:    28    tupleIndex:   1
+1007,gasp,rainbow
+here  pid:    28    tupleIndex:   2
+1044,sandwich,comet
+here  pid:    28    tupleIndex:   3
+1097,egg,treadmill
+here  pid:    28    tupleIndex:   4
+1146,planet,family
+here  pid:    28    tupleIndex:   5
+1211,maze,eyes
+here  pid:    28    tupleIndex:   6
+1224,satellite,slave
+here  pid:    28    tupleIndex:   7
+1285,maze,cave
+here  pid:    28    tupleIndex:   8
+1296,freeway,backpack
+here  pid:    28    tupleIndex:   9
+1305,room,microscope
+here  pid:    28    tupleIndex:   10
+1328,chair,radar
+here  pid:    28    tupleIndex:   11
+1333,ice,meteor
+here  pid:    28    tupleIndex:   12
+1364,barbecue,money
+here  pid:    28    tupleIndex:   13
+1367,record,sunglasses
+here  pid:    28    tupleIndex:   14
+1372,chair,feather
+here  pid:    28    tupleIndex:   15
+1446,circle,pebble
+here  pid:    28    tupleIndex:   16
+1479,water,circus
+here  pid:    28    tupleIndex:   17
+1490,dress,chisel
+here  pid:    28    tupleIndex:   18
+1516,mouth,worm
+here  pid:    28    tupleIndex:   19
+1518,water,pocket
+here  pid:    28    tupleIndex:   20
+1570,record,snail
+here  pid:    28    tupleIndex:   21
+1589,foot,sword
+here  pid:    28    tupleIndex:   22
+1674,foot,hot
+here  pid:    28    tupleIndex:   23
+1713,room,swim
+here  pid:    28    tupleIndex:   24
+1716,horse,dingbat
+here  pid:    28    tupleIndex:   25
+1737,water,boy
+here  pid:    28    tupleIndex:   26
+1779,pepper,videotape
+here  pid:    28    tupleIndex:   27
+1799,bank,pocket
+here  pid:    28    tupleIndex:   28
+1835,knife,fin
+here  pid:    28    tupleIndex:   29
+1851,eraser,slave
+here  pid:    28    tupleIndex:   30
+1874,earth,meat
+here  pid:    28    tupleIndex:   31
+1890,milkshake,videotape
+here  pid:    28    tupleIndex:   32
+1921,magnet,woman
+here  pid:    28    tupleIndex:   33
+1947,potato,bomb
+here  pid:    28    tupleIndex:   34
+1973,pith,ship
+here  pid:    28    tupleIndex:   35
+2005,pillow,plane
+here  pid:    28    tupleIndex:   36
+2030,earth,air
+here  pid:    28    tupleIndex:   37
+2039,staircase,plane
+here  pid:    28    tupleIndex:   38
+2092,fork,tongue
+here  pid:    28    tupleIndex:   39
+2132,spice,carpet
+here  pid:    28    tupleIndex:   40
+2183,game,floodlight
+here  pid:    28    tupleIndex:   41
+2202,satellite,double
+here  pid:    28    tupleIndex:   42
+2236,baby,drink
+here  pid:    28    tupleIndex:   43
+2305,pillow,man
+here  pid:    28    tupleIndex:   44
+2330,eraser,thermometer
+here  pid:    28    tupleIndex:   45
+2412,cat,swim
+here  pid:    28    tupleIndex:   46
+2436,rock,rib
+here  pid:    28    tupleIndex:   47
+2453,maze,milk
+here  pid:    28    tupleIndex:   48
+2502,restaurant,circus
+here  pid:    28    tupleIndex:   49
+2522,room,album
+here  pid:    28    tupleIndex:   50
+2544,set,meteor
+here  pid:    28    tupleIndex:   51
+2560,record,carpet
+here  pid:    28    tupleIndex:   52
+2563,mist,child
+here  pid:    28    tupleIndex:   53
+2593,cycle,button
+here  pid:    28    tupleIndex:   54
+2601,set,map
+here  pid:    28    tupleIndex:   55
+2665,bank,balloon
+here  pid:    28    tupleIndex:   56
+2682,carrot,vulture
+here  pid:    29    tupleIndex:   1
+1055,pillow,child
+here  pid:    29    tupleIndex:   2
+1091,rock,x-ray
+here  pid:    29    tupleIndex:   3
+1160,rifle,mosquito
+here  pid:    29    tupleIndex:   4
+1178,table,backpack
+here  pid:    29    tupleIndex:   5
+1198,earth,highway
+here  pid:    29    tupleIndex:   6
+1216,bed,worm
+here  pid:    29    tupleIndex:   7
+1384,room,hat
+here  pid:    29    tupleIndex:   8
+1406,cat,comet
+here  pid:    29    tupleIndex:   9
+1411,baby,aeroplane
+here  pid:    29    tupleIndex:   10
+1475,rock,boss
+here  pid:    29    tupleIndex:   11
+1492,diamond,man
+here  pid:    29    tupleIndex:   12
+1533,bed,backpack
+here  pid:    29    tupleIndex:   13
+1547,monster,fruit
+here  pid:    29    tupleIndex:   14
+1585,rifle,carpet
+here  pid:    29    tupleIndex:   15
+1598,set,plane
+here  pid:    29    tupleIndex:   16
+1614,baby,solid
+here  pid:    29    tupleIndex:   17
+1621,parachute,money
+here  pid:    29    tupleIndex:   18
+1651,fork,clock
+here  pid:    29    tupleIndex:   19
+1657,cat,worm
+here  pid:    29    tupleIndex:   20
+1672,wheelchair,horoscope
+here  pid:    29    tupleIndex:   21
+1736,ice,boss
+here  pid:    29    tupleIndex:   22
+1751,chair,tapestry
+here  pid:    29    tupleIndex:   23
+1761,grapes,circus
+here  pid:    29    tupleIndex:   24
+1762,drum,mosquito
+here  pid:    29    tupleIndex:   25
+1783,horse,hat
+here  pid:    29    tupleIndex:   26
+2007,room,boy
+here  pid:    29    tupleIndex:   27
+2085,monster,dog
+here  pid:    29    tupleIndex:   28
+2108,game,rib
+here  pid:    29    tupleIndex:   29
+2187,aircraft,videotape
+here  pid:    29    tupleIndex:   30
+2205,record,rib
+here  pid:    29    tupleIndex:   31
+2227,arm,meat
+here  pid:    29    tupleIndex:   32
+2235,zebra,cave
+here  pid:    29    tupleIndex:   33
+2237,mist,airforce
+here  pid:    29    tupleIndex:   34
+2252,yellow,finger
+here  pid:    29    tupleIndex:   35
+2269,pyramid,map
+here  pid:    29    tupleIndex:   36
+2353,barbecue,videotape
+here  pid:    29    tupleIndex:   37
+2397,bridge,meat
+here  pid:    29    tupleIndex:   38
+2398,zebra,vacuum
+here  pid:    29    tupleIndex:   39
+2422,car,meat
+here  pid:    29    tupleIndex:   40
+2492,earth,triangle
+here  pid:    29    tupleIndex:   41
+2512,wheelchair,floodlight
+here  pid:    29    tupleIndex:   42
+2553,satellite,onion
+here  pid:    29    tupleIndex:   43
+2574,table,balloon
+here  pid:    29    tupleIndex:   44
+2621,water,cave
+here  pid:    29    tupleIndex:   45
+2647,rocket,shower
+here  pid:    29    tupleIndex:   46
+2648,freeway,floodlight
+here  pid:    29    tupleIndex:   47
+2692,satellite,chisel
+here  pid:    29    tupleIndex:   48
+2710,baby,adult
+here  pid:    29    tupleIndex:   49
+2748,pillow,button
+here  pid:    29    tupleIndex:   50
+2751,chocolates,needle
+here  pid:    29    tupleIndex:   51
+2756,car,child
+here  pid:    29    tupleIndex:   52
+2760,baby,bathroom
+here  pid:    29    tupleIndex:   53
+2797,rifle,dung
+here  pid:    29    tupleIndex:   54
+2798,monster,desk
+here  pid:    29    tupleIndex:   55
+2812,set,drill
+here  pid:    29    tupleIndex:   56
+2820,mist,spoon
+here  pid:    30    tupleIndex:   1
+1003,drill,sunglasses
+here  pid:    30    tupleIndex:   2
+1022,perfume,air
+here  pid:    30    tupleIndex:   3
+1027,sword,highway
+here  pid:    30    tupleIndex:   4
+1076,insect,saddle
+here  pid:    30    tupleIndex:   5
+1138,aeroplane,treadmill
+here  pid:    30    tupleIndex:   6
+1141,jet-fighter,thermometer
+here  pid:    30    tupleIndex:   7
+1277,adult,school
+here  pid:    30    tupleIndex:   8
+1312,triangle,woman
+here  pid:    30    tupleIndex:   9
+1409,drink,mosquito
+here  pid:    30    tupleIndex:   10
+1424,milk,meteor
+here  pid:    30    tupleIndex:   11
+1427,drink,bomb
+here  pid:    30    tupleIndex:   12
+1439,plane,boss
+here  pid:    30    tupleIndex:   13
+1487,drink,aeroplane
+here  pid:    30    tupleIndex:   14
+1501,vampire,eyes
+here  pid:    30    tupleIndex:   15
+1512,hot,bee
+here  pid:    30    tupleIndex:   16
+1559,chief,slave
+here  pid:    30    tupleIndex:   17
+1561,insect,vulture
+here  pid:    30    tupleIndex:   18
+1695,triangle,cave
+here  pid:    30    tupleIndex:   19
+1743,jet-fighter,floodlight
+here  pid:    30    tupleIndex:   20
+1769,circus,dog
+here  pid:    30    tupleIndex:   21
+1791,boy,umbrella
+here  pid:    30    tupleIndex:   22
+1800,win,vampire
+here  pid:    30    tupleIndex:   23
+1821,pocket,snail
+here  pid:    30    tupleIndex:   24
+1891,dung,sandpaper
+here  pid:    30    tupleIndex:   25
+1902,vulture,drink
+here  pid:    30    tupleIndex:   26
+1949,boy,desk
+here  pid:    30    tupleIndex:   27
+1959,bomb,compass
+here  pid:    30    tupleIndex:   28
+1993,bomb,hat
+here  pid:    30    tupleIndex:   29
+2022,vampire,mum
+here  pid:    30    tupleIndex:   30
+2029,spoon,drink
+here  pid:    30    tupleIndex:   31
+2074,pebble,passport
+here  pid:    30    tupleIndex:   32
+2144,fin,air
+here  pid:    30    tupleIndex:   33
+2152,floodlight,fire
+here  pid:    30    tupleIndex:   34
+2160,clock,ears
+here  pid:    30    tupleIndex:   35
+2173,win,banana
+here  pid:    30    tupleIndex:   36
+2231,spiral,needle
+here  pid:    30    tupleIndex:   37
+2248,man,kitchen
+here  pid:    30    tupleIndex:   38
+2249,chief,bee
+here  pid:    30    tupleIndex:   39
+2284,star,star
+here  pid:    30    tupleIndex:   40
+2292,pocket,star
+here  pid:    30    tupleIndex:   41
+2299,post,hammer
+here  pid:    30    tupleIndex:   42
+2311,airforce,vampire
+here  pid:    30    tupleIndex:   43
+2327,airforce,radar
+here  pid:    30    tupleIndex:   44
+2328,hot,tunnel
+here  pid:    30    tupleIndex:   45
+2391,vulture,bathtub
+here  pid:    30    tupleIndex:   46
+2402,triangle,chief
+here  pid:    30    tupleIndex:   47
+2433,perfume,fire
+here  pid:    30    tupleIndex:   48
+2444,circus,desk
+here  pid:    30    tupleIndex:   49
+2541,boy,compass
+here  pid:    30    tupleIndex:   50
+2567,coffee-shop,space
+here  pid:    30    tupleIndex:   51
+2604,sword,adult
+here  pid:    30    tupleIndex:   52
+2669,boss,double
+here  pid:    30    tupleIndex:   53
+2700,swim,eyes
+here  pid:    30    tupleIndex:   54
+2718,radar,thermometer
+here  pid:    30    tupleIndex:   55
+2888,post,cave
+here  pid:    31    tupleIndex:   1
+1014,sword,carpet
+here  pid:    31    tupleIndex:   2
+1030,vampire,hot
+here  pid:    31    tupleIndex:   3
+1031,fin,kaleidoscope
+here  pid:    31    tupleIndex:   4
+1052,square,treadmill
+here  pid:    31    tupleIndex:   5
+1085,perfume,album
+here  pid:    31    tupleIndex:   6
+1090,spiral,needle
+here  pid:    31    tupleIndex:   7
+1152,man,bottle
+here  pid:    31    tupleIndex:   8
+1183,carpet,hat
+here  pid:    31    tupleIndex:   9
+1209,floodlight,worm
+here  pid:    31    tupleIndex:   10
+1235,perfume,compact-disc
+here  pid:    31    tupleIndex:   11
+1239,carpet,cave
+here  pid:    31    tupleIndex:   12
+1255,sword,key
+here  pid:    31    tupleIndex:   13
+1261,umbrella,album
+here  pid:    31    tupleIndex:   14
+1279,pebble,banana
+here  pid:    31    tupleIndex:   15
+1289,win,sandpaper
+here  pid:    31    tupleIndex:   16
+1306,feather,typewriter
+here  pid:    31    tupleIndex:   17
+1349,vulture,worm
+here  pid:    31    tupleIndex:   18
+1388,button,solid
+here  pid:    31    tupleIndex:   19
+1402,button,boss
+here  pid:    31    tupleIndex:   20
+1430,circus,floodlight
+here  pid:    31    tupleIndex:   21
+1434,jet-fighter,insect
+here  pid:    31    tupleIndex:   22
+1448,coffee-shop,passport
+here  pid:    31    tupleIndex:   23
+1496,post,zoo
+here  pid:    31    tupleIndex:   24
+1503,chief,needle
+here  pid:    31    tupleIndex:   25
+1556,rib,cave
+here  pid:    31    tupleIndex:   26
+1602,umbrella,money
+here  pid:    31    tupleIndex:   27
+1643,spoon,woman
+here  pid:    31    tupleIndex:   28
+1670,spoon,clock
+here  pid:    31    tupleIndex:   29
+1753,pocket,balloon
+here  pid:    31    tupleIndex:   30
+1786,needle,finger
+here  pid:    31    tupleIndex:   31
+1812,adult,sword
+here  pid:    31    tupleIndex:   32
+1818,boss,coffee-shop
+here  pid:    31    tupleIndex:   33
+1819,vulture,star
+here  pid:    31    tupleIndex:   34
+1981,hat,clock
+here  pid:    31    tupleIndex:   35
+1996,umbrella,post
+here  pid:    31    tupleIndex:   36
+1997,star,tapestry
+here  pid:    31    tupleIndex:   37
+2013,spoon,tennis
+here  pid:    31    tupleIndex:   38
+2049,spiral,radar
+here  pid:    31    tupleIndex:   39
+2098,pocket,ship
+here  pid:    31    tupleIndex:   40
+2134,pocket,zoo
+here  pid:    31    tupleIndex:   41
+2145,swim,microscope
+here  pid:    31    tupleIndex:   42
+2208,spoon,prison
+here  pid:    31    tupleIndex:   43
+2221,fin,butterfly
+here  pid:    31    tupleIndex:   44
+2247,umbrella,tennis
+here  pid:    31    tupleIndex:   45
+2270,balloon,win
+here  pid:    31    tupleIndex:   46
+2335,circus,shower
+here  pid:    31    tupleIndex:   47
+2370,hat,clock
+here  pid:    31    tupleIndex:   48
+2389,milk,feather
+here  pid:    31    tupleIndex:   49
+2418,chief,hat
+here  pid:    31    tupleIndex:   50
+2439,milk,insect
+here  pid:    31    tupleIndex:   51
+2460,plane,banana
+here  pid:    31    tupleIndex:   52
+2466,win,hammer
+here  pid:    31    tupleIndex:   53
+2495,chief,highway
+here  pid:    31    tupleIndex:   54
+2518,floodlight,finger
+here  pid:    0    tupleIndex:   1
+1102,leg,cup
+here  pid:    0    tupleIndex:   2
+1104,pants,torpedo
+here  pid:    0    tupleIndex:   3
+1168,festival,bowl
+here  pid:    0    tupleIndex:   4
+1254,window,pendulum
+here  pid:    0    tupleIndex:   5
+1320,surveyor,window
+here  pid:    0    tupleIndex:   6
+1467,leg,sun
+here  pid:    0    tupleIndex:   7
+1639,cup,elephant
+here  pid:    0    tupleIndex:   8
+2063,signature,skeleton
+here  pid:    0    tupleIndex:   9
+2261,torpedo,shop
+here  pid:    0    tupleIndex:   10
+2295,bowl,chess-board
+here  pid:    0    tupleIndex:   11
+2642,shop,cup
+here  pid:    0    tupleIndex:   12
+2714,gloves,sports-car
+here  pid:    0    tupleIndex:   13
+2830,telescope,leg

@@ -78,6 +78,7 @@ Query startQuery(Reln r, char *q)
     tupleVals(q,tuple_vals);
     ////////printf("arribute num: %d\n", nattrs(r));
     int i,a,b;
+    int star_num = 0;
     ChVecItem *cv = chvec(r);
     for (i = 0; i < nvals; i ++) {
         h[i] = hash_any((unsigned char *)tuple_vals[i], strlen(tuple_vals[i]));
@@ -95,13 +96,16 @@ Query startQuery(Reln r, char *q)
             //if ?, straingtly set in unknown
         else {
             unknown = setBit(unknown,i);
+            star_num++;
         }
     }
 //    //printf("unknow:\n");
 //    //printBits(unknown);
     //printf("depth:%d\n", depth(r));
     int nstars = countBits(getLower(unknown, depth(r)+1));
-    Bits* knowns = malloc(sizeof(Bits) * pow1(2,nvals+1));
+//    printf("nstars :%d\n",nstars);
+//    printf("nvals :%d\n",nvals);
+    Bits* knowns = malloc(sizeof(Bits) * pow1(2,nstars+10));
     assert(knowns != NULL);
     Bits known_lower = getLower(known, depth(r)+1);
     Bits unknown_lower = getLower(unknown, depth(r)+1);
